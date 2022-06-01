@@ -1,0 +1,135 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Introduction and key concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39034</md:content-id>
+  <md:title>Introduction and key concepts</md:title>
+  <md:abstract/>
+  <md:uuid>8a0726da-e6b5-46ba-a87e-489dd9227f69</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id183119">Now that we have studied the basics of longitudinal waves, we are ready to study sound waves in detail.</para>
+      <para id="id183123">Have you ever thought about how amazing your sense of hearing is? It is actually pretty remarkable. There are many types of sounds: a car horn, a laughing baby, a barking dog, and somehow your brain can sort it all out. Though it seems complicated, it is rather simple to understand once you learn a very simple fact. Sound is a wave. So you can use everything you know about waves to explain sound.</para>
+    </section>
+    <section id="cid3">
+      <title>Characteristics of a Sound Wave</title>
+      <para id="id183478">Since sound is a wave, we can relate the properties of sound to the properties of a wave. The basic properties of sound are: pitch, loudness and tone.</para>
+      <figure id="uid1" orient="vertical">
+        <subfigure id="id183504">
+          <media id="id183504_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C5_001.png" id="id183504_onlineimage" width="159"><!-- NOTE: attribute width changes image size online (pixels). original width is 159. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C5_001.eps" id="id183504_printimage"/>
+          </media>
+        </subfigure>
+        <subfigure id="id183512">
+          <media id="id183512_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C5_002.png" id="id183512_onlineimage" width="159"><!-- NOTE: attribute width changes image size online (pixels). original width is 159. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C5_002.eps" id="id183512_printimage"/>
+          </media>
+        </subfigure>
+        <subfigure id="id183520">
+          <media id="id183520_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C5_003.png" id="id183520_onlineimage" width="159"><!-- NOTE: attribute width changes image size online (pixels). original width is 159. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C5_003.eps" id="id183520_printimage"/>
+          </media>
+        </subfigure>
+        <caption>Pitch and loudness of sound. Sound B has a <emphasis effect="italics">lower</emphasis> pitch (lower frequency) than Sound A and is <emphasis effect="italics">softer</emphasis> (smaller amplitude) than Sound C.</caption>
+      </figure>
+      <section id="uid2">
+        <title>Pitch</title>
+        <para id="id183534">The frequency of a sound wave is what your ear understands as pitch. A higher frequency sound has a higher pitch, and a lower frequency sound has a lower pitch. In <link target-id="uid1"/> sound A has a higher pitch than sound B. For instance, the chirp of a bird would have a high pitch, but the roar of a lion would have a low pitch.</para>
+        <para id="id183546">The human ear can detect a wide range of frequencies. Frequencies from 20 to 20 000 Hz are audible to the human ear. Any sound with a frequency below 20 Hz is known as an <emphasis effect="bold">infrasound</emphasis> and any sound with a frequency above 20 000 Hz is known as an <emphasis effect="bold">ultrasound</emphasis>.</para>
+        <para id="id183561"><link target-id="uid3"/> lists the ranges of some common animals compared to humans.</para>
+        <table id="uid3" summary="">
+          <tgroup cols="3">
+            <tbody>
+              <row>
+                <entry/>
+                <entry>lower frequency (Hz)</entry>
+                <entry>upper frequency (Hz)</entry>
+              </row>
+              <row>
+                <entry>Humans</entry>
+                <entry>20</entry>
+                <entry>20 000</entry>
+              </row>
+              <row>
+                <entry>Dogs</entry>
+                <entry>50</entry>
+                <entry>45 000</entry>
+              </row>
+              <row>
+                <entry>Cats</entry>
+                <entry>45</entry>
+                <entry>85 000</entry>
+              </row>
+              <row>
+                <entry>Bats</entry>
+                <entry>20</entry>
+                <entry>120 000</entry>
+              </row>
+              <row>
+                <entry>Dolphins</entry>
+                <entry>0,25</entry>
+                <entry>200 000</entry>
+              </row>
+              <row>
+                <entry>Elephants</entry>
+                <entry>5</entry>
+                <entry>10 000</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>Range of frequencies</caption>
+        </table>
+<section id="secfhsst_id143"><title> Investigation : Range of Wavelengths </title>
+        <para id="id183776">Using the information given in <link target-id="uid3"/>, calculate the lower and upper wavelengths that each species can hear. Assume the speed of sound in air is 344 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. </para>
+</section>
+      </section>
+      <section id="uid4">
+        <title>Loudness</title>
+        <para id="id183826">The amplitude of a sound wave determines its loudness or volume. A larger amplitude means a louder sound, and a smaller amplitude means a softer sound. In <link target-id="uid1"/> sound C is louder than sound B. The vibration of a source sets the amplitude of a wave. It transmits energy into the medium through its vibration. More energetic vibration corresponds to larger amplitude. The molecules move back and forth more vigorously.</para>
+        <para id="id183839">The loudness of a sound is also determined by the sensitivity of the ear. The human ear is more sensitive to some frequencies than to others. The volume we receive thus depends on both the amplitude of a sound wave and whether its frequency lies in a region where the ear is more or less sensitive.</para>
+      </section>
+      <section id="uid5">
+        <title>Tone</title>
+        <para id="id183854">Tone is a measure of the quality of the sound wave. For example, the quality of the sound produced in a particular musical instruments depends on which
+harmonics are superposed and in which proportions. The harmonics are determined by the standing waves that are produced in the instrument. Chapter <link target-id=""/> will explain the physics of music in greater detail.</para>
+        <para id="id183865">The quality (timbre) of the sound heard depends on the pattern of the incoming vibrations, i.e. the <emphasis effect="italics">shape</emphasis> of the sound wave. The more irregular the vibrations, the more jagged is the shape of the sound wave and the harsher is the sound heard.</para>
+      </section>
+    </section>
+    <section id="cid4">
+      <title>Speed of Sound</title>
+      <para id="id183885">The speed of sound depends on the medium the sound is travelling in. Sound travels faster in solids than in liquids, and faster in liquids than in gases. This is because the density of solids is higher than that of liquids which means that the particles are closer together. Sound can be transmitted more easily.</para>
+      <para id="id183891">The speed of sound also depends on the temperature of the medium. The hotter the medium is, the faster its particles move and therefore the quicker the sound will travel through the medium. When we heat a substance, the particles in that substance have more kinetic energy and vibrate or move faster. Sound can therefore be transmitted more easily and quickly in hotter substances.</para>
+      <para id="id183897">Sound waves are pressure waves. The speed of sound will therefore be influenced by the pressure of the medium through which it is travelling. At sea level the air pressure is higher than high up on a mountain. Sound will travel faster at sea level where the air pressure is higher than it would at places high above sea level.</para>
+<definition id="fhsst_id164"><term id="termfhsst_id164"> Speed of sound </term> <meaning id="meaningfhsst_id164">
+      <para id="id183909">The speed of sound in air, at sea level, at a temperature of 21<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C and under normal atmospheric conditions, is 344 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. </para>
+      </meaning></definition>
+<section id="secfhsst_id167"><title> Sound frequency and amplitude </title>
+      <para id="id183964">Study the following diagram representing a musical note.
+Redraw the diagram for a note
+<list id="id183974" display="block" list-type="enumerated"><item id="uid6">with a higher pitch
+</item><item id="uid7">that is louder
+</item><item id="uid8">that is softer
+</item></list><figure id="id184017"><media id="id184017_media" alt=""><image mime-type="image/png" src="../../media/PG11C5_004.png" id="id184017_onlineimage" width="130"><!-- NOTE: attribute width changes image size online (pixels). original width is 130. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C5_004.eps" id="id184017_printimage"/></media></figure>
+
+
+ </para>
+</section>
+    </section>
+    <para id="eip-853"><figure id="sound-1" class="khanacademy">
+	  <title>Veritasium video on sound</title>
+	  <media id="yt-media1" display="block" alt="video on sound 1">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/1ZcOusmB4Ls?version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para>
+
+  </content>
+</document>

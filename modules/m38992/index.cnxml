@@ -1,0 +1,1065 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Torque and levers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38992</md:content-id>
+  <md:title>Torque and levers</md:title>
+  <md:abstract/>
+  <md:uuid>6e8f291a-1706-4a11-838a-4e88fb44886a</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid7">
+      <title>Torque and Levers</title>
+      <section id="uid437">
+        <title>Torque</title>
+        <para id="id93064">This chapter has dealt with forces and how they lead to motion in a straight line. In this section, we examine how forces lead to rotational motion.</para>
+        <para id="id93068">When an object is fixed or supported at one point and a force acts on it a distance away from the support, it tends to make the object turn. The moment of force or <emphasis effect="italics">torque</emphasis> (symbol, <m:math overflow="scroll"><m:mi>τ</m:mi></m:math> read <emphasis effect="italics">tau</emphasis>) is defined as the product of the distance from the support or pivot (<m:math overflow="scroll"><m:mi>r</m:mi></m:math>) and the component of force perpendicular to the object, <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mo>⊥</m:mo></m:msub></m:math>.</para>
+        <equation id="uid438">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>τ</m:mi>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>F</m:mi>
+                <m:mo>⊥</m:mo>
+              </m:msub>
+              <m:mo>·</m:mo>
+              <m:mi>r</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id93148">Torque can be seen as a rotational force. The unit of torque is N<m:math overflow="scroll"><m:mo>·</m:mo></m:math>m and torque is a vector quantity. Some examples of where torque arises are shown in Figures <link target-id="uid439"/>, <link target-id="uid440"/> and <link target-id="uid441"/>.</para>
+        <figure id="uid439">
+          <media id="uid439_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_075.png" id="uid439_onlineimage" width="202"><!-- NOTE: attribute width changes image size online (pixels). original width is 202. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_075.eps" id="uid439_printimage"/>
+          </media>
+          <caption>The force exerted on one side of a see-saw causes it to swing.</caption>
+        </figure>
+        <figure id="uid440">
+          <media id="uid440_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_076.png" id="uid440_onlineimage" width="257"><!-- NOTE: attribute width changes image size online (pixels). original width is 257. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_076.eps" id="uid440_printimage"/>
+          </media>
+          <caption>The force exerted on the edge of a propellor causes the propellor to spin.</caption>
+        </figure>
+        <figure id="uid441">
+          <media id="uid441_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_077.png" id="uid441_onlineimage" width="175"><!-- NOTE: attribute width changes image size online (pixels). original width is 175. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_077.eps" id="uid441_printimage"/>
+          </media>
+          <caption>The force exerted on a spanner helps to loosen the bolt.</caption>
+        </figure>
+        <para id="id93213">For example in <link target-id="uid441"/>, if a force <m:math overflow="scroll"><m:mi>F</m:mi></m:math> of 10 N is applied perpendicularly to the spanner at a distance <m:math overflow="scroll"><m:mi>r</m:mi></m:math> of 0,3 m from the center of the bolt, then the torque applied to the bolt is:</para>
+        <equation id="id93242">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>τ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mo>⊥</m:mo>
+                    </m:msub>
+                    <m:mo>·</m:mo>
+                    <m:mi>r</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>10</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id93352">If the force of 10 N is now applied at a distance of 0,15 m from the centre of the bolt, then the torque is:</para>
+        <equation id="id93359">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>τ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mo>⊥</m:mo>
+                    </m:msub>
+                    <m:mo>·</m:mo>
+                    <m:mi>r</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>10</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>15</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id93474">This shows that there is less torque when the force is applied closer to the bolt than further away.</para>
+<note id="notfhsst_id10116" type="tip">Loosening a bolt</note>
+        <para id="id93487">If you are trying to loosen (or tighten) a bolt, apply the force on the spanner further away from the bolt, as this results in a greater torque to the bolt making it easier to loosen.</para>
+<note id="notfhsst_id10118" type="tip">Any component of a force exerted parallel to an object will not cause the object to turn. Only perpendicular components cause turning.</note>
+<note id="notfhsst_id10119" type="tip">Torques</note>
+        <para id="id93504">The direction of a torque is either clockwise or anticlockwise. When torques are added, choose one direction as positive and the opposite direction as negative. If equal clockwise and anticlockwise torques are applied to an object, they will cancel out and there will be no net turning effect.</para>
+<exercise id="secfhsst_id10121"><title> Merry-go-round </title>
+        <problem id="probfhsst_id10122">
+        <para id="id93523">Several children are playing in the park. One child pushes the merry-go-round with a force of 50 N. The diameter of the merry-go-round is 3,0 m. What torque does the child apply if the force is applied perpendicularly at point A?</para>
+        <para id="id93532">
+          <figure id="id93536">
+            <media id="id93536_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_078.png" id="id93536_onlineimage" width="99"><!-- NOTE: attribute width changes image size online (pixels). original width is 99. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_078.eps" id="id93536_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+        </problem>
+        <solution id="solfhsst_id10134"> <list id="listfhsst_id10134" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify what has been given </label>
+        <para id="id93564">The following has been given:</para>
+        <list id="id93567" display="block" list-type="bulleted">
+          <item id="uid442">the force applied, <m:math overflow="scroll"><m:mi>F</m:mi></m:math> = 50 N
+</item>
+          <item id="uid443">the diameter of the merry-go-round, <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>r</m:mi></m:mrow></m:math> = 3 m, therefore <m:math overflow="scroll"><m:mi>r</m:mi></m:math> = 1,5 m.
+</item>
+        </list>
+        <para id="id93627">The quantities are in SI units.</para>
+        </item> <item> <label> Decide how to approach the problem </label>
+        <para id="id93634">We are required to determine the torque applied to the merry-go-round. We can do this by using:</para>
+        <equation id="id93638">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>τ</m:mi>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>F</m:mi>
+                <m:mo>⊥</m:mo>
+              </m:msub>
+              <m:mo>·</m:mo>
+              <m:mi>r</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id93664">We are given <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mo>⊥</m:mo></m:msub></m:math> and we are given the diameter of the merry-go-round. Therefore, <m:math overflow="scroll"><m:mi>r</m:mi></m:math> = 1,5 m.</para>
+        </item> <item> <label> Solve the problem </label>
+        <equation id="id93698">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>τ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mo>⊥</m:mo>
+                    </m:msub>
+                    <m:mo>·</m:mo>
+                    <m:mi>r</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>50</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>75</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the final answer </label>
+        <para id="id93808">75 <m:math overflow="scroll"><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math> of torque is applied to the merry-go-round.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id10228"><title> Flat tyre </title>
+        <problem id="probfhsst_id10229">
+        <para id="id93856">Kevin is helping his dad replace the flat tyre on the car. Kevin has been asked to undo all the wheel nuts. Kevin holds the spanner at the same distance for all nuts, but applies the force at two angles (90<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> and 60<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>). If Kevin applies a force of 60 N, at a distance of 0,3 m away from the nut, which angle is the best to use?
+Prove your answer by means of calculations.</para>
+        <para id="id93893">
+          <figure id="id93896">
+            <media id="id93896_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_079.png" id="id93896_onlineimage" width="374"><!-- NOTE: attribute width changes image size online (pixels). original width is 374. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_079.eps" id="id93896_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+        </problem>
+        <solution id="solfhsst_id10242"> <list id="listfhsst_id10242" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify what has been given </label>
+        <para id="id93924">The following has been given:</para>
+        <list id="id93927" display="block" list-type="bulleted">
+          <item id="uid444">the force applied, <m:math overflow="scroll"><m:mi>F</m:mi></m:math> = 60 N
+</item>
+          <item id="uid445">the angles at which the force is applied, <m:math overflow="scroll"><m:mrow><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item>
+          <item id="uid446">the distance from the centre of the nut at which the force is applied, <m:math overflow="scroll"><m:mi>r</m:mi></m:math> = 0,3 m
+</item>
+        </list>
+        <para id="id94026">The quantities are in SI units.</para>
+        </item> <item> <label> Decide how to approach the problem </label>
+        <para id="id94036">We are required to determine which angle is more better to use. This means that we must find which angle gives the higher torque. We can use</para>
+        <equation id="id94040">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>τ</m:mi>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>F</m:mi>
+                <m:mo>⊥</m:mo>
+              </m:msub>
+              <m:mo>·</m:mo>
+              <m:mi>r</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id94066">to determine the torque. We are given <m:math overflow="scroll"><m:mi>F</m:mi></m:math> for each situation. <m:math overflow="scroll"><m:mrow><m:msub><m:mi>F</m:mi><m:mo>⊥</m:mo></m:msub><m:mo>=</m:mo><m:mi>F</m:mi><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math> and we are given <m:math overflow="scroll"><m:mi>θ</m:mi></m:math>. We are also given the distance away from the nut, at which the force is applied.</para>
+        </item> <item> <label> Solve the problem for <m:math overflow="scroll"><m:mrow><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> </label>
+        <para id="id94143">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msub>
+                <m:mi>F</m:mi>
+                <m:mo>⊥</m:mo>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mi>F</m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <equation id="id94164">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>τ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mo>⊥</m:mo>
+                    </m:msub>
+                    <m:mo>·</m:mo>
+                    <m:mi>r</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>60</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>18</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Solve the problem for <m:math overflow="scroll"><m:mrow><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> </label>
+        <equation id="id94295">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>τ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mo>⊥</m:mo>
+                    </m:msub>
+                    <m:mo>·</m:mo>
+                    <m:mi>r</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>F</m:mi>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>r</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>60</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mi>θ</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>15</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>6</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the final answer </label>
+        <para id="id94444">The torque from the perpendicular force is greater than the torque from the force applied at <m:math overflow="scroll"><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup></m:math>. Therefore, the best angle is <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math>. </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid447">
+        <title>Mechanical Advantage and Levers</title>
+        <para id="id94499">We can use our knowlegde about the moments of forces (torque) to determine whether situations are balanced. For example two mass pieces are placed on a seesaw as shown in <link target-id="uid448"/>. The one mass is 3 kg and the other is 6 kg. The masses are placed at distances of 2 m and 1 m (respectively) from the pivot. By looking at the clockwise and anti-clockwise moments, we can determine whether the seesaw will pivot (move) or not. If the sum of the clockwise and anti-clockwise moments is zero, the seesaw is in equilibrium (i.e. balanced).</para>
+        <figure id="uid448">
+          <media id="uid448_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_080.png" id="uid448_onlineimage" width="200"><!-- NOTE: attribute width changes image size online (pixels). original width is 200. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_080.eps" id="uid448_printimage"/>
+          </media>
+          <caption>The moments of force are balanced.</caption>
+        </figure>
+        <para id="id94525">The clockwise moment can be calculated as follows:</para>
+        <equation id="id94529">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>τ</m:mi>
+                    <m:mn>1</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mo>⊥</m:mo>
+                    </m:msub>
+                    <m:mo>·</m:mo>
+                    <m:mi>r</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>τ</m:mi>
+                    <m:mn>1</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>6</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mi>m</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>τ</m:mi>
+                    <m:mn>1</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>58</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mi>N</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>m</m:mi>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi> clockwise </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id94689">The anti-clockwise moment can be calculated as follows:</para>
+        <equation id="id94693">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>τ</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mo>⊥</m:mo>
+                    </m:msub>
+                    <m:mo>·</m:mo>
+                    <m:mi>r</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>τ</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mi>m</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>τ</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>58</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mi>N</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>m</m:mi>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mrow>
+                      <m:mi> anti </m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mi> clockwise </m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id94858">The sum of the moments of force will be zero:</para>
+        <para id="id94862">The resultant moment is zero as the clockwise and anti-clockwise moments of force are in opposite directions and therefore cancel each other.</para>
+        <para id="id94867">As we see in <link target-id="uid448"/>, we can use different distances away from a pivot to balance two different forces. This principle is applied to a lever to make lifting a heavy object much easier.</para>
+<definition id="fhsst_id10641"><term id="termfhsst_id10641"> Lever </term> <meaning id="meaningfhsst_id10641">
+        <para id="id94885">A lever is a rigid object that is used with an appropriate fulcrum or pivot point to multiply the mechanical force that can be applied to another object. </para>
+        </meaning></definition>
+        <figure id="uid449">
+          <media id="uid449_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_081.png" id="uid449_onlineimage" width="212"><!-- NOTE: attribute width changes image size online (pixels). original width is 212. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_081.eps" id="uid449_printimage"/>
+          </media>
+          <caption>A lever is used to put in a small effort to get out a large load.</caption>
+        </figure>
+<note id="notfhsst_id10651"><title> Interesting Fact </title>
+        <para id="id94916">Archimedes reputedly said: <emphasis effect="italics">Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.</emphasis></para>
+</note>
+        <para id="id94933">The concept of getting out more than the effort is termed mechanical advantage, and is one example of the principle of moments. The lever allows one to apply a smaller force over a greater distance. For instance to lift a certain unit of weight with a lever with an effort of half a unit we need a distance from the fulcrum in the effort's side to be twice the distance of the weight's side. It also means that to lift the weight 1 meter we need to push the lever for 2 meters. The amount of work done is always the same and independent of the dimensions of the lever (in an ideal lever). The lever only allows to trade force for distance.</para>
+        <para id="id94942">Ideally, this means that the mechanical advantage of a system is the ratio of the force that performs the work (output or load) to the applied force (input or effort), assuming there is no friction in the system. In reality, the mechanical advantage will be less than the ideal value by an amount determined by the amount of friction.</para>
+        <equation id="id94948">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi> mechanical </m:mi>
+              <m:mspace width="3.33333pt"/>
+              <m:mi> advantage </m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi> load </m:mi>
+                <m:mi> effort </m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id94975">For example, you want to raise an object of mass 100 kg. If the pivot is placed as shown in <link target-id="uid450"/>, what is the mechanical advantage of the lever?</para>
+        <figure id="uid450">
+          <media id="uid450_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_082.png" id="uid450_onlineimage" width="241"><!-- NOTE: attribute width changes image size online (pixels). original width is 241. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_082.eps" id="uid450_printimage"/>
+          </media>
+          <caption>A lever is used to put in a small effort to get out a large load.</caption>
+        </figure>
+        <para id="id94997">In order to calculate mechanical advantage, we need to determine the load and effort.</para>
+<note id="notfhsst_id10679" type="tip">Effort is the input force and load is the output force.</note>
+        <para id="id95008">The load is easy to calculate, it is simply the weight of the 100 kg object.</para>
+        <equation id="id95012">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>F</m:mi>
+                <m:mrow>
+                  <m:mi>l</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>d</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mi>m</m:mi>
+              <m:mo>·</m:mo>
+              <m:mi>g</m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>100</m:mn>
+              <m:mspace width="0.166667em"/>
+              <m:mi> kg </m:mi>
+              <m:mo>·</m:mo>
+              <m:mn>9</m:mn>
+              <m:mo>,</m:mo>
+              <m:mn>8</m:mn>
+              <m:mspace width="0.166667em"/>
+              <m:mi mathvariant="normal">m</m:mi>
+              <m:mo>·</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">s</m:mi>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+              </m:msup>
+              <m:mo>=</m:mo>
+              <m:mn>980</m:mn>
+              <m:mspace width="0.166667em"/>
+              <m:mi mathvariant="normal">N</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id95100">The effort is found by balancing torques.</para>
+        <equation id="id95103">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mrow>
+                        <m:mi>l</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>a</m:mi>
+                        <m:mi>d</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>·</m:mo>
+                    <m:msub>
+                      <m:mi>r</m:mi>
+                      <m:mrow>
+                        <m:mi>l</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>a</m:mi>
+                        <m:mi>d</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mrow>
+                        <m:mi>e</m:mi>
+                        <m:mi>f</m:mi>
+                        <m:mi>f</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>·</m:mo>
+                    <m:msub>
+                      <m:mi>r</m:mi>
+                      <m:mrow>
+                        <m:mi>e</m:mi>
+                        <m:mi>f</m:mi>
+                        <m:mi>f</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>980</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mrow>
+                        <m:mi>e</m:mi>
+                        <m:mi>f</m:mi>
+                        <m:mi>f</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>·</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>F</m:mi>
+                    <m:mrow>
+                      <m:mi>e</m:mi>
+                      <m:mi>f</m:mi>
+                      <m:mi>f</m:mi>
+                      <m:mi>o</m:mi>
+                      <m:mi>r</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>980</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>490</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id95363">The mechanical advantage is:</para>
+        <equation id="id95366">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> mechanical </m:mi>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi> advantage </m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi> load </m:mi>
+                    <m:mi> effort </m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>980</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>490</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>2</m:mn>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id95449">Since mechanical advantage is a ratio, it does not have any units.</para>
+<section id="secfhsst_id10927"><title> Pulleys </title>
+        <para id="id95459">Pulleys change the direction of a tension force on a flexible material, e.g. a rope or cable. In addition, pulleys can be “added together” to create mechanical advantage, by having the flexible material looped over several pulleys in turn. More loops and pulleys increases the mechanical advantage. </para>
+</section>
+      </section>
+      <section id="uid451">
+        <title>Classes of levers</title>
+        <para id="id95485">
+          <emphasis effect="bold">Class 1 levers</emphasis>
+        </para>
+        <para id="id95492">In a class 1 lever the fulcrum is between the effort and the load. Examples of class 1 levers are the seesaw, crowbar and equal-arm balance. The mechanical advantage of a class 1 lever can be increased by moving the fulcrum closer to the load.</para>
+        <figure id="uid452">
+          <media id="uid452_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_083.png" id="uid452_onlineimage" width="195"><!-- NOTE: attribute width changes image size online (pixels). original width is 195. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_083.eps" id="uid452_printimage"/>
+          </media>
+          <caption>Class 1 levers</caption>
+        </figure>
+        <para id="id95512">
+          <emphasis effect="bold">Class 2 levers</emphasis>
+        </para>
+        <para id="id95518">In class 2 levers the fulcrum is at the one end of the bar, with the load closer to the fulcrum and the effort on the other end of bar. The mechanical advantage of this type of lever can be increased by increasing the length of the bar. A bottle opener or wheel barrow are examples of class 2 levers.</para>
+        <figure id="uid453">
+          <media id="uid453_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_084.png" id="uid453_onlineimage" width="210"><!-- NOTE: attribute width changes image size online (pixels). original width is 210. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_084.eps" id="uid453_printimage"/>
+          </media>
+          <caption>Class 2 levers</caption>
+        </figure>
+        <para id="id95539">
+          <emphasis effect="bold">Class 3 levers</emphasis>
+        </para>
+        <para id="id95545">In class 3 levers the fulcrum is also at the end of the bar, but the effort is between the fulcrum and the load. An example of this type of lever is the human arm.</para>
+        <figure id="uid454">
+          <media id="uid454_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_085.png" id="uid454_onlineimage" width="210"><!-- NOTE: attribute width changes image size online (pixels). original width is 210. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_085.eps" id="uid454_printimage"/>
+          </media>
+          <caption>Class 3 levers</caption>
+        </figure>
+      </section>
+      <section id="uid455">
+        <title>Exercise</title>
+        <list id="id95574" display="block" list-type="enumerated">
+          <item id="uid456">Riyaad applies a force of 120 N on a spanner to undo a nut.
+<list id="id95590" display="block" list-type="enumerated"><item id="uid457">Calculate the moment of the force if he applies the force 0,15 m from the bolt.
+</item><item id="uid458">The nut does not turn, so Riyaad moves his hand to the end of the spanner and applies the same force 0,2 m away from the bolt. Now the nut begins to move. Calculate the force. Is it bigger or smaller than before?
+</item><item id="uid459">Once the nuts starts to turn, the moment needed to turn it is less than it was to start it turning. It is now 20 N<m:math overflow="scroll"><m:mo>·</m:mo></m:math>m. Calculate the new moment of force that Riyaad now needs to apply 0,2 m away from the nut.
+</item></list></item>
+          <item id="uid460">Calculate the clockwise and anticlockwise moments of force in the figure below to see if the see-saw is balanced.
+<figure id="uid461"><media id="uid461_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_086.png" id="uid461_onlineimage" width="201"><!-- NOTE: attribute width changes image size online (pixels). original width is 201. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_086.eps" id="uid461_printimage"/></media></figure></item>
+          <item id="uid462">Jeffrey uses a force of 390 N to lift a load of 130 kg.
+<figure id="uid463"><media id="uid463_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_087.png" id="uid463_onlineimage" width="207"><!-- NOTE: attribute width changes image size online (pixels). original width is 207. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_087.eps" id="uid463_printimage"/></media></figure><list id="id95686" display="block" list-type="enumerated"><item id="uid464">Calculate the mechanical advantage of the lever that he is using.
+</item><item id="uid465">What type of lever is he using? Give a reason for your answer.
+</item><item id="uid466">If the force is applied 1 m from the pivot, calculate the maximum distance between the pivot and the load.
+</item></list></item>
+          <item id="uid467">A crowbar is used to lift a box of weight 400 N. The box is placed 75 cm from the pivot. A crow bar is a class 1 lever.
+<list id="id95742" display="block" list-type="enumerated"><item id="uid468">Why is a crowbar a class 1 lever? Draw a diagram to explain your answer.
+</item><item id="uid469">What force F needs to be applied at a distance of 1,25 m from the pivot to balance the crowbar?
+</item><item id="uid470">If force F was applied at a distance of 2 m, what would the magnitude of F be?
+</item></list></item>
+          <item id="uid471">A wheelbarrow is used to carry a load of 200 N. The load is 40 cm from the pivot and the force F is applied at a distance of 1,2 m from the pivot.
+<list id="id95797" display="block" list-type="enumerated"><item id="uid472">What type of lever is a wheelbarrow?
+</item><item id="uid473">Calculate the force F that needs to be applied to lift the load.
+</item></list></item>
+          <item id="uid474">The bolts holding a car wheel in place is tightened to a torque of 90 N <m:math overflow="scroll"><m:mo>·</m:mo></m:math> m. The mechanic has two spanners to undo the bolts, one with a length of 20 cm and one with a length of 30 cm. Which spanner should he use? Give a reason for your answer by showing calculations and explaining them.
+</item>
+        </list>
+      </section>
+    </section>
+    
+
+  </content>
+</document>

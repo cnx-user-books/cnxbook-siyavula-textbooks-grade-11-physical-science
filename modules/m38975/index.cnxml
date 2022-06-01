@@ -1,0 +1,404 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Forces in equilibrium</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38975</md:content-id>
+  <md:title>Forces in equilibrium</md:title>
+  <md:abstract/>
+  <md:uuid>116b025d-a843-4014-a493-b45d5a20cfa5</md:uuid>
+</metadata>
+
+<content>
+      <section id="uid238">
+        <title>Forces in equilibrium</title>
+        <para id="id75698">At the beginning of this chapter it was mentioned that resultant forces cause objects to accelerate in a straight line. If an object is stationary or moving at constant velocity then either,</para>
+        <list id="id75703" display="block" list-type="bulleted">
+          <item id="uid239">no forces are acting on the object, or
+</item>
+          <item id="uid240">the forces acting on that object are exactly balanced.
+</item>
+        </list>
+        <para id="id75732">In other words, for stationary objects or objects moving with constant velocity, the resultant force acting on the object is zero. Additionally, if there is a perpendicular moment of force, then the object will rotate. You will learn more about moments of force later in this chapter.</para>
+        <para id="id75738">Therefore, in order for an object not to move or to be in <emphasis effect="italics">equilibrium</emphasis>, the sum of the forces (resultant force) must be zero and the sum of the moments of force must be zero.</para>
+<definition id="fhsst_id4253"><term id="termfhsst_id4253"> Equilibrium </term> <meaning id="meaningfhsst_id4253">
+        <para id="id75755">An object in equilibrium has both the sum of the forces acting on it and the sum of the moments of the forces equal to zero. </para>
+        </meaning></definition>
+        <para id="id75767">If a resultant force acts on an object then that object can be brought into equilibrium by applying an additional force that exactly balances this resultant. Such a force is called the <emphasis effect="italics">equilibrant</emphasis> and is equal in magnitude but opposite in direction to the original resultant force acting on the object.</para>
+<definition id="fhsst_id4257"><term id="termfhsst_id4257"> Equilibrant </term> <meaning id="meaningfhsst_id4257">
+        <para id="id75785">The equilibrant of any number of forces is the single force required to produce equilibrium, and is equal in magnitude but opposite in direction to the resultant force. </para>
+        </meaning></definition>
+        <para id="id75798">
+          <figure id="id75801">
+            <media id="id75801_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_054.png" id="id75801_onlineimage" width="224"><!-- NOTE: attribute width changes image size online (pixels). original width is 224. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_054.eps" id="id75801_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id75808">In the figure the resultant of <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math> is shown. The equilibrant of <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math> is then the vector opposite in direction to this resultant with the same magnitude (i.e. <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>3</m:mn></m:msub></m:math>).</para>
+        <list id="id75884" display="block" list-type="bulleted">
+          <item id="uid241"><m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>3</m:mn></m:msub></m:math> are in equilibrium
+</item>
+          <item id="uid242"><m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>3</m:mn></m:msub></m:math> is the equilibrant of <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> and
+<m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math></item>
+          <item id="uid243"><m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> and
+<m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math> are kept in equilibrium by <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>3</m:mn></m:msub></m:math></item>
+        </list>
+        <para id="id76047">As an example of an object in equilibrium, consider an object held stationary by two ropes in the arrangement below:</para>
+        <para id="id76052">
+          <figure id="id76055">
+            <media id="id76055_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_055.png" id="id76055_onlineimage" width="196"><!-- NOTE: attribute width changes image size online (pixels). original width is 196. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_055.eps" id="id76055_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id76061">Let us draw a free body diagram for the object. In the free body diagram the
+object is drawn as a dot and all forces acting on the object are drawn in the correct directions starting from that dot. In this case, three forces are acting on the object.</para>
+        <para id="id76066">
+          <figure id="id76070">
+            <media id="id76070_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_056.png" id="id76070_onlineimage" width="110"><!-- NOTE: attribute width changes image size online (pixels). original width is 110. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_056.eps" id="id76070_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id76076">Each rope exerts a force on the object in the direction of the rope away from the object. These tension forces are represented by <m:math overflow="scroll"><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>T</m:mi><m:mn>2</m:mn></m:msub></m:math>. Since the object has mass, it is attracted towards the centre of the Earth. This weight is represented in the force diagram as <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mi>g</m:mi></m:msub></m:math>.</para>
+        <para id="id76124">Since the object is stationary, the resultant force acting on the object is zero. In other words the three force vectors drawn tail-to-head form a closed triangle:</para>
+        <para id="id76129">
+          <figure id="id76132">
+            <media id="id76132_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_057.png" id="id76132_onlineimage" width="110"><!-- NOTE: attribute width changes image size online (pixels). original width is 110. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_057.eps" id="id76132_printimage"/>
+            </media>
+          </figure>
+        </para>
+<exercise id="secfhsst_id4306"><title> Equilibrium </title>
+        <problem id="probfhsst_id4307">
+        <para id="id76151">A car engine of weight 2000 N is lifted by
+means of a chain and pulley system. The engine is initially suspended by the chain, hanging stationary. Then, the engine is pulled sideways by a mechanic, using a rope. The engine is held in such a position that the chain makes an angle of <m:math overflow="scroll"><m:msup><m:mn>30</m:mn><m:mo>∘</m:mo></m:msup></m:math> with the vertical. In the questions that
+follow, the masses of the chain and the rope can be ignored.</para>
+        <para id="id76178">
+          <figure id="id76181">
+            <media id="id76181_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_058.png" id="id76181_onlineimage" width="584"><!-- NOTE: attribute width changes image size online (pixels). original width is 584. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_058.eps" id="id76181_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <list id="id76187" display="block" list-type="enumerated">
+          <item id="uid244">Draw a free body representing the forces acting on the engine
+in the initial situation.
+</item>
+          <item id="uid245">Determine the tension in the chain initially.
+</item>
+          <item id="uid246">Draw a free body diagram representing the forces acting on the engine
+in the final situation.
+</item>
+          <item id="uid247">Determine the magnitude of the applied force and the tension in the chain in the final situations.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id4333"> <list id="listfhsst_id4333" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Initial free body diagram for the engine </label>
+        <para id="id76263">There are only two forces acting on the engine initially: the tension in the chain, <m:math overflow="scroll"><m:msub><m:mi>T</m:mi><m:mrow><m:mi>c</m:mi><m:mi>h</m:mi><m:mi>a</m:mi><m:mi>i</m:mi><m:mi>n</m:mi></m:mrow></m:msub></m:math> and the weight of the engine, <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mi>g</m:mi></m:msub></m:math>.</para>
+        <para id="id76306">
+          <figure id="id76309">
+            <media id="id76309_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_059.png" id="id76309_onlineimage" width="34"><!-- NOTE: attribute width changes image size online (pixels). original width is 34. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_059.eps" id="id76309_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Determine the tension in the chain </label>
+        <para id="id76320">The engine is initially stationary, which means that the resultant force on
+the engine is zero. There are also no moments of force. Thus the tension in the chain exactly balances the weight of the engine. The tension in the chain is:</para>
+        <equation id="id76325">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>T</m:mi>
+                    <m:mrow>
+                      <m:mi>c</m:mi>
+                      <m:mi>h</m:mi>
+                      <m:mi>a</m:mi>
+                      <m:mi>i</m:mi>
+                      <m:mi>n</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>F</m:mi>
+                    <m:mi>g</m:mi>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2000</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Final free body diagram for the engine </label>
+        <para id="id76396">There are three forces acting on the engine finally: The tension in the chain, the applied force and the weight of the engine.</para>
+        <para id="id76400">
+          <figure id="id76404">
+            <media id="id76404_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_060.png" id="id76404_onlineimage" width="86"><!-- NOTE: attribute width changes image size online (pixels). original width is 86. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_060.eps" id="id76404_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Calculate the magnitude of the applied force and the tension in the chain in the final situation </label>
+        <para id="id76415">Since no method was specified let us calculate the magnitudes algebraically. Since the triangle formed by the three forces is a right-angle triangle this is easily done:</para>
+        <equation id="id76420">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mrow>
+                        <m:mi>a</m:mi>
+                        <m:mi>p</m:mi>
+                        <m:mi>p</m:mi>
+                        <m:mi>l</m:mi>
+                        <m:mi>i</m:mi>
+                        <m:mi>e</m:mi>
+                        <m:mi>d</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>g</m:mi>
+                    </m:msub>
+                  </m:mfrac>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo form="prefix">tan</m:mo>
+                    <m:msup>
+                      <m:mn>30</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>F</m:mi>
+                    <m:mrow>
+                      <m:mi>a</m:mi>
+                      <m:mi>p</m:mi>
+                      <m:mi>p</m:mi>
+                      <m:mi>l</m:mi>
+                      <m:mi>i</m:mi>
+                      <m:mi>e</m:mi>
+                      <m:mi>d</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>2000</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo form="prefix">tan</m:mo>
+                    <m:msup>
+                      <m:mn>30</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mn>155</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id76574">and</para>
+        <equation id="id76579">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>T</m:mi>
+                      <m:mrow>
+                        <m:mi>c</m:mi>
+                        <m:mi>h</m:mi>
+                        <m:mi>a</m:mi>
+                        <m:mi>i</m:mi>
+                        <m:mi>n</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>g</m:mi>
+                    </m:msub>
+                  </m:mfrac>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mrow>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:msup>
+                        <m:mn>30</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>T</m:mi>
+                    <m:mrow>
+                      <m:mi>c</m:mi>
+                      <m:mi>h</m:mi>
+                      <m:mi>a</m:mi>
+                      <m:mi>i</m:mi>
+                      <m:mi>n</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>2000</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:msup>
+                        <m:mn>30</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mn>309</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+      
+      <section id="uid248">
+        <title>Exercise</title>
+        <list id="id76753" display="block" list-type="enumerated">
+          <item id="uid249">The diagram shows an object of weight W, attached to a string. A horizontal force F is applied to the object so that the string makes an angle of <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> with the vertical when the object is at rest. The force exerted by the string is T. Which one of the following expressions is incorrect?
+<figure id="uid250"><media id="uid250_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_061.png" id="uid250_onlineimage" width="120"><!-- NOTE: attribute width changes image size online (pixels). original width is 120. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_061.eps" id="uid250_printimage"/></media></figure><list id="id76789" display="block" list-type="enumerated"><item id="uid251"><label>A</label>F + T + W = 0
+</item><item id="uid252"><label>B</label>W = T cos <m:math overflow="scroll"><m:mi>θ</m:mi></m:math></item><item id="uid253"><label>C</label>tan <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> = <m:math overflow="scroll"><m:mfrac><m:mi>F</m:mi><m:mi>W</m:mi></m:mfrac></m:math></item><item id="uid254"><label>D</label>W = T sin <m:math overflow="scroll"><m:mi>θ</m:mi></m:math></item></list></item>
+          <item id="uid255">The point Q is in equilibrium due to three forces <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>3</m:mn></m:msub></m:math> acting on it. Which of the statements about these forces is INCORRECT?
+<list id="id76942" display="block" list-type="enumerated"><item id="uid256"><label>A</label>The sum of the forces <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>3</m:mn></m:msub></m:math> is zero.
+</item><item id="uid257"><label>B</label>The three forces all lie in the same plane.
+</item><item id="uid258"><label>C</label>The resultant force of <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>3</m:mn></m:msub></m:math> is <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math>.
+</item><item id="uid259"><label>D</label>The sum of the components of the forces in any direction is zero.
+</item></list><figure id="id77091"><media id="id77091_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_062.png" id="id77091_onlineimage" width="132"><!-- NOTE: attribute width changes image size online (pixels). original width is 132. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_062.eps" id="id77091_printimage"/></media></figure></item>
+          <item id="uid260">A point is acted on by two forces in equilibrium. The forces
+<list id="id77110" display="block" list-type="enumerated"><item id="uid261"><label>A</label>have equal magnitudes and directions.
+</item><item id="uid262"><label>B</label>have equal magnitudes but opposite directions.
+</item><item id="uid263"><label>C</label>act perpendicular to each other.
+</item><item id="uid264"><label>D</label>act in the same direction.
+</item></list></item>
+          <item id="uid265">A point in equilibrium is acted on by three forces. Force <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> has components 15 N due south and 13 N due west. What are the components of force <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math>?
+<figure id="id77217"><media id="id77217_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_063.png" id="id77217_onlineimage" width="112"><!-- NOTE: attribute width changes image size online (pixels). original width is 112. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_063.eps" id="id77217_printimage"/></media></figure><list id="id77223" display="block" list-type="enumerated"><item id="uid266"><label>A</label>13 N due north and 20 due west
+</item><item id="uid267"><label>B</label>13 N due north and 13 N due west
+</item><item id="uid268"><label>C</label>15 N due north and 7 N due west
+</item><item id="uid269"><label>D</label>15 N due north and 13 N due east
+</item></list></item>
+          <item id="uid270">
+            <list id="id77293" display="block" list-type="enumerated">
+              <item id="uid271">Define the term 'equilibrant'.
+</item>
+              <item id="uid272">Two tugs, one with a pull of 2500 N and the other with a pull of 3 000 N are used to tow an oil drilling platform. The angle between the two cables is 30 <m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. Determine, either by scale diagram or by calculation (a clearly labelled rough sketch must be given), the equilibrant of the two forces.
+</item>
+            </list>
+          </item>
+          <item id="uid273">A 10 kg block is held motionless by a force F on a frictionless plane, which is inclined at an angle of 50<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the horizontal, as shown below:
+<figure id="uid274"><media id="uid274_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_064.png" id="uid274_onlineimage" width="129"><!-- NOTE: attribute width changes image size online (pixels). original width is 129. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_064.eps" id="uid274_printimage"/></media></figure><list id="id77374" display="block" list-type="enumerated"><item id="uid275">Draw a force diagram (not a triangle) indicating all the forces acting on the block.
+</item><item id="uid276">Calculate the magnitude of force F. Include a labelled diagram showing a triangle of forces in your answer.
+</item></list></item>
+          <item id="uid277">A rope of negligible mass is strung between two vertical struts. A mass M of weight W hangs from the rope through a hook fixed at point Y
+<list id="id77416" display="block" list-type="enumerated"><item id="uid278">Draw a vector diagram, plotted head to tail, of the forces acting at point Y. Label each force and show the size of each angle.
+</item><item id="uid279">Where will the tension be greatest? Part P or Q? Motivate your answer.
+</item><item id="uid280">When the tension in the rope is greater than 600N it will break. What is the maximum mass that the above set up can support?
+</item></list><figure id="id77463"><media id="id77463_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_065.png" id="id77463_onlineimage" width="115"><!-- NOTE: attribute width changes image size online (pixels). original width is 115. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_065.eps" id="id77463_printimage"/></media></figure></item>
+          <item id="uid281">An object of weight <m:math overflow="scroll"><m:mi>w</m:mi></m:math> is supported by two cables attached to the ceiling and wall as shown. The tensions in the two cables are <m:math overflow="scroll"><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>T</m:mi><m:mn>2</m:mn></m:msub></m:math> respectively. Tension <m:math overflow="scroll"><m:mrow><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>1200</m:mn></m:mrow></m:math> N. Determine the tension <m:math overflow="scroll"><m:msub><m:mi>T</m:mi><m:mn>2</m:mn></m:msub></m:math> and weight <m:math overflow="scroll"><m:mi>w</m:mi></m:math> of the object by accurate construction and measurement or calculation.
+<figure id="id77567"><media id="id77567_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_066.png" id="id77567_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_066.eps" id="id77567_printimage"/></media></figure></item>
+          <item id="uid282">A rope is tied at two points which are 70 cm apart from each other, on the same horizontal line. The total length of rope is 1 m, and the maximum tension it can withstand is 1000 N. Find the largest mass (m), in kg, that can be carried at the midpoint of the rope, without breaking the rope. Include a labelled diagram showing the triangle of forces in your answer.
+<figure id="uid283"><media id="uid283_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_067.png" id="uid283_onlineimage" width="228"><!-- NOTE: attribute width changes image size online (pixels). original width is 228. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_067.eps" id="uid283_printimage"/></media></figure></item>
+        </list>
+      </section>
+    </section>
+
+     </content>
+</document>

@@ -1,0 +1,69 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Physics in action</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38989</md:content-id>
+  <md:title>Physics in action</md:title>
+  <md:abstract/>
+  <md:uuid>6e7f1e96-a13d-4c71-9109-8e3d0be659db</md:uuid>
+</metadata>
+
+<content>
+      <section id="uid418">
+        <title>Physics in Action: Impulse</title>
+        <para id="id92543">A very important application of impulse is improving safety and reducing injuries. In many cases, an object needs to be brought to rest from a certain initial velocity. This means there is a certain specified change in momentum. If the time during which the momentum changes can be increased then the force that must be applied will be less and so it will cause less damage. This is the principle behind arrestor beds for trucks, airbags, and bending your knees when you jump off a chair and land on the ground.</para>
+        <section id="uid419">
+          <title>Air-Bags in Motor Vehicles</title>
+          <para id="id92560">Air bags are used in motor vehicles because they are able to reduce the effect of the force experienced by a person during an accident. Air bags extend the time required to stop the momentum of the driver and passenger. During a collision, the motion of the driver and passenger carries them towards the windshield. If they are stopped by a collision with the windshield, it would result in a large force exerted over a short time in order to bring them to a stop. If instead of hitting the windshield, the driver and passenger hit an air bag, then the time of the impact is increased. Increasing the time of the impact results in a decrease in the force.</para>
+        </section>
+        <section id="uid420">
+          <title>Padding as Protection During Sports</title>
+          <para id="id92579">The same principle explains why wicket keepers in cricket use padded gloves or why there are padded mats in gymnastics. In cricket, when the wicket keeper catches the ball, the padding is slightly compressible, thus reducing the effect of the force on the wicket keepers hands. Similarly, if a gymnast falls, the padding compresses and reduces the effect of the force on the gymnast's body.</para>
+        </section>
+        <section id="uid421">
+          <title>Arrestor Beds for Trucks</title>
+          <para id="id92596">An arrestor bed is a patch of ground that is softer than the road. Trucks use these when they have to make an emergency stop. When a trucks reaches an arrestor bed the time interval over which the momentum is changed is increased. This decreases the force and causes the truck to slow down.</para>
+        </section>
+        <section id="uid422">
+          <title>Follow-Through in Sports</title>
+          <para id="id92612">In sports where rackets and bats are used, like tennis, cricket, squash, badminton and baseball, the hitter is often encouraged to follow-through when striking the ball. High speed films of the collisions between bats/rackets and balls have shown that following through increases the time over which the collision between the racket/bat and ball occurs. This increase in the time of the collision causes an increase in the velocity change of the ball. This means that a hitter can cause the ball to leave the racket/bat faster by following through. In these sports, returning the ball with a higher velocity often increases the chances of success.</para>
+        </section>
+        <section id="uid423">
+          <title>Crumple Zones in Cars</title>
+          <para id="id92630">Another safety application of trying to reduce the force experienced is in crumple zones in cars. When two cars have a collision, two things can happen:</para>
+          <list id="id92635" display="block" list-type="enumerated">
+            <item id="uid424">the cars bounce off each other, or
+</item>
+            <item id="uid425">the cars crumple together.
+</item>
+          </list>
+          <para id="id92664">Which situation is more dangerous for the occupants of the cars? When cars bounce off each other, or rebound, there is a larger change in momentum and therefore a larger impulse. A larger impulse means that a greater force is experienced by the occupants of the cars. When cars crumple together, there is a smaller change in momentum and therefore a smaller impulse. The smaller impulse means that the occupants of the cars experience a smaller force. Car manufacturers use this idea and design crumple zones into cars, such that the car has a greater chance of crumpling than rebounding in a collision. Also, when the car crumples, the change in the car's momentum happens over a longer time. Both these effects result in a smaller force on the occupants of the car, thereby increasing their chances of survival.</para>
+<section id="secfhsst_id9919"><title> Egg Throw </title> <para id="uid9723"> This activity demonstrates the effect of impulse and how it is used to improve safety. Have two learners hold up a bed sheet or large piece of fabric. Then toss an egg at the sheet. The egg should not break, because the collision between the egg and the bed sheet lasts over an extended period of time since the bed sheet has some give in it. By increasing the time of the collision, the force of the impact is minimized. Take care to aim at the sheet, because if you miss the sheet, you will definitely break the egg and have to clean up the mess! </para>
+          
+</section>
+        </section>
+      </section>
+
+      <section id="uid426">
+        <title>Exercise</title>
+        <list id="id92707" display="block" list-type="enumerated">
+          <item id="uid427">A canon, mass 500 kg, fires a shell, mass 1 kg, horizontally to the right at 500 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. What is the magnitude and direction of the initial recoil velocity of the canon?
+</item>
+          <item id="uid428">A trolley of mass 1 kg is moving with a speed of 3 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. A block of wood, mass 0,5 kg, is dropped vertically into the trolley. Immediately after the collision, the speed of the trolley and block is 2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. By way of calculation, show whether momentum is conserved in the collision.
+</item>
+          <item id="uid429">A 7200 kg empty railway truck is stationary. A fertilizer firm loads 10800 kg fertilizer into the truck. A second, identical, empty truck is moving at 10 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>when it collides with the loaded truck.
+<list id="id92853" display="block" list-type="enumerated"><item id="uid430">If the empty truck stops completely immediately after the collision, use a conservation law to calculate the velocity of the loaded truck immediately after the collision.
+</item><item id="uid431">Calculate the distance that the loaded truck moves after collision, if a constant frictional force of 24 kN acts on the truck.
+</item></list></item>
+          <item id="uid432">A child drops a squash ball of mass 0,05 kg. The ball strikes the ground with a velocity of 4 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>and rebounds with a velocity of 3 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Does the law of conservation of momentum apply to this situation? Explain.
+</item>
+          <item id="uid433">A bullet of mass 50 g travelling horizontally at 600 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>strikes a stationary wooden block of mass 2 kg resting on a smooth horizontal surface. The bullet gets stuck in the block.
+<list id="id92986" display="block" list-type="enumerated"><item id="uid434">Name and state the principle which can be applied to find the speed of the block-and-bullet system after the bullet entered the block.
+</item><item id="uid435">Calculate the speed of the bullet-and-block system immediately after impact.
+</item><item id="uid436">If the time of impact was 5 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>4</m:mn></m:mrow></m:msup></m:math> seconds, calculate the force that the bullet exerts on the block during impact.
+</item></list></item>
+        </list>
+      </section>
+  
+
+  </content>
+</document>

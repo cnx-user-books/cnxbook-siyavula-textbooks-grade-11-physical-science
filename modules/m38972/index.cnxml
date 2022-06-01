@@ -1,0 +1,201 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Newton's third law</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38972</md:content-id>
+  <md:title>Newton's third law</md:title>
+  <md:abstract/>
+  <md:uuid>dd24ef73-4a8b-4b0e-a71f-b6aae046f6a1</md:uuid>
+</metadata>
+
+<content>
+      <section id="uid169">
+        <title>Newton's Third Law of Motion</title>
+        <para id="id70424">Newton's Third Law of Motion deals with the interaction between pairs of objects. For example, if you hold a book up against a wall you are exerting a force on the book (to keep it there) and the book is exerting a force back at you (to keep you from falling through the book). This may sound strange, but if the book was not pushing back at you, your hand would push through the book! These two forces (the force of the hand on the book (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math>) and the force of the book on the hand (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)) are called an action-reaction pair of forces. They have the same magnitude, but act in opposite directions and act on different objects (the one force is onto the book and the other is onto your hand).</para>
+        <para id="id70460">There is another action-reaction pair of forces present in this situation. The book is pushing against the wall (action force) and the wall is pushing back at the book (reaction). The force of the book on the wall (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>) and the force of the wall on the book (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>) are shown in the diagram.</para>
+        <figure id="uid170">
+          <media id="uid170_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_042.png" id="uid170_onlineimage" width="224"><!-- NOTE: attribute width changes image size online (pixels). original width is 224. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_042.eps" id="uid170_printimage"/>
+          </media>
+          <caption>Newton's action-reaction pairs</caption>
+        </figure>
+<definition id="fhsst_id2497"><term id="termfhsst_id2497"> Newton's Third Law of Motion </term> <meaning id="meaningfhsst_id2497">
+        <para id="id70512">If body A exerts a force on body B, then body B exerts a force of equal magnitude on body A, but in the opposite direction. </para>
+        </meaning></definition>
+        <para id="eip-293"><figure id="newton-3" class="khanacademy">
+	  <title>Khan academy video on newtons laws - 3</title>
+	  <media id="yt-media3" display="block" alt="video on newton 3">
+	  <flash id="yt-video3" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/By-ggTfeuJU&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><para id="id70525">Newton's action-reaction pairs can be found everywhere in life where two objects interact with one another. The following worked examples will illustrate this:</para>
+<exercise id="secfhsst_id2501"><title> Newton III - seat belt </title>
+        <problem id="probfhsst_id2502">
+        <para id="id70542">Dineo is seated in the passenger seat of a car with the seat belt on. The car suddenly stops and he moves forwards until the seat belt stops him. Draw a labeled force diagram identifying two action-reaction pairs in this situation.</para>
+        <figure id="uid171">
+          <media id="uid171_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_043.png" id="uid171_onlineimage" width="79"><!-- NOTE: attribute width changes image size online (pixels). original width is 79. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_043.eps" id="uid171_printimage"/>
+          </media>
+        </figure>
+        
+        </problem>
+        <solution id="solfhsst_id2512"> <list id="listfhsst_id2512" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Draw a force diagram </label>
+        <para id="id70580">Start by drawing the picture. You will be using arrows to indicate the forces so make your picture large enough so that detailed labels can also be added. The picture needs to be accurate, but not artistic! Use stickmen if you have to.</para>
+        </item> <item> <label> Label the diagram </label>
+        <para id="id70589">Take one pair at a time and label them carefully. If there is not enough space on the drawing, then use a key on the side.</para>
+        <figure id="uid172">
+          <media id="uid172_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_044.png" id="uid172_onlineimage" width="336"><!-- NOTE: attribute width changes image size online (pixels). original width is 336. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_044.eps" id="uid172_printimage"/>
+          </media>
+        </figure>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2526"><title> Newton III - forces in a lift </title>
+        <problem id="probfhsst_id2527">
+        <para id="id70630">Tammy travels from the ground floor to the fifth floor of a hotel in a lift. Which ONE of the following statements is TRUE about the force exerted by the floor of the lift on Tammy's feet?</para>
+        <list id="id70637" display="block" list-type="enumerated" number-style="upper-alpha"><item id="uid173">It is greater than the magnitude of Tammy's weight.
+</item>
+          <item id="uid174">It is equal in magnitude to the force Tammy's feet exert on the floor.
+</item>
+          <item id="uid175">It is equal to what it would be in a stationary lift.
+</item>
+          <item id="uid176">It is greater than what it would be in a stationary lift.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id2541"> <list id="listfhsst_id2541" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Analyse the situation </label>
+        <para id="id70721">This is a Newton's Third Law question and not Newton II. We need to focus on the action-reaction pairs of forces and not the motion of the lift. The following diagram will show the action-reaction pairs that are present when a person is standing on a scale in a lift.</para>
+        <figure id="uid177">
+          <media id="uid177_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_045.png" id="uid177_onlineimage" width="293"><!-- NOTE: attribute width changes image size online (pixels). original width is 293. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_045.eps" id="uid177_printimage"/>
+          </media>
+          <caption>Newton's action-reaction pairs in a lift</caption>
+        </figure>
+        <para id="id70739">In this question statements are made about the force of the floor (lift) on Tammy's feet. This force corresponds to F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> in our diagram. The reaction force that pairs up with this one is F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math>, which is the force that Tammy's feet exerts on the floor of the lift. The magnitude of these two forces are the same, but they act in opposite directions.</para>
+        </item> <item> <label> Choose the correct answer </label>
+        <para id="id70778">It is important to analyse the question first, before looking at the answers as the answers might confuse you. Make sure that you understand the situation and know what is asked before you look at the options.</para>
+        <para id="id70783">The correct answer is B.</para>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2558"><title> Newton III - book and wall </title>
+        <problem id="probfhsst_id2559">
+        <para id="id70819">Tumi presses a book against a vertical wall as shown in the sketch.</para>
+        <list id="id70825" display="block" list-type="enumerated">
+          <item id="uid178">Draw a labelled force diagram indicating all the forces acting on the book.
+</item>
+          <item id="uid179">State, in words, Newton's Third Law of Motion.
+</item>
+          <item id="uid180">Name the action-reaction pairs of forces acting in the horizontal plane.
+</item>
+        </list>
+        <figure id="uid181">
+          <media id="uid181_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_046.png" id="uid181_onlineimage" width="41"><!-- NOTE: attribute width changes image size online (pixels). original width is 41. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_046.eps" id="uid181_printimage"/>
+          </media>
+        </figure>
+        
+        </problem>
+        <solution id="solfhsst_id2577"> <list id="listfhsst_id2577" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Draw a force diagram </label>
+        <para id="id70897">A force diagram will look like this:</para>
+        <figure id="uid182">
+          <media id="uid182_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_047.png" id="uid182_onlineimage" width="335"><!-- NOTE: attribute width changes image size online (pixels). original width is 335. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_047.eps" id="uid182_printimage"/>
+          </media>
+        </figure>
+        <para id="id70909">Note that we had to draw all the forces acting on the book and not the action-reaction pairs. None of the forces drawn are action-reaction pairs, because they all act on the same object (the book). When you label forces, be as specific as possible, including the direction of the force and both objects involved, for example, do not say gravity (which is an incomplete answer) but rather say 'Downward (direction) gravitational force of the Earth (object) on the book (object)'.</para>
+        </item> <item> <label> State Newton's Third Law </label>
+        <para id="id70923">If body A exerts a force onto body B, then body B will exert a force equal in magnitude, but opposite in direction, onto body A.</para>
+        </item> <item> <label> Name the action-reaction pairs </label>
+        <para id="id70934">The question only asks for action-reaction forces in the horizontal plane. Therefore:</para>
+        <para id="id70938">Pair 1: Action: Applied force of the girl on the book; Reaction: The force of the book on the girl.</para>
+        <para id="id70944">Pair 2: Action: Force of the book on the wall; Reaction: Force of the wall on the book.</para>
+        <para id="id70950">Note that a Newton III pair will always involve the same combination of words, like 'book on wall' and 'wall on book'. The objects are 'swapped around' in naming the pairs.</para>
+        
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id2597"><title> Experiment : Balloon Rocket </title>
+        <para id="id70982">
+          <emphasis effect="bold">Aim:</emphasis>
+        </para>
+        <para id="id70991">In this experiment for the entire class, you will use a balloon rocket to investigate Newton's Third Law. A fishing line will be used as a track and a plastic straw taped to the balloon will help attach the balloon to the track.</para>
+        <para id="id70999">
+          <emphasis effect="bold">Apparatus:</emphasis>
+        </para>
+        <para id="id71008">
+You will need the following items for this experiment:</para>
+        <list id="id71014" display="block" list-type="enumerated">
+          <item id="uid183">balloons (one for each team)
+</item>
+          <item id="uid184">plastic straws (one for each team)
+</item>
+          <item id="uid185">tape (cellophane or masking)
+</item>
+          <item id="uid186">fishing line, 10 meters in length
+</item>
+          <item id="uid187">a stopwatch - optional (a cell phone can also be used)
+</item>
+          <item id="uid188">a measuring tape - optional
+</item>
+        </list>
+        <para id="id71092">
+          <emphasis effect="bold">Method:</emphasis>
+        </para>
+        <list id="id71101" display="block" list-type="enumerated">
+          <item id="uid189">Divide into groups of at least five.
+</item>
+          <item id="uid190">Attach one end of the fishing line to the blackboard with tape. Have one teammate hold the other end of the fishing line so that it is taut and roughly horizontal. The line must be held steady and <emphasis effect="bold">must not</emphasis> be moved up or down during the experiment.
+</item>
+          <item id="uid191">Have one teammate blow up a balloon and hold it shut with his or her fingers. Have another teammate tape the straw along the side of the balloon. Thread the fishing line through the straw and hold the balloon at the far end of the line.
+</item>
+          <item id="uid192">Let go of the rocket and observe how the rocket moves forward.
+</item>
+          <item id="uid193">Optionally, the rockets of each group can be timed to determine a winner of the fastest rocket.
+<list id="id71176" display="block" list-type="enumerated"><item id="uid194">Assign one teammate to time the event. The balloon should be let go when the time keeper yells “Go!” Observe how your rocket moves toward the blackboard.
+</item><item id="uid195">Have another teammate stand right next to the blackboard and yell “Stop!” when the rocket hits its target. If the balloon does not make it all the way to the blackboard, “Stop!” should be called when the balloon stops moving. The timekeeper should record the flight time.
+</item><item id="uid196">Measure the exact distance the rocket traveled. Calculate the average speed at which the balloon traveled. To do this, divide the distance traveled by the time the balloon was “in flight.” Fill in your results for Trial 1 in the Table below.
+</item><item id="uid197">Each team should conduct two more races and complete the sections in the Table for Trials 2 and 3. Then calculate the average speed for the three trials to determine your team's race entry time.
+</item></list><emphasis effect="bold">Results:</emphasis><table id="id71250" summary=""><tgroup cols="4"><tbody><row><entry/><entry><emphasis effect="bold">Distance (m)</emphasis></entry><entry><emphasis effect="bold">Time (s)</emphasis></entry><entry><emphasis effect="bold">Speed (m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</emphasis></entry></row><row><entry>Trial 1</entry><entry/><entry/><entry/></row><row><entry>Trial 2</entry><entry/><entry/><entry/></row><row><entry>Trial 3</entry><entry/><entry/><entry/></row><row><entry/><entry/><entry>Average:</entry><entry/></row></tbody></tgroup></table><emphasis effect="bold">Conclusions:</emphasis>
+
+The winner of this race is the team with the fastest average balloon speed.
+</item>
+        </list>
+        <para id="id71482">While doing the experiment, you should think about,</para>
+        <list id="id71486" display="block" list-type="enumerated">
+          <item id="uid198">What made your rocket move?
+</item>
+          <item id="uid199">How is Newton's Third Law of Motion demonstrated by this activity?
+</item>
+          <item id="uid200">Draw pictures using labeled arrows to show the forces acting on the inside of the balloon before it was released and after it was released.
+</item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid201">
+        <title>Exercise</title>
+        <list id="id71548" display="block" list-type="enumerated">
+          <item id="uid202">A fly hits the front windscreen of a moving car. Compared to the magnitude of the force the fly exerts on the windscreen, the magnitude of the force the windscreen exerts on the fly during the collision, is ...
+<list id="id71565" display="block" list-type="enumerated" number-style="upper-alpha"><item id="uid203">zero.
+</item><item id="uid204">smaller, but not zero.
+</item><item id="uid205">bigger.
+</item><item id="uid206">the same.
+</item></list><figure id="id71628"><media id="id71628_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_048.png" id="id71628_onlineimage" width="252"><!-- NOTE: attribute width changes image size online (pixels). original width is 252. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_048.eps" id="id71628_printimage"/></media></figure><figure id="id71635"><media id="id71635_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_049.png" id="id71635_onlineimage" width="508"><!-- NOTE: attribute width changes image size online (pixels). original width is 508. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_049.eps" id="id71635_printimage"/></media></figure></item>
+          <item id="uid207">Which of the following pairs of forces correctly illustrates Newton's Third Law?
+<figure id="uid208"><media id="uid208_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_050.png" id="uid208_onlineimage" width="388"><!-- NOTE: attribute width changes image size online (pixels). original width is 388. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_050.eps" id="uid208_printimage"/></media></figure></item>
+        </list>
+      </section>
+</content>
+</document>

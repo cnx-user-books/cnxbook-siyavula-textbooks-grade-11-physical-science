@@ -1,0 +1,720 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Acid-base reactions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39088</md:content-id>
+  <md:title>Acid-base reactions</md:title>
+  <md:abstract/>
+  <md:uuid>26521d3f-85f6-4706-b889-98e035aad977</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1">
+      <title>Introduction</title>
+      <para id="id240795">There are many different types of chemical reactions that can take place. In this chapter, we will be looking at a few of the more common reaction types: acid-base and acid-carbonate reactions, redox reactions and addition, elimination and substitution reactions.</para>
+    </section>
+    <section id="cid2">
+      <title>Acid-base reactions</title>
+      <section id="uid1">
+        <title>What are acids and bases?</title>
+        <para id="id240818">In our daily lives, we encounter many examples of acids and bases. In the home, vinegar (acetic acid), lemon juice (citric acid) and tartaric acid (the main acid found in wine) are common, while hydrochloric acid, sulfuric acid and nitric acid are examples of acids that are more likely to be found in laboratories and industry. Hydrochloric acid is also found in the gastric juices in the stomach. Even fizzy drinks contain acid (carbonic acid), as do tea and wine (tannic acid)! Bases that you may have heard of include sodium hydroxide (caustic soda), ammonium hydroxide and ammonia. Some of these are found in household cleaning products. Acids and bases are also important commercial products in the fertiliser, plastics and petroleum refining industries. Some common acids and bases, and their chemical formulae, are shown in <link target-id="uid2"/>.</para>
+        <table id="uid2" summary="">
+          <tgroup cols="4">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Acid</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Formula</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Base</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Formula</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Hydrochoric acid</entry>
+                <entry>HCl</entry>
+                <entry>Sodium hydroxide</entry>
+                <entry>NaOH</entry>
+              </row>
+              <row>
+                <entry>Sulfuric acid</entry>
+                <entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></entry>
+                <entry>Potassium hydroxide</entry>
+                <entry>KOH</entry>
+              </row>
+              <row>
+                <entry>Nitric acid</entry>
+                <entry>HNO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></entry>
+                <entry>Sodium carbonate</entry>
+                <entry>Na<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></entry>
+              </row>
+              <row>
+                <entry>Acetic (ethanoic) acid</entry>
+                <entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>COOH</entry>
+                <entry>Calcium hydroxide</entry>
+                <entry>Ca(OH)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry>
+              </row>
+              <row>
+                <entry>Carbonic acid</entry>
+                <entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></entry>
+                <entry>Magnesium hydroxide</entry>
+                <entry>Mg(OH)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry>
+              </row>
+              <row>
+                <entry>Sulfurous acid</entry>
+                <entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></entry>
+                <entry>Ammonia</entry>
+                <entry>NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></entry>
+              </row>
+              <row>
+                <entry>Phosphoric acid</entry>
+                <entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>PO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></entry>
+                <entry>Sodium bicarbonate</entry>
+                <entry>NaHCO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>Some common acids and bases and their chemical formulae</caption>
+        </table>
+        <para id="id241651">Most acids share certain characteristics, and most bases also share similar characteristics. It is important to be able to have a definition for acids and bases so that they can be correctly identified in reactions.</para>
+      </section>
+      <section id="uid3">
+        <title>Defining acids and bases</title>
+        <para id="id241666">A number of definitions for acids and bases have developed over the years. One of the earliest was the <emphasis effect="bold">Arrhenius</emphasis> definition. Arrhenius (1887) noticed that water dissociates (splits up) into hydronium (H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math>) and hydroxide (OH<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math>) ions according to the following equation:</para>
+        <para id="id241713">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi mathvariant="normal">O</m:mi>
+              <m:mo>⇋</m:mo>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:msup>
+                <m:mi mathvariant="normal">O</m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi> OH </m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </para>
+<note id="notfhsst_id143" type="tip">For more information on <emphasis effect="italics">dissociation</emphasis>, refer to Grade 10.</note>
+        <para id="id241778">Arrhenius described an acid as a compound that increases the concentration of H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> ions in solution, and a base as a compound that increases the concentration of OH<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> ions in a solution. Look at the following examples showing the dissociation of hydrochloric acid and sodium hydroxide (a base) respectively:</para>
+        <list id="id241820" display="block" list-type="enumerated">
+          <item id="uid4"><m:math overflow="scroll"><m:mrow><m:mi> HCl </m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>3</m:mn></m:msub><m:msup><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+Hydrochloric acid in water increases the concentration of H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> ions and is therefore an <emphasis effect="italics">acid</emphasis>.
+</item>
+          <item id="uid5"><m:math overflow="scroll"><m:mrow><m:mi> NaOH </m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>→</m:mo><m:msup><m:mi> Na </m:mi><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mi> OH </m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+Sodium hydroxide in water increases the concentration of OH<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> ions and is therefore a <emphasis effect="italics">base</emphasis>.
+</item>
+        </list>
+        <para id="id241999">However, this definition could only be used for acids and bases <emphasis effect="italics">in water</emphasis>. It was important to come up with a much broader definition for acids and bases.</para>
+        <para id="id242009">It was Lowry and Bronsted (1923) who took the work of Arrhenius further to develop a broader definition for acids and bases. The <emphasis effect="bold">Bronsted-Lowry model</emphasis> defines acids and bases in terms of their ability to donate or accept protons.</para>
+<definition id="fhsst_id155"><term id="termfhsst_id155"> Acids and bases </term> <meaning id="meaningfhsst_id155">
+        <para id="id242028">According to the Bronsted-Lowry theory of acids and bases, an <emphasis effect="bold">acid</emphasis> is a substance that gives away protons (H<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math>), and is therefore called a <emphasis effect="bold">proton donor</emphasis>. A <emphasis effect="bold">base</emphasis> is a substance that takes up protons, and is therefore called a <emphasis effect="bold">proton acceptor</emphasis>. </para>
+        </meaning></definition>
+        <para id="id242073">Below are some examples:</para>
+        <list id="id242076" display="block" list-type="enumerated">
+          <item id="uid6"><m:math overflow="scroll"><m:mrow><m:mi> HCl </m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msubsup><m:mi> NH </m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>+</m:mo></m:msubsup><m:mo>+</m:mo><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+In order to decide which substance is a proton donor and which is a proton acceptor, we need to look at what happens to each reactant. The reaction can be broken down as follows:
+<m:math overflow="scroll"><m:mrow><m:mi> HCl </m:mi><m:mo>→</m:mo><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup></m:mrow></m:math> and
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup><m:mo>→</m:mo><m:msubsup><m:mi> NH </m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>+</m:mo></m:msubsup></m:mrow></m:math>
+From these reactions, it is clear that HCl is a <emphasis effect="italics">proton donor</emphasis> and is therefore an <emphasis effect="bold">acid</emphasis>, and that NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> is a <emphasis effect="italics">proton acceptor</emphasis> and is therefore a <emphasis effect="bold">base</emphasis>.
+</item>
+          <item id="uid7"><m:math overflow="scroll"><m:mrow><m:msub><m:mi> CH </m:mi><m:mn>3</m:mn></m:msub><m:mi> COOH </m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>3</m:mn></m:msub><m:msup><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mi> CH </m:mi><m:mn>3</m:mn></m:msub><m:msup><m:mi> COO </m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+The reaction can be broken down as follows:
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi> CH </m:mi><m:mn>3</m:mn></m:msub><m:mi> COOH </m:mi><m:mo>→</m:mo><m:msub><m:mi> CH </m:mi><m:mn>3</m:mn></m:msub><m:msup><m:mi> COO </m:mi><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup></m:mrow></m:math> and
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>3</m:mn></m:msub><m:msup><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo></m:msup></m:mrow></m:math>
+In this reaction, CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>COOH (acetic acid) is a proton donor and is therefore the <emphasis effect="bold">acid</emphasis>. In this case, water acts as a base because it accepts a proton to form H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math>.
+</item>
+          <item id="uid8"><m:math overflow="scroll"><m:mrow><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>→</m:mo><m:msubsup><m:mi> NH </m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>+</m:mo></m:msubsup><m:mo>+</m:mo><m:msup><m:mi> OH </m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+The reaction can be broken down as follows:
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>→</m:mo><m:msup><m:mi> OH </m:mi><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup></m:mrow></m:math> and
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup><m:mo>→</m:mo><m:msubsup><m:mi> NH </m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>+</m:mo></m:msubsup></m:mrow></m:math>
+In this reaction, water donates a proton and is therefore an <emphasis effect="bold">acid</emphasis> in this reaction. Ammonia accepts the proton and is therefore the <emphasis effect="bold">base</emphasis>. Notice that in the previous equation, water acted as a base and that in this equation it acts as an acid. Water can act as both an acid and a base depending on the reaction. This is also true of other substances. These substances are called <emphasis effect="bold">ampholytes</emphasis> and are said to be <emphasis effect="bold">amphoteric</emphasis>.
+</item>
+        </list>
+<definition id="fhsst_id179"><term id="termfhsst_id179"> Amphoteric </term> <meaning id="meaningfhsst_id179">
+        <para id="id242896">An amphoteric substance is one that can react as either an acid or base. Examples of amphoteric substances include water, zinc oxide and beryllium hydroxide. </para>
+        </meaning></definition>
+      </section>
+      <section id="uid9">
+        <title>Conjugate acid-base pairs</title>
+        <para id="id242918">Look at the reaction between hydrochloric acid and ammonia to form ammonium and chloride ions:</para>
+        <para id="id242923">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi> HCl </m:mi>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi> NH </m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:mo>⇋</m:mo>
+              <m:msubsup>
+                <m:mi> NH </m:mi>
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+                <m:mo>+</m:mo>
+              </m:msubsup>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi> Cl </m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id242970">Looking firstly at the <emphasis effect="italics">forward reaction</emphasis> (i.e. the reaction that proceeds from <emphasis effect="italics">left</emphasis> to <emphasis effect="italics">right</emphasis>), the changes that take place can be shown as follows:</para>
+        <para id="id242991"><m:math overflow="scroll"><m:mrow><m:mi> HCl </m:mi><m:mo>→</m:mo><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup></m:mrow></m:math> and</para>
+        <para id="id243028">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msub>
+                <m:mi> NH </m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>→</m:mo>
+              <m:msubsup>
+                <m:mi> NH </m:mi>
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+                <m:mo>+</m:mo>
+              </m:msubsup>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id243070">Looking at the <emphasis effect="italics">reverse reaction</emphasis> (i.e. the reaction that proceeds from <emphasis effect="italics">right</emphasis> to <emphasis effect="italics">left</emphasis>), the changes that take place are as follows:</para>
+        <para id="id243093"><m:math overflow="scroll"><m:mrow><m:msubsup><m:mi> NH </m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>+</m:mo></m:msubsup><m:mo>→</m:mo><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup></m:mrow></m:math> and</para>
+        <para id="id243140">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msup>
+                <m:mi> Cl </m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>→</m:mo>
+              <m:mi> HCl </m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id243172">In the <emphasis effect="bold">forward reaction</emphasis>, HCl is a proton donor (acid) and NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> is a proton acceptor (base). In the <emphasis effect="bold">reverse reaction</emphasis>, the chloride ion is the proton acceptor (base) and NH<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>+</m:mo></m:msubsup></m:math> is the proton donor (acid). A <emphasis effect="bold">conjugate acid-base pair</emphasis> is two compounds in a reaction that change into each other through the loss or gain of a proton. The conjugate acid-base pairs for the above reaction are shown below.</para>
+        <para id="id243229">
+          <figure id="id243232">
+            <media id="id243232_media" alt="">
+              <image mime-type="image/png" src="../../media/CG11C8_001.png" id="id243232_onlineimage" width="167"><!-- NOTE: attribute width changes image size online (pixels). original width is 167. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG11C8_001.eps" id="id243232_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id243239">The reaction between ammonia and water can also be used as an example:</para>
+        <para id="id243242">
+          <figure id="id243246">
+            <media id="id243246_media" alt="">
+              <image mime-type="image/png" src="../../media/CG11C8_002.png" id="id243246_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG11C8_002.eps" id="id243246_printimage"/>
+            </media>
+          </figure>
+        </para>
+<definition id="fhsst_id273"><term id="termfhsst_id273"> Conjugate acid-base pair </term> <meaning id="meaningfhsst_id273">
+        <para id="id243259">The term refers to two compounds that transform into each other by the gain or loss of a proton.
+ </para>
+        </meaning></definition>
+<para id="eip-618"><figure id="acids" class="khanacademy">
+	  <title>Khan academy video on acids and bases</title>
+	  <media id="yt-media1" display="block" alt="video on acids and bases">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/0LM6wPpypxM&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><section id="secfhsst_id277"><title> Acids and bases </title>
+        <list id="id243278" display="block" list-type="enumerated">
+          <item id="uid10">In the following reactions, identify (1) the acid and the base in the reactants and (2) the salt in the product.
+<list id="id243295" display="block" list-type="enumerated"><item id="uid11"><m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> SO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mi> Ca </m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:mi> OH </m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi> CaSO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math></item><item id="uid12"><m:math overflow="scroll"><m:mrow><m:mi> CuO </m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> SO </m:mi><m:mn>4</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi> CuSO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math></item><item id="uid13"><m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>6</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>5</m:mn></m:msub><m:mi> OH </m:mi><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>3</m:mn></m:msub><m:msup><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>6</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>5</m:mn></m:msub><m:msup><m:mi mathvariant="normal">O</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math></item><item id="uid14"><m:math overflow="scroll"><m:mrow><m:mi> HBr </m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>5</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>5</m:mn></m:msub><m:mi mathvariant="normal">N</m:mi><m:mo>→</m:mo><m:mrow><m:mo>(</m:mo><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>5</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>5</m:mn></m:msub><m:msup><m:mi> NH </m:mi><m:mo>+</m:mo></m:msup><m:mo>)</m:mo></m:mrow><m:msup><m:mi> Br </m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math></item></list></item>
+          <item id="uid15">In each of the following reactions, label the conjugate acid-base pairs.
+<list id="id243655" display="block" list-type="enumerated"><item id="uid16"><m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> SO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>⇋</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>3</m:mn></m:msub><m:msup><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msubsup><m:mi> HSO </m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup></m:mrow></m:math></item><item id="uid17"><m:math overflow="scroll"><m:mrow><m:msubsup><m:mi> NH </m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>+</m:mo></m:msubsup><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">F</m:mi><m:mo>-</m:mo></m:msup><m:mo>⇋</m:mo><m:mi> HF </m:mi><m:mo>+</m:mo><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math></item><item id="uid18"><m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo><m:msub><m:mi> CH </m:mi><m:mn>3</m:mn></m:msub><m:msup><m:mi> COO </m:mi><m:mo>-</m:mo></m:msup><m:mo>⇋</m:mo><m:msub><m:mi> CH </m:mi><m:mn>3</m:mn></m:msub><m:mi> COOH </m:mi><m:mo>+</m:mo><m:msup><m:mi> OH </m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math></item><item id="uid19"><m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> SO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup><m:mo>⇋</m:mo><m:mi> HCl </m:mi><m:mo>+</m:mo><m:msubsup><m:mi> HSO </m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup></m:mrow></m:math></item></list></item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid20">
+        <title>Acid-base reactions</title>
+        <para id="id243957">When an acid and a base react, they neutralise each other to form a <emphasis effect="bold">salt</emphasis>. If the base contains hydroxide (OH<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math>) ions, then <emphasis effect="italics">water</emphasis> will also be formed. The word <emphasis effect="italics">salt</emphasis> is a general term which applies to the products of all acid-base reactions. A salt is a product that is made up of the cation from a base and the anion from an acid. When an acid reacts with a base, they <emphasis effect="bold">neutralise</emphasis> each other. In other words, the acid becomes less acidic and the base becomes less basic. Look at the following examples:</para>
+        <list id="id244001" display="block" list-type="enumerated">
+          <item id="uid21">Hydrochloric acid reacts with sodium hydroxide to form sodium chloride (the salt) and water. Sodium chloride is made up of Na<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> cations from the base (NaOH) and Cl<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> anions from the acid (HCl).
+<m:math overflow="scroll"><m:mrow><m:mi> HCl </m:mi><m:mo>+</m:mo><m:mi> NaOH </m:mi><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo><m:mi> NaCl </m:mi></m:mrow></m:math></item>
+          <item id="uid22">Hydrogen bromide reacts with potassium hydroxide to form potassium bromide (the salt) and water. Potassium bromide is made up of K<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> cations from the base (KOH) and Br<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> anions from the acid (HBr).
+<m:math overflow="scroll"><m:mrow><m:mi> HBr </m:mi><m:mo>+</m:mo><m:mi> KOH </m:mi><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo><m:mi> KBr </m:mi></m:mrow></m:math></item>
+          <item id="uid23">Hydrochloric acid reacts with sodium hydrocarbonate to form sodium chloride (the salt) and hydrogen carbonate. Sodium chloride is made up of Na<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> cations from the base (NaHCO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>) and Cl<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> anions from the acid (HCl).
+<m:math overflow="scroll"><m:mrow><m:mi> HCl </m:mi><m:mo>+</m:mo><m:msub><m:mi> NaHCO </m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> CO </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mi> NaCl </m:mi></m:mrow></m:math></item>
+        </list>
+        <para id="id244262">You should notice that in the first two examples, the base contained OH<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> ions, and therefore the products were a <emphasis effect="italics">salt</emphasis> and <emphasis effect="italics">water</emphasis>. NaCl (table salt) and KBr are both salts. In the third example, NaHCO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> also acts as a base, despite not having OH<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> ions. A salt is still formed as one of the products, but no water is produced.</para>
+        <para id="id244318">It is important to realise how important these neutralisation reactions are. Below are some examples:</para>
+        <list id="id244325" display="block" list-type="bulleted">
+          <item id="uid24"><emphasis effect="bold">Domestic uses</emphasis>
+Calcium oxide (CaO) is put on soil that is too acid. Powdered limestone (CaCO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>) can also be used but its action is much slower and less effective. These substances can also be used on a larger scale in farming and also in rivers.
+</item>
+          <item id="uid25"><emphasis effect="bold">Biological uses</emphasis>
+Acids in the stomach (e.g. hydrochloric acid) play an important role in helping to digest food. However, when a person has a stomach ulcer, or when there is too much acid in the stomach, these acids can cause a lot of pain. <emphasis effect="bold">Antacids</emphasis> are taken to neutralise the acids so that they don't burn as much. Antacids are bases which neutralise the acid. Examples of antacids are aluminium hydroxide, magnesium hydroxide ('milk of magnesia') and sodium bicarbonate ('bicarbonate of soda'). Antacids can also be used to relieve heartburn.
+</item>
+          <item id="uid26"><emphasis effect="bold">Industrial uses</emphasis>
+Alkaline calcium hydroxide (limewater) can be used to absorb harmful SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> gas that is released from power stations and from the burning of fossil fuels.
+</item>
+        </list>
+<note id="notfhsst_id311"><title> Interesting Fact </title> 
+Bee stings are acidic and have a pH between 5 and 5.5. They can be soothed by using substances such as calomine lotion, which is a mild alkali based on zinc oxide. Bicarbonate of soda can also be used. Both alkalis help to neutralise the acidic bee sting and relieve some of the itchiness!
+</note>
+<note id="notfhsst_id314" type="tip"><emphasis effect="bold">Acid-base titrations</emphasis>
+        <para id="id244443">The neutralisation reaction between an acid and a base can be very useful. If an acidic solution of known concentration (a standard solution) is added to an alkaline solution until the solution is exactly neutralised (i.e. it has neither acidic nor basic properties), it is possible to calculate the exact concentration of the unknown solution. It is possible to do this because, at the exact point where the solution is neutralised, chemically equivalent amounts of acid and base have reacted with each other. This type of calculation is called <emphasis effect="bold">volumetric analysis</emphasis>. The process where an acid solution and a basic solution are added to each other for this purpose, is called a <emphasis effect="bold">titration</emphasis>, and the point of neutralisation is called the <emphasis effect="bold">end point</emphasis> of the reaction. So how exactly can a titration be carried out to determine an unknown concentration? Look at the following steps to help you to understand the process.</para>
+        <para id="id244474">
+          <emphasis effect="bold">Step 1:</emphasis>
+        </para>
+        <para id="id244483">A measured volume of the solution with unknown concentration is put into a flask.</para>
+        <para id="id244487">
+          <emphasis effect="bold">Step 2:</emphasis>
+        </para>
+        <para id="id244496">A suitable indicator is added to this solution (bromothymol blue and phenolpthalein are common indicators).</para>
+        <para id="id244500">
+          <emphasis effect="bold">Step 3:</emphasis>
+        </para>
+        <para id="id244509">A volume of the standard solution is put into a burette (a measuring device) and is slowly added to the solution in the flask, drop by drop.</para>
+        <para id="id244514">
+          <emphasis effect="bold">Step 4:</emphasis>
+        </para>
+        <para id="id244523">At some point, adding one more drop will change the colour of the unknown solution. For example, if the solution is basic and bromothymol blue is being used as the indicator in the titration, the bromothymol blue would originally have coloured the solution blue. At the end point of the reaction, adding one more drop of acid will change the colour of the basic solution from blue to yellow. Yellow shows that the solution is now acidic.</para>
+        <para id="id244530">
+          <emphasis effect="bold">Step 5:</emphasis>
+        </para>
+        <para id="id244539">Record the volume of standard solution that has been added up to this point.</para>
+        <para id="id244543">
+          <emphasis effect="bold">Step 6:</emphasis>
+        </para>
+        <para id="id244552">Use the information you have gathered to calculate the exact concentration of the unknown solution. A worked example is shown below.</para>
+</note>
+<note id="notfhsst_id341" type="tip">When you are busy with these calculations, you will need to remember the following:
+        <para id="id244563">1dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> = 1 litre = 1000ml = 1000cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>, therefore dividing cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> by 1000 will give you an answer in dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>.</para>
+        <para id="id244619">Some other terms and equations which will be useful to remember are shown below:</para>
+        <list id="id244625" display="block" list-type="bulleted">
+          <item id="uid27">Molarity is a term used to describe the concentration of a solution, and is measured in mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>. The symbol for molarity is M. Refer to chapter <link target-id=""/> for more information on molarity.
+</item>
+          <item id="uid28">Moles = molarity (mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>) x volume (dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>)
+</item>
+          <item id="uid29">Molarity (mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>) = <m:math overflow="scroll"><m:mfrac><m:mrow><m:mi>m</m:mi><m:mi>o</m:mi><m:mi>l</m:mi><m:mi>e</m:mi><m:mi>s</m:mi></m:mrow><m:mrow><m:mi>v</m:mi><m:mi>o</m:mi><m:mi>l</m:mi><m:mi>u</m:mi><m:mi>m</m:mi><m:mi>e</m:mi></m:mrow></m:mfrac></m:math></item>
+        </list>
+</note>
+<exercise id="secfhsst_id353"><title> Titration calculation
+        </title>
+        <problem id="probfhsst_id355">
+        <para id="id244787">Given the equation:</para>
+        <para id="id244793">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi> NaOH </m:mi>
+              <m:mo>+</m:mo>
+              <m:mi> HCl </m:mi>
+              <m:mo>→</m:mo>
+              <m:mi> NaCl </m:mi>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi mathvariant="normal">O</m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id244832">25cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of a sodium hydroxide solution was pipetted into a conical flask and titrated with 0.2M hydrochloric acid. Using a suitable indicator, it was found that 15cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of acid was needed to neutralise the alkali. Calculate the molarity of the sodium hydroxide.</para>
+        
+        </problem>
+        <solution id="solfhsst_id377"> <list id="listfhsst_id377" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Write down all the information you know about the reaction, and make sure that the equation is balanced. </label>
+        <para id="id244887">NaOH: V = 25 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math></para>
+        <para id="id244904">HCl: V = 15 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>; C = 0.2 M</para>
+        <para id="id244920">The equation is already balanced.</para>
+        </item> <item> <label> Calculate the number of moles of HCl that react according to this equation. </label>
+        <equation id="id244930">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>M</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>n</m:mi>
+                <m:mi>V</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id244951">Therefore, n(HCl) = M <m:math overflow="scroll"><m:mo>×</m:mo></m:math> V (make sure that all the units are correct!)</para>
+        <para id="id244964">M = 0.2mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math></para>
+        <para id="id244985">V = 15cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> = 0.015dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math></para>
+        <para id="id245013">Therefore</para>
+        <equation id="id245018">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>n</m:mi>
+              <m:mo>(</m:mo>
+              <m:mi>H</m:mi>
+              <m:mi>C</m:mi>
+              <m:mi>l</m:mi>
+              <m:mo>)</m:mo>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>2</m:mn>
+              <m:mo>×</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>015</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>003</m:mn>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id245067">There are 0.003 moles of HCl that react</para>
+        </item> <item> <label> Calculate the number of moles of sodium hydroxide in the reaction </label>
+        <para id="id245077">Look at the equation for the reaction. For every mole of HCl there is one mole of NaOH that is involved in the reaction. Therefore, if 0.003 moles of HCl react, we can conclude that the same quantity of NaOH is needed for the reaction. The number of moles of NaOH in the reaction is 0.003.</para>
+        </item> <item> <label> Calculate the molarity of the sodium hydroxide </label>
+        <para id="id245089">First convert the volume into dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>. V = 0.025 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>. Then continue with the calculation.</para>
+        <equation id="id245120">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>M</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>n</m:mi>
+                <m:mi>V</m:mi>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>003</m:mn>
+                </m:mrow>
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>025</m:mn>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>12</m:mn>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id245167">The molarity of the NaOH solution is 0.12 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> or 0.12 M
+ </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id461"><title> Titration calculation
+        </title>
+        <problem id="probfhsst_id463">
+        <para id="id245214">4.9 g of sulfuric acid is dissolved in water and the final solution has a volume of 220 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>. Using titration, it was found that 20 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of this solution was able to completely neutralise 10 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of a sodium hydroxide solution. Calculate the concentration of the sodium hydroxide in mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>.
+ </para>
+        </problem>
+        <solution id="solfhsst_id467"> <list id="listfhsst_id467" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Write a balanced equation for the titration reaction. </label>
+        <para id="id245295">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi> SO </m:mi>
+                <m:mn>4</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi> NaOH </m:mi>
+              <m:mo>→</m:mo>
+              <m:msub>
+                <m:mi> Na </m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi> SO </m:mi>
+                <m:mn>4</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi mathvariant="normal">O</m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        
+        </item>
+        <item> <label> Calculate the molarity of the sulfuric acid solution. </label>
+        <para id="id245386">M = n/V</para>
+        <para id="id245389">V = 220 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> = 0.22 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math></para>
+        <equation id="id245419">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>n</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>m</m:mi>
+                <m:mi>M</m:mi>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>9</m:mn>
+                  <m:mi>g</m:mi>
+                </m:mrow>
+                <m:mrow>
+                  <m:mn>98</m:mn>
+                  <m:mi>g</m:mi>
+                  <m:mo>.</m:mo>
+                  <m:mi>m</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:msup>
+                    <m:mi>l</m:mi>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>05</m:mn>
+              <m:mi>m</m:mi>
+              <m:mi>o</m:mi>
+              <m:mi>l</m:mi>
+              <m:mi>s</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id245492">Therefore,</para>
+        <equation id="id245497">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>M</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>05</m:mn>
+                </m:mrow>
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>22</m:mn>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>23</m:mn>
+              <m:mi>m</m:mi>
+              <m:mi>o</m:mi>
+              <m:mi>l</m:mi>
+              <m:mo>.</m:mo>
+              <m:mi>d</m:mi>
+              <m:msup>
+                <m:mi>m</m:mi>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>3</m:mn>
+                </m:mrow>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Calculate the moles of sulfuric acid that were used in the neutralisation reaction. </label>
+        <para id="id245563">Remember that only 20 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of the sulfuric acid solution is used.</para>
+        <para id="id245580">M = n/V, therefore n = M <m:math overflow="scroll"><m:mo>×</m:mo></m:math> V</para>
+        <equation id="id245595">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>n</m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>23</m:mn>
+              <m:mo>×</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>02</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>0046</m:mn>
+              <m:mi>m</m:mi>
+              <m:mi>o</m:mi>
+              <m:mi>l</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Calculate the number of moles of sodium hydroxide that were neutralised. </label>
+        <para id="id245643">According to the balanced chemical equation, the mole ratio of H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> to NaOH is 1:2. Therefore, the number of moles of NaOH that are neutralised is 0.0046 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 2 = 0.0092 mols.</para>
+        </item> <item> <label> Calculate the concentration of the sodium hydroxide solution. </label>
+        <equation id="id245687">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>M</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>n</m:mi>
+                <m:mi>V</m:mi>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>0092</m:mn>
+                </m:mrow>
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>01</m:mn>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>92</m:mn>
+              <m:mi>M</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+</item>
+ </list> </solution>
+</exercise>
+      </section>
+      <section id="uid30">
+        <title>Acid-carbonate reactions</title>
+<section id="secfhsst_id649"><title> Demonstration : The reaction of acids with carbonates
+        </title>
+        <para id="id245760">
+          <emphasis effect="bold">Apparatus and materials:</emphasis>
+        </para>
+        <para id="id245769">Small amounts of sodium carbonate and calcium carbonate (both in powder form); hydrochloric acid and sulfuric acid; retort stand; two test tubes; two rubber stoppers for the test tubes; a delivery tube; lime water. The demonstration should be set up as shown below.</para>
+        <para id="id245777">
+          <figure id="id245781">
+            <media id="id245781_media" alt="">
+              <image mime-type="image/png" src="../../media/CG11C8_003.png" id="id245781_onlineimage" width="262"><!-- NOTE: attribute width changes image size online (pixels). original width is 262. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG11C8_003.eps" id="id245781_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id245787">
+          <emphasis effect="bold">Method:</emphasis>
+        </para>
+        <list id="id245794" display="block" list-type="enumerated">
+          <item id="uid31">Pour limewater into one of the test tubes and seal with a rubber stopper.
+</item>
+          <item id="uid32">Carefully pour a small amount of hydrochloric acid into the remaining test tube.
+</item>
+          <item id="uid33">Add a small amount of sodium carbonate to the acid and seal the test tube with the rubber stopper.
+</item>
+          <item id="uid34">Connect the two test tubes with a delivery tube.
+</item>
+          <item id="uid35">Observe what happens to the colour of the limewater.
+</item>
+          <item id="uid36">Repeat the above steps, this time using sulfuric acid and calcium carbonate.
+</item>
+        </list>
+        <para id="id245874">
+          <emphasis effect="bold">Observations:</emphasis>
+        </para>
+        <para id="id245881">The clear lime water turns milky meaning that carbon dioxide has been produced.
+ </para>
+</section>
+        <para id="id245893">When an acid reacts with a carbonate a salt, carbon dioxide and water are formed. Look at the following examples:</para>
+        <list id="id245897" display="block" list-type="bulleted">
+          <item id="uid37">Nitric acid reacts with sodium carbonate to form sodium nitrate, carbon dioxide and water.
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi> HNO </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi> Na </m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> CO </m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi> NaNO </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math></item>
+          <item id="uid38">Sulfuric acid reacts with calcium carbonate to form calcium sulfate, carbon dioxide and water.
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> SO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi> CaCO </m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi> CaSO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math></item>
+          <item id="uid39">Hydrochloric acid reacts with calcium carbonate to form calcium chloride, carbon dioxide and water.
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi> HCl </m:mi><m:mo>+</m:mo><m:msub><m:mi> CaCO </m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi> CaCl </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math></item>
+        </list>
+<para id="eip-860"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=acidsbases-100512090122-phpapp01&amp;stripped_title=acids-bases-4069070&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="secfhsst_id695"><title> Acids and bases </title>
+        <list id="id246168" display="block" list-type="enumerated">
+          <item id="uid40">The compound NaHCO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> is commonly known as baking soda. A recipe requires 1.6 g of baking soda, mixed with other ingredients, to bake a cake.
+<list id="id246199" display="block" list-type="enumerated"><item id="uid41">Calculate the number of moles of NaHCO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> used to bake the cake.
+</item><item id="uid42">How many atoms of oxygen are there in the 1.6 g of baking soda?
+During the baking process, baking soda reacts with an acid to produce carbon dioxide and water, as shown by the reaction equation below:
+<m:math overflow="scroll"><m:mrow><m:msubsup><m:mi> HCO </m:mi><m:mrow><m:mn>3</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item><item id="uid43">Identify the reactant which acts as the Bronsted-Lowry base in this reaction. Give a reason for your answer.
+</item><item id="uid44">Use the above equation to explain why the cake rises during this baking process.
+</item></list>
+(DoE Grade 11 Paper 2, 2007)
+</item>
+          <item id="uid45">Label the acid-base conjugate pairs in the following equation:
+<m:math overflow="scroll"><m:mrow><m:msubsup><m:mi> HCO </m:mi><m:mrow><m:mn>3</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>⇋</m:mo><m:msubsup><m:mi> CO </m:mi><m:mrow><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>3</m:mn></m:msub><m:msup><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo></m:msup></m:mrow></m:math></item>
+          <item id="uid46">A certain antacid tablet contains 22.0 g of baking soda (NaHCO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>). It is used to neutralise the excess hydrochloric acid in the stomach. The balanced equation for the reaction is:
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi> NaHCO </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mi> HCl </m:mi><m:mo>→</m:mo><m:mi> NaCl </m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>
+The hydrochloric acid in the stomach has a concentration of 1.0 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>. Calculate the volume of the hydrochloric acid that can be neutralised by the antacid tablet.
+(DoE Grade 11 Paper 2, 2007)
+</item>
+          <item id="uid47">A learner is asked to prepare a <emphasis effect="italics">standard solution</emphasis> of the weak acid, oxalic acid (COOH)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>2H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O for use in a titration. The volume of the solution must be 500 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> and the concentration 0.2 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>.
+<list id="id246640" display="block" list-type="enumerated"><item id="uid48">Calculate the mass of oxalic acid which the learner has to dissolve to make up the required standard solution.
+The leaner titrates this 0.2 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> oxalic acid solution against a solution of sodium hydroxide. He finds that 40 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of the oxalic acid solution exactly neutralises 35 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of the sodium hydroxide solution.
+</item><item id="uid49">Calculate the concentration of the sodium hydroxide solution.
+</item></list></item>
+          <item id="uid50">A learner finds some sulfuric acid solution in a bottle labelled 'dilute sulfuric acid'. He wants to determine the concentration of the sulphuric acid solution. To do this, he decides to titrate the sulfuric acid against a standard potassium hydroxide (KOH) solution.
+<list id="id246727" display="block" list-type="enumerated"><item id="uid51">What is a standard solution?
+</item><item id="uid52">Calculate the mass of KOH which he must use to make 300 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of a 0.2 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> KOH solution.
+</item><item id="uid53">Calculate the pH of the 0.2 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> KOH solution (assume standard temperature).
+</item><item id="uid54">Write a balanced chemical equation for the reaction between H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> and KOH.
+</item><item id="uid55">During the titration he finds that 15 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of the KOH solution neutralises 20 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of the H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> solution. Calculate the concentration of the H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> solution.
+</item></list>
+(IEB Paper 2, 2003)
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

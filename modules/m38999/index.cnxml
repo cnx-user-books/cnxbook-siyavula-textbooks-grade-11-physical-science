@@ -1,0 +1,90 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Intrinsic properties and doping</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38999</md:content-id>
+  <md:title>Intrinsic properties and doping</md:title>
+  <md:abstract/>
+  <md:uuid>f291f921-326d-4078-9222-71c96fbe705e</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Intrinsic Properties and Doping</title>
+      <para id="id62862">We have seen that the size of the energy gap between the valence band and the conduction band determines whether a solid is a conductor or an insulator. However, we have seen that there is a material known as a semi-conductor. A semi-conductor is a solid whose band gap is smaller than that of an insulator and whose electrical properties can be modified by a process known as <emphasis effect="italics">doping</emphasis>.</para>
+<definition id="fhsst_id167"><term id="termfhsst_id167"> Doping </term> <meaning id="meaningfhsst_id167">
+      <para id="id62879">Doping is the deliberate addition of impurities to a pure semiconductor material to change its electrical properties. </para>
+      </meaning></definition>
+      <para id="id62891">Semiconductors are often the Group IV elements in the periodic table. The most common semiconductor elements are silicon (Si) and germanium (Ge). The most important property of Group IV elements is that they have 4 valence electrons.</para>
+<section id="secfhsst_id171"><title>
+      Band Gaps of Si and Ge </title>
+      <para id="id62907">Si has a band gap of <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>.</m:mo><m:mn>744</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math> J while Ge has a band gap of <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>.</m:mo><m:mn>152</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:mrow></m:math> J. </para>
+</section>
+      <para id="id62970">So, if we look at the arrangement of for example Si atoms in a crystal, they would look like that shown in <link target-id="uid13"/>.</para>
+      <figure id="uid13">
+        <media id="uid13_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C10_006.png" id="uid13_onlineimage" width="103"><!-- NOTE: attribute width changes image size online (pixels). original width is 103. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C10_006.eps" id="uid13_printimage"/>
+        </media>
+        <caption>Arrangement of atoms in a Si crystal.</caption>
+      </figure>
+      <para id="id62990">The main aim of doping is to make sure there are either too many (surplus) or too few electrons (deficiency). Depending on what situation you want to create you use different elements for the doping.</para>
+      <section id="uid14">
+        <title>Surplus</title>
+        <para id="id63004">A surplus of electrons is created by adding an element that has more valence electrons than Si to the Si crystal. This is known as <emphasis effect="italics">n-type</emphasis> doping and elements used for n-type doping usually come from Group V in the periodic table. Elements from Group V have 5 valence electrons, one more than the Group IV elements.</para>
+        <para id="id63015">A common n-type dopant (substance used for doping) is arsenic (As). The combination of a semiconductor and an n-type dopant is known as an n-type semiconductor. A Si crystal doped with As is shown in <link target-id="uid15"/>. When As is added to a Si crystal, 4 of the 5 valence electrons in As bond with the 4 Si valence electrons. The fifth As valence electron is free to move around.</para>
+        <para id="id63027">It takes only a few As atoms to create enough free electrons to allow an electric current to flow through the silicon. Since n-type dopants `donate' their free atoms to the semiconductor, they are known as <emphasis effect="italics">donor atoms</emphasis>.</para>
+        <figure id="uid15">
+          <media id="uid15_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C10_007.png" id="uid15_onlineimage" width="172"><!-- NOTE: attribute width changes image size online (pixels). original width is 172. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C10_007.eps" id="uid15_printimage"/>
+          </media>
+          <caption>Si crystal doped with As. For each As atom present in the Si crystal, there is one extra electron. This combination of Si and As is known as an n-type semiconductor, because of its overall surplus of electrons.</caption>
+        </figure>
+      </section>
+      <section id="uid16">
+        <title>Deficiency</title>
+        <para id="id63060">A deficiency of electrons is created by adding an element that has less valence electrons than Si to the Si crystal. This is known as <emphasis effect="italics">p-type</emphasis> doping and elements used for p-type doping usually come from Group III in the periodic table. Elements from Group III have 3 valence electrons, one less than the semiconductor elements that come from Group IV. A common p-type dopant is boron (B). The combination of a semiconductor and a p-type dopant is known as an p-type semiconductor. A Si crystal doped with B is shown in <link target-id="uid17"/>. When B is mixed into the silicon crystal, there is a Si valence electron that is left unbonded.</para>
+        <para id="id63081">The lack of an electron is known as a <emphasis effect="italics">hole</emphasis> and has the effect of a positive charge. Holes can conduct current. A hole happily accepts an electron from a neighbor, moving the hole over a space. Since p-type dopants `accept' electrons, they are known as <emphasis effect="italics">acceptor atoms</emphasis>.</para>
+        <figure id="uid17">
+          <media id="uid17_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C10_008.png" id="uid17_onlineimage" width="214"><!-- NOTE: attribute width changes image size online (pixels). original width is 214. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C10_008.eps" id="uid17_printimage"/>
+          </media>
+          <caption>Si crystal doped with B. For each B atom present in the Si crystal, there is one less electron. This combination of Si and B is known as a p-type semiconductor, because of its overall deficiency of electrons.</caption>
+        </figure>
+        <para id="id63110">Donor (n-type) impurities have extra valence electrons with energies very close to the conduction band which can be easily thermally excited to the conduction band. Acceptor (p-type) impurities capture electrons from the valence band, allowing the easy formation of holes.</para>
+        <para id="id63116">
+          <figure id="id63119">
+            <media id="id63119_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C10_009.png" id="id63119_onlineimage" width="314"><!-- NOTE: attribute width changes image size online (pixels). original width is 314. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C10_009.eps" id="id63119_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63125">The energy level of the donor atom is close to the conduction band and it is relatively easy for electrons to enter the conduction band. The energy level of the acceptor atom is close to the valence band and it is relatively easy for electrons to leave the valence band and enter the vacancies.</para>
+<section id="secfhsst_id218"><title> Intrinsic Properties and Doping </title>
+        <list id="id63138" display="block" list-type="enumerated">
+          <item id="uid18">Explain the process of doping using detailed diagrams for p-type and n-type semiconductors.
+</item>
+          <item id="uid19">Draw a diagram showing a Ge crystal doped with As. What type of semiconductor is this?
+</item>
+          <item id="uid20">Draw a diagram showing a Ge crystal doped with B. What type of semiconductor is this?
+</item>
+          <item id="uid21">Explain how doping improves the conductivity of semi-conductors.
+</item>
+          <item id="uid22">Would the following elements make good p-type dopants or good n-type dopants?
+<list id="id63201" display="block" list-type="enumerated"><item id="uid23">B
+</item><item id="uid24">P
+</item><item id="uid25">Ga
+</item><item id="uid26">As
+</item><item id="uid27">In
+</item><item id="uid28">Bi
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

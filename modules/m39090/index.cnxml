@@ -1,0 +1,295 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Addition, elimination and substitution reactions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39090</md:content-id>
+  <md:title>Addition, elimination and substitution reactions</md:title>
+  <md:abstract/>
+  <md:uuid>f8fa556d-379a-4297-8b7d-f57e129a17b4</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Addition, substitution and elimination reactions</title>
+      <section id="uid80">
+        <title>Addition reactions</title>
+        <para id="id249047">An addition reaction occurs when two or more reactants combine to form a final product. This product will contain <emphasis effect="italics">all</emphasis> the atoms that were present in the reactants. The following is a general equation for this type of reaction:</para>
+        <equation id="id249057">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>A</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>B</m:mi>
+              <m:mo>→</m:mo>
+              <m:mi>C</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id249078">Notice that C is the final product with no A or B remaining as a residue.</para>
+        <para id="id249082">The following are some examples.</para>
+        <list id="id249088" display="block" list-type="enumerated">
+          <item id="uid81">The reaction between <emphasis effect="bold">ethene</emphasis> and <emphasis effect="bold">bromine</emphasis> to form 1,2-dibromoethane (<link target-id="uid82"/>).
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi> Br </m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>4</m:mn></m:msub><m:msub><m:mi> Br </m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math><figure id="uid82"><media id="uid82_media" alt=""><image mime-type="image/png" src="../../media/CG11C8_005.png" id="uid82_onlineimage" width="319"><!-- NOTE: attribute width changes image size online (pixels). original width is 319. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C8_005.eps" id="uid82_printimage"/></media><caption>The reaction between ethene and bromine is an example of an addition reaction</caption></figure></item>
+          <item id="uid83"><emphasis effect="bold">Polymerisation reactions</emphasis>
+In industry, making polymers is very important. A polymer is made up of lots of smaller units called <emphasis effect="italics">monomers</emphasis>. When these monomers are added together, they form a polymer. Examples of polymers are polyvinylchloride (PVC) and polystyrene. PVC is often used to make piping, while polystyrene is an important packaging and insulating material. Polystyrene is made up of lots of styrene monomers which are joined through addition reactions (<link target-id="uid84"/>). 'Polymerisation' refers to the addition reactions that eventually help to form the polystyrene polymer.
+<figure id="uid84"><media id="uid84_media" alt=""><image mime-type="image/png" src="../../media/CG11C8_006.png" id="uid84_onlineimage" width="405"><!-- NOTE: attribute width changes image size online (pixels). original width is 405. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C8_006.eps" id="uid84_printimage"/></media><caption>The polymerisation of a styrene monomer to form a polystyrene polymer</caption></figure></item>
+          <item id="uid85">The <emphasis effect="bold">hydrogenation</emphasis> of vegetable oils to form margarine is another example of an addition reaction. Hydrogenation involves adding hydrogen (H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) to an alkene. An alkene is an organic compound composed of carbon and hydrogen. It contains a double bond between two of the carbon atoms. If this bond is broken, it means that more hydrogen atoms can attach themselves to the carbon atoms. During hydrogenation, this double bond is broken, and more hydrogen atoms are added to the molecule. The reaction that takes place is shown below. Note that the 'R' represents any side-chain or the rest of the molecule. A side-chain is simply any combination of atoms that are attached to the central part of the molecule.
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi> RCHCH </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi> RCH </m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> CH </m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math></item>
+          <item id="uid86">The production of the alcohol ethanol from ethene. Ethanol (CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>OH) can be made from alkenes such as ethene (C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>), through a hydration reaction like the one below. A hydration reaction is one where water is added to the reactants.
+<equation id="id249399"><m:math overflow="scroll" mode="display"><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mo>→</m:mo><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mi>H</m:mi></m:mrow></m:math></equation>
+A catalyst is needed for this reaction to take place. The catalyst that is most commonly used is phosphoric acid.
+</item>
+        </list>
+      </section>
+      <section id="uid87">
+        <title>Elimination reactions</title>
+        <para id="id249476">An elimination reaction occurs when a reactant is broken up into two products. The general form of the equation is as follows:</para>
+        <equation id="id249481">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>A</m:mi>
+              <m:mo>→</m:mo>
+              <m:mi>B</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>C</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id249502">The examples below will help to explain this:</para>
+        <list id="id249506" display="block" list-type="enumerated">
+          <item id="uid88">
+The <emphasis effect="bold">dehydration of an alcohol</emphasis> is one example. Two hydrogen atoms and one oxygen atom are eliminated and a molecule of water is formed as a second product in the reaction, along with an alkene.
+
+<figure id="id249534"><media id="id249534_media" alt=""><image mime-type="image/png" src="../../media/dehydration_alcohol.png" id="id249534_onlineimage" width="431"><!-- NOTE: attribute width changes image size online (pixels). original width is 431. --></image><image mime-type="application/postscript" for="pdf" src="../../media/dehydration_alcohol.eps" id="id249534_printimage"/></media></figure><m:math overflow="scroll"><m:mrow><m:msub><m:mi> CH </m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi> CH </m:mi><m:mn>2</m:mn></m:msub><m:mi> OH </m:mi><m:mo>→</m:mo><m:msub><m:mi> CH </m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> CH </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math></item>
+          <item id="uid89">The elimination of <emphasis effect="bold">potassium bromide from a bromoalkane</emphasis>.
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi> CH </m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi> CH </m:mi><m:mn>2</m:mn></m:msub><m:mi> Br </m:mi><m:mo>+</m:mo><m:mi> KOH </m:mi><m:mo>→</m:mo><m:msub><m:mi> CH </m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> CH </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mi> KBr </m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math><figure id="id249696"><media id="id249696_media" alt=""><image mime-type="image/png" src="../../media/KBr_rearrange.png" id="id249696_onlineimage" width="550"><!-- NOTE: attribute width changes image size online (pixels). original width is 550. --></image><image mime-type="application/postscript" for="pdf" src="../../media/KBr_rearrange.eps" id="id249696_printimage"/></media></figure></item>
+          <item id="uid90">Ethane cracking is an important industrial process used by SASOL and other petrochemical industries. Hydrogen is eliminated from ethane (C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>) to produce an alkene called ethene (C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>). Ethene is then used to produce other products such as polyethylene. You will learn more about these compounds in Grade 12. The equation for the cracking of ethane looks like this:
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>6</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item>
+        </list>
+      </section>
+      <section id="uid91">
+        <title>Substitution reactions</title>
+        <para id="id249844">A substitution reaction occurs when an exchange of elements in the reactants takes place. The initial reactants are transformed or 'swopped around' to give a final product. A simple example of a reaction like this is shown below:</para>
+        <equation id="id249849">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>A</m:mi>
+              <m:mi>B</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>C</m:mi>
+              <m:mi>D</m:mi>
+              <m:mo>→</m:mo>
+              <m:mi>A</m:mi>
+              <m:mi>C</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>B</m:mi>
+              <m:mi>D</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id249883">Some simple examples of substitution reactions are shown below:</para>
+        <equation id="id249887">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>4</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mi>C</m:mi>
+              <m:msub>
+                <m:mi>l</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>→</m:mo>
+              <m:mi>C</m:mi>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:mi>C</m:mi>
+              <m:mi>l</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>H</m:mi>
+              <m:mi>C</m:mi>
+              <m:mi>l</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id249943">In this example, a chlorine atom and a hydrogen atom are exchanged to create a new product.</para>
+        <equation id="id249948">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:mi>u</m:mi>
+              <m:msubsup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:msub>
+                    <m:mi>H</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                  <m:mi>O</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>+</m:mo>
+                </m:mrow>
+              </m:msubsup>
+              <m:mo>+</m:mo>
+              <m:mn>4</m:mn>
+              <m:mi>C</m:mi>
+              <m:msup>
+                <m:mi>l</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mo>⇌</m:mo>
+              <m:mi>C</m:mi>
+              <m:mi>u</m:mi>
+              <m:msubsup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>C</m:mi>
+                  <m:mi>l</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>-</m:mo>
+                </m:mrow>
+              </m:msubsup>
+              <m:mo>+</m:mo>
+              <m:mn>4</m:mn>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi>O</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id250046">In this example, four waters and four chlorines are exchanged to create a new product.</para>
+<section id="secfhsst_id1166"><title> Addition, substitution and elimination reactions
+        </title>
+        <list id="id250063" display="block" list-type="enumerated">
+          <item id="uid92">Refer to the diagram below and then answer the questions that follow:
+<figure id="id250082"><media id="id250082_media" alt=""><image mime-type="image/png" src="../../media/addition_rxn.png" id="id250082_onlineimage" width="196"><!-- NOTE: attribute width changes image size online (pixels). original width is 196. --></image><image mime-type="application/postscript" for="pdf" src="../../media/addition_rxn.eps" id="id250082_printimage"/></media></figure><list id="id250088" display="block" list-type="enumerated"><item id="uid93">Is this reaction an example of substitution, elimination or addition?
+</item><item id="uid94">Give a reason for your answer above.
+</item></list></item>
+          <item id="uid95">The following diagram shows the reactants in an addition reaction.
+<figure id="id250134"><media id="id250134_media" alt=""><image mime-type="image/png" src="../../media/KCl_rearrange.png" id="id250134_onlineimage" width="515"><!-- NOTE: attribute width changes image size online (pixels). original width is 515. --></image><image mime-type="application/postscript" for="pdf" src="../../media/KCl_rearrange.eps" id="id250134_printimage"/></media></figure><list id="id250140" display="block" list-type="enumerated"><item id="uid96">Draw the final product in this reaction.
+</item><item id="uid97">What is the chemical formula of the product?
+</item></list></item>
+          <item id="uid98">The following reaction takes place:
+<figure id="id250185"><media id="id250185_media" alt=""><image mime-type="image/png" src="../../media/OH_rearrange.png" id="id250185_onlineimage" width="383"><!-- NOTE: attribute width changes image size online (pixels). original width is 383. --></image><image mime-type="application/postscript" for="pdf" src="../../media/OH_rearrange.eps" id="id250185_printimage"/></media></figure>
+Is this reaction a substitution, addition or dehydration reaction? Give a reason for your answer.
+</item>
+          <item id="uid99">
+Consider the following reaction:
+<m:math overflow="scroll"><m:mrow><m:mi> Ca </m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:mi> OH </m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi> NH </m:mi><m:mn>4</m:mn></m:msub><m:mi> Cl </m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msub><m:mi> CaCl </m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>
+Which one of the following best describes the type of reaction which takes place?
+<list id="id250342" display="block" list-type="enumerated"><item id="uid100">Redox reaction
+</item><item id="uid101">Acid-base reaction
+</item><item id="uid102">Dehydration reaction
+</item></list></item>
+        </list>
+        
+</section>
+      </section><para id="eip-237"><figure id="slidesharefigure3" class="slideshare">
+    	<media id="slidesharemedia3" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash3" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=typesofreactions-100512081352-phpapp02&amp;stripped_title=types-of-reactions-4068567&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para>
+    </section>
+    <section id="cid5">
+      <title>Summary</title>
+      <list id="id250403" display="block" list-type="bulleted">
+        <item id="uid103">There are many different <emphasis effect="bold">types of reactions</emphasis> that can take place. These include acid-base, acid-carbonate, redox, addition, substitution and elimination reactions.
+</item>
+        <item id="uid104">The <emphasis effect="bold">Arrhenius</emphasis> definition of acids and bases defines an acid as a substance that increases the concentration of hydrogen ions (H<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> or H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math>) in a solution. A base is a substance that increases the concentration of hydroxide ions (OH<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math>) in a solution. However this definition only applies to substances that are in water.
+</item>
+        <item id="uid105">The <emphasis effect="bold">Bronsted-Lowry</emphasis> definition is a much broader one. An <emphasis effect="bold">acid</emphasis> is a substance that <emphasis effect="bold">donates protons</emphasis> and a <emphasis effect="bold">base</emphasis> is a substance that <emphasis effect="bold">accepts protons</emphasis>.
+</item>
+        <item id="uid106">In different reactions, certain substances can act as both an acid and a base. These substances are called <emphasis effect="bold">ampholytes</emphasis> and are said to be <emphasis effect="bold">amphoteric</emphasis>. Water is an example of an amphoteric substance.
+</item>
+        <item id="uid107">A <emphasis effect="bold">conjugate acid-base pair</emphasis> refers to two compounds in a reaction (one reactant and one product) that transform or change into the other through the loss or gain of a proton.
+</item>
+        <item id="uid108">When an acid and a base react, they form a <emphasis effect="bold">salt</emphasis> and water. The salt is made up of a cation from the base and an anion from the acid. An example of a salt is sodium chloride (NaCl), which is the product of the reaction between sodium hydroxide (NaOH) and hydrochloric acid (HCl).
+</item>
+        <item id="uid109">The reaction between an acid and a base is a <emphasis effect="bold">neutralisation</emphasis> reaction.
+</item>
+        <item id="uid110"><emphasis effect="bold">Titrations</emphasis> are reactions between an acid and a base that are used to calculate the concentration of one of the reacting substances. The concentration of the other reacting substance must be known.
+</item>
+        <item id="uid111">In an <emphasis effect="bold">acid-carbonate reaction</emphasis>, an acid and a carbonate react to form a salt, carbon dioxide and water.
+</item>
+        <item id="uid112">A <emphasis effect="bold">redox reaction</emphasis> is one where there is always a change in the oxidation numbers of the elements that are involved in the reaction.
+</item>
+        <item id="uid113"><emphasis effect="bold">Oxidation</emphasis> is the loss of electrons and <emphasis effect="bold">reduction</emphasis> is the gain of electrons.
+</item>
+        <item id="uid114">When two or more reactants combine to form a product that contains all the atoms that were in the reactants, then this is an <emphasis effect="bold">addition reaction</emphasis>. Examples of addition reactions include the reaction between ethene and bromine, polymerisation reactions and hydrogenation reactions.
+</item>
+        <item id="uid115">A reaction where the reactant is broken down into one or more product, is called an <emphasis effect="bold">elimination reaction</emphasis>. Alcohol dehydration and ethane cracking are examples of elimination reactions.
+</item>
+        <item id="uid116">A <emphasis effect="bold">substitution reaction</emphasis> is one where the reactants are transformed or swopped around to form the final product.
+</item>
+      </list>
+<section id="secfhsst_id1226"><title> Summary Exercise
+      </title>
+      <list id="id250773" display="block" list-type="enumerated">
+        <item id="uid117">
+Give one word/term for each of the following descriptions:
+<list id="id250789" display="block" list-type="enumerated"><item id="uid118">A chemical reaction during which electrons are transferred
+</item><item id="uid119">The addition of hydrogen across a double bond
+</item><item id="uid120">The removal of hydrogen and halogen atoms from an alkane to form an alkene
+</item></list></item>
+        <item id="uid121">
+For each of the following, say whether the statement is true or false. If the statement is false, re-write the statement correctly.
+<list id="id250844" display="block" list-type="enumerated"><item id="uid122">The conjugate base of NH<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>+</m:mo></m:msubsup></m:math> is NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>.
+</item><item id="uid123">The reactions <m:math overflow="scroll"><m:mrow><m:mi mathvariant="normal">C</m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi> KClO </m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:mi> KCl </m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math> are examples of redox reactions.
+</item></list></item>
+        <item id="uid124">For each of the following questions, choose the one correct statement from the list provided.
+<list id="id250988" display="block" list-type="enumerated"><item id="uid125">
+The following chemical equation represents the formation of the hydronium ion:
+<m:math overflow="scroll"><m:mrow><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>3</m:mn></m:msub><m:msup><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>
+In this reaction, water acts as a Lewis base because it...
+<list id="id251092" display="block" list-type="enumerated"><item id="uid126">accepts protons
+</item><item id="uid127">donates protons
+</item><item id="uid128">accepts electrons
+</item><item id="uid129">donates electrons
+</item></list>
+(IEB Paper 2, 2005)
+</item><item id="uid130">
+When chlorine water (Cl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> dissolved in water) is added to a solution of potassium bromide, bromine is produced. Which one of the following statements concerning this reaction is correct?
+<list id="id251177" display="block" list-type="enumerated"><item id="uid131">Br<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> is oxidised
+</item><item id="uid132">Cl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> is oxidised
+</item><item id="uid133">Br<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> is the oxidising agent
+</item><item id="uid134">Cl<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> is the oxidising agent
+</item></list>
+(IEB Paper 2, 2005)
+</item></list></item>
+        <item id="uid135">
+The stomach secretes gastric juice, which contains hydrochloric acid. The gastric juice helps with digestion. Sometimes there is an overproduction of acid, leading to heartburn or indigestion. Antacids, such as milk of magnesia, can be taken to neutralise the excess acid. Milk of magnesia is only slightly soluble in water and has the chemical formula Mg(OH)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>.
+<list id="id251315" display="block" list-type="enumerated"><item id="uid136">Write a balanced chemical equation to show how the antacid reacts with the acid.
+</item><item id="uid137">The directions on the bottle recommend that children under the age of 12 years take one teaspoon of milk of magnesia, whereas adults can take two teaspoons of the antacid. Briefly explain why the dosages are different.
+</item><item id="uid138">Why is it not advisable to take an overdose of the antacid in the stomach? Refer to the hydrochloric acid concentration in the stomach in your answer.
+<emphasis effect="italics">In an experiment, 25.0 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of a standard solution of sodium carbonate of concentration 0.1 mol.dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> was used to neutralise 35.0 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of a solution of hydrochloric acid.</emphasis></item><item id="uid139">Write a balanced chemical equation for the reaction.
+</item><item id="uid140">Calculate the concentration of the acid.
+</item></list>
+(DoE Grade 11 Exemplar, 2007)
+</item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

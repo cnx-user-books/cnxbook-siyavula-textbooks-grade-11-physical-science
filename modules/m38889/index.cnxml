@@ -1,0 +1,2231 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Resistance</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38889</md:content-id>
+  <md:title>Resistance</md:title>
+  <md:abstract/>
+  <md:uuid>f9694022-772a-49d4-8679-27e57d66acc8</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Resistance</title>
+      <para id="id63883">In Grade 10, you learnt about resistors and were introduced to circuits where resistors were connected in series and circuits where resistors were connected in parallel. In a series circuit there is one path for the current to flow through. In a parallel circuit there are multiple paths for the current to flow through.</para>
+      <para id="id63889">
+        <figure id="id63892">
+          <media id="id63892_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C9_006.png" id="id63892_onlineimage" width="531"><!-- NOTE: attribute width changes image size online (pixels). original width is 531. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_006.eps" id="id63892_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <section id="uid21">
+        <title>Equivalent resistance</title>
+        <para id="id63907">When there is more than one resistor in a circuit, we are usually able to calculate the total combined resitance of all the resistors. The resistance of the single resistor is known as <emphasis effect="italics">equivalent resistance</emphasis>.</para>
+        <section id="uid22">
+          <title>Equivalent Series Resistance</title>
+          <para id="id63926">Consider a circuit consisting of three resistors and a
+single cell connected in series.</para>
+          <para id="id63930">
+            <figure id="id63934">
+              <media id="id63934_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C9_007.png" id="id63934_onlineimage" width="247"><!-- NOTE: attribute width changes image size online (pixels). original width is 247. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_007.eps" id="id63934_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id63940">The first principle to understand about series circuits is that the amount of current is the same through any component in the circuit. This is because there is only one path for electrons to flow in a series circuit. From the way that the battery is connected, we can tell which direction the current will flow. We know that current flows from positive to negative, by convention. Current in this circuit will flow in a clockwise direction, from point A to B to C to D and back to A.</para>
+          <para id="id63948">So, how do we use this knowledge to calculate the total resistance in the circuit?</para>
+          <para id="id63952">We know that in a series circuit the current has to be the same in all components. So we can write:</para>
+          <equation id="uid23">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>I</m:mi>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>I</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>I</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>I</m:mi>
+                  <m:mn>3</m:mn>
+                </m:msub>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id64002">We also know that total voltage of the circuit has to be equal to the sum of the voltages over all three resistors. So we can write:</para>
+          <equation id="uid24">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>V</m:mi>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>+</m:mo>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo>+</m:mo>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mn>3</m:mn>
+                </m:msub>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id64051">Finally, we know that Ohm's Law has to apply for each resistor individually, which gives us:</para>
+          <equation id="id64056">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>I</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>·</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>I</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>·</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mn>3</m:mn>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>I</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:msub>
+                      <m:mo>·</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id64177">Therefore:</para>
+          <equation id="id64183">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>V</m:mi>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>I</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>·</m:mo>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>+</m:mo>
+                <m:msub>
+                  <m:mi>I</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo>·</m:mo>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo>+</m:mo>
+                <m:msub>
+                  <m:mi>I</m:mi>
+                  <m:mn>3</m:mn>
+                </m:msub>
+                <m:mo>·</m:mo>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mn>3</m:mn>
+                </m:msub>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id64253">However, because</para>
+          <equation id="id64259">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>I</m:mi>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>I</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>I</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>I</m:mi>
+                  <m:mn>3</m:mn>
+                </m:msub>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id64300">, we can further simplify this to:</para>
+          <equation id="id64306">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>V</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>I</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:mi>I</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:mi>I</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>I</m:mi>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id64415">Further, we can write an Ohm's Law relation for the entire circuit:</para>
+          <equation id="id64421">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>V</m:mi>
+                <m:mo>=</m:mo>
+                <m:mi>I</m:mi>
+                <m:mo>·</m:mo>
+                <m:mi>R</m:mi>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id64442">Therefore:</para>
+          <equation id="id64447">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>V</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>I</m:mi>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>I</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:mi>R</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>I</m:mi>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mspace width="1.em"/>
+                      <m:mi>R</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+<definition id="fhsst_id788"><term id="termfhsst_id788"> Equivalent resistance in a series circuit, <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mi>s</m:mi></m:msub></m:math> </term> <meaning id="meaningfhsst_id788">
+          <para id="id64628">For <m:math overflow="scroll"><m:mi>n</m:mi></m:math> resistors in series the equivalent resistance is:</para>
+          <equation id="uid25">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mi>s</m:mi>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>+</m:mo>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo>+</m:mo>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mn>3</m:mn>
+                </m:msub>
+                <m:mo>+</m:mo>
+                <m:mo>⋯</m:mo>
+                <m:mo>+</m:mo>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mi>n</m:mi>
+                </m:msub>
+              </m:mrow>
+            </m:math>
+          </equation>
+          
+          </meaning></definition>
+          <para id="eip-621">You can use the following simulation to test this result and all other results in this chapter.
+<figure id="id63458"><media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/circuit-kit.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/circuit-kit.eps" id="id63458_printimage"/>
+            </media>
+            </figure>
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/circuit-construction-kit/circuit-construction-kit-dc_en.jnlp">run demo</link></para><para id="id64719">Let us apply this to the following circuit.</para>
+          <para id="id64722">
+            <figure id="id64726">
+              <media id="id64726_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C9_008.png" id="id64726_onlineimage" width="283"><!-- NOTE: attribute width changes image size online (pixels). original width is 283. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_008.eps" id="id64726_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id64732">The resistors are in series, therefore:</para>
+          <equation id="id64736">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>R</m:mi>
+                      <m:mi>s</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi>Ω</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>10</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi>Ω</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi>Ω</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>18</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi>Ω</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+<para id="eip-858"><figure id="electric-circuits-1" class="khanacademy">
+	  <title>Khan academy video on electric circuits - 1</title>
+	  <media id="yt-media1" display="block" alt="video on electric circuits 1">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/7vHh1sfZ5KE&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><exercise id="secfhsst_id903"><title> Equivalent series resistance I </title>
+          <problem id="probfhsst_id904">
+          <para id="id64862">Two 10 k<m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> resistors are connected in series. Calculate the equivalent resistance. </para>
+          </problem>
+          <solution id="solfhsst_id907"> <list id="listfhsst_id907" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Determine how to approach the problem </label>
+          <para id="id64896">Since the resistors are in series we can use:</para>
+          <equation id="id64899">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mi>s</m:mi>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>+</m:mo>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+            </m:math>
+          </equation>
+          </item> <item> <label> Solve the problem </label>
+          <equation id="id64940">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>R</m:mi>
+                      <m:mi>s</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>10</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">k</m:mi>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi>Ω</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>10</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">k</m:mi>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi>Ω</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>20</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">k</m:mi>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi>Ω</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Write the final answer </label>
+          <para id="id65061">The equivalent resistance of two 10 k<m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> resistors connected in series is 20 k<m:math overflow="scroll"><m:mi>Ω</m:mi></m:math>. </para>
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1001"><title> Equivalent series resistance II </title>
+          <problem id="probfhsst_id1002">
+          <para id="id65108">Two resistors are connected in series. The equivalent resistance is 100 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math>. If one resistor is 10 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math>, calculate the value of the second resistor. </para>
+          </problem>
+          <solution id="solfhsst_id1005"> <list id="listfhsst_id1005" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Determine how to approach the problem </label>
+          <para id="id65152">Since the resistors are in series we can use:</para>
+          <equation id="id65155">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mi>s</m:mi>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>+</m:mo>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id65192">We are given the value of <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mi>s</m:mi></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math>.</para>
+          </item> <item> <label> Solve the problem </label>
+          <equation id="id65230">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>R</m:mi>
+                      <m:mi>s</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mspace width="1.em"/>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mi>s</m:mi>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>100</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi>Ω</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mn>10</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi>Ω</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>90</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi>Ω</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Write the final answer </label>
+          <para id="id65371">The second resistor has a resistance of 90 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math>. </para>
+          </item> </list> </solution>
+</exercise>
+        </section>
+        <section id="uid26">
+          <title>Equivalent parallel resistance</title>
+          <para id="id65406">Consider a circuit consisting of a single cell and three resistors that are connected in parallel.</para>
+          <para id="id65410">
+            <figure id="id65414">
+              <media id="id65414_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C9_009.png" id="id65414_onlineimage" width="358"><!-- NOTE: attribute width changes image size online (pixels). original width is 358. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_009.eps" id="id65414_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id65420">The first principle to understand about parallel circuits is that the
+voltage is equal across all components in the circuit. This is because there are only two sets of electrically common points in a parallel circuit, and voltage measured between sets of common points must always be the same at any given time. So, for the circuit shown, the following is true:</para>
+          <equation id="uid27">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>V</m:mi>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mn>3</m:mn>
+                </m:msub>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id65473">The second principle for a parallel circuit is that all the currents through each resistor must add up to the total current in the circuit.</para>
+          <equation id="uid28">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>I</m:mi>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mi>I</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>+</m:mo>
+                <m:msub>
+                  <m:mi>I</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo>+</m:mo>
+                <m:msub>
+                  <m:mi>I</m:mi>
+                  <m:mn>3</m:mn>
+                </m:msub>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id65522">Also, from applying Ohm's Law to the entire circuit, we can write:</para>
+          <equation id="id65526">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>V</m:mi>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:mi>I</m:mi>
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mi>p</m:mi>
+                  </m:msub>
+                </m:mfrac>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id65552">where <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mi>p</m:mi></m:msub></m:math> is the equivalent resistance in this parallel arrangement.</para>
+          <para id="id65572">We are now ready to apply Ohm's Law to each resistor, to get:</para>
+          <equation id="id65576">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>·</m:mo>
+                      <m:msub>
+                        <m:mi>I</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>·</m:mo>
+                      <m:msub>
+                        <m:mi>I</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mn>3</m:mn>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:msub>
+                      <m:mo>·</m:mo>
+                      <m:msub>
+                        <m:mi>I</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id65698">This can be also written as:</para>
+          <equation id="id65704">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>I</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:msub>
+                        <m:mi>V</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>I</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:msub>
+                        <m:mi>V</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>I</m:mi>
+                      <m:mn>3</m:mn>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:msub>
+                        <m:mi>V</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:msub>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id65822">Now we have:</para>
+          <equation id="id65825">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>I</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>I</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>I</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>I</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mfrac>
+                      <m:mi>V</m:mi>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mi>p</m:mi>
+                      </m:msub>
+                    </m:mfrac>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:msub>
+                          <m:mi>V</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:msub>
+                      </m:mfrac>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:msub>
+                          <m:mi>V</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msub>
+                      </m:mfrac>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:msub>
+                          <m:mi>V</m:mi>
+                          <m:mn>3</m:mn>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mn>3</m:mn>
+                        </m:msub>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mi>V</m:mi>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:msub>
+                      </m:mfrac>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:mi>V</m:mi>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msub>
+                      </m:mfrac>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:mi>V</m:mi>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mn>3</m:mn>
+                        </m:msub>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi> because </m:mi>
+                  </m:mtd>
+                  <m:mtd/>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>V</m:mi>
+                      <m:mo>=</m:mo>
+                      <m:msub>
+                        <m:mi>V</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>=</m:mo>
+                      <m:msub>
+                        <m:mi>V</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>=</m:mo>
+                      <m:msub>
+                        <m:mi>V</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>V</m:mi>
+                      <m:mfenced separators="" open="(" close=")">
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:msub>
+                            <m:mi>R</m:mi>
+                            <m:mn>1</m:mn>
+                          </m:msub>
+                        </m:mfrac>
+                        <m:mo>+</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:msub>
+                            <m:mi>R</m:mi>
+                            <m:mn>2</m:mn>
+                          </m:msub>
+                        </m:mfrac>
+                        <m:mo>+</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:msub>
+                            <m:mi>R</m:mi>
+                            <m:mn>3</m:mn>
+                          </m:msub>
+                        </m:mfrac>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mspace width="1.em"/>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mi>p</m:mi>
+                        </m:msub>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfenced separators="" open="(" close=")">
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:msub>
+                      </m:mfrac>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msub>
+                      </m:mfrac>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mn>3</m:mn>
+                        </m:msub>
+                      </m:mfrac>
+                    </m:mfenced>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+<definition id="fhsst_id1576"><term id="termfhsst_id1576"> Equivalent resistance in a parallel circuit, <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mi>p</m:mi></m:msub></m:math> </term> <meaning id="meaningfhsst_id1576">
+          <para id="id66206">For <m:math overflow="scroll"><m:mi>n</m:mi></m:math> resistors in parallel, the equivalent resistance is:</para>
+          <equation id="uid29">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mn>1</m:mn>
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mi>p</m:mi>
+                  </m:msub>
+                </m:mfrac>
+                <m:mo>=</m:mo>
+                <m:mfenced separators="" open="(" close=")">
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:msub>
+                      <m:mi>R</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mfrac>
+                  <m:mo>+</m:mo>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:msub>
+                      <m:mi>R</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mfrac>
+                  <m:mo>+</m:mo>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:msub>
+                      <m:mi>R</m:mi>
+                      <m:mn>3</m:mn>
+                    </m:msub>
+                  </m:mfrac>
+                  <m:mo>+</m:mo>
+                  <m:mo>⋯</m:mo>
+                  <m:mo>+</m:mo>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:msub>
+                      <m:mi>R</m:mi>
+                      <m:mi>n</m:mi>
+                    </m:msub>
+                  </m:mfrac>
+                </m:mfenced>
+              </m:mrow>
+            </m:math>
+          </equation>
+          
+          </meaning></definition>
+          <para id="id66324">Let us apply this formula to the following circuit.</para>
+          <para id="id66328">
+            <figure id="id66331">
+              <media id="id66331_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C9_010.png" id="id66331_onlineimage" width="408"><!-- NOTE: attribute width changes image size online (pixels). original width is 408. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_010.eps" id="id66331_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id66338">What is the total resistance in the circuit?</para>
+          <equation id="id66342">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mi>p</m:mi>
+                      </m:msub>
+                    </m:mfrac>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfenced separators="" open="(" close=")">
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:msub>
+                      </m:mfrac>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msub>
+                      </m:mfrac>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mn>3</m:mn>
+                        </m:msub>
+                      </m:mfrac>
+                    </m:mfenced>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfenced separators="" open="(" close=")">
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mrow>
+                          <m:mn>10</m:mn>
+                          <m:mspace width="0.166667em"/>
+                          <m:mi>Ω</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mspace width="0.166667em"/>
+                          <m:mi>Ω</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mrow>
+                          <m:mn>1</m:mn>
+                          <m:mspace width="0.166667em"/>
+                          <m:mi>Ω</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mfenced>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfenced separators="" open="(" close=")">
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mn>1</m:mn>
+                          <m:mo>+</m:mo>
+                          <m:mn>5</m:mn>
+                          <m:mo>+</m:mo>
+                          <m:mn>10</m:mn>
+                        </m:mrow>
+                        <m:mn>10</m:mn>
+                      </m:mfrac>
+                    </m:mfenced>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfenced separators="" open="(" close=")">
+                      <m:mfrac>
+                        <m:mn>16</m:mn>
+                        <m:mn>10</m:mn>
+                      </m:mfrac>
+                    </m:mfenced>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mspace width="1.em"/>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mi>p</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>625</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi>Ω</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+        </section><para id="eip-161"><figure id="electric-circuits-2" class="khanacademy">
+	  <title>Khan academy video on electric circuits 2</title>
+	  <media id="yt-media2" display="block" alt="video on electric circuits 2">
+	  <flash id="yt-video2" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/ZrMw7P6P2Gw&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><para id="eip-113"><figure id="electric-circuits-3" class="khanacademy">
+	  <title>Khan academy video on electric circuits 3</title>
+	  <media id="yt-media3" display="block" alt="video on electric circuits 3">
+	  <flash id="yt-video3" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/3NcIK0s3IwU&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para>
+      </section>
+      <section id="uid30">
+        <title>Use of Ohm's Law in series and parallel Circuits</title>
+<exercise id="secfhsst_id1784"><title> Ohm's Law </title>
+        <problem id="probfhsst_id1785">
+        <para id="id66598">Calculate the current (<m:math overflow="scroll"><m:mi>I</m:mi></m:math>) in this circuit if the resistors are both ohmic in nature. </para>
+        </problem>
+        <solution id="solfhsst_id1788"> 
+        <para id="id66625">
+          <figure id="id66628">
+            <media id="id66628_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C9_011.png" id="id66628_onlineimage" width="246"><!-- NOTE: attribute width changes image size online (pixels). original width is 246. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_011.eps" id="id66628_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <list id="listfhsst_id1788" list-type="enumerated" number-style="arabic" class="stepwise">
+       
+        <item> <label> Determine what is required </label>
+        <para id="id66654">We are required to calculate the current flowing in the circuit.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id66662">Since the resistors are Ohmic in nature, we can use Ohm's Law. There are however two resistors in the circuit and we need to find the total resistance.</para>
+        </item> <item> <label> Find total resistance in circuit </label>
+        <para id="id66670">Since the resistors are connected in series, the total resistance <m:math overflow="scroll"><m:mi>R</m:mi></m:math> is:</para>
+        <equation id="id66684">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>R</m:mi>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>R</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>R</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id66715">Therefore,</para>
+        <equation id="id66718">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>R</m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>2</m:mn>
+              <m:mo>+</m:mo>
+              <m:mn>4</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>6</m:mn>
+              <m:mspace width="0.277778em"/>
+              <m:mspace width="0.166667em"/>
+              <m:mi>Ω</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Apply Ohm's Law </label>
+        <equation id="id66755">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>V</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>R</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>I</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>∴</m:mo>
+                    <m:mspace width="1.em"/>
+                    <m:mi>I</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi>V</m:mi>
+                    <m:mi>R</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>12</m:mn>
+                    <m:mn>6</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mspace width="0.277778em"/>
+                    <m:mi mathvariant="normal">A</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the final answer </label>
+        <para id="id66853">A 2 A current is flowing in the circuit.</para>
+ </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1907"><title> Ohm's Law I </title>
+        <problem id="probfhsst_id1908">
+        <para id="id66870">Calculate the current (<m:math overflow="scroll"><m:mi>I</m:mi></m:math>) in this circuit if the resistors are both ohmic in nature. </para>
+        </problem>
+        <solution id="solfhsst_id1911"> 
+        <para id="id66897">
+          <figure id="id66900">
+            <media id="id66900_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C9_012.png" id="id66900_onlineimage" width="183"><!-- NOTE: attribute width changes image size online (pixels). original width is 183. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_012.eps" id="id66900_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <list id="listfhsst_id1911" list-type="enumerated" number-style="arabic" class="stepwise">
+        
+        <item> <label> Determine what is required </label>
+        <para id="id66926">We are required to calculate the current flowing in the circuit.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id66933">Since the resistors are Ohmic in nature, we can use Ohm's Law. There are however two resistors in the circuit and we need to find the total resistance.</para>
+        </item> <item> <label> Find total resistance in circuit </label>
+        <para id="id66942">Since the resistors are connected in parallel, the total resistance <m:math overflow="scroll"><m:mi>R</m:mi></m:math> is:</para>
+        <equation id="id66955">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mi>R</m:mi>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+              </m:mfrac>
+              <m:mo>+</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id66999">Therefore,</para>
+        <equation id="id67004">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mi>R</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                    </m:mfrac>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:msub>
+                        <m:mi>R</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>4</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                    <m:mn>4</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>3</m:mn>
+                    <m:mn>4</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>T</m:mi>
+                    <m:mi>h</m:mi>
+                    <m:mi>e</m:mi>
+                    <m:mi>r</m:mi>
+                    <m:mi>e</m:mi>
+                    <m:mi>f</m:mi>
+                    <m:mi>o</m:mi>
+                    <m:mi>r</m:mi>
+                    <m:mi>e</m:mi>
+                    <m:mo>,</m:mo>
+                    <m:mi>R</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>33</m:mn>
+                    <m:mspace width="0.277778em"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi>Ω</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Apply Ohm's Law </label>
+        <equation id="id67177">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>V</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>R</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>I</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>∴</m:mo>
+                    <m:mspace width="1.em"/>
+                    <m:mi>I</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi>V</m:mi>
+                    <m:mi>R</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>12</m:mn>
+                    <m:mfrac>
+                      <m:mn>4</m:mn>
+                      <m:mn>3</m:mn>
+                    </m:mfrac>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>9</m:mn>
+                    <m:mspace width="0.277778em"/>
+                    <m:mi mathvariant="normal">A</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the final answer </label>
+        <para id="id67279">A 9 A current is flowing in the circuit.</para>
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2139"><title> Ohm's Law II </title>
+        <problem id="probfhsst_id2140">
+        <para id="id67296">Two ohmic resistors (<m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math>) are connected in series with a cell. Find the resistance of <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math>, given that the current flowing through <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> is 0,25 A and that the voltage across the cell is 1,5 V. <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math>=1 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math>. </para>
+        </problem>
+        <solution id="solfhsst_id2143"> <list id="listfhsst_id2143" list-type="enumerated" number-style="arabic" class="stepwise">
+         <item> <label> Draw the circuit and fill in all known values. </label>
+        <para id="id67415">
+          <figure id="id67419">
+            <media id="id67419_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C9_013.png" id="id67419_onlineimage" width="234"><!-- NOTE: attribute width changes image size online (pixels). original width is 234. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_013.eps" id="id67419_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Determine how to approach the problem. </label>
+        <para id="id67429">We can use Ohm's Law to find the total resistance <m:math overflow="scroll"><m:mi>R</m:mi></m:math> in the circuit, and then calculate the unknown resistance using:</para>
+        <equation id="id67443">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>R</m:mi>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>R</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>R</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id67473">because it is in a series circuit.</para>
+        </item> <item> <label> Find the total resistance </label>
+        <equation id="id67483">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>V</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>R</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>I</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>∴</m:mo>
+                    <m:mspace width="1.em"/>
+                    <m:mi>R</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi>V</m:mi>
+                    <m:mi>I</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>25</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>6</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi>Ω</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Find the unknown resistance </label>
+        <para id="id67590">We know that:</para>
+        <equation id="id67593">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>R</m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>6</m:mn>
+              <m:mspace width="0.166667em"/>
+              <m:mi>Ω</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id67615">and that</para>
+        <equation id="id67621">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>R</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mn>1</m:mn>
+              <m:mspace width="0.166667em"/>
+              <m:mi>Ω</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id67648">Since</para>
+        <equation id="id67654">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>R</m:mi>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>R</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>R</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id67685">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>R</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mi>R</m:mi>
+              <m:mo>-</m:mo>
+              <m:msub>
+                <m:mi>R</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id67716">Therefore,</para>
+        <equation id="id67722">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>R</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mn>5</m:mn>
+              <m:mspace width="0.166667em"/>
+              <m:mi>Ω</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid31">
+        <title>Batteries and internal resistance</title>
+        <para id="id67776">Real batteries are made from materials which have resistance. This means that real batteries are not just sources of potential difference (voltage), but they also possess internal resistance. If the total voltage source is referred to as the emf, <m:math overflow="scroll"><m:mi mathvariant="script">E</m:mi></m:math>, then a real battery can be represented as an emf connected in series with a resistor <m:math overflow="scroll"><m:mi>r</m:mi></m:math>. The internal resistance of the battery is represented by the symbol <m:math overflow="scroll"><m:mi>r</m:mi></m:math>.</para>
+        <para id="id67812">
+          <figure id="id67815">
+            <media id="id67815_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C9_014.png" id="id67815_onlineimage" width="169"><!-- NOTE: attribute width changes image size online (pixels). original width is 169. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_014.eps" id="id67815_printimage"/>
+            </media>
+          </figure>
+        </para>
+<definition id="fhsst_id2339"><term id="termfhsst_id2339"> Load </term> <meaning id="meaningfhsst_id2339">
+        <para id="id67827">The external resistance in the circuit is referred to as the load. </para>
+        </meaning></definition>
+        <para id="id67839">Suppose that the battery with emf <m:math overflow="scroll"><m:mi mathvariant="script">E</m:mi></m:math> and internal resistance <m:math overflow="scroll"><m:mi>r</m:mi></m:math> supplies a current <m:math overflow="scroll"><m:mi>I</m:mi></m:math> through an external load resistor <m:math overflow="scroll"><m:mi>R</m:mi></m:math>. Then the voltage drop across the load resistor is that supplied by the battery:</para>
+        <equation id="id67882">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>V</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>I</m:mi>
+              <m:mo>·</m:mo>
+              <m:mi>R</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id67902">Similarly, from Ohm's Law, the voltage drop across the internal resistance is:</para>
+        <equation id="id67908">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mi>r</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mi>I</m:mi>
+              <m:mo>·</m:mo>
+              <m:mi>r</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id67935">The voltage <m:math overflow="scroll"><m:mi>V</m:mi></m:math> of the battery is related to its emf <m:math overflow="scroll"><m:mi mathvariant="script">E</m:mi></m:math> and internal resistance <m:math overflow="scroll"><m:mi>r</m:mi></m:math> by:</para>
+        <equation id="id67967">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi mathvariant="script">E</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>V</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>I</m:mi>
+                    <m:mi>r</m:mi>
+                    <m:mo>;</m:mo>
+                    <m:mi>o</m:mi>
+                    <m:mi>r</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>V</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi mathvariant="script">E</m:mi>
+                    <m:mo>-</m:mo>
+                    <m:mi>I</m:mi>
+                    <m:mi>r</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id68035">The emf of a battery is essentially constant because it only depends on the chemical reaction (that converts chemical energy into electrical energy) going on inside the battery. Therefore, we can see that the voltage across the terminals of the battery is dependent on the current drawn by the load. The higher the current, the lower the voltage across the terminals, because the emf is constant. By the same reasoning, the voltage only equals the emf when the current is very small.</para>
+        <para id="id68042">The maximum current that can be drawn from a battery is limited by a critical value <m:math overflow="scroll"><m:msub><m:mi>I</m:mi><m:mi>c</m:mi></m:msub></m:math>. At a current of <m:math overflow="scroll"><m:msub><m:mi>I</m:mi><m:mi>c</m:mi></m:msub></m:math>, <m:math overflow="scroll"><m:mi>V</m:mi></m:math>=0 V. Then, the equation becomes:</para>
+        <equation id="id68085">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mn>0</m:mn>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi mathvariant="script">E</m:mi>
+                    <m:mo>-</m:mo>
+                    <m:msub>
+                      <m:mi>I</m:mi>
+                      <m:mi>c</m:mi>
+                    </m:msub>
+                    <m:mi>r</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>I</m:mi>
+                      <m:mi>c</m:mi>
+                    </m:msub>
+                    <m:mi>r</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mi mathvariant="script">E</m:mi>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>I</m:mi>
+                    <m:mi>c</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi mathvariant="script">E</m:mi>
+                    <m:mi>r</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id68179">The maximum current that can be drawn from a battery is less than <m:math overflow="scroll"><m:mfrac><m:mi mathvariant="script">E</m:mi><m:mi>r</m:mi></m:mfrac></m:math>.</para>
+<exercise id="secfhsst_id2473"><title> Internal resistance </title>
+        <problem id="probfhsst_id2474">
+        <para id="id68213">What is the internal resistance of a battery if its emf is 12 V and the voltage drop across its terminals is 10 V when a current of 4 A flows in the circuit when it is connected across a load? </para>
+        </problem>
+        <solution id="solfhsst_id2477"> <list id="listfhsst_id2477" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine how to approach the problem </label>
+        <para id="id68240">It is an internal resistance problem. So we use the equation:</para>
+        <equation id="id68244">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi mathvariant="script">E</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>V</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>I</m:mi>
+                    <m:mi>r</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Solve the problem </label>
+        <equation id="id68284">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi mathvariant="script">E</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>V</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>I</m:mi>
+                    <m:mi>r</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mn>12</m:mn>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>10</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:mo>(</m:mo>
+                    <m:mi>r</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the final answer </label>
+        <para id="id68368">The internal resistance of the resistor is 0.5 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math>. </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id2560"><title> Resistance </title>
+        <list id="id68400" display="block" list-type="enumerated">
+          <item id="uid32">Calculate the equivalent resistance of:
+<list id="id68416" display="block" list-type="enumerated"><item id="uid33">three 2 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> resistors in series;
+</item><item id="uid34">two 4 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> resistors in parallel;
+</item><item id="uid35">a 4 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> resistor in series with a 8 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> resistor;
+</item><item id="uid36">a 6 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> resistor in series with two resistors (4 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> and 2 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> ) in parallel.
+</item></list></item>
+          <item id="uid37">Calculate the total current in this circuit if both resistors are ohmic.
+<figure id="id68549"><media id="id68549_media" alt=""><image mime-type="image/png" src="../../media/PG11C9_015.png" id="id68549_onlineimage" width="179"><!-- NOTE: attribute width changes image size online (pixels). original width is 179. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_015.eps" id="id68549_printimage"/></media></figure></item>
+          <item id="uid38">Two ohmic resistors are connected in series. The resistance of the one resistor is 4 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> . What is the resistance of the other resistor if a current of 0,5 A flows through the resistors when they are connected to a voltage supply of 6 V.
+</item>
+          <item id="uid39">Describe what is meant by the <emphasis effect="italics">internal resistance</emphasis> of a real battery.
+</item>
+          <item id="uid40">Explain why there is a difference between the emf and terminal voltage of a battery if the load (external resistance in the circuit) is comparable in size to the battery's internal resistance
+</item>
+          <item id="uid41">What is the internal resistance of a battery if its emf is 6 V and the voltage drop across its terminals is 5,8 V when a current of 0,5 A flows in the circuit when it is connected across a load?
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

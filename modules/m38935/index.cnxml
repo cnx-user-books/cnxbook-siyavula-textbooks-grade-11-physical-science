@@ -1,0 +1,47 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Sources of radiation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38935</md:content-id>
+  <md:title>Sources of radiation</md:title>
+  <md:abstract/>
+  <md:uuid>eb3ba06b-531f-4874-8cae-996ca378981e</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Sources of radiation</title>
+      <para id="id64187">The sources of radiation can be either <emphasis effect="bold">natural</emphasis> or <emphasis effect="bold">man-made</emphasis>.</para>
+      <section id="uid22">
+        <title>Natural background radiation</title>
+        <list id="id64211" display="block" list-type="bulleted">
+          <item id="uid23"><emphasis effect="italics">Cosmic radiation</emphasis>
+The Earth, and all living things on it, are constantly bombarded by radiation from space. Charged particles from the sun and stars interact with the Earth's atmosphere and magnetic field to produce a shower of radiation, which is mostly beta and gamma radiation. The amount of cosmic radiation varies in different parts of the world because of differences in elevation and also the effects of the Earth's magnetic field.
+</item>
+          <item id="uid24"><emphasis effect="italics">Terrestrial Radiation</emphasis>
+Radioactive material is found throughout nature. It occurs naturally in the soil, water, and vegetation. The major isotopes that are of concern are uranium and the decay products of uranium, such as thorium, radium, and radon. Low levels of uranium, thorium, and their decay products are found everywhere. Some of these materials are ingested (taken in) with food and water, while others are breathed in. The dose of radiation from terrestrial sources varies in different parts of the world.
+</item>
+        </list>
+<note id="notfhsst_id324"><title> Interesting Fact </title> 
+Cosmic and terrestrial radiation are not the only natural sources. All people have radioactive potassium-40, carbon-14, lead-210 and other isotopes inside their bodies from birth.
+</note>
+      </section>
+      <section id="uid25">
+        <title>Man-made sources of radiation</title>
+        <para id="id64278">Although all living things are exposed to natural background radiation, there are other sources of radiation. Some of these will affect most members of the public, while others will only affect those people who are exposed to radiation through their work.</para>
+        <list id="id64283" display="block" list-type="bulleted">
+          <item id="uid26"><emphasis effect="italics">Members of the Public</emphasis>
+Man-made radiation sources that affect members of the public include televisions, tobacco (polonium-210), combustible fuels, smoke detectors (americium), luminous watches (tritium) and building materials. By far, the most significant source of man-made radiation exposure to the public is from medical procedures, such as diagnostic x-rays, nuclear medicine, and radiation therapy. Some of the major isotopes involved are I-131, Tc-99m, Co-60, Ir-192, and Cs-137. The production of nuclear fuel using uranium is also a source of radiation for the public, as is fallout from nuclear weapons testing or use.
+</item>
+          <item id="uid27"><emphasis effect="italics">Individuals who are exposed through their work</emphasis>
+Any people who work in the following environments are exposed to radiation at some time: radiology (X-ray) departments, nuclear power plants, nuclear medicine departments, high-energy physics, x-ray crystallography (study of crystal structure) and radiation oncology (the study of cancer) departments. Some of the isotopes that are of concern are cobalt-60, cesium-137, and americium-241
+</item>
+        </list>
+<note id="notfhsst_id339"><title> Interesting Fact </title> 
+Radiation therapy (or radiotherapy) uses ionising radiation as part of cancer treatment to control malignant cells. In cancer, a malignant cell is one that divides very rapidly to produce many more cells. These groups of dividing cells can form a growth or <emphasis effect="bold">tumour</emphasis>. The malignant cells in the tumour can take nutrition away from other healthy body cells, causing them to die, or can increase the pressure in parts of the body because of the space that they take up. Radiation therapy uses radiation to try to target these malignant cells and kill them. However, the radiation can also damage other, healthy cells in the body. To stop this from happening, shaped radiation beams are aimed from several angles to intersect at the tumour, so that the radiation dose here is much higher than in the surrounding, healthy tissue. But even doing this doesn't protect all the healthy cells, and that is why people have side-effects to this treatment.
+        <para id="id62474">Note that radiation therapy is different from chemotherapy, which uses <emphasis effect="italics">chemicals</emphasis>, rather than radiation, to destroy malignant cells. Generally, the side effects of chemotherapy are greater because the treatment is not as localised as it is with radiation therapy. The chemicals travel throughout the body, affecting many healthy cells.</para>
+</note>
+      </section>
+    </section>
+ 
+  </content>
+</document>

@@ -1,0 +1,608 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Standing waves in wind instruments</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39041</md:content-id>
+  <md:title>Standing waves in wind instruments</md:title>
+  <md:abstract/>
+  <md:uuid>1fd15762-8e1a-427f-a94f-3737fa5261ed</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Standing Waves in Wind Instruments</title>
+      <para id="id145157">A wind instrument is an instrument that is usually made with a pipe or thin tube.
+Examples of wind instruments are recorders, clarinets, flutes, organs etc.</para>
+      <para id="id145161">When one plays a wind instrument, the air that is pushed through the pipe vibrates
+and standing waves are formed. Just like with strings, the wavelengths of the standing waves
+will depend on the length of the pipe and whether it is open or closed at each end. Let's
+consider each of the following situations:</para>
+      <list id="id145167" display="block" list-type="bulleted">
+        <item id="uid12">A pipe with both ends open, like a flute or organ pipe.
+</item>
+        <item id="uid13">A pipe with one end open and one closed, like a clarinet.
+</item>
+      </list>
+      <para id="id145196">If you blow across a small hole in a pipe or reed, it makes a sound. If both ends are open, standing waves
+will form according to <link target-id="uid14"/>. You will notice that there is an anti-node at each end.
+In the next activity you will find how this affects the wavelengths.</para>
+      <figure id="uid14">
+        <media id="uid14_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C6_014.png" id="uid14_onlineimage" width="187"><!-- NOTE: attribute width changes image size online (pixels). original width is 187. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_014.eps" id="uid14_printimage"/>
+        </media>
+        <caption>Harmonics in a pipe open at both ends.</caption>
+      </figure>
+<section id="secfhsst_id340"><title> Investigation : Waves in a Pipe Open at Both Ends </title>
+      <para id="id145227">This chart shows some standing waves in a pipe open at both ends.
+The pipe (shown with dashed lines) has length L.</para>
+      <list id="id145234" display="block" list-type="enumerated">
+        <item id="uid15">Fill in the:
+<list id="id145249" display="block" list-type="bulleted"><item id="uid16">number of nodes
+</item><item id="uid17">number of anti-nodes
+</item><item id="uid18">wavelength in terms of <m:math overflow="scroll"><m:mi>L</m:mi></m:math></item></list>
+The first and last waves are done for you.
+<table id="id145302" summary=""><tgroup cols="4"><tbody><row><entry>Wave</entry><entry>Nodes</entry><entry>Antinodes</entry><entry>Wavelength</entry></row><row><entry><figure id="id145356"><media id="id145356_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_015.png" id="id145356_onlineimage" width="57"><!-- NOTE: attribute width changes image size online (pixels). original width is 57. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_015.eps" id="id145356_printimage"/></media></figure></entry><entry><figure id="id145368"><media id="id145368_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_016.png" id="id145368_onlineimage" width="3"><!-- NOTE: attribute width changes image size online (pixels). original width is 3. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_016.eps" id="id145368_printimage"/></media></figure></entry><entry><figure id="id145380"><media id="id145380_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_017.png" id="id145380_onlineimage" width="4"><!-- NOTE: attribute width changes image size online (pixels). original width is 4. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_017.eps" id="id145380_printimage"/></media></figure></entry><entry><figure id="id145393"><media id="id145393_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_018.png" id="id145393_onlineimage" width="11"><!-- NOTE: attribute width changes image size online (pixels). original width is 11. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_018.eps" id="id145393_printimage"/></media></figure></entry></row><row><entry><figure id="id145410"><media id="id145410_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_019.png" id="id145410_onlineimage" width="57"><!-- NOTE: attribute width changes image size online (pixels). original width is 57. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_019.eps" id="id145410_printimage"/></media></figure></entry><entry/><entry/><entry/></row><row><entry><figure id="id145448"><media id="id145448_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_020.png" id="id145448_onlineimage" width="57"><!-- NOTE: attribute width changes image size online (pixels). original width is 57. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_020.eps" id="id145448_printimage"/></media></figure></entry><entry/><entry/><entry/></row><row><entry><figure id="id145486"><media id="id145486_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_021.png" id="id145486_onlineimage" width="57"><!-- NOTE: attribute width changes image size online (pixels). original width is 57. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_021.eps" id="id145486_printimage"/></media></figure></entry><entry><figure id="id145498"><media id="id145498_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_022.png" id="id145498_onlineimage" width="5"><!-- NOTE: attribute width changes image size online (pixels). original width is 5. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_022.eps" id="id145498_printimage"/></media></figure></entry><entry><figure id="id145511"><media id="id145511_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_023.png" id="id145511_onlineimage" width="4"><!-- NOTE: attribute width changes image size online (pixels). original width is 4. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_023.eps" id="id145511_printimage"/></media></figure></entry><entry><figure id="id145523"><media id="id145523_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_024.png" id="id145523_onlineimage" width="6"><!-- NOTE: attribute width changes image size online (pixels). original width is 6. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_024.eps" id="id145523_printimage"/></media></figure></entry></row></tbody></tgroup></table></item>
+        <item id="uid19">Use the chart to find a formula for the wavelength in terms of the number of nodes.
+</item>
+      </list>
+      
+</section>
+      <para id="id145557">The formula is different because there are more anti-nodes than nodes. The right formula is:</para>
+      <equation id="id145561">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>λ</m:mi>
+              <m:mi>n</m:mi>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mi>L</m:mi>
+              </m:mrow>
+              <m:mi>n</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id145591">Here, <m:math overflow="scroll"><m:mi>n</m:mi></m:math> is still the number of nodes.</para>
+<exercise id="secfhsst_id375"><title> The Organ Pipe </title>
+      <problem id="probfhsst_id376">
+      <para id="id145618">An open organ pipe is 0,853 m long. The speed of sound
+in air is 345 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Can this pipe play middle C? (Middle C
+has a frequency of about 262 Hz)
+
+
+
+<figure id="id145654"><media id="id145654_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_025.png" id="id145654_onlineimage" width="96"><!-- NOTE: attribute width changes image size online (pixels). original width is 96. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_025.eps" id="id145654_printimage"/></media></figure>
+
+
+ </para>
+      </problem>
+      <solution id="solfhsst_id388"> 
+      <para id="uid93403">The main frequency of a note is the fundamental frequency.
+The fundamental frequency of the open pipe has one node.</para>
+<list id="listfhsst_id388" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> To find the frequency we will use the equation: </label>
+      <equation id="id145684">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>f</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>v</m:mi>
+              <m:mi>λ</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id145706">We need to find the wavelength first.</para>
+      <equation id="id145711">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>λ</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>L</m:mi>
+                  </m:mrow>
+                  <m:mi>n</m:mi>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>(</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>853</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mn>1</m:mn>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>706</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Now we can calculate the frequency: </label>
+      <equation id="id145800">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>f</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mi>v</m:mi>
+                  <m:mi>λ</m:mi>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mn>345</m:mn>
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>706</m:mn>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>202</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi> Hz </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id145870">This is lower than 262 Hz, so this pipe will not play middle C. We will need a shorter pipe for a higher pitch. </para>
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id515"><title> The Flute </title>
+      <problem id="probfhsst_id516">
+      <para id="id145899">A flute can be modeled as a metal pipe open at both ends. (One end looks closed but the flute has
+an <emphasis effect="italics">embouchure</emphasis>, or hole for the player to blow across.
+This hole is large enough for air to escape on that side as well.)
+If the fundamental note of a flute is middle C (262 Hz) , how long
+is the flute? The speed of sound in air is 345 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+
+</para>
+      
+      </problem>
+      <solution id="solfhsst_id526"> 
+     <para id="uid3453459"> We can calculate the length of the flute from <m:math overflow="scroll"><m:mrow><m:mi>λ</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>L</m:mi></m:mrow><m:mi>n</m:mi></m:mfrac></m:mrow></m:math> but:</para>
+<list id="listfhsst_id526" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> We need to calculate the wavelength first: </label>
+      <equation id="id145981">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>f</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mi>v</m:mi>
+                  <m:mi>λ</m:mi>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mn>262</m:mn>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mn>345</m:mn>
+                  <m:mi>λ</m:mi>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>λ</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>345</m:mn>
+                    <m:mn>262</m:mn>
+                  </m:mfrac>
+                  <m:mo>=</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>32</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Using the wavelength, we can now solve for <m:math overflow="scroll"><m:mi>L</m:mi></m:math>: </label>
+      <equation id="id146082">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>λ</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>L</m:mi>
+                  </m:mrow>
+                  <m:mi>n</m:mi>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>L</m:mi>
+                  </m:mrow>
+                  <m:mn>1</m:mn>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>L</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>32</m:mn>
+                    </m:mrow>
+                    <m:mn>2</m:mn>
+                  </m:mfrac>
+                  <m:mo>=</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>66</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+      <para id="id146194">Now let's look at a pipe that is open on one end and closed on the other.
+This pipe has a node at one end and an antinode at the other. An example of a musical
+instrument that has a node at one end and an antinode at the other is a clarinet. In the
+activity you will find out how the wavelengths are affected.</para>
+      <figure id="uid20">
+        <media id="uid20_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C6_027.png" id="uid20_onlineimage" width="188"><!-- NOTE: attribute width changes image size online (pixels). original width is 188. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_027.eps" id="uid20_printimage"/>
+        </media>
+        <caption>Harmonics in a pipe open at one end.</caption>
+      </figure>
+<section id="secfhsst_id664"><title> Investigation : Waves in a Pipe open at One End </title>
+      <para id="id146219">This chart shows some standing waves in a pipe open at <emphasis effect="italics">one</emphasis> end. The pipe (shown as dashed lines) has length L.</para>
+      <list id="id146231" display="block" list-type="enumerated">
+        <item id="uid21">Fill in the:
+<list id="id146247" display="block" list-type="bulleted"><item id="uid22">number of nodes
+</item><item id="uid23">number of anti-nodes
+</item><item id="uid24">wavelength in terms of <m:math overflow="scroll"><m:mi>L</m:mi></m:math></item></list>
+The first and last waves are done for you.
+<table id="id146300" summary=""><tgroup cols="4"><tbody><row><entry>Wave</entry><entry>Nodes</entry><entry>Antinodes</entry><entry>Wavelength</entry></row><row><entry><figure id="id146353"><media id="id146353_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_028.png" id="id146353_onlineimage" width="57"><!-- NOTE: attribute width changes image size online (pixels). original width is 57. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_028.eps" id="id146353_printimage"/></media></figure></entry><entry><figure id="id146365"><media id="id146365_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_029.png" id="id146365_onlineimage" width="3"><!-- NOTE: attribute width changes image size online (pixels). original width is 3. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_029.eps" id="id146365_printimage"/></media></figure></entry><entry><figure id="id146378"><media id="id146378_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_030.png" id="id146378_onlineimage" width="3"><!-- NOTE: attribute width changes image size online (pixels). original width is 3. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_030.eps" id="id146378_printimage"/></media></figure></entry><entry><figure id="id146390"><media id="id146390_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_031.png" id="id146390_onlineimage" width="11"><!-- NOTE: attribute width changes image size online (pixels). original width is 11. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_031.eps" id="id146390_printimage"/></media></figure></entry></row><row><entry><figure id="id146408"><media id="id146408_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_032.png" id="id146408_onlineimage" width="57"><!-- NOTE: attribute width changes image size online (pixels). original width is 57. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_032.eps" id="id146408_printimage"/></media></figure></entry><entry/><entry/><entry/></row><row><entry><figure id="id146446"><media id="id146446_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_033.png" id="id146446_onlineimage" width="57"><!-- NOTE: attribute width changes image size online (pixels). original width is 57. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_033.eps" id="id146446_printimage"/></media></figure></entry><entry/><entry/><entry/></row><row><entry><figure id="id146484"><media id="id146484_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_034.png" id="id146484_onlineimage" width="57"><!-- NOTE: attribute width changes image size online (pixels). original width is 57. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_034.eps" id="id146484_printimage"/></media></figure></entry><entry><figure id="id146496"><media id="id146496_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_035.png" id="id146496_onlineimage" width="5"><!-- NOTE: attribute width changes image size online (pixels). original width is 5. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_035.eps" id="id146496_printimage"/></media></figure></entry><entry><figure id="id146508"><media id="id146508_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_036.png" id="id146508_onlineimage" width="5"><!-- NOTE: attribute width changes image size online (pixels). original width is 5. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_036.eps" id="id146508_printimage"/></media></figure></entry><entry><figure id="id146520"><media id="id146520_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_037.png" id="id146520_onlineimage" width="10"><!-- NOTE: attribute width changes image size online (pixels). original width is 10. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_037.eps" id="id146520_printimage"/></media></figure></entry></row></tbody></tgroup></table></item>
+        <item id="uid25">Use the chart to find a formula for the wavelength in terms of the number of nodes.
+</item>
+      </list>
+      
+</section>
+      <para id="id146554">The right formula for this pipe is:</para>
+      <equation id="id146558">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>λ</m:mi>
+              <m:mi>n</m:mi>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>4</m:mn>
+                <m:mi>L</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mi>n</m:mi>
+                <m:mo>-</m:mo>
+                <m:mn>1</m:mn>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id146595">A long wavelength has a low frequency and low pitch. If you took your pipe from the last example and covered one end, you should hear a much lower note! Also, the wavelengths of the harmonics for this tube are <emphasis effect="italics">not</emphasis> integer multiples of each other.</para>
+<exercise id="secfhsst_id703"><title> The Clarinet </title>
+      <problem id="probfhsst_id704">
+      <para id="id146618">A clarinet can be modeled as a wooden pipe closed on one end and open on the other. The player blows into a small slit on one end. A reed then vibrates in the mouthpiece. This makes the standing wave in the air. What is the fundamental frequency of a clarinet 60 cm long? The speed of sound in air is 345 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. </para>
+      </problem>
+      <solution id="solfhsst_id707"> <list id="listfhsst_id707" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Identify what is given and what is asked: </label>
+      <para id="id146661">We are given:</para>
+      <equation id="id146664">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>L</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>60</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi> cm </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>v</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>345</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mrow>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>f</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mo>?</m:mo>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> To find the frequency we will use the equation <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>v</m:mi><m:mi>λ</m:mi></m:mfrac></m:mrow></m:math>
+but we need to find the wavelength first: </label>
+      <equation id="id146777">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>λ</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mi>L</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>n</m:mi>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mo>(</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>60</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>4</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Now, using the wavelength you have calculated, find the frequency: </label>
+      <equation id="id146885">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>f</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mi>v</m:mi>
+                  <m:mi>λ</m:mi>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mn>345</m:mn>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>4</m:mn>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>144</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi> Hz </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id146954">This is closest to the D below middle C. This note is one of the lowest notes on a clarinet.
+ </para>
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id892"><title>
+      Musical Scale </title>
+      <para id="id146982">The 12 tone scale popular in Western music took centuries to develop. This scale is also called the 12-note Equal Tempered scale. It has an octave divided into 12 steps. (An <emphasis effect="bold">octave</emphasis> is the main interval of most scales. If you double a frequency, you have raised the note one octave.) All steps have equal ratios of frequencies. But this scale is not perfect. If the octaves are in tune, all the other intervals are slightly mistuned. No interval is badly out of tune. But none is perfect.</para>
+      <para id="id146997">For example, suppose the base note of a scale is a frequency of
+110 Hz ( a low A). The first harmonic is 220 Hz. This note is
+also an A, but is one octave higher. The second harmonic is at
+330 Hz (close to an E). The third is 440 Hz (also an A). But
+not all the notes have such simple ratios. Middle C has a frequency of about 262 Hz. This is not a simple multiple of 110 Hz. So the interval between C and A is a little out of tune.</para>
+      <para id="id147004">Many other types of tuning exist. Just Tempered scales are tuned
+so that all intervals are simple ratios of frequencies.
+There are also equal tempered scales with more or less notes
+per octave. Some scales use as many as 31 or 53 notes. </para>
+</section>
+    </section>
+    
+    
+    
+    
+  </content>
+</document>

@@ -1,0 +1,83 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Dangers and uses of radiation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38948</md:content-id>
+  <md:title>Dangers and uses of radiation</md:title>
+  <md:abstract/>
+  <md:uuid>cbd48610-b8f2-4486-a1af-b8abb7697723</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid7">
+      <title>The Dangers of Radiation</title>
+      <para id="id65521">Natural radiation comes from a variety of sources such as the rocks, sun and from space. However, when we are exposed to large amounts of radiation, this can cause damage to cells. <m:math overflow="scroll"><m:mi>γ</m:mi></m:math> radiation is particularly dangerous because it is able to penetrate the body, unlike <m:math overflow="scroll"><m:mi>α</m:mi></m:math> and <m:math overflow="scroll"><m:mi>β</m:mi></m:math> particles whose penetration power is less. Some of the dangers of radiation are listed below:</para>
+      <list id="id65555" display="block" list-type="bulleted">
+        <item id="uid51"><emphasis effect="bold">Damage to cells</emphasis>
+Radiation is able to penetrate the body, and also to penetrate the membranes of the cells within our bodies, causing massive damage. <emphasis effect="italics">Radiation poisoning</emphasis> occurs when a person is exposed to large amounts of this type of radiation. Radiation poisoning damages tissues within the body, causing symptoms such as diarrhoea, vomiting, loss of hair and convulsions.
+</item>
+        <item id="uid52"><emphasis effect="bold">Genetic abnormalities</emphasis>
+When radiation penetrates cell membranes, it can damage chromosomes within the nucleus of the cell. The chromosomes contain all the genetic information for that person. If the chromosomes are changed, this may lead to genetic abnormalities in any children that are born to the person who has been exposed to radiation. Long after the nuclear disaster of Chernobyl in Russia in 1986, babies were born with defects such as missing limbs and abnormal growths.
+</item>
+        <item id="uid53"><emphasis effect="bold">Cancer</emphasis>
+Small amounts of radiation can cause cancers such as leukemia (cancer of the blood)
+</item>
+      </list>
+    </section>
+    <section id="cid8">
+      <title>The Uses of Radiation</title>
+      <para id="id65638">However, despite the many dangers of radiation, it does have many powerful uses, some of which are listed below:</para>
+      <list id="id65642" display="block" list-type="bulleted">
+        <item id="uid54"><emphasis effect="bold">Medical Field</emphasis>
+Radioactive <emphasis effect="italics">chemical tracers</emphasis> emitting <m:math overflow="scroll"><m:mi>γ</m:mi></m:math> rays can give information about a person's internal anatomy and the functioning of specific organs. The radioactive material may be injected into the patient, from where it will target specific areas such as bones or tumours. As the material decays and releases radiation, this can be seen using a special type of camera or other instrument. The radioactive material that is used for this purpose must have a short half-life so that the radiation can be detected quickly and also so that the material is quickly removed from the patient's body.
+Using radioactive materials for this purpose can mean that a tumour or cancer may be diagnosed long before these would have been detected using other methods such as X-rays.
+Radiation may also be used to sterilise medical equipment. See research project on the medical uses of radioisotopes.
+</item>
+        <item id="uid61"><emphasis effect="bold">Biochemistry and Genetics</emphasis>
+Radioisotopes may be used as tracers to label molecules so that chemical processes such as DNA replication or amino acid transport can be traced.
+</item>
+        <item id="uid62"><emphasis effect="bold">Food preservation</emphasis>
+Irradiation of food can stop vegetables or plants from sprouting after they have been harvested. It also kills bacteria and parasites, and controls the ripening of fruits.
+</item>
+        <item id="uid63"><emphasis effect="bold">Environment</emphasis>
+Radioisotopes can be used to trace and analyse pollutants.
+</item>
+        <item id="uid64"><emphasis effect="bold">Archaeology and Carbon dating</emphasis>
+Natural radioisotopes such as C-14 can be used to determine the age of organic remains. All living organisms (e.g. trees, humans) contain carbon. Carbon is taken in by plants and trees through the process of photosynthesis in the form of carbon dioxide and is then converted into organic molecules. When animals feed on plants, they also obtain carbon through these organic compounds. Some of the carbon in carbon dioxide is the radioactive C-14, while the rest is a non-radioactive form of carbon. When an organism dies, no more carbon is taken in and the amount of C-14 in the body stops increasing. From this point onwards, C-14 begins its radioactive decay which reduces the amount of C-14 in the body. When scientists uncover remains, they are able to estimate the age of the remains by seeing how much C-14 is left in the body relative to the amount of non-radioactive carbon. The less C-14 there is, the older the remains because radioactive decay must have been taking place for a long time. Because scientists know the exact rate of decay of C-14, they can calculate a relatively accurate estimate of the age of the remains. Carbon dating has been an important tool in building up historical records. See Case study on using radiocarbon dating.
+</item>
+      </list>
+    </section>
+<section id="secfhsst_id564"><title> Research Project : The medical uses of radioisotopes
+</title>
+<para id="uid325">Carry out your own research to find out more about the radioisotopes that are used to diagnose diseases in the following parts of the body:</para>
+<list id="id65709" display="block" list-type="bulleted"><item id="uid55">thyroid gland
+</item><item id="uid56">kidneys
+</item><item id="uid57">brain
+</item></list>
+<para id="uid4206">In each case, try to find out...</para>
+<list id="id65753" display="block" list-type="enumerated"><item id="uid58">which radioisotope is used
+</item><item id="uid59">what the sources of this radioisotope are
+</item><item id="uid60">how the radioisotope enters the patient's body and how it is monitored
+</item></list>
+
+</section>
+<section id="secfhsst_id590"><title> Case Study : Using radiocarbon dating
+</title>
+<para id="uid425">Radiocarbon dating has played an important role in uncovering many aspects of South Africa's history. Read the following extract from an article that appeared in Afrol news on 10th February 2007 and then answer the questions that follow.</para>
+
+<para id="uid2390">The world famous rock art in South Africa's uKhahlamba-Drakensberg, a World Heritage Site, is three times older than previously thought, archaeologists conclude in a new study. The more than 40,000 paintings were made by the San people some 3000 years ago, a new analysis had shown.
+Previous work on the age of the rock art in uKhahlamba-Drakensberg concluded it is less than 1,000 years old. But the new study - headed by a South African archaeologist leading a team from the University of Newcastle upon Tyne (UK) and Australian National University in Canberra - estimates the panels were created up to 3,000 years ago. They used the latest radio-carbon dating technology.
+The findings, published in the current edition of the academic journal 'South African Humanities', have "major implications for our understanding of how the rock artists lived and the social changes that were taking place over the last three millennia," according to a press release from the British university.</para>
+
+<para id="uid3054"><emphasis effect="bold">Questions:</emphasis><list id="id65954" display="block" list-type="enumerated"><item id="uid65">What is the half-life of carbon-14?
+</item><item id="uid66">In the news article, what role did radiocarbon dating play in increasing our knowledge of South Africa's history?
+</item><item id="uid67">Radiocarbon dating can also be used to analyse the remains of once-living organisms. Imagine that a set of bones are found between layers of sediment and rock in a remote area. A group of archaeologists carries out a series of tests to try to estimate the age of the bones. They calculate that the bones are approximately 23 040 years old.
+What percentage of the original carbon-14 must have been left in the bones for them to arrive at this estimate?
+</item></list>
+</para>
+</section>
+    
+    
+    
+    
+  </content>
+</document>

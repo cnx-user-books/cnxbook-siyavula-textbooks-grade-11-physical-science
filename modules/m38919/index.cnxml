@@ -1,0 +1,287 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Motion of a charged particle in a magnetic field</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38919</md:content-id>
+  <md:title>Motion of a charged particle in a magnetic field</md:title>
+  <md:abstract/>
+  <md:uuid>82ece78a-ef14-4c91-8ec9-9b3889f59cbb</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>Motion of a charged particle in a magnetic field</title>
+      <para id="id71971">When a charged particle moves through a magnetic field it
+experiences a force. For a particle that is moving at right angles
+to the magnetic field, the force is given by:</para>
+      <equation id="id71976">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>F</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>q</m:mi>
+            <m:mi>v</m:mi>
+            <m:mi>B</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id71997">where <m:math overflow="scroll"><m:mi>q</m:mi></m:math> is the charge on the particle, <m:math overflow="scroll"><m:mi>v</m:mi></m:math>
+is the velocity of the particle and <m:math overflow="scroll"><m:mi>B</m:mi></m:math> is the magnetic field
+through which the particle is moving. Thsi force is called the Lorentz force.</para>
+      <para id="id72031">
+        <figure id="id72034">
+          <media id="id72034_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C8_030.png" id="id72034_onlineimage" width="227"><!-- NOTE: attribute width changes image size online (pixels). original width is 227. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_030.eps" id="id72034_printimage"/>
+          </media>
+        </figure>
+      </para>
+<exercise id="secfhsst_id1320"><title> Charged particle moving in a magnetic field </title>
+      <problem id="probfhsst_id1321">
+      <para id="id72053">An electron travels at <m:math overflow="scroll"><m:mrow><m:mn>150</m:mn><m:mrow><m:mi mathvariant="normal">m</m:mi><m:mo>.</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:mrow></m:math> at right angles to a magnetic field of 80 000 T. What force is exerted on the electron?  </para>
+      </problem>
+      <solution id="solfhsst_id1324"> <list id="listfhsst_id1324" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Determine what is required </label>
+      <para id="id72109">We are required to determine the force on a moving charge in a magnetic field</para>
+      </item> <item> <label> Determine how to approach the problem </label>
+      <para id="id72117">We can use the formula:</para>
+      <equation id="id72120">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>F</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>q</m:mi>
+            <m:mi>v</m:mi>
+            <m:mi>B</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Determine what is given </label>
+      <para id="id72146">We are given</para>
+      <list id="id72149" display="block" list-type="bulleted">
+        <item id="uid57"><m:math overflow="scroll"><m:mrow><m:mi>q</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup><m:mi mathvariant="normal">C</m:mi></m:mrow></m:math> (The charge on an electron)
+</item>
+        <item id="uid58">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>v</m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>150</m:mn>
+              <m:mrow>
+                <m:mi mathvariant="normal">m</m:mi>
+                <m:mo>.</m:mo>
+                <m:msup>
+                  <m:mi mathvariant="normal">s</m:mi>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:msup>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </item>
+        <item id="uid59">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>B</m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>80</m:mn>
+              <m:mspace width="3.33333pt"/>
+              <m:mn>000</m:mn>
+              <m:mi mathvariant="normal">T</m:mi>
+            </m:mrow>
+          </m:math>
+        </item>
+      </list>
+      </item> <item> <label> Determine the force </label>
+      <equation id="id72282">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>F</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>q</m:mi>
+                  <m:mi>v</m:mi>
+                  <m:mi>B</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>6</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>19</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mi mathvariant="normal">C</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>150</m:mn>
+                    <m:mrow>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>.</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>80</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mn>000</m:mn>
+                    <m:mi mathvariant="normal">T</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>92</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>12</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mi mathvariant="normal">N</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+<note id="notfhsst_id1475" type="tip">The direction of the force exerted on a charged particle moving
+through a magnetic field is determined by using the Right Hand
+Rule.
+      <para id="id72456">Point your first finger (index finger) in the direction of the velocity of the charge, your second finger (middle finger) in the direction of the magnetic field and then your thumb will point in the direction of
+the force exerted on the charge. If the charge is negative, the direction of the force
+will be opposite to the direction of your thumb.</para></note>
+      <section id="uid60">
+        <title>Real-world applications</title>
+        <para id="id72474">The following devices use the movement of charge in a magnetic field</para>
+        <list id="id72478" display="block" list-type="bulleted">
+          <item id="uid61">old televisions (cathode ray tubes)
+</item>
+          <item id="uid62">oscilloscope
+</item>
+        </list>
+<section id="secfhsst_id1490"><title> Research Project : Real-life applications of charges moving in a magnetic field </title>
+        <para id="id72514">Choose one of the following devices and do some research on the internet or in a library how your device works.</para>
+        <list id="id72521" display="block" list-type="bulleted">
+          <item id="uid63">oscilloscope
+</item>
+          <item id="uid64">television
+</item>
+        </list>
+        
+</section>
+<section id="secfhsst_id1500"><title> Lorentz Force </title>
+        <list id="id72566" display="block" list-type="enumerated">
+          <item id="uid65">What happens to a charged particle when it moves through a magnetic field?
+</item>
+          <item id="uid66">Explain how you would use the Right Hand Rule to determine the direction of the force experienced by a charged particle as it moves in a magnetic field.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <para id="eip-531"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on electromagnetism">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=electromagnetism-100512041524-phpapp02&amp;stripped_title=electromagnetism-4064408&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid7">
+      <title>Summary</title>
+      <list id="id72615" display="block" list-type="enumerated">
+        <item id="uid67">Electromagnetism is the study of the properties and relationship between electric currents and magnetism.
+</item>
+        <item id="uid68">A current-carrying conductor will produce a magnetic field around the conductor.
+</item>
+        <item id="uid69">The direction of the magnetic field is found by using the Right Hand Rule.
+</item>
+        <item id="uid70">Electromagnets are temporary magnets formed by current-carrying conductors.
+</item>
+        <item id="uid71">Electromagnetic induction occurs when a changing magnetic field induces a voltage in a current-carrying conductor.
+</item>
+        <item id="uid72">Transformers use electromagnetic induction to alter the voltage.
+</item>
+        <item id="uid73">A moving charged particle will experience a force in a magnetic field.
+</item>
+      </list>
+    </section>
+    <section id="cid8">
+      <title>End of chapter exercises</title>
+      <list id="id72719" display="block" list-type="enumerated">
+        <item id="uid74">State the Right Hand Rule to determine the direction of a magnetic field around a current carrying wire and the Right Hand Rule to determine the direction of the force experienced by a moving charged particle in a magnetic field.
+</item>
+        <item id="uid75">What did Hans Oersted discover about the relationship between electricity and magnetism?
+</item>
+        <item id="uid76">List two uses of electromagnetism.
+</item>
+        <item id="uid77">Draw a labelled diagram of an electromagnet and show the poles of the electromagnet on your sketch.
+</item>
+        <item id="uid78">Transformers are useful electrical devices.
+<list id="id72786" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid79">What is a transformer?
+</item><item id="uid80">Draw a sketch of a step-down transformer.
+</item><item id="uid81">What is the difference between a step-down and step-up transformer?
+</item><item id="uid82">When would you use a step-up transformer?
+</item></list></item>
+        <item id="uid83">Calculate the voltage on the secondary coil of a transformer if the voltage on the primary coil is 22 000 V and the ratio of primary windings to secondary windings is 500:1.
+</item>
+        <item id="uid84">You find a transformer with 1000 windings on the primary coil and 200 windinds on the secondary coil.
+<list id="id72868" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid85">What type of transformer is it?
+</item><item id="uid86">What will be the voltage on the secondary coil if the voltage on the primary coil is 400 V?
+</item></list></item>
+        <item id="uid87"><label>IEB 2005/11 HG</label>An electron moving horizontally in a TV tube enters a region where there is a uniform magnetic field. This causes the electron to move along the path (shown by the solid line) because the magnetic field exerts a constant force on it. What is the direction of this magnetic field?
+<figure id="id72918"><media id="id72918_media" alt=""><image mime-type="image/png" src="../../media/PG11C8_032.png" id="id72918_onlineimage" width="145"><!-- NOTE: attribute width changes image size online (pixels). original width is 145. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_032.eps" id="id72918_printimage"/></media></figure><list id="id72925" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid88">upwards (towards the top of the page)
+</item><item id="uid89">downwards (towards the bottom of the page)
+</item><item id="uid90">into the page
+</item><item id="uid91">out of the page
+</item></list></item>
+      </list>
+    </section>
+  </content>
+</document>

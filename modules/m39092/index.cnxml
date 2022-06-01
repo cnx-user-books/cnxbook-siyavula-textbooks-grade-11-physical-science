@@ -1,0 +1,295 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Redox reactions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39092</md:content-id>
+  <md:title>Redox reactions</md:title>
+  <md:abstract/>
+  <md:uuid>2148d8df-2f0f-4fb3-82db-0da4b55abd9a</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid3">
+      <title>Redox reactions</title>
+      <para id="id246967">A second type of reaction is the <emphasis effect="bold">redox</emphasis> reaction, in which both <emphasis effect="bold">oxidation</emphasis> and <emphasis effect="bold">reduction</emphasis> take place.</para>
+      <section id="uid56">
+        <title>Oxidation and reduction</title>
+        <para id="id246997">If you look back to chapter <link target-id=""/>, you will remember that we discussed how, during a chemical reaction, an exchange of electrons takes place between the elements that are involved. Using <emphasis effect="italics">oxidation numbers</emphasis> is one way of tracking what is happening to these electrons in a reaction. Refer back to <link target-id=""/> if you can't remember the rules that are used to give an oxidation number to an element. Below are some examples to refresh your memory before we carry on with this section!</para>
+        <para id="id247015">
+          <emphasis effect="italics">Examples:</emphasis>
+        </para>
+        <list id="id247024" display="block" list-type="enumerated">
+          <item id="uid57"><emphasis effect="bold">CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></emphasis>
+Each oxygen atom has an oxidation number of -2. This means that the charge on <emphasis effect="italics">two</emphasis> oxygen atoms is -4. We know that the molecule of CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> is neutral, therefore the carbon atom must have an oxidation number of +4.
+</item>
+          <item id="uid58"><emphasis effect="bold">KMnO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></emphasis>
+Overall, this molecule has a neutral charge, meaning that the sum of the oxidation numbers of the elements in the molecule must equal zero. Potassium (K) has an oxidation number of +1, while oxygen (O) has an oxidation number of -2. If we exclude the atom of manganese (Mn), then the sum of the oxidation numbers equals +1+(-2x4)= -7. The atom of manganese must therefore have an oxidation number of +7 in order to make the molecule neutral.
+</item>
+        </list>
+        <para id="id247114">By looking at how the oxidation number of an element changes during a reaction, we can easily see whether that element is being <emphasis effect="bold">oxidised</emphasis> or <emphasis effect="bold">reduced</emphasis>.</para>
+<definition id="fhsst_id750"><term id="termfhsst_id750"> Oxidation and reduction </term> <meaning id="meaningfhsst_id750">
+        <para id="id247135">Oxidation is the <emphasis effect="italics">loses</emphasis> of an electron by a molecule, atom or ion. Reduction is the <emphasis effect="italics">gain</emphasis> of an electron by a molecule, atom or ion. </para>
+        </meaning></definition>
+        <para id="id247159">
+          <emphasis effect="italics">Example:</emphasis>
+        </para>
+        <para id="id247165">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi> Mg </m:mi>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi> Cl </m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>→</m:mo>
+              <m:msub>
+                <m:mi> MgCl </m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id247198">As a <emphasis effect="italics">reactant</emphasis>, magnesium has an oxidation number of zero, but as part of the <emphasis effect="italics">product</emphasis> magnesium chloride, the element has an oxidation number of +2. Magnesium has <emphasis effect="italics">lost</emphasis> two electrons and has therefore been <emphasis effect="italics">oxidised</emphasis>. This can be written as a <emphasis effect="bold">half-reaction</emphasis>. The half-reaction for this change is:</para>
+        <para id="id247232">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi> Mg </m:mi>
+              <m:mo>→</m:mo>
+              <m:msup>
+                <m:mi> Mg </m:mi>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>+</m:mo>
+                </m:mrow>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:msup>
+                <m:mi mathvariant="normal">e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id247273">As a <emphasis effect="italics">reactant</emphasis>, chlorine has an oxidation number of zero, but as part of the <emphasis effect="italics">product</emphasis> magnesium chloride, the element has an oxidation number of -1. Each chlorine atom has <emphasis effect="italics">gained</emphasis> an electron and the element has therefore been <emphasis effect="italics">reduced</emphasis>. The half-reaction for this change is:</para>
+        <para id="id247300">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msub>
+                <m:mi> Cl </m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:msup>
+                <m:mi mathvariant="normal">e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mo>→</m:mo>
+              <m:mn>2</m:mn>
+              <m:msup>
+                <m:mi> Cl </m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </para>
+<definition id="fhsst_id818"><term id="termfhsst_id818"> Half-reaction </term> <meaning id="meaningfhsst_id818">
+        <para id="id247352">A half reaction is either the oxidation or reduction reaction part of a redox reaction. A half reaction is obtained by considering the change in oxidation states of the individual substances that are involved in the redox reaction.
+ </para>
+        </meaning></definition>
+<note id="notfhsst_id822" type="tip">Oxidation and reduction made easy!
+        <para id="id247371">An easy way to think about oxidation and reduction is to remember:</para>
+        <para id="id247377">'OILRIG' - <emphasis effect="bold">O</emphasis>xidation <emphasis effect="bold">I</emphasis>s <emphasis effect="bold">L</emphasis>oss of electrons, <emphasis effect="bold">R</emphasis>eduction <emphasis effect="bold">I</emphasis>s <emphasis effect="bold">G</emphasis>ain of electrons.</para>
+</note>
+        <para id="id247418">An element that is <emphasis effect="bold">oxidised</emphasis> is called a <emphasis effect="bold">reducing agent</emphasis>, while an element that is <emphasis effect="bold">reduced</emphasis> is called an <emphasis effect="bold">oxidising agent</emphasis>.</para>
+      </section>
+      <section id="uid59">
+        <title>Redox reactions</title>
+<definition id="fhsst_id829"><term id="termfhsst_id829"> Redox reaction </term> <meaning id="meaningfhsst_id829">
+        <para id="id247462">A redox reaction is one involving oxidation and reduction, where there is always a change in the oxidation numbers of the elements involved. </para>
+        </meaning></definition>
+<section id="secfhsst_id832"><title> Demonstration : Redox reactions
+        </title>
+        <para id="id247488">
+          <emphasis effect="bold">Materials:</emphasis>
+        </para>
+        <para id="id247497"/>
+        <para id="id247504">A few granules of zinc; 15 ml copper (II) sulphate solution (blue colour), glass beaker.</para>
+        <para id="id247508">
+          <figure id="id247514">
+            <media id="id247514_media" alt="">
+              <image mime-type="image/png" src="../../media/CG11C8_004.png" id="id247514_onlineimage" width="134"><!-- NOTE: attribute width changes image size online (pixels). original width is 134. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG11C8_004.eps" id="id247514_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id247521">
+          <emphasis effect="bold">Method:</emphasis>
+        </para>
+        <para id="id247528"/>
+        <para id="id247535">Add the zinc granules to the copper sulfate solution and observe what happens. What happens to the zinc granules? What happens to the colour of the solution?</para>
+        <para id="id247540">
+          <emphasis effect="bold">Results:</emphasis>
+        </para>
+        <para id="id247549"/>
+        <list id="id247557" display="block" list-type="bulleted">
+          <item id="uid60">Zinc becomes covered in a layer that looks like copper.
+</item>
+          <item id="uid61">The blue copper sulfate solution becomes clearer.
+</item>
+        </list>
+        <para id="id247586">Cu<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions from the CuSO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> solution are <emphasis effect="bold">reduced</emphasis> to form copper metal. This is what you saw on the zinc crystals. The reduction of the copper ions (in other words, their removal from the copper sulphate solution), also explains the change in colour of the solution (copper ions in solution are blue). The equation for this reaction is:</para>
+        <para id="id247627">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msup>
+                <m:mi> Cu </m:mi>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>+</m:mo>
+                </m:mrow>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:msup>
+                <m:mi mathvariant="normal">e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+              <m:mo>→</m:mo>
+              <m:mi> Cu </m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id247667">Zinc is <emphasis effect="bold">oxidised</emphasis> to form Zn<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions which are clear in the solution. The equation for this reaction is:</para>
+        <para id="id247695">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi> Zn </m:mi>
+              <m:mo>→</m:mo>
+              <m:msup>
+                <m:mi> Zn </m:mi>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>+</m:mo>
+                </m:mrow>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:msup>
+                <m:mi mathvariant="normal">e</m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id247734">The overall reaction is:</para>
+        <para id="id247738">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msup>
+                <m:mi> Cu </m:mi>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>+</m:mo>
+                </m:mrow>
+              </m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi> aq </m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:mi> Zn </m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi mathvariant="normal">s</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>→</m:mo>
+              <m:mi> Cu </m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi mathvariant="normal">s</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi> Zn </m:mi>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>+</m:mo>
+                </m:mrow>
+              </m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi> aq </m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id247817">
+          <emphasis effect="bold">Conclusion:</emphasis>
+        </para>
+        
+        <para id="id247831">A redox reaction has taken place. Cu<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> ions are reduced and the zinc is oxidised.
+ </para>
+</section>
+        <para id="id247858">Below are some further examples of redox reactions:</para>
+        <list id="id247861" display="block" list-type="bulleted">
+          <item id="uid62"><m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">F</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:mi> HF </m:mi></m:mrow></m:math> can be re-written as two half-reactions:
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> (oxidation) and
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">F</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">F</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> (reduction)
+</item>
+          <item id="uid63"><m:math overflow="scroll"><m:mrow><m:msub><m:mi> Cl </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:mi> KI </m:mi><m:mo>→</m:mo><m:mn>2</m:mn><m:mi> KCl </m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">I</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math> or <m:math overflow="scroll"><m:mrow><m:msub><m:mi> Cl </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">I</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mn>2</m:mn><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">I</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>, can be written as two half-reactions:
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi> Cl </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mn>2</m:mn><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> (reduction) and
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">I</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">I</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> (oxidation)
+</item>
+        </list>
+        <para id="id248215">In Grade 12, you will go on to look at electrochemical reactions, and the role that electron transfer plays in this type of reaction.</para>
+<para id="eip-130"><figure id="redox-1" class="khanacademy">
+	  <title>Khan academy video on oxidation states</title>
+	  <media id="yt-media2" display="block" alt="video on redox">
+	  <flash id="yt-video2" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/_fNNQfGGYr4&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><para id="eip-393"><figure id="slidesharefigure1" class="slideshare">
+    	<media id="slidesharemedia1" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash1" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=redox-100512065957-phpapp01&amp;stripped_title=redox-4067931&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="secfhsst_id971"><title> Redox Reactions
+        </title>
+        <list id="id248232" display="block" list-type="enumerated">
+          <item id="uid64">Look at the following reaction:
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math><list id="id248340" display="block" list-type="enumerated"><item id="uid65">What is the oxidation number of the oxygen atom in each of the following compounds?
+<list id="id248356" display="block" list-type="enumerated"><item id="uid66">H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item><item id="uid67">H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O
+</item><item id="uid68">O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item></list></item><item id="uid69">Does the hydrogen peroxide (H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) act as an oxidising agent or a reducing agent or both, in the above reaction? Give a reason for your answer.
+</item></list></item>
+          <item id="uid70">
+Consider the following chemical equations:
+1. <m:math overflow="scroll"><m:mrow><m:mi> Fe </m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msup><m:mi> Fe </m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math>
+2. <m:math overflow="scroll"><m:mrow><m:mn>4</m:mn><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi> aq </m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mi mathvariant="normal">e</m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>
+Which one of the following statements is correct?
+<list id="id248654" display="block" list-type="enumerated"><item id="uid71">Fe is oxidised and H<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> is reduced
+</item><item id="uid72">Fe is reduced and O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> is oxidised
+</item><item id="uid73">Fe is oxidised and O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> is reduced
+</item><item id="uid74">Fe is reduced and H<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> is oxidised
+</item></list>
+(DoE Grade 11 Paper 2, 2007)
+</item>
+          <item id="uid75">Which one of the following reactions is a redox reaction?
+<list id="id248775" display="block" list-type="enumerated"><item id="uid76"><m:math overflow="scroll"><m:mrow><m:mi> HCl </m:mi><m:mo>+</m:mo><m:mi> NaOH </m:mi><m:mo>→</m:mo><m:mi> NaCl </m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math></item><item id="uid77"><m:math overflow="scroll"><m:mrow><m:msub><m:mi> AgNO </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mi> NaI </m:mi><m:mo>→</m:mo><m:mi> AgI </m:mi><m:mo>+</m:mo><m:msub><m:mi> NaNO </m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math></item><item id="uid78"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi> FeCl </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo><m:msub><m:mi> SO </m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> SO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:mi> HCl </m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi> FeCl </m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item><item id="uid79"><m:math overflow="scroll"><m:mrow><m:msub><m:mi> BaCl </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi> MgSO </m:mi><m:mn>4</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi> MgCl </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi> BaSO </m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math></item></list></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

@@ -1,0 +1,439 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Electrical potential energy</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39013</md:content-id>
+  <md:title>Electrical potential energy</md:title>
+  <md:abstract/>
+  <md:uuid>e63d5538-98bf-412e-b8e1-1f29d753916b</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Electrical potential energy and potential</title>
+      <para id="id283711">The <emphasis effect="italics">electrical potential energy</emphasis> of a charge is the energy
+it has because of its position relative to other charges that it
+interacts with. The potential energy of a charge <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub></m:math> relative to
+a charge <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math> a distance <m:math overflow="scroll"><m:mi>r</m:mi></m:math> away is calculated by:</para>
+      <equation id="id283759">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>U</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>k</m:mi>
+                <m:msub>
+                  <m:mi>Q</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:msub>
+                  <m:mi>Q</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:mi>r</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+<para id="eip-198"><figure id="electrostatics-3" class="khanacademy">
+	  <title>Khan academy video on electrostatics - 3</title>
+	  <media id="yt-media3" display="block" alt="video on electrostatics 3">
+	  <flash id="yt-video3" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/elJUghWSVh4&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><exercise id="secfhsst_id2466"><title> Electrical potential energy 1 </title>
+      <problem id="probfhsst_id2467">
+      <para id="id283808">What is the electric potential energy of a <m:math overflow="scroll"><m:mrow><m:mn>7</m:mn><m:mi> nC </m:mi></m:mrow></m:math> charge that is 2 cm from a <m:math overflow="scroll"><m:mrow><m:mn>20</m:mn><m:mi> nC </m:mi></m:mrow></m:math> charge? </para>
+      </problem>
+      <solution id="solfhsst_id2470"> <list id="listfhsst_id2470" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Determine what is required </label>
+      <para id="id283872">We need to calculate the electric potential energy (U).</para>
+      </item> <item> <label> Determine what is given </label>
+      <para id="id283880">We are given both charges and the distance between them.</para>
+      </item> <item> <label> Determine how to approach the problem </label>
+      <para id="id283888">We will use the equation:</para>
+      <equation id="id283891">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>U</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>k</m:mi>
+                <m:msub>
+                  <m:mi>Q</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:msub>
+                  <m:mi>Q</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:mi>r</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Solve the problem </label>
+      <equation id="id283932">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>U</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>k</m:mi>
+                    <m:msub>
+                      <m:mi>Q</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>Q</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                  <m:mi>r</m:mi>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:mn>99</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mn>9</m:mn>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>7</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>20</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>02</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>6</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>29</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>10</m:mn>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                  <m:mi mathvariant="normal">J</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+</item> </list> </solution>
+</exercise>
+      <section id="uid33">
+        <title>Electrical potential</title>
+        <para id="id284105">The electrical potential at a point is the electrical potential
+energy per unit charge, i.e. the potential energy a positive test
+charge would have if it were placed at that point.</para>
+        <para id="id284109">Consider a positive test charge <m:math overflow="scroll"><m:mrow><m:mo>+</m:mo><m:mi>Q</m:mi></m:mrow></m:math> placed at A in the electric
+field of another positive point charge.</para>
+        <para id="id284129">
+          <figure id="id284132">
+            <media id="id284132_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C7_022.png" id="id284132_onlineimage" width="187"><!-- NOTE: attribute width changes image size online (pixels). original width is 187. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_022.eps" id="id284132_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id284138">The test charge moves towards B under the influence of the
+electric field of the other charge.
+In the process the test charge loses electrical potential energy
+and gains kinetic energy. Thus, at A, the test charge has more
+potential energy than at B – <emphasis effect="bold">A is said to have a higher
+electrical potential than B</emphasis>.</para>
+        <para id="id284151">The potential energy of a charge at
+a point in a field is defined as the work required to move that
+charge from infinity to that point.</para>
+<definition id="fhsst_id2634"><term id="termfhsst_id2634"> Potential difference </term> <meaning id="meaningfhsst_id2634">
+        <para id="id284164">The <emphasis effect="bold">potential difference between two points</emphasis> in an electric
+field is defined as the <emphasis effect="bold">work required to move a unit positive
+test charge from the point of lower potential to that of higher
+potential</emphasis>. </para>
+        </meaning></definition>
+        <para id="id284189">If an amount of work <m:math overflow="scroll"><m:mi>W</m:mi></m:math> is required to move a charge
+<m:math overflow="scroll"><m:mi>Q</m:mi></m:math> from one point to another, then the potential difference
+between the two points is given by,</para>
+        <equation id="uid34">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>V</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mi>W</m:mi>
+                      <m:mi>Q</m:mi>
+                    </m:mfrac>
+                    <m:mspace width="56.9055pt"/>
+                    <m:mi> unit </m:mi>
+                    <m:mo>:</m:mo>
+                    <m:mi mathvariant="normal">J</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">C</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="0.277778em"/>
+                    <m:mi> or </m:mi>
+                    <m:mspace width="0.277778em"/>
+                    <m:mi mathvariant="normal">V</m:mi>
+                    <m:mspace width="0.277778em"/>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi> the </m:mi>
+                      <m:mspace width="0.277778em"/>
+                      <m:mi> volt </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id284306">From this equation we can define the volt.</para>
+<definition id="fhsst_id2690"><term id="termfhsst_id2690"> The Volt </term> <meaning id="meaningfhsst_id2690">
+        <para id="id284316">One volt is the potential
+difference between two points in an electric field if one joule of
+work is done in moving one coulomb of charge from the one point to
+the other. </para>
+        </meaning></definition>
+<exercise id="secfhsst_id2696"><title> Potential difference </title>
+        <problem id="probfhsst_id2697">
+        <para id="id284342">What is the potential difference between two points in an electric field if it takes <m:math overflow="scroll"><m:mrow><m:mn>600</m:mn><m:mi mathvariant="normal">J</m:mi></m:mrow></m:math> of energy to move a charge of <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi mathvariant="normal">C</m:mi></m:mrow></m:math> between these two points? </para>
+        </problem>
+        <solution id="solfhsst_id2700"> <list id="listfhsst_id2700" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is required </label>
+        <para id="id284395">We need to calculate the potential difference (V) between two points in an electric field.</para>
+        </item> <item> <label> Determine what is given </label>
+        <para id="id284403">We are given both the charges and the energy or work done to move the charge between the two points.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id284411">We will use the equation:</para>
+        <equation id="id284415">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>V</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>W</m:mi>
+                <m:mi>Q</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Solve the problem </label>
+        <equation id="id284440">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>V</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi>W</m:mi>
+                    <m:mi>Q</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>600</m:mn>
+                    <m:mn>2</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>300</m:mn>
+                    <m:mi mathvariant="normal">V</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid35">
+        <title>Real-world application: lightning</title>
+        <para id="id284530">Lightning is an atmospheric discharge of electricity, usually, but
+not always, during a rain storm. An understanding of lightning is
+important for power transmission lines as engineers need to
+know about lightning in order to adequately protect lines and
+equipment.</para>
+<section id="secfhsst_id2775"><title>
+        Formation of lightning </title>
+        <list id="id284547" display="block" list-type="enumerated">
+          <item id="uid36"><emphasis effect="bold">Charge separation</emphasis>
+The first process in the generation of lightning is charge separation.
+The mechanism by which charge separation happens is still the subject of research.
+One theory is that opposite charges are driven apart and energy is stored in the
+electric field between them. Cloud electrification appears to require strong
+updrafts which carry water droplets upward, supercooling them to <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>10</m:mn></m:mrow></m:math> to
+<m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>20</m:mn></m:mrow></m:math> <m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C. These collide with ice crystals to form a soft ice-water
+mixture called graupel. The collisions result in a slight positive charge being
+transferred to ice crystals, and a slight negative charge to the graupel.
+Updrafts drive lighter ice crystals upwards, causing the cloud top to accumulate
+increasing positive charge. The heavier negatively charged graupel falls towards
+the middle and lower portions of the cloud, building up an increasing negative
+charge. Charge separation and accumulation continue until the electrical
+potential becomes sufficient to initiate lightning discharges, which occurs when
+the gathering of positive and negative charges forms a sufficiently strong
+electric field.
+</item>
+          <item id="uid37"><emphasis effect="bold">Leader formation</emphasis>
+As a thundercloud moves over the Earth's surface, an equal but opposite charge
+is induced in the Earth below, and the induced ground charge follows the
+movement of the cloud.
+An initial bipolar discharge, or path of ionized air, starts from a negatively
+charged mixed water and ice region in the thundercloud. The discharge ionized
+channels are called leaders. The negative charged leaders, called a "stepped
+leader", proceed generally downward in a number of quick jumps, each up to 50
+metres long. Along the way, the stepped leader may branch into a number of paths
+as it continues to descend. The progression of stepped leaders takes a
+comparatively long time (hundreds of milliseconds) to approach the ground. This
+initial phase involves a relatively small electric current (tens or hundreds of
+amperes), and the leader is almost invisible compared to the subsequent
+lightning channel.
+When a step leader approaches the ground, the presence of opposite charges on
+the ground enhances the electric field. The electric field is highest on trees
+and tall buildings. If the electric field is strong enough, a conductive
+discharge (called a positive streamer) can develop from these points. As the
+field increases, the positive streamer may evolve into a hotter, higher current
+leader which eventually connects to the descending stepped leader from the
+cloud. It is also possible for many streamers to develop from many different
+objects at the same time, with only one connecting with the leader and forming the
+main discharge path. Photographs have been taken on which non-connected
+streamers are clearly visible. When the two leaders meet, the electric current
+greatly increases. The region of high current propagates back up the positive
+stepped leader into the cloud with a "return stroke" that is the most luminous
+part of the lightning discharge.
+</item>
+          <item id="uid38"><emphasis effect="bold">Discharge</emphasis>
+When the electric field becomes strong enough, an electrical discharge (the bolt
+of lightning) occurs within clouds or between clouds and the ground. During the
+strike, successive portions of air become a conductive discharge channel as the
+electrons and positive ions of air molecules are pulled away from each other and
+forced to flow in opposite directions.
+The electrical discharge rapidly superheats the discharge channel, causing the
+air to expand rapidly and produce a shock wave heard as thunder. The rolling and
+gradually dissipating rumble of thunder is caused by the time delay of sound
+coming from different portions of a long stroke.
+</item>
+        </list>
+        
+</section>
+        <para id="id284702">Estimating distance of a lightning strike. The flash of a
+lightning strike and resulting thunder occur at roughly the same
+time. But light travels at 300 000 kilometres in a second, almost
+a million times the speed of sound. Sound travels at the slower
+speed of 330 m/s in the same time, so the flash of lightning is
+seen before thunder is heard. By counting the seconds between the
+flash and the thunder and dividing by 3, you can estimate your
+distance from the strike and initially the actual storm cell (in
+kilometres).</para><para id="eip-83"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=lightning-100512053711-phpapp02&amp;stripped_title=lightning-4065342&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para>
+      </section>
+    </section>
+
+  </content>
+</document>

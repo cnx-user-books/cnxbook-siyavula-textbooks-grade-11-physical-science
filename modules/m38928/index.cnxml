@@ -1,0 +1,288 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Radioactivity and types of radiation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38928</md:content-id>
+  <md:title>Radioactivity and types of radiation</md:title>
+  <md:abstract/>
+  <md:uuid>4fd08d12-4e4e-4294-8661-17eb9a475ac8</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Radioactivity and Types of Radiation</title>
+      <para id="id62673">In <link target-id="cid2">"Nuclear structure and stability"</link>, we discussed that when a nucleus is unstable it can emit particles and energy. This process is called <emphasis effect="bold">radioactive decay</emphasis>.</para>
+<definition id="fhsst_id59"><term id="termfhsst_id59"> Radioactive decay </term> <meaning id="meaningfhsst_id59">
+      <para id="id62692">Radioactive decay is the process in which an unstable atomic nucleus loses energy by emitting particles or electromagnetic waves. These emitted particles or electromagnetic waves are called <emphasis effect="bold">radiation</emphasis>.
+ </para>
+      </meaning></definition>
+      <para id="id62710">When a nucleus undergoes radioactive decay, it emits radiation and the nucleus is said to be radioactive. We are exposed to small amounts of radiation all the time. Even the rocks around us emit radiation! However some elements are far more radioactive than others. Even within a single element, there may be some isotopes that are more radioactive than others simply because they contain a larger number of neutrons. These radioactive isotopes are called <emphasis effect="bold">radioisotopes</emphasis>.</para>
+      <para id="id62722">Radiation can be emitted in different forms. There are three main types of radiation: alpha, beta and gamma
+radiation. These are shown in <link target-id="uid1"/>, and are described below.</para>
+      <figure id="uid1">
+        <media id="uid1_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C4_001.png" id="uid1_onlineimage" width="275"><!-- NOTE: attribute width changes image size online (pixels). original width is 275. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C4_001.eps" id="uid1_printimage"/>
+        </media>
+        <caption>Types of radiation</caption>
+      </figure>
+      <section id="uid2">
+        <title>Alpha (<m:math overflow="scroll"><m:mi>α</m:mi></m:math>) particles and alpha decay</title>
+        <para id="id62761">An alpha particle is made up of two protons and two neutrons bound together. This type of radiation has a <emphasis effect="italics">positive charge</emphasis>. An alpha particle is sometimes represented using the chemical symbol <m:math overflow="scroll"><m:mrow><m:mi>H</m:mi><m:msup><m:mi>e</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:mrow></m:math>, because it has the same structure as a Helium atom (two neutrons and two protons) ,but without the two electrons to balance the positive charge of the protons, hence the overall charge of +2. Alpha particles have a relatively low penetration power. Penetration power describes how easily the particles can pass through another material. Because alpha particles have a <emphasis effect="italics">low</emphasis> penetration power, it means that even something as thin as a piece of paper, or the outside layer of the human skin, will absorb these particles so that they can't penetrate any further.</para>
+        <para id="id62802">Alpha decay occurs in nuclei that contain too many protons, which results in strong repulsion forces between these positively charged particles. As a result of these repulsive forces, the nucleus emits an <m:math overflow="scroll"><m:mi>α</m:mi></m:math> particle. This can be seen in the decay of Americium (Am) to Neptunium (Np).</para>
+        <para id="id62817">Example:</para>
+        <para id="id62823">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msubsup>
+                <m:mrow/>
+                <m:mn>95</m:mn>
+                <m:mn>241</m:mn>
+              </m:msubsup>
+              <m:mi> Am </m:mi>
+              <m:msubsup>
+                <m:mo>→</m:mo>
+                <m:mn>93</m:mn>
+                <m:mn>237</m:mn>
+              </m:msubsup>
+              <m:mi> Np </m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>α</m:mi>
+              <m:mi> particle </m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id62863">Let's take a closer look at what has happened during this reaction. Americium (Z = 95; A = 241) undergoes <m:math overflow="scroll"><m:mi>α</m:mi></m:math> decay and releases one alpha particle (i.e. 2 protons and 2 neutrons). The atom now has only 93 protons (Z = 93). On the periodic table, the element which has 93 protons (Z = 93) is called Neptunium. Therefore, the Americium atom has become a Neptunium atom. The atomic mass of the neptunium atom is 237 (A = 237) because 4 nucleons (2 protons and 2 neutrons) were emitted from the atom of Americium.</para><para id="eip-247"><figure id="id63458">
+            <media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/alpha-decay-screenshot.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/alpha-decay-screenshot.eps" id="id63458_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/nuclear-physics/alpha-decay_en.jnlp">run demo</link></para>
+      </section>
+      <section id="uid3">
+        <title>Beta (<m:math overflow="scroll"><m:mi>β</m:mi></m:math>) particles and beta decay</title>
+        <para id="id62896">In nuclear physics, <m:math overflow="scroll"><m:mi>β</m:mi></m:math> decay is a type of radioactive decay in which a <m:math overflow="scroll"><m:mi>β</m:mi></m:math> particle (an electron or a positron) is emitted. In the case of electron emission, it is referred to as beta minus (<m:math overflow="scroll"><m:mi>β</m:mi></m:math>-), while in the case of a positron emission as beta plus (<m:math overflow="scroll"><m:mi>β</m:mi></m:math>+).</para>
+        <para id="id62933">An electron and positron have identical physical characteristics except for opposite charge.</para>
+        <para id="id62937">In certain types of radioactive nuclei that have too many neutrons, a neutron may be converted into a proton, an electron and another particle called a neutrino. The high energy electrons that are released in this way are the <m:math overflow="scroll"><m:mi>β</m:mi></m:math> - particles. This process can occur for an isolated neutron.</para>
+        <para id="id62951">In <m:math overflow="scroll"><m:mi>β</m:mi></m:math>+ decay, energy is used to convert a proton into a neutron(n), a
+positron (e+) and a neutrino (<m:math overflow="scroll"><m:mi>ν</m:mi></m:math>e):</para>
+        <equation id="id62971">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi> energy </m:mi>
+              <m:mo>+</m:mo>
+              <m:mi mathvariant="normal">p</m:mi>
+              <m:mo>→</m:mo>
+              <m:mi mathvariant="normal">n</m:mi>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">e</m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mi>ν</m:mi>
+              <m:mi mathvariant="normal">e</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id63014">So, unlike <m:math overflow="scroll"><m:mi>β</m:mi></m:math>-, <m:math overflow="scroll"><m:mi>β</m:mi></m:math>+ decay cannot occur in isolation, because it requires energy, the mass of the neutron being greater than the mass of the
+proton. <m:math overflow="scroll"><m:mi>β</m:mi></m:math>+ decay can only happen inside nuclei when the value of the binding energy of the mother nucleus is less than that of the daughter
+nucleus. The difference between these energies goes into the reaction of
+converting a proton into a neutron, a positron and a neutrino and into
+the kinetic energy of these particles.</para>
+        <para id="id63045">The diagram below shows what happens during <m:math overflow="scroll"><m:mi>β-</m:mi></m:math> decay:</para>
+        <figure id="uid4">
+          <media id="uid4_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C4_002.png" id="uid4_onlineimage" width="610"><!-- NOTE: attribute width changes image size online (pixels). original width is 610. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C4_002.eps" id="uid4_printimage"/>
+          </media>
+          <caption><m:math overflow="scroll"><m:mi>β</m:mi></m:math> decay in a hydrogen atom</caption>
+        </figure>
+        <para id="id63077">During beta decay, the number of neutrons in the atom decreases by one, and the number of protons increases by one. Since the number of protons before and after the decay is different, the atom has changed into a different element. In <link target-id="uid4"/>, Hydrogen has become Helium. The beta decay of the Hydrogen-3 atom can be represented as follows:</para>
+        <para id="id63087">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msubsup>
+                <m:mrow/>
+                <m:mn>1</m:mn>
+                <m:mn>3</m:mn>
+              </m:msubsup>
+              <m:mi mathvariant="normal">H</m:mi>
+              <m:msubsup>
+                <m:mo>→</m:mo>
+                <m:mn>2</m:mn>
+                <m:mn>3</m:mn>
+              </m:msubsup>
+              <m:mi> He </m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>β</m:mi>
+              <m:mi> particle </m:mi>
+              <m:mo>+</m:mo>
+              <m:mover accent="true">
+                <m:mi>ν</m:mi>
+                <m:mo>¯</m:mo>
+              </m:mover>
+            </m:mrow>
+          </m:math>
+        </para>
+<note id="notfhsst_id167"><title> Interesting Fact </title> 
+When scientists added up all the energy from the neutrons, protons and electrons involved in <m:math overflow="scroll"><m:mi>β</m:mi></m:math>-decays, they noticed that there was always some energy missing. We know that energy is always conserved, which led Wolfgang Pauli in 1930 to come up with the idea that another particle, which was not detected yet, also had to be involved in the decay. He called this particle the neutrino (Italian for "little neutral one"), because he knew it had to be neutral, have little or no mass, and interact only very weakly, making it very hard to find experimentally! The neutrino was finally identified experimentally about 25 years after Pauli first thought of it.
+        <para id="id63162">Due to the radioactive processes inside the sun, each 1 <m:math overflow="scroll"><m:mrow><m:mi>c</m:mi><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> patch of the earth receives 70 billion (70<m:math overflow="scroll"><m:mrow><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>9</m:mn></m:msup></m:mrow></m:math>) neutrinos each second! Luckily neutrinos only interact very weakly so they do not harm our bodies when billions of them pass through us every second.</para>
+</note><para id="eip-386"><figure id="id6345">
+            <media id="id6345_media" alt="">
+            <image mime-type="image/png" src="../../media/beta-decay-screenshot.png" id="id6345_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/beta-decay-screenshot.eps" id="id6345_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/nuclear-physics/beta-decay_en.jnlp">run demo</link></para>
+      </section>
+      <section id="uid5">
+        <title>Gamma (<m:math overflow="scroll"><m:mi>γ</m:mi></m:math>) rays and gamma decay</title>
+        <para id="id63220">When particles inside the nucleus collide during radioactive decay, energy is released. This energy can leave the nucleus in the form of waves of electromagnetic energy called gamma rays. Gamma radiation is part of the electromagnetic spectrum, just like visible light. However, unlike visible light, humans cannot see gamma rays because they are at a much higher frequency and a higher energy. Gamma radiation has no mass or charge. This type of radiation is able to penetrate most common substances, including metals. Only substance with high atomic masses (like lead) and high densities (like concrete or granite) are effective at absorbing gamma rays.</para>
+        <para id="id63229">Gamma decay occurs if the nucleus is at a very high energy state. Since gamma rays are part of the electromagnetic spectrum, they can be thought of as waves <emphasis effect="italics">or</emphasis> particles. Therefore in gamma decay, we can think of a ray or a particle (called a photon) being released. The atomic number and atomic mass remain unchanged.</para>
+        <figure id="uid6">
+          <media id="uid6_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C4_003.png" id="uid6_onlineimage" width="379"><!-- NOTE: attribute width changes image size online (pixels). original width is 379. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C4_003.eps" id="uid6_printimage"/>
+          </media>
+          <caption><m:math overflow="scroll"><m:mi>γ</m:mi></m:math> decay in a helium atom</caption>
+        </figure>
+        <para id="id63260"><link target-id="uid7"/> summarises and compares the three types of radioactive decay that have been discussed.</para>
+        <table id="uid7" summary="types of decay">
+<tgroup cols="4"><tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Type of decay</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Particle/ray released</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Change in element</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Penetration power</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Alpha (<m:math overflow="scroll"><m:mi>α</m:mi></m:math>)</entry>
+                <entry><m:math overflow="scroll"><m:mi>α</m:mi></m:math> particle (2 protons and 2 neutrons)</entry>
+                <entry>Yes</entry>
+                <entry>Low</entry>
+              </row>
+              <row>
+                <entry>Beta (<m:math overflow="scroll"><m:mi>β</m:mi></m:math>)</entry>
+                <entry><m:math overflow="scroll"><m:mi>β</m:mi></m:math> particle (electron or positron)</entry>
+                <entry>Yes</entry>
+                <entry>Medium</entry>
+              </row>
+              <row>
+                <entry>Gamma (<m:math overflow="scroll"><m:mi>γ</m:mi></m:math>)</entry>
+                <entry><m:math overflow="scroll"><m:mi>γ</m:mi></m:math> ray (electromagnetic energy)</entry>
+                <entry>No</entry>
+                <entry>High</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>A comparison of alpha, beta and gamma decay</caption>
+</table>
+<para id="eip-498"><figure id="circuits-1" class="khanacademy"><title>Types of decay</title><media id="yt-media1" display="block" alt="video on types of decay">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/3koOwozY4oc&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><exercise id="secfhsst_id223"><title> Radioactive decay
+        </title>
+        <problem id="probfhsst_id225">
+        <para id="id63493">The isotope <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>95</m:mn><m:mn>241</m:mn></m:msubsup></m:math>Am undergoes radioactive decay and loses two alpha particles.</para>
+        <list id="id63516" display="block" list-type="enumerated">
+          <item id="uid8">Write the chemical formula of the element that is produced as a result of the decay.
+</item>
+          <item id="uid9">Write an equation for this decay process.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id235"> <list id="listfhsst_id235" list-type="enumerated" number-style="arabic" class="stepwise">
+        
+        
+        <item> <label> Work out the number of protons and/or neutrons that the radioisotope loses during radioactive decay </label>
+        <para id="id63581">One <m:math overflow="scroll"><m:mi>α</m:mi></m:math> particle consists of two protons and two neutrons. Since two <m:math overflow="scroll"><m:mi>α</m:mi></m:math> particles are released, the total number of protons lost is four and the total number of neutrons lost is also four.</para>
+        </item> <item> <label> Calculate the atomic number (Z) and atomic mass number (A) of the element that is formed. </label>
+        <equation id="id63609">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>Z</m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>95</m:mn>
+              <m:mo>-</m:mo>
+              <m:mn>4</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>91</m:mn>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id62110">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>A</m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>241</m:mn>
+              <m:mo>-</m:mo>
+              <m:mn>8</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>233</m:mn>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Refer to the periodic table to see which element has the atomic number that you have calculated.  </label>
+        <para id="id63841">The element that has Z = 91 is Protactinium (Pa).</para>
+        </item> <item> <label> Write the symbol for the element that has formed as a result of radioactive decay. </label>
+        <para id="id63849"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>91</m:mn><m:mn>233</m:mn></m:msubsup></m:math>Pa</para>
+        <!--empty paragraphs get left behind.-->
+        </item> <item> <label> Write an equation for the decay process. </label>
+        <para id="id63877"><m:math overflow="scroll"><m:mrow><m:msubsup><m:mrow/><m:mn>95</m:mn><m:mn>241</m:mn></m:msubsup><m:mi>A</m:mi><m:mi>m</m:mi><m:msubsup><m:mo>→</m:mo><m:mn>91</m:mn><m:mn>233</m:mn></m:msubsup><m:mi>P</m:mi><m:mi>a</m:mi></m:mrow></m:math> + 4 protons + 4 neutrons</para>
+</item> </list> </solution>
+</exercise>
+<section id="secfhsst_id275"><title> Discussion : Radiation
+        </title>
+        <para id="id63928">In groups of 3-4, discuss the following questions:</para>
+        <list id="id63934" display="block" list-type="bulleted">
+          <item id="uid10">Which of the three types of radiation is most dangerous to living creatures (including humans!)
+</item>
+          <item id="uid11">What can happen to people if they are exposed to high levels of radiation?
+</item>
+          <item id="uid12">What can be done to protect yourself from radiation (Hint: Think of what the radiologist does when you go for an X-ray)?
+</item>
+        </list>
+        
+</section>
+<section id="secfhsst_id288"><title> Radiation and radioactive elements
+        </title>
+        <list id="id63996" display="block" list-type="enumerated">
+          <item id="uid13">There are two main forces inside an atomic nucleus:
+<list id="id64011" display="block" list-type="enumerated"><item id="uid14">Name these two forces.
+</item><item id="uid15">Explain why atoms that contain a greater number of nucleons are more likely to be radioactive.
+</item></list></item>
+          <item id="uid16">The isotope <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>95</m:mn><m:mn>241</m:mn></m:msubsup></m:math>Am undergoes radioactive decay and loses three alpha particles.
+<list id="id64071" display="block" list-type="enumerated"><item id="uid17">Write the chemical formula of the element that is produced as a result of the decay.
+</item><item id="uid18">How many nucleons does this element contain?
+</item></list></item>
+          <item id="uid19">Complete the following equation:
+<m:math overflow="scroll"><m:mrow><m:msubsup><m:mrow/><m:mn>82</m:mn><m:mn>210</m:mn></m:msubsup><m:mi>P</m:mi><m:mi>b</m:mi><m:mo>→</m:mo></m:mrow></m:math> (alpha decay)
+</item>
+          <item id="uid20">Radium-228 decays by emitting a beta particle. Write an equation for this decay process.
+</item>
+          <item id="uid21">Describe how gamma decay differs from alpha and beta decay.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

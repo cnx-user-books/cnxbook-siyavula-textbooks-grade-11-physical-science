@@ -1,0 +1,120 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Introduction and types of intermolecular forces</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39061</md:content-id>
+  <md:title>Introduction and types of intermolecular forces</md:title>
+  <md:abstract/>
+  <md:uuid>fad174fb-20d6-444a-9d64-759703c44e63</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1">
+      <title>Intermolecular Forces</title>
+      <para id="id259875">In the previous chapter, we discussed the different forces that exist <emphasis effect="italics">between atoms</emphasis> (intramolecular forces). When atoms are joined to one another they form molecules, and these molecules in turn have forces that bind them together. These forces are known as <emphasis effect="bold">intermolecular forces</emphasis>, and we are going to look at them in more detail in this next section.</para>
+<definition id="fhsst_id44"><term id="termfhsst_id44"> Intermolecular forces </term> <meaning id="meaningfhsst_id44">
+      <para id="id259897">Intermolecular forces are forces that act between stable molecules.
+ </para>
+      </meaning></definition>
+      <para id="id260246">You will also remember from the previous chapter, that we can describe molecules as being either <emphasis effect="bold">polar</emphasis> or <emphasis effect="bold">non-polar</emphasis>. A polar molecule is one in which there is a difference in electronegativity between the atoms in the molecule, such that the shared electron pair spends more time close to the atom that attracts it more strongly. The result is that one end of the molecule will have a slightly positive charge (<m:math overflow="scroll"><m:msup><m:mi>δ</m:mi><m:mo>+</m:mo></m:msup></m:math>), and the other end will have a slightly negative charge (<m:math overflow="scroll"><m:msup><m:mi>δ</m:mi><m:mo>+</m:mo></m:msup></m:math>). The molecule is said to be a <emphasis effect="bold">dipole</emphasis>. However, it is important to remember that just because the bonds within a molecule are polar, the molecule itself may not necessarily be polar. The shape of the molecule may also affect its polarity. A few examples are shown in <link target-id="uid1"/> to refresh your memory!</para>
+      <table id="uid1" summary="">
+        <tgroup cols="5">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Molecule</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Chemical formula</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Bond between atoms</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Shape of molecule</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Polarity of molecule</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Hydrogen</entry>
+              <entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry>
+              <entry>Covalent</entry>
+              <entry>
+                <figure id="id260416">
+                  <media id="id260416_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG11C2_001.png" id="id260416_onlineimage" width="121"><!-- NOTE: attribute width changes image size online (pixels). original width is 121. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG11C2_001.eps" id="id260416_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>Non-polar</entry>
+            </row>
+            <row>
+              <entry>Hydrogen chloride</entry>
+              <entry>HCl</entry>
+              <entry>Polar covalent</entry>
+              <entry>
+                <figure id="id260462">
+                  <media id="id260462_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG11C2_002.png" id="id260462_onlineimage" width="138"><!-- NOTE: attribute width changes image size online (pixels). original width is 138. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG11C2_002.eps" id="id260462_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>Polar</entry>
+            </row>
+            <row>
+              <entry>Carbon tetrafluoromethane</entry>
+              <entry>CF<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></entry>
+              <entry>Polar covalent</entry>
+              <entry>
+                <figure id="id260519">
+                  <media id="id260519_media" alt="">
+                    <image mime-type="image/png" src="../../media/CG11C2_003.png" id="id260519_onlineimage" width="121"><!-- NOTE: attribute width changes image size online (pixels). original width is 121. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/CG11C2_003.eps" id="id260519_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>Non-polar</entry>
+            </row>
+          </tbody>
+        </tgroup>
+        <caption>Polarity in molecules with different atomic bonds and molecular shapes</caption>
+      </table>
+    </section>
+    <section id="cid2">
+      <title>Types of Intermolecular Forces</title>
+      <para id="id260543">It is important to be able to recognise whether the molecules in a substance are polar or non-polar because this will determine what type of inermolecular forces there are. This is important in explaining the properties of the substance.</para>
+      <list id="id260548" display="block" list-type="enumerated">
+        <item id="uid2"><emphasis effect="bold">Van der Waals forces</emphasis>
+These intermolecular forces are named after a Dutch physicist called Johannes van der Waals (1837 -1923), who recognised that there were weak attractive and repulsive forces between the molecules of a gas, and that these forces caused gases to deviate from 'ideal gas' behaviour. Van der Waals forces are <emphasis effect="italics">weak</emphasis> intermolecular forces, and can be divided into three types:
+<list id="id260577" display="block" list-type="enumerated"><item id="uid3"><emphasis effect="italics">Dipole-dipole forces</emphasis>
+<link target-id="uid4"/> shows a simplified dipole molecule, with one end slightly positive and the other slightly negative.
+<figure id="uid4"><media id="uid4_media" alt=""><image mime-type="image/png" src="../../media/CG11C2_004.png" id="uid4_onlineimage" width="255"><!-- NOTE: attribute width changes image size online (pixels). original width is 255. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C2_004.eps" id="uid4_printimage"/></media><caption>A simplified diagram of a dipole molecule</caption></figure>
+When one dipole molecule comes into contact with another dipole molecule, the positive pole of the one molecule will be attracted to the negative pole of the other, and the molecules will be held together in this way (<link target-id="uid5"/>). Examples of materials/substances that are held together by dipole-dipole forces are HCl, FeS, KBr, SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> and NO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>.
+<figure id="uid5"><media id="uid5_media" alt=""><image mime-type="image/png" src="../../media/CG11C2_005.png" id="uid5_onlineimage" width="503"><!-- NOTE: attribute width changes image size online (pixels). original width is 503. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C2_005.eps" id="uid5_printimage"/></media><caption>Two dipole molecules are held together by the attractive force between their oppositely charged poles</caption></figure></item><item id="uid6"><emphasis effect="italics">Ion-dipole forces</emphasis>
+As the name suggests, this type of intermolecular force exists between an ion and a dipole molecule. You will remember that an <emphasis effect="italics">ion</emphasis> is a charged atom, and this will be attracted to one of the charged ends of the polar molecule. A positive ion will be attracted to the negative pole of the polar molecule, while a negative ion will be attracted to the positive pole of the polar molecule. This can be seen when sodium chloride (NaCl) dissolves in water. The positive sodium ion (Na<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math>) will be attracted to the slightly negative oxygen atoms in the water molecule, while the negative chloride ion (Cl<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math>) is attracted to the slightly positive hydrogen atom. These intermolecular forces weaken the ionic bonds between the sodium and chloride ions so that the sodium chloride dissolves in the water (<link target-id="uid7"/>).
+<figure id="uid7"><media id="uid7_media" alt=""><image mime-type="image/png" src="../../media/CG11C2_006.png" id="uid7_onlineimage" width="254"><!-- NOTE: attribute width changes image size online (pixels). original width is 254. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C2_006.eps" id="uid7_printimage"/></media><caption>Ion-dipole forces in a sodium chloride solution</caption></figure></item><item id="uid8"><emphasis effect="italics">London forces</emphasis>
+These intermolecular forces are also sometimes called 'dipole- induced dipole' or 'momentary dipole' forces. Not all molecules are polar, and yet we know that there are also intermolecular forces between non-polar molecules such as carbon dioxide. In non-polar molecules the electronic charge is evenly distributed but it is possible that at a particular moment in time, the electrons might not be evenly distributed. The molecule will have a <emphasis effect="italics">temporary dipole</emphasis>. In other words, each end of the molecules has a slight charge, either positive or negative. When this happens, molecules that are next to each other attract each other very weakly. These London forces are found in the halogens (e.g. F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> and I<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>), the noble gases (e.g. Ne and Ar) and in other non-polar molecules such as carbon dioxide and methane.
+</item></list></item>
+        <item id="uid9"><emphasis effect="bold">Hydrogen bonds</emphasis>
+As the name implies, this type of intermolecular bond involves a hydrogen atom. The hydrogen must be attached to another atom that is strongly electronegative, such as oxygen, nitrogen or fluorine. Water molecules for example, are held together by hydrogen bonds between the hydrogen atom of one molecule and the oxygen atom of another (<link target-id="uid10"/>). Hydrogen bonds are stronger than van der Waals forces. It is important to note however, that both van der Waals forces and hydrogen bonds are weaker than the covalent and ionic bonds that exist between <emphasis effect="italics">atoms</emphasis>.
+<figure id="uid10"><media id="uid10_media" alt=""><image mime-type="image/png" src="../../media/CG11C2_007.png" id="uid10_onlineimage" width="240"><!-- NOTE: attribute width changes image size online (pixels). original width is 240. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C2_007.eps" id="uid10_printimage"/></media><caption>Two representations showing the hydrogen bonds between water molecules: space-filling model and structural formula.</caption></figure></item>
+      </list>
+<section id="secfhsst_id135"><title> Types of intermolecular forces
+      </title>
+      <list id="id260917" display="block" list-type="enumerated">
+        <item id="uid11">Complete the following table by placing a tick to show which type of intermolecular force occurs in each substance:
+<table id="id260933" summary=""><tgroup cols="5"><tbody><row><entry><emphasis effect="bold">Formula</emphasis></entry><entry><emphasis effect="bold">Dipole-dipole</emphasis></entry><entry><emphasis effect="bold">Momentary dipole</emphasis></entry><entry><emphasis effect="bold">Ion-dipole</emphasis></entry><entry><emphasis effect="bold">hydrogen bond</emphasis></entry></row><row><entry>HCl</entry><entry/><entry/><entry/><entry/></row><row><entry>CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry><entry/><entry/><entry/><entry/></row><row><entry>I<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry><entry/><entry/><entry/><entry/></row><row><entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O</entry><entry/><entry/><entry/><entry/></row><row><entry>KI(aq)</entry><entry/><entry/><entry/><entry/></row><row><entry>NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></entry><entry/><entry/><entry/><entry/></row></tbody></tgroup></table></item>
+        <item id="uid12">In which of the substances above are the intermolecular forces...
+<list id="id261274" display="block" list-type="enumerated"><item id="uid13">strongest
+</item><item id="uid14">weakest
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+
+  </content>
+</document>

@@ -1,0 +1,390 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Introduction and key concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38958</md:content-id>
+  <md:title>Introduction and key concepts</md:title>
+  <md:abstract/>
+  <md:uuid>c3f9a607-21df-4f9f-922c-d2d8084cc212</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id62184">In Grade 10 we studied motion but not what caused the motion. In this chapter we will learn that a net force is needed to cause motion. We recall what a force is and learn about how force and motion are related. We are introduced to two new concepts, momentum and impulse, and we learn more about turning forces and the force of gravity.</para>
+    </section>
+    <section id="cid3">
+      <title>Force</title>
+      <section id="uid1">
+        <title>What is a <emphasis effect="italics">force</emphasis>?</title>
+        <para id="id62551">A force is anything that can cause a change to objects. Forces can:</para>
+        <list id="id62555" display="block" list-type="bulleted">
+          <item id="uid2">change the shape of an object
+</item>
+          <item id="uid3">accelerate or stop an object
+</item>
+          <item id="uid4">change the direction of a moving object.
+</item>
+        </list>
+        <para id="id62593">A force can be classified as either a <emphasis effect="italics">contact force</emphasis> or a <emphasis effect="italics">non-contact force</emphasis>.</para>
+        <para id="id62606">A contact force must touch or <emphasis effect="italics">be in contact</emphasis> with an object to cause a change. Examples of contact forces are:</para>
+        <list id="id62615" display="block" list-type="bulleted">
+          <item id="uid5">the force that is used to push or pull things, like on a door to open or close it
+</item>
+          <item id="uid6">the force that a sculptor uses to turn clay into a pot
+</item>
+          <item id="uid7">the force of the wind to turn a windmill
+</item>
+        </list>
+        <para id="id62655">Write down 5 examples (excluding those given above) of contact forces that you see on your way to school.</para>
+        <para id="id62660">A non-contact force does not have to touch an object to cause a change. Examples of non-contact forces are:</para>
+        <list id="id62664" display="block" list-type="bulleted">
+          <item id="uid8">the force due to gravity, like the Earth pulling the Moon towards itself
+</item>
+          <item id="uid9">the force due to electricity, like a proton and an electron attracting each other
+</item>
+          <item id="uid10">the force due to magnetism, like a magnet pulling a paper clip towards itself
+</item>
+        </list>
+        <para id="id62704">The unit of force is the <emphasis effect="italics">newton</emphasis> (symbol <emphasis effect="italics">N</emphasis>). This unit is named after Sir Isaac Newton who first defined force. Force is a vector quantity and has a magnitude and a direction. We use the abbreviation <emphasis effect="italics">F</emphasis> for force.</para>
+<note id="notfhsst_id106"><title> Interesting Fact </title>
+        <para id="id62731">There is a popular story that while Sir Isaac Newton was sitting under an apple tree, an apple fell on his head, and he suddenly thought of the Universal Law of Gravitation. Coincidently, the weight of a small apple is approximately 1 N.</para>
+</note>
+<note id="notfhsst_id109"><title> Interesting Fact </title>
+        <para id="id62751">Force was first described by Archimedes of Syracuse (circa 287 BC - 212 BC). Archimedes was a Greek mathematician, astronomer, philosopher, physicist and engineer. He was killed by a Roman soldier during the sack of the city, despite orders from the Roman general, Marcellus, that he was not to be harmed.</para>
+</note>
+        <para id="id62764">This chapter will often refer to the <emphasis effect="italics">resultant force</emphasis> acting on an object. The resultant force is simply the vector sum of all the forces acting on the object. It is very important to remember that all the forces must be acting on the <emphasis effect="italics">same</emphasis> object. The resultant force is the force that has the same effect as all the other forces added together.</para>
+      </section>
+      <section id="uid11">
+        <title>Examples of Forces in Physics</title>
+        <para id="id62790">Most of Physics revolves around the study of forces. Although there are many different forces, all are handled in the same way. All forces in Physics can be put into one of four groups. These are gravitational forces, electromagnetic forces, strong nuclear forces and weak nuclear forces. You will mostly come across gravitational or electromagnetic forces at school.</para>
+        <section id="uid12">
+          <title>Gravitational Forces</title>
+          <para id="id62804">Gravity is the attractive force between two objects due to the mass of the objects. When you throw a ball in the air, its mass and the Earth's mass attract each other, which leads to a force between them. The ball falls back towards the Earth, and the Earth accelerates towards the ball. The movement of the Earth towards the ball is, however, so small that you couldn't possibly measure it.</para>
+        </section>
+        <section id="uid13">
+          <title>Electromagnetic Forces</title>
+          <para id="id62820">Almost all of the forces that we experience in everyday life are
+electromagnetic in origin. They have this unusual name because long ago people thought that electric forces and magnetic forces were different things. After much work and experimentation, it has been realised that they are actually different manifestations of the same underlying theory.</para>
+        </section>
+        <section id="uid14">
+          <title>Electric or Electrostatic Forces</title>
+          <para id="id62836">If we have objects carrying electrical charge, which are not moving, then we are dealing with electrostatic forces (Coulomb's Law). This force is actually much stronger than gravity. This may seem strange, since gravity is obviously very powerful, and holding a balloon to the wall seems to be the most impressive thing electrostatic forces have done, but if we think about it: for gravity to be detectable, we need to have a very large mass nearby. But a balloon rubbed against someone's hair can stick to a wall with a force so strong that it overcomes the force of gravity between the entire Earth and the balloon—with just the charges in the balloon and the wall!</para>
+        </section>
+        <section id="uid15">
+          <title>Magnetic Forces</title>
+          <para id="id62860">The magnetic force is a different manifestation of the electromagnetic force. It stems from the interaction between <emphasis effect="italics">moving charges</emphasis> as opposed to the <emphasis effect="italics">fixed</emphasis> charges involved in Coulomb's Law. Examples of the magnetic force in action include magnets, compasses, car engines and computer data storage. Magnets are also used in the wrecking industry to pick up cars and move them around sites.</para>
+        </section>
+        <section id="uid16">
+          <title>Friction</title>
+          <para id="id62886">According to Newton's First Law (we will discuss this later in the chapter) an object moving <emphasis effect="italics">without a force acting on it</emphasis> will keep on moving. Then why does a box sliding on a table come to a stop? The answer is friction. Friction arises where two surfaces are in contact and moving relative to eachother as a result of the interaction between the molecules of the two contact surfaces—for instance the interactions between the molecules on the bottom of the box with molecules on the top of the table. This interaction is electromagnetic in origin, hence friction is just another view of the electromagnetic force. Later in this chapter we will discuss frictional forces a little more.</para>
+        </section>
+        <section id="uid17">
+          <title>Drag Forces</title>
+          <para id="id62914">This is the force an object experiences while travelling through a medium like an aeroplane flying through air. When something travels through the air it needs to displace air as it travels and because of this, the air exerts a force on the object. This becomes an important force when you move fast and a lot of thought is taken to try and reduce the amount of drag force a sports car or an aeroplane experiences. The drag force is very useful for parachutists. They jump from high altitudes and if there was no drag force, then they would continue accelerating all the way to the ground. Parachutes are wide because the more surface area you have, the greater the drag force and hence the slower you hit the ground.</para>
+        </section>
+      </section>
+      <section id="uid18">
+        <title>Systems and External Forces</title>
+        <para id="id62939">The concepts of systems and forces external to such systems are very important in Physics. A system is any collection of objects. If one draws an imaginary box around such a system then an external force is one that
+is applied by an object or person outside the box. Imagine for example a car pulling two trailers.</para>
+        <figure id="uid19">
+          <media id="uid19_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_001.png" id="uid19_onlineimage" width="251"><!-- NOTE: attribute width changes image size online (pixels). original width is 251. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_001.eps" id="uid19_printimage"/>
+          </media>
+        </figure>
+        <para id="id62953">If we draw a box around the two trailers they can be considered a closed system or unit. When we look at the forces on this closed system the following forces will apply (we assume drag forces are absent):</para>
+        <list id="id62958" display="block" list-type="bulleted">
+          <item id="uid20">The force of the car pulling the unit (trailer A and B)
+</item>
+          <item id="uid21">The force of friction between the wheels of the trailers and the road (opposite to the direction of motion)
+</item>
+          <item id="uid22">The force of the Earth pulling downwards on the system (gravity)
+</item>
+          <item id="uid23">The force of the road pushing upwards on the system
+</item>
+        </list>
+        <para id="id63010">These forces are called external forces to the system.</para>
+        <para id="id63014">The following forces will not apply:</para>
+        <list id="id63019" display="block" list-type="bulleted">
+          <item id="uid24">The force of A pulling B
+</item>
+          <item id="uid25">The force of B pulling A
+</item>
+          <item id="uid26">The force of friction between the wheels of the car and the road (opposite to the direction of motion)
+</item>
+        </list>
+        <para id="id63058">We can also draw a box around trailer A or B, in which case the forces will be different.</para>
+        <figure id="uid27">
+          <media id="uid27_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_002.png" id="uid27_onlineimage" width="251"><!-- NOTE: attribute width changes image size online (pixels). original width is 251. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_002.eps" id="uid27_printimage"/>
+          </media>
+        </figure>
+        <para id="id63070">If we consider trailer A as a system, the following external forces will apply:</para>
+        <list id="id63074" display="block" list-type="bulleted">
+          <item id="uid28">The force of the car pulling on A (towards the right)
+</item>
+          <item id="uid29">The force of B pulling on A (towards the left)
+</item>
+          <item id="uid30">The force of the Earth pulling downwards on the trailer (gravity)
+</item>
+          <item id="uid31">The force of the road pushing upwards on the trailer
+</item>
+          <item id="uid32">The force of friction between the wheels of A and the road (opposite to the direction of motion)
+</item>
+        </list>
+      </section>
+      <section id="uid33">
+        <title>Force Diagrams</title>
+        <para id="id63148">If we look at the example above and draw a force diagram of all the forces acting on the two-trailer-unit, the diagram would look like this:</para>
+        <figure id="uid34">
+          <media id="uid34_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_003.png" id="uid34_onlineimage" width="407"><!-- NOTE: attribute width changes image size online (pixels). original width is 407. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_003.eps" id="uid34_printimage"/>
+          </media>
+        </figure>
+        <para id="id63160">It is important to keep the following in mind when you draw force diagrams:</para>
+        <list id="id63164" display="block" list-type="bulleted">
+          <item id="uid35">Make your drawing large and clear.
+</item>
+          <item id="uid36">You must use arrows and the direction of the arrow will show the direction of the force.
+</item>
+          <item id="uid37">The length of the arrow will indicate the size of the force, in other words, the longer arrows in the diagram (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> for example) indicates a bigger force than a shorter arrow (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>f</m:mi></m:msub></m:math>). Arrows of the same length indicate forces of equal size (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>N</m:mi></m:msub></m:math> and F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>g</m:mi></m:msub></m:math>). Use “little lines” like in maths to show this.
+</item>
+          <item id="uid38">Draw neat lines using a ruler. The arrows must touch the system or object.
+</item>
+          <item id="uid39">All arrows must have labels. Use letters with a key on the side if you do not have enough space on your drawing.
+</item>
+          <item id="uid40">The labels must indicate what is applying the force (the force of the car?) on what the force is applied (?on the trailer?) and in which direction (to the right)
+</item>
+          <item id="uid41">If the values of the forces are known, these values can be added to the diagram or key.
+</item>
+        </list>
+<exercise id="secfhsst_id221"><title> Force diagrams </title>
+        <problem id="probfhsst_id222">
+        <para id="id63498">Draw a labeled force diagram to indicate all the forces acting on trailer A in the example above. </para>
+        </problem>
+        <solution id="solfhsst_id225"> <list id="listfhsst_id225" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Draw a large diagram of the ?picture? from your question </label>
+        <figure id="uid42">
+          <media id="uid42_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_004.png" id="uid42_onlineimage" width="61"><!-- NOTE: attribute width changes image size online (pixels). original width is 61. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_004.eps" id="uid42_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Add all the forces </label>
+        <figure id="uid43">
+          <media id="uid43_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_005.png" id="uid43_onlineimage" width="156"><!-- NOTE: attribute width changes image size online (pixels). original width is 156. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_005.eps" id="uid43_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Add the labels </label>
+        <figure id="uid44">
+          <media id="uid44_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_006.png" id="uid44_onlineimage" width="321"><!-- NOTE: attribute width changes image size online (pixels). original width is 321. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_006.eps" id="uid44_printimage"/>
+          </media>
+        </figure>
+        
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid45">
+        <title>Free Body Diagrams</title>
+        <para id="id63576">In a free-body diagram, the object of interest is drawn as a dot and all the forces acting on it are drawn as arrows pointing away from the dot.
+A free body diagram for the two-trailer-system will therefore look like this:</para>
+        <figure id="uid46">
+          <media id="uid46_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_007.png" id="uid46_onlineimage" width="275"><!-- NOTE: attribute width changes image size online (pixels). original width is 275. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_007.eps" id="uid46_printimage"/>
+          </media>
+        </figure>
+<exercise id="secfhsst_id261"><title> Free body diagram </title>
+        <problem id="probfhsst_id262">
+        <para id="id63602">Draw a free body diagram of all the forces acting on trailer A in the example above. </para>
+        </problem>
+        <solution id="solfhsst_id265"> <list id="listfhsst_id265" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Draw a dot to indicate the object </label>
+        <figure id="uid47">
+          <media id="uid47_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_008.png" id="uid47_onlineimage" width="6"><!-- NOTE: attribute width changes image size online (pixels). original width is 6. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_008.eps" id="uid47_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Draw arrows to indicate all the forces acting on the object </label>
+        <figure id="uid48">
+          <media id="uid48_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_009.png" id="uid48_onlineimage" width="112"><!-- NOTE: attribute width changes image size online (pixels). original width is 112. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_009.eps" id="uid48_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Label the forces </label>
+        <figure id="uid49">
+          <media id="uid49_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_010.png" id="uid49_onlineimage" width="313"><!-- NOTE: attribute width changes image size online (pixels). original width is 313. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_010.eps" id="uid49_printimage"/>
+          </media>
+        </figure>
+        
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid50">
+        <title>Finding the Resultant Force</title>
+        <para id="id63680">The easiest way to determine a resultant force is to draw a free body diagram. Remember from <link target-id="">Vectors</link> that we use the length of the arrow to indicate the vector's magnitude and the direction of the arrow to show which direction it acts in.</para>
+        <para id="id63688">After we have done this, we have a diagram of vectors and we simply find the sum of the vectors to get the resultant force.</para>
+        <figure id="uid51">
+          <media id="uid51_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_011.png" id="uid51_onlineimage" width="185"><!-- NOTE: attribute width changes image size online (pixels). original width is 185. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_011.eps" id="uid51_printimage"/>
+          </media>
+          <caption>(a) Force diagram of 2 forces acting on a box. (b) Free body diagram of the box.</caption>
+        </figure>
+        <para id="id63704">For example, two people push on a box from opposite sides with forces of 4 N and 6 N respectively as shown in <link target-id="uid51"/>(a). The free body diagram in <link target-id="uid51"/>(b) shows the object represented by a dot and the two forces are represented by arrows with their tails on the dot.</para>
+        <para id="id63720">As you can see, the arrows point in opposite directions and have different lengths. The resultant force is 2 N to the left. This result can be obtained algebraically too, since the two forces act along the same line. First, as in motion in one direction, choose a frame of reference. Secondly, add the two vectors taking their directions into account.</para>
+        <para id="id63729">For the example, assume that the positive direction is to the right, then:</para>
+        <equation id="id63733">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>F</m:mi>
+                    <m:mi>R</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mo>+</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mo>+</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mn>6</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mrow>
+                      <m:mi> to </m:mi>
+                      <m:mi> the </m:mi>
+                      <m:mi> left </m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id63849">Remember that a negative answer means that the force acts in the <emphasis effect="italics">opposite</emphasis> direction to the one that you chose to be positive. You can <emphasis effect="italics">choose</emphasis> the positive direction to be any way you want, but once you have chosen it you <emphasis effect="italics">must</emphasis> keep it.</para>
+        <para id="id63870">As you work with more force diagrams in which the forces exactly balance, you may notice that you get a zero answer (e.g. 0 N). This simply means that the forces are balanced and that the object will not accelerate.</para>
+        <para id="id63876">Once a force diagram has been drawn the techniques of vector addition introduced in <link target-id="">Vectors</link> can be used. Depending on the situation you might choose to use a graphical technique such as the tail-to-head method or the parallelogram method, or else an algebraic approach to determine the resultant. Since force is a vector quantity all of these methods apply.</para>
+<exercise id="secfhsst_id375"><title> Finding the resultant force </title>
+        <problem id="probfhsst_id376">
+        <para id="id63898">A car (mass 1200 kg) applies a force of 2000 N on a trailer (mass 250 kg). A constant frictional force of 200 N is acting on the trailer, and a constant frictional force of 300 N is acting on the car.</para>
+        <list id="id63905" display="block" list-type="enumerated">
+          <item id="uid52">Draw a force diagram of all the forces acting on the car.
+</item>
+          <item id="uid53">Draw a free body diagram of all the horizontal forces acting on the trailer.
+</item>
+          <item id="uid54">Use the force diagram to determine the resultant force on the trailer.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id388"> <list id="listfhsst_id388" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Draw the force diagram for the car. </label>
+        <para id="id63965">The question asks us to draw all the forces on the car. This means that we must include horizontal and vertical forces.</para>
+        <figure id="uid55">
+          <media id="uid55_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_012.png" id="uid55_onlineimage" width="380"><!-- NOTE: attribute width changes image size online (pixels). original width is 380. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_012.eps" id="uid55_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Draw the free body diagram for the trailer. </label>
+        <para id="id63982">The question only asks for horizontal forces. We will therefore not include the force of the Earth on the trailer, or the force of the road on the trailer as these forces are in a vertical direction.</para>
+        <figure id="uid56">
+          <media id="uid56_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_013.png" id="uid56_onlineimage" width="559"><!-- NOTE: attribute width changes image size online (pixels). original width is 559. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_013.eps" id="uid56_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Determine the resultant force on the trailer. </label>
+        <para id="id63999">To find the resultant force we need to add all the horizontal forces together. We do not add vertical forces as the movement of the car and trailer will be in a horizontal direction, and not up or down.
+F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>R</m:mi></m:msub></m:math> = 2000 + (-200) = 1800 N to the right.
+ </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <para id="eip-613"><link class="phetsim" window="new" url="http://phet.colorado.edu/sims/motion-series/forces-and-motion_en.jnlp">run demo</link>
+
+<figure id="id63458">
+            <media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/forces-and-motion-screenshot.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/forces-and-motion-screenshot.eps" id="id63458_printimage"/>
+            </media>
+            </figure></para><section id="uid57">
+        <title>Exercise</title>
+        <list id="id64036" display="block" list-type="enumerated"><item id="uid58">A force acts on an object. Name three effects that the force can have on the object.
+</item>
+          <item id="uid59">Identify each of the following forces as contact or non-contact forces.
+<list id="id64064" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid60">The force between the north pole of a magnet and a paper clip.
+</item><item id="uid61">The force required to open the door of a taxi.
+</item><item id="uid62">The force required to stop a soccer ball.
+</item><item id="uid63">The force causing a ball, dropped from a height of 2 m, to fall to the floor.
+</item></list></item>
+          <item id="uid64">A book of mass 2 kg is lying on a table. Draw a labeled force diagram indicating all the forces on the book.
+</item>
+          <item id="uid65">A boy pushes a shopping trolley (mass 15 kg) with a constant force of 75 N. A constant frictional force of 20 N is present.
+<list id="id64140" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid66">Draw a labeled force diagram to identify all the forces acting on the shopping trolley.
+</item><item id="uid67">Draw a free body diagram of all the horizontal forces acting on the trolley.
+</item><item id="uid68">Determine the resultant force on the trolley.
+</item></list></item>
+          <item id="uid69">A donkey (mass 250 kg) is trying to pull a cart (mass 80 kg) with a force of 400 N. The rope between the donkey and the cart makes an angle of 30<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> with the cart. The cart does not move.
+<list id="id64206" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid70">Draw a free body diagram of all the forces acting on the donkey.
+</item><item id="uid71">Draw a force diagram of all the forces acting on the cart.
+</item><item id="uid72">Find the magnitude and direction of the frictional force preventing the cart from moving.
+</item></list></item>
+        </list>
+      </section>
+    </section>
+
+     </content>
+</document>

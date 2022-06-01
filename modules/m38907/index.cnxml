@@ -1,0 +1,232 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Oxidation numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38907</md:content-id>
+  <md:title>Oxidation numbers</md:title>
+  <md:abstract/>
+  <md:uuid>24f85195-f4bc-4bd7-8c22-ba65c91e9933</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid12">
+      <title>Oxidation numbers</title>
+      <para id="id146385">When reactions occur, an exchange of electrons takes place. <emphasis effect="bold">Oxidation</emphasis> is the <emphasis effect="italics">loss</emphasis> of electrons from an atom, while <emphasis effect="bold">reduction</emphasis> is the <emphasis effect="italics">gain</emphasis> of electrons by an atom. By giving elements an oxidation number, it is possible to keep track of whether that element is losing or gaining electrons during a chemical reaction. The loss of electrons in one part of the reaction must be balanced by a gain of electrons in another part of the reaction.</para>
+<definition id="fhsst_id1010"><term id="termfhsst_id1010"> Oxidation number </term> <meaning id="meaningfhsst_id1010">
+      <para id="id146421">A simplified way of understanding an oxidation number is to say that it is the charge an atom would have if it was in a compound composed of ions.
+ </para>
+      </meaning></definition>
+      <para id="id146434">There are a number of rules that you need to know about oxidation numbers, and these are listed below. These will probably not make much sense at first, but once you have worked through some examples, you will soon start to understand!</para>
+      <list id="id146439" display="block" list-type="enumerated">
+        <item id="uid120"><emphasis effect="bold">Rule 1:</emphasis> An element always has an oxidation number of zero, since it is neutral.
+In the reaction <m:math overflow="scroll"><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mi>B</m:mi><m:msub><m:mi>r</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>H</m:mi><m:mi>B</m:mi><m:mi>r</m:mi></m:mrow></m:math>, the oxidation numbers of hydrogen and bromine on the left hand side of the equation are both zero.
+</item>
+        <item id="uid121"><emphasis effect="bold">Rule 2:</emphasis> In most cases, an atom that is part of a molecule will have an oxidation number that has the same numerical value as its valency.
+</item>
+        <item id="uid122"><emphasis effect="bold">Rule 3:</emphasis> Monatomic ions have an oxidation number that is equal to the charge on the ion.
+The chloride ion <m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msup><m:mi>l</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> has an oxidation number of -1, and the magnesium ion <m:math overflow="scroll"><m:mrow><m:mi>M</m:mi><m:msup><m:mi>g</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:mrow></m:math> has an oxidation number of +2.
+</item>
+        <item id="uid123"><emphasis effect="bold">Rule 4:</emphasis> In a molecule, the oxidation number for the whole molecule will be zero, unless the molecule has a charge, in which case the oxidation number is equal to the charge.
+</item>
+        <item id="uid124"><emphasis effect="bold">Rule 5:</emphasis> Use a table of electronegativities to determine whether an atom has a positive or a negative oxidation number. For example, in a molecule of water, oxygen has a higher electronegativity so it must be negative because it attracts electrons more strongly. It will have a negative oxidation number (-2). Hydrogen will have a positive oxidation number (+1).
+</item>
+        <item id="uid125"><emphasis effect="bold">Rule 6:</emphasis> An oxygen atom usually has an oxidation number of -2, although there are some cases where its oxidation number is -1.
+</item>
+        <item id="uid126"><emphasis effect="bold">Rule 7:</emphasis> The oxidation number of hydrogen is usually +1. There are some exceptions where its oxidation number is -1.
+</item>
+        <item id="uid127"><emphasis effect="bold">Rule 8:</emphasis> In most compounds, the oxidation number of the halogens is -1.
+</item>
+      </list>
+<note id="notfhsst_id1035" type="tip">You will notice that the oxidation number of an atom is the same as its valency. Whether an oxidation number os positive or negative, is determined by the electronegativities of the atoms involved.</note>
+<exercise id="secfhsst_id1036"><title> Oxidation numbers
+      </title>
+      <problem id="probfhsst_id1038">
+      <para id="id146696">Give the oxidation numbers for all the atoms in the reaction between sodium and chlorine to form sodium chloride.</para>
+      <para id="id146703">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>N</m:mi>
+            <m:mi>a</m:mi>
+            <m:mo>+</m:mo>
+            <m:mi>C</m:mi>
+            <m:mi>l</m:mi>
+            <m:mo>→</m:mo>
+            <m:mi>N</m:mi>
+            <m:mi>a</m:mi>
+            <m:mi>C</m:mi>
+            <m:mi>l</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      
+      </problem>
+      <solution id="solfhsst_id1058"> <list id="listfhsst_id1058" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+     
+      <item> <label> Determine which atom will have a positive or negative oxidation number </label>
+      <para id="id146772">Sodium will have a positive oxidation number and chlorine will have a negative oxidation number.</para>
+      </item> <item> <label> Determine the oxidation number for each atom </label>
+      <para id="id146780">Sodium (group 1) will have an oxidation number of +1. Chlorine (group 7) will have an oxidation number of -1.</para>
+      </item> <item> <label> Check whether the oxidation numbers add up to the charge on the molecule </label>
+      <para id="id146789">In the equation <m:math overflow="scroll"><m:mrow><m:mi>N</m:mi><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>C</m:mi><m:mi>l</m:mi><m:mo>→</m:mo><m:mi>N</m:mi><m:mi>a</m:mi><m:mi>C</m:mi><m:mi>l</m:mi></m:mrow></m:math>, the overall charge on the NaCl molecule is +1-1=0. This is correct since NaCl is neutral. This means that, in a molecule of NaCl, sodium has an oxidation number of +1 and chlorine has an oxidation number of -1. The oxidation numbers for sodium and chlorine (on the left hand side of the equation) are zero since these are elements.</para>
+ </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1068"><title> Oxidation numbers
+      </title>
+      <problem id="probfhsst_id1070">
+      <para id="id146843">Give the oxidation numbers for all the atoms in the reaction between hydrogen and oxygen to produce water. The unbalanced equation is shown below:</para>
+      <para id="id146850">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>+</m:mo>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>→</m:mo>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mi>O</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      
+      </problem>
+      <solution id="solfhsst_id1095"> <list id="listfhsst_id1095" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+     
+      <item> <label> Determine which atom will have a positive or negative oxidation number </label>
+      <para id="id146926">Hydrogen will have a positive oxidation number and oxygen will have a negative oxidation number.</para>
+      </item> <item> <label> Determine the oxidation number for each atom </label>
+      <para id="id146934">Hydrogen (group 1) will have an oxidation number of +1. Oxygen (group 6) will have an oxidation number of -2.</para>
+      </item> <item> <label> Check whether the oxidation numbers add up to the charge on the molecule </label>
+      <para id="id146943">In the reaction <m:math overflow="scroll"><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math>, the oxidation numbers for hydrogen and oxygen (on the left hand side of the equation) are zero since these are elements. In the water molecule, the sum of the oxidation numbers is 2(+1)-2=0. This is correct since the oxidation number of water is zero. Therefore, in water, hydrogen has an oxidation number of +1 and oxygen has an oxidation number of -2.</para>
+ </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1105"><title> Oxidation numbers
+      </title>
+      <problem id="probfhsst_id1107">
+      <para id="id147005">Give the oxidation number of sulfur in a sulphate (<m:math overflow="scroll"><m:mrow><m:mi>S</m:mi><m:msubsup><m:mi>O</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:mrow></m:math>) ion</para>
+      
+      </problem>
+      <solution id="solfhsst_id1111"> <list id="listfhsst_id1111" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Determine which atom will have a positive or negative oxidation number </label>
+      <para id="id147075">Sulfur has a positive oxidation number and oxygen will have a negative oxidation number.</para>
+      </item> <item> <label> Determine the oxidation number for each atom </label>
+      <para id="id147083">Oxygen (group 6) will have an oxidation number of -2. The oxidation number of sulfur at this stage is uncertain.</para>
+      </item> <item> <label> Determine the oxidation number of sulfur by using the fact that the oxidation numbers of the atoms must add up to the charge on the molecule </label>
+      <para id="id147092">In the polyatomic <m:math overflow="scroll"><m:mrow><m:mi>S</m:mi><m:msubsup><m:mi>O</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:mrow></m:math> ion, the sum of the oxidation numbers must be -2. Since there are four oxygen atoms in the ion, the total charge of the oxygen is -8. If the overall charge of the ion is -2, then the oxidation number of sulfur must be +6.</para>
+</item> </list> </solution>
+</exercise>
+<section id="secfhsst_id1121"><title> Oxidation numbers
+      </title>
+      <list id="id147136" display="block" list-type="enumerated">
+        <item id="uid128">Give the oxidation numbers for each element in the following chemical compounds:
+<list id="id147151" display="block" list-type="enumerated"><item id="uid129">NO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item><item id="uid130">BaCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item><item id="uid131">H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></item></list></item>
+        <item id="uid132">Give the oxidation numbers for the reactants and products in each of the following reactions:
+<list id="id147253" display="block" list-type="enumerated"><item id="uid133"><m:math overflow="scroll"><m:mrow><m:mi mathvariant="normal">C</m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item><item id="uid134"><m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">N</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi> NH </m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math></item><item id="uid135">Magnesium metal burns in oxygen
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid13">
+      <title>Summary</title>
+      <list id="id147386" display="block" list-type="bulleted">
+        <item id="uid136">A <emphasis effect="bold">chemical bond</emphasis> is the physical process that causes atoms and molecules to be attracted together and to be bound in new compounds.
+</item>
+        <item id="uid137">Atoms are more <emphasis effect="bold">reactive</emphasis>, and therefore more likely to bond, when their outer electron orbitals are not full. Atoms are less reactive when these outer orbitals contain the maximum number of electrons. This explains why the noble gases do not combine to form molecules.
+</item>
+        <item id="uid138">There are a number of <emphasis effect="bold">forces</emphasis> that act between atoms: attractive forces between the positive nucleus of one atom and the negative electrons of another; repulsive forces between like-charged electrons, and repulsion between like-charged nuclei.
+</item>
+        <item id="uid139">Chemical bonding occurs when the <emphasis effect="bold">energy</emphasis> of the system is at its lowest.
+</item>
+        <item id="uid140"><emphasis effect="bold">Bond length</emphasis> is the distance between the nuclei of the atoms when they bond.
+</item>
+        <item id="uid141"><emphasis effect="bold">Bond energy</emphasis> is the energy that must be added to the system for the bonds to break.
+</item>
+        <item id="uid142">When atoms bond, electrons are either shared or exchanged.
+</item>
+        <item id="uid143"><emphasis effect="bold">Covalent bonding</emphasis> occurs between the atoms of non-metals and involves a sharing of electrons so that the orbitals of the outermost energy levels in the atoms are filled.
+</item>
+        <item id="uid144">The <emphasis effect="bold">valency</emphasis> of an atom is the number of electrons in the outer shell of that atom and valence electrons are able to form bonds with other atoms.
+</item>
+        <item id="uid145">A <emphasis effect="bold">double</emphasis> or <emphasis effect="bold">triple bond</emphasis> occurs if there are two or three electron pairs that are shared between the same two atoms.
+</item>
+        <item id="uid146">A <emphasis effect="bold">dative covalent bond</emphasis> is a bond between two atoms in which both the electrons that are shared in the bond come from the same atom.
+</item>
+        <item id="uid147"><emphasis effect="bold">Lewis</emphasis> and <emphasis effect="bold">Couper</emphasis> notation are two ways of representing molecular structure. In Lewis notation, dots and crosses are used to represent the valence electrons around the central atom. In Couper notation, lines are used to represent the bonds between atoms.
+</item>
+        <item id="uid148"><emphasis effect="bold">Electronegativity</emphasis> measures how strongly an atom draws electrons to it.
+</item>
+        <item id="uid149">Electronegativity can be used to explain the difference between two types of covalent bonds: <emphasis effect="bold">polar covalent bonds</emphasis> (between non-identical atoms) and <emphasis effect="bold">non-polar covalent bonds</emphasis> (between identical atoms).
+</item>
+        <item id="uid150">An <emphasis effect="bold">ionic bond</emphasis> occurs between atoms where the difference in electronegativity is greater than 1.7. An exchange of electrons takes place and the atoms are held together by the electrostatic force of attraction between oppositely-charged ions.
+</item>
+        <item id="uid151">Ionic solids are arranged in a <emphasis effect="bold">crystal lattice</emphasis> structure.
+</item>
+        <item id="uid152">Ionic compounds have a number of specific <emphasis effect="bold">properties</emphasis>, including their high melting and boiling points, brittle nature, the lattice structure of solids and the ability of ionic solutions to conduct electricity.
+</item>
+        <item id="uid153">A <emphasis effect="bold">metallic bond</emphasis> is the electrostatic attraction between the positively charged nuclei of metal atoms and the delocalised electrons in the metal.
+</item>
+        <item id="uid154">Metals also have a number of properties, including their ability to conduct heat and electricity, their metallic lustre, the fact that they are both malleable and ductile, and their high melting point and density.
+</item>
+        <item id="uid155">The valency of atoms, and the way they bond, can be used to determine the <emphasis effect="bold">chemical formulae</emphasis> of compounds.
+</item>
+        <item id="uid156">The <emphasis effect="bold">shape of molecules</emphasis> can be predicted using the VSEPR theory, which uses the arrangement of electrons around the central atom to determine the most likely shape of the molecule.
+</item>
+        <item id="uid157"><emphasis effect="bold">Oxidation numbers</emphasis> are used to determine whether an atom has gained or lost electrons during a chemical reaction.
+</item>
+      </list>
+<section id="secfhsst_id1181"><title> Summary exercise
+      </title>
+      <list id="id147820" display="block" list-type="enumerated">
+        <item id="uid158">Give <emphasis effect="bold">one word/term</emphasis> for each of the following descriptions.
+<list id="id147842" display="block" list-type="enumerated"><item id="uid159">The distance between two atoms in a molecule
+</item><item id="uid160">A type of chemical bond that involves the transfer of electrons from one atom to another.
+</item><item id="uid161">A measure of an atom's ability to attract electrons to it.
+</item></list></item>
+        <item id="uid162">Which ONE of the following best describes the bond formed between an H<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> ion and the NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> molecule?
+<list id="id147923" display="block" list-type="enumerated"><item id="uid163">Covalent bond
+</item><item id="uid164">Dative covalent (coordinate covalent) bond
+</item><item id="uid165">Ionic Bond
+</item><item id="uid166">Hydrogen Bond
+</item></list></item>
+        <item id="uid167">Explain the meaning of each of the following terms:
+<list id="id147988" display="block" list-type="enumerated"><item id="uid168">valency
+</item><item id="uid169">bond energy
+</item><item id="uid170">covalent bond
+</item></list></item>
+        <item id="uid171">Which of the following reactions will <emphasis effect="italics">not</emphasis> take place? Explain your answer.
+<list id="id148047" display="block" list-type="enumerated"><item id="uid172"><m:math overflow="scroll"><m:mrow><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo><m:mi mathvariant="normal">H</m:mi><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item><item id="uid173"><m:math overflow="scroll"><m:mrow><m:mi> Ne </m:mi><m:mo>+</m:mo><m:mi> Ne </m:mi><m:mo>→</m:mo><m:msub><m:mi> Ne </m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item><item id="uid174"><m:math overflow="scroll"><m:mrow><m:mi> Cl </m:mi><m:mo>+</m:mo><m:mi> Cl </m:mi><m:mo>→</m:mo><m:msub><m:mi> Cl </m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item></list></item>
+        <item id="uid175">Draw the Lewis structure for each of the following:
+<list id="id148172" display="block" list-type="enumerated"><item id="uid176">calcium
+</item><item id="uid177">iodine (Hint: Which group is it in? It will be similar to others in that group)
+</item><item id="uid178">hydrogen bromide (HBr)
+</item><item id="uid179">nitrogen dioxide (NO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)
+</item></list></item>
+        <item id="uid180">Given the following Lewis structure, where X and Y each represent a different element...
+<figure id="id148255"><media id="id148255_media" alt=""><image mime-type="image/png" src="../../media/CG11C1_027.png" id="id148255_onlineimage" width="60"><!-- NOTE: attribute width changes image size online (pixels). original width is 60. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_027.eps" id="id148255_printimage"/></media></figure><list id="id148261" display="block" list-type="enumerated"><item id="uid181">What is the valency of X?
+</item><item id="uid182">What is the valency of Y?
+</item><item id="uid183">Which elements could X and Y represent?
+</item></list></item>
+        <item id="uid184">A molecule of ethane has the formula C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>. Which of the following diagrams (Couper notation) accurately represents this molecule?
+<figure id="id148343"><media id="id148343_media" alt=""><image mime-type="image/png" src="../../media/CG11C1_028.png" id="id148343_onlineimage" width="264"><!-- NOTE: attribute width changes image size online (pixels). original width is 264. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_028.eps" id="id148343_printimage"/></media></figure></item>
+        <item id="uid185">Potassium dichromate is dissolved in water.
+<list id="id148361" display="block" list-type="enumerated"><item id="uid186">Give the name and chemical formula for each of the ions in solution.
+</item><item id="uid187">What is the chemical formula for potassium dichromate?
+</item><item id="uid188">Give the oxidation number for each element in potassium dichromate.
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

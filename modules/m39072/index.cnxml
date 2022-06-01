@@ -1,0 +1,140 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Introduction and key concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39072</md:content-id>
+  <md:title>Introduction and key concepts</md:title>
+  <md:abstract/>
+  <md:uuid>5a4c4966-89b3-4fda-a8a6-575032b935ee</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1">
+      <title>Introduction</title>
+      <para id="id94909">We are surrounded by different types of solutions in our daily lives. Any solution is made up of a <emphasis effect="bold">solute</emphasis> and a <emphasis effect="bold">solvent</emphasis>. A <emphasis effect="bold">solute</emphasis> is a substance that dissolves in a solvent. In the case of a salt (NaCl) solution, the salt crystals are the solute. A <emphasis effect="bold">solvent</emphasis> is the substance in which the solute dissolves. In the case of the NaCl solution, the solvent would be the water. In most cases, there is always more of the solvent than there is of the solute in a solution.</para>
+<definition id="fhsst_id44"><term id="termfhsst_id44"> Solutes and solvents </term> <meaning id="meaningfhsst_id44">
+      <para id="id95281">A <emphasis effect="bold">solute</emphasis> is a substance that is dissolved in another substance. A solute can be a solid, liquid or gas. A <emphasis effect="bold">solvent</emphasis> is the liquid that dissolves a solid, liquid, or gaseous solute. </para>
+      </meaning></definition>
+    </section>
+    <section id="cid2">
+      <title>Types of solutions</title>
+      <para id="id95312">When a solute is mixed with a solvent, a <emphasis effect="italics">mixture</emphasis> is formed, and this may be either <emphasis effect="italics">heterogeneous</emphasis> or <emphasis effect="italics">homogeneous</emphasis>. If you mix sand and water for example, the sand does not dissolve in the water. This is a <emphasis effect="bold">heterogeneous</emphasis> mixture. (Hetero is Greek for different). When you mix salt and water, the resulting mixture is <emphasis effect="bold">homogeneous</emphasis> because the solute has dissolved in the solvent. (Homo is Greek for the same).</para>
+<definition id="fhsst_id51"><term id="termfhsst_id51"> Solution </term> <meaning id="meaningfhsst_id51">
+      <para id="id95350">In chemistry, a solution is a homogeneous mixture that consists of a solute that has been dissolved in a solvent.
+ </para>
+      </meaning></definition>
+      <para id="id95361">A solution then is a homogeneous mixture of a solute and a solvent. Examples of solutions are:</para>
+      <list id="id95366" display="block" list-type="bulleted">
+        <item id="uid1">A <emphasis effect="italics">solid solute</emphasis> dissolved in a <emphasis effect="italics">liquid solvent</emphasis> e.g. sodium chloride dissolved in water.
+</item>
+        <item id="uid2">A <emphasis effect="italics">gas solute</emphasis> dissolved in a <emphasis effect="italics">liquid solvent</emphasis> e.g. carbon dioxide dissolved in water (fizzy drinks) or oxygen dissolved in water (aquatic ecosystems).
+</item>
+        <item id="uid3">A <emphasis effect="italics">liquid solute</emphasis> dissolved in a <emphasis effect="italics">liquid solvent</emphasis> e.g. ethanol in water.
+</item>
+        <item id="uid4">A <emphasis effect="italics">solid solute</emphasis> in a <emphasis effect="italics">solid solvent</emphasis> e.g. metal alloys.
+</item>
+        <item id="uid5">A <emphasis effect="italics">gas solute</emphasis> in a <emphasis effect="italics">gas solvent</emphasis> e.g. the homogeneous mixture of gases in the air that we breathe.
+</item>
+      </list>
+      <para id="id95481">While there are many different types of solutions, most of those we will be discussing are <emphasis effect="italics">liquids</emphasis>.</para>
+    </section>
+    <section id="cid3">
+      <title>Forces and solutions</title>
+      <para id="id95499">An important question to ask is why some solutes dissolve in certain solvents and not in others. The answer lies in understanding the interaction between the intramolecular and intermolecular forces between the solute and solvent particles.</para>
+<section id="secfhsst_id73"><title> Experiment : Solubility </title>
+      <para id="id95514">
+        <emphasis effect="bold">Aim:</emphasis>
+      </para>
+      <para id="id95522">To investigate the solubility of solutes in different solvents.</para>
+      <para id="id95528">
+        <emphasis effect="bold">Apparatus:</emphasis>
+      </para>
+      <para id="id95536">Salt, vinegar, iodine (CAUTION! Iodine stains the skin.) , ethanol</para>
+      <para id="id95540">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id95548" display="block" list-type="enumerated">
+        <item id="uid6">Mix half a teaspoon of salt in 100cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of water
+</item>
+        <item id="uid7">Mix half a teaspoon of vinegar (acetic acid) in 100cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of water
+</item>
+        <item id="uid8">Mix a few grains of iodine in ethanol
+</item>
+        <item id="uid9">Mix a few grains of iodine in 100cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of water
+</item>
+      </list>
+      <para id="id95635">
+        <emphasis effect="bold">Results:</emphasis>
+      </para>
+      <para id="id95644">Record your observations in the table below:</para>
+      <table id="id95647" summary="">
+        <tgroup cols="5">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Solute</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Polar, non-polar or ionic solute</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Solvent</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Polar, non-polar or ionic solvent</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Does solute dissolve?</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Iodine</entry>
+              <entry/>
+              <entry>Ethanol</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Iodine</entry>
+              <entry/>
+              <entry>Water</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Vinegar</entry>
+              <entry/>
+              <entry>Water</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Salt</entry>
+              <entry/>
+              <entry>Water</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <!--empty paragraphs get left behind.-->
+      <para id="id95864">You should have noticed that in some cases, the solute dissolves in the solvent, while in other cases it does not.</para>
+      <para id="id95869">
+        <emphasis effect="bold">Conclusions:</emphasis>
+      </para>
+      <para id="id95877">In general, polar and ionic solutes dissolve well in polar solvents, while non-polar solutes dissolve well in non-polar solvents. An easy way to remember this is that 'like dissolves like', in other words, if the solute and the solvent have similar intermolecular forces, there is a high possibility that dissolution will occur. This will be explained in more detail below.
+
+ </para>
+</section>
+      <list id="id95889" display="block" list-type="bulleted">
+        <item id="uid10"><emphasis effect="bold">Non-polar solutes and non-polar solvents</emphasis> (e.g. iodine and ether)
+Iodine molecules are non-polar, and the forces between the molecules are weak van der Waals forces. There are also weak van der Waals forces between ether molecules. Because the intermolecular forces in both the solute and the solvent are similar, it is easy for these to be broken in the solute, allowing the solute to move into the spaces between the molecules of the solvent. The solute dissolves in the solvent.
+</item>
+        <item id="uid11"><emphasis effect="bold">Polar and ionic solutes and polar solvents</emphasis> (e.g. salt and water)
+There are strong electrostatic forces between the ions of a salt such as sodium chloride. There are also strong hydrogen bonds between water molecules. Because the strength of the intermolecular forces in the solute and solvent are similar, the solute will dissolve in the solvent.
+</item>
+      </list>
+    </section>
+
+  </content>
+</document>

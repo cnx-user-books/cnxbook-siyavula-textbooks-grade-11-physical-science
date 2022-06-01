@@ -1,0 +1,1142 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Impulse</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38984</md:content-id>
+  <md:title>Impulse</md:title>
+  <md:abstract/>
+  <md:uuid>da63923a-6809-4fdf-a709-ee0139402413</md:uuid>
+</metadata>
+
+<content>
+      <section id="uid375">
+        <title>Impulse</title>
+        <para id="id86358">Impulse is the product of the net force and the time interval for which the force acts. Impulse is defined as:</para>
+        <equation id="uid376">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi> Impulse </m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>F</m:mi>
+              <m:mo>·</m:mo>
+              <m:mi>Δ</m:mi>
+              <m:mi>t</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id86390">However, from Newton's Second Law, we know that</para>
+        <equation id="id86396">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>F</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>p</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>∴</m:mo>
+                    <m:mspace width="1.em"/>
+                    <m:mi>F</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                    <m:mspace width="4pt"/>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>p</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mi> Impulse </m:mi>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id86481">Therefore,</para>
+        <equation id="id86486">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi> Impulse </m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>Δ</m:mi>
+              <m:mi>p</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id86505">Impulse is equal to the change in momentum of an object. From this equation we see, that for a given change in momentum, <m:math overflow="scroll"><m:mrow><m:msub><m:mi>F</m:mi><m:mrow><m:mi>n</m:mi><m:mi>e</m:mi><m:mi>t</m:mi></m:mrow></m:msub><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:math> is fixed. Thus, if <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mrow><m:mi>n</m:mi><m:mi>e</m:mi><m:mi>t</m:mi></m:mrow></m:msub></m:math> is reduced, <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:math> must be increased (i.e. a smaller resultant force must be applied for longer to bring about the same change in momentum). Alternatively if <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:math> is reduced (i.e. the resultant force is applied for a shorter period) then the resultant force must be increased to bring about the same change in momentum.</para>
+<exercise id="secfhsst_id7656"><title> Impulse and Change in momentum </title>
+        <problem id="probfhsst_id7657">
+        <para id="id86594">A 150 N resultant force acts on a 300 kg trailer. Calculate how long it takes this force to change the trailer's velocity from 2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>to 6 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>in the same direction. Assume that the forces acts to the right. </para>
+        </problem>
+        <solution id="solfhsst_id7660"> <list id="listfhsst_id7660" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify what information is given and what is asked for </label>
+        <para id="id86669">The question explicitly gives</para>
+        <list id="id86673" display="block" list-type="bulleted">
+          <item id="uid377">the trailer's mass as 300 kg,
+</item>
+          <item id="uid378">the trailer's initial velocity as 2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>to the right,
+</item>
+          <item id="uid379">the trailer's final velocity as 6 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>to the right, and
+</item>
+          <item id="uid380">the resultant force acting on the object
+</item>
+        </list>
+        <para id="id86777">all in the correct units!</para>
+        <para id="id86780">We are asked to calculate the time taken <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:math> to accelerate the trailer from the 2 to 6 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. From the Law of Momentum,</para>
+        <equation id="id86823">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                        <m:mi>e</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>p</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>f</m:mi>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:mi>m</m:mi>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>f</m:mi>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:mo>)</m:mo>
+                    <m:mo>.</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id86935">Thus we have everything we need to find <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:math>!</para>
+        </item> <item> <label> Choose a frame of reference </label>
+        <para id="id86958">Choose right as the positive direction.</para>
+        </item> <item> <label> Do the calculation and quote the final answer </label>
+        <equation id="id86967">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                        <m:mi>e</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>f</m:mi>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mo>+</m:mo>
+                    <m:mn>150</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mi>Δ</m:mi>
+                    <m:mi mathvariant="normal">t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>300</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>+</m:mo>
+                      <m:mn>6</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mo>+</m:mo>
+                    <m:mn>150</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mi>Δ</m:mi>
+                    <m:mi mathvariant="normal">t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>300</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>+</m:mo>
+                      <m:mn>4</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>300</m:mn>
+                        <m:mspace width="0.166667em"/>
+                        <m:mi> kg </m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mo>+</m:mo>
+                        <m:mn>4</m:mn>
+                        <m:mspace width="0.166667em"/>
+                        <m:mi mathvariant="normal">m</m:mi>
+                        <m:mo>·</m:mo>
+                        <m:msup>
+                          <m:mi mathvariant="normal">s</m:mi>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>+</m:mo>
+                      <m:mn>150</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>8</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">s</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id87342">It takes 8 s for the force to change the object's velocity from 2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>to the right to 6 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>to the right. </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id7969"><title> Impulsive cricketers! </title>
+        <problem id="probfhsst_id7970">
+        <para id="id87424">A cricket ball weighing 156 g is moving at 54 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>towards a batsman. It is hit by the batsman back towards the bowler at 36 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Calculate</para>
+        <list id="id87482" display="block" list-type="enumerated">
+          <item id="uid381">the ball's impulse, and
+</item>
+          <item id="uid382">the average force exerted by the bat if the ball is in contact with the bat for 0,13 s.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id7980"> <list id="listfhsst_id7980" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify what information is given and what is asked for </label>
+        <para id="id87533">The question explicitly gives</para>
+        <list id="id87537" display="block" list-type="bulleted">
+          <item id="uid383">the ball's mass,
+</item>
+          <item id="uid384">the ball's initial velocity,
+</item>
+          <item id="uid385">the ball's final velocity, and
+</item>
+          <item id="uid386">the time of contact between bat and ball
+</item>
+        </list>
+        <para id="id87590">We are asked to calculate the impulse</para>
+        <equation id="id87594">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi> Impulse </m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>Δ</m:mi>
+              <m:mi>p</m:mi>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>F</m:mi>
+                <m:mrow>
+                  <m:mi>n</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>t</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mi>Δ</m:mi>
+              <m:mi>t</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id87632">Since we do not have the force exerted by the bat on the ball (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mrow><m:mi>n</m:mi><m:mi>e</m:mi><m:mi>t</m:mi></m:mrow></m:msub></m:math>), we have to calculate the impulse from the change in momentum of the ball. Now, since</para>
+        <equation id="id87658">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>p</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mi>f</m:mi>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>f</m:mi>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:mi>m</m:mi>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:mo>,</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id87737">we need the ball's mass, initial velocity and final velocity, which we are given.</para>
+        </item> <item> <label> Convert to S.I. units </label>
+        <para id="id87750">Firstly let us change units for the mass</para>
+        <equation id="id87753">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>1000</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">g</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi> So </m:mi>
+                      <m:mo>,</m:mo>
+                    </m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">g</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>1000</m:mn>
+                    </m:mfrac>
+                    <m:mspace width="4pt"/>
+                    <m:mi> kg </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>∴</m:mo>
+                    <m:mn>156</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">g</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>156</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>1000</m:mn>
+                    </m:mfrac>
+                    <m:mspace width="4pt"/>
+                    <m:mi> kg </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>156</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id87908">Next we change units for the velocity</para>
+        <equation id="id87914">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi> km </m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">h</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>1000</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                      <m:mspace width="4pt"/>
+                      <m:mn>600</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>∴</m:mo>
+                    <m:mn>54</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi> km </m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">h</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>54</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                        <m:mspace width="0.166667em"/>
+                        <m:mn>000</m:mn>
+                        <m:mspace width="0.166667em"/>
+                        <m:mi mathvariant="normal">m</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>3</m:mn>
+                        <m:mspace width="0.166667em"/>
+                        <m:mn>600</m:mn>
+                        <m:mspace width="0.166667em"/>
+                        <m:mi mathvariant="normal">s</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>15</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id88108">Similarly, 36 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>= 10 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.</para>
+        </item> <item> <label> Choose a frame of reference </label>
+        <para id="id88168">Let us choose the direction from the batsman to the bowler as the positive direction. Then the initial velocity of the ball is <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>i</m:mi></m:msub></m:math> = -15 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, while the final velocity of the ball is <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>f</m:mi></m:msub></m:math> = 10 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.</para>
+        </item> <item> <label> Calculate the momentum </label>
+        <para id="id88255">Now we calculate the change in momentum,</para>
+        <equation id="id88259"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>p</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mi>f</m:mi>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:msub>
+                      <m:mi>p</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>f</m:mi>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:mi>m</m:mi>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>f</m:mi>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>156</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>+</m:mo>
+                      <m:mn>10</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>15</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup><m:mspace width="2pt"/>
+                    <m:mrow>
+                      <m:mi> in the direction from batsman to bowler</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Determine the impulse </label>
+        <para id="id88583">Finally since impulse is just the change in momentum of the ball,</para>
+        <equation id="id88587"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi> Impulse </m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>p</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup><m:mspace width="3pt"/>
+                    <m:mrow>
+                      <m:mi> in the direction from the batsman to the bowler</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Determine the average force exerted by the bat </label>
+        <equation id="id88687">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi> Impulse </m:mi>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>F</m:mi>
+                <m:mrow>
+                  <m:mi>n</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>t</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mi>Δ</m:mi>
+              <m:mi>t</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>Δ</m:mi>
+              <m:mi>p</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id88725">We are given <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:math> and we have calculated the impulse of the ball.</para>
+        <equation id="id88744"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                        <m:mi>e</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mi> Impulse </m:mi>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                        <m:mi>e</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>13</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">s</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>F</m:mi>
+                    <m:mrow>
+                      <m:mi>n</m:mi>
+                      <m:mi>e</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mo>+</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>13</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mn>30</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>30</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mspace width="2.em"/>
+                    <m:mrow>
+                      <m:mi> in the direction from batsman to bowler</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid387">
+        <title>Exercise</title>
+        <list id="id89017" display="block" list-type="enumerated">
+          <item id="uid388">Which one of the following is NOT a unit of impulse?
+<list id="id89033" display="block" list-type="enumerated"><item id="uid389"><label>A</label><m:math overflow="scroll"><m:mrow><m:mi>N</m:mi><m:mo>·</m:mo><m:mi>s</m:mi></m:mrow></m:math></item><item id="uid390"><label>B</label><m:math overflow="scroll"><m:mrow><m:mi>k</m:mi><m:mi>g</m:mi><m:mo>·</m:mo><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></item><item id="uid391"><label>C</label><m:math overflow="scroll"><m:mrow><m:mi>J</m:mi><m:mo>·</m:mo><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></item><item id="uid392"><label>D</label><m:math overflow="scroll"><m:mrow><m:mi>J</m:mi><m:mo>·</m:mo><m:msup><m:mi>m</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo>·</m:mo><m:mi>s</m:mi></m:mrow></m:math></item></list></item>
+          <item id="uid393">A toy car of mass 1 kg moves eastwards with a speed of 2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. It collides head-on with a toy train. The train has a mass of 2 kg and is moving at a speed of 1,5 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>westwards. The car rebounds (bounces back) at 3,4 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>and the train rebounds at 1,2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+<list id="id89313" display="block" list-type="enumerated"><item id="uid394">Calculate the change in momentum for each toy.
+</item><item id="uid395">Determine the impulse for each toy.
+</item><item id="uid396">Determine the duration of the collision if the magnitude of the force exerted by each toy is 8 N.
+</item></list></item>
+          <item id="uid397">A bullet of mass 20 g strikes a target at 300 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>and exits at 200 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. The tip of the bullet takes 0,0001s to pass through the target. Determine:
+<list id="id89418" display="block" list-type="enumerated"><item id="uid398">the change of momentum of the bullet.
+</item><item id="uid399">the impulse of the bullet.
+</item><item id="uid400">the magnitude of the force experienced by the bullet.
+</item></list></item>
+          <item id="uid401">A bullet of mass 20 g strikes a target at 300 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Determine under which circumstances the bullet experiences the greatest change in momentum, and hence impulse:
+<list id="id89498" display="block" list-type="enumerated"><item id="uid402">When the bullet exits the target at 200 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+</item><item id="uid403">When the bullet stops in the target.
+</item><item id="uid404">When the bullet rebounds at 200 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+</item></list></item>
+          <item id="uid405">A ball with a mass of 200 g strikes a wall at right angles at a velocity of 12 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>and rebounds at a velocity of 9 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+<list id="id89652" display="block" list-type="enumerated"><item id="uid406">Calculate the change in the momentum of the ball.
+</item><item id="uid407">What is the impulse of the wall on the ball?
+</item><item id="uid408">Calculate the magnitude of the force exerted by the wall on the ball if the collision takes 0,02s.
+</item></list></item>
+          <item id="uid409">If the ball in the previous problem is replaced with a piece of clay of 200 g which is thrown against the wall with the same velocity, but then sticks to the wall, calculate:
+<list id="id89706" display="block" list-type="enumerated"><item id="uid410">The impulse of the clay on the wall.
+</item><item id="uid411">The force exerted by the clay on the wall if it is in contact with the wall for 0,5 s before it comes to rest.
+</item></list></item>
+        </list>
+      </section>
+
+  </content>
+</document>

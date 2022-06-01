@@ -1,0 +1,131 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Composition and structure</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39074</md:content-id>
+  <md:title>Composition and structure</md:title>
+  <md:abstract/>
+  <md:uuid>59edb572-e6cc-4e91-b978-d3c0132277a2</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1">
+      <title>The Atmosphere</title>
+      <para id="id63097">Our earth is truly an amazing planet! Not only is it exactly the right distance from the sun to have temperatures that will support life, but it is also one of the only planets in our solar system to have liquid water on its surface. In addition, our earth has an atmosphere that has just the right composition to allow life to exist. The <emphasis effect="bold">atmosphere</emphasis> is the layer of gases that surrounds the earth. We may not always be aware of them, but without these gases, life on earth would definitely not be possible. The atmosphere provides the gases that animals and plants need for respiration (breathing) and photosynthesis (the production of food), it helps to keep temperatures on earth constant and also protects us from the sun's harmful radiation.</para>
+      <para id="id63111">In this chapter, we are going to take a closer look at the chemistry of the earth's atmosphere and at some of the human activities that threaten the delicate balance that exists in this part of our planet.</para>
+    </section>
+    <section id="cid2">
+      <title>The composition of the atmosphere</title>
+      <para id="id63466">Earth's atmosphere is made up of a mixture of gases. Two important gases are nitrogen and oxygen, which make up about 78.1% and 20.9% of the atmosphere respectively. A third gas, argon, contributes about 0.9%, and a number of other gases such as carbon dioxide, methane, water vapour, helium and ozone make up the remaining 0.1%. In an earlier chapter, we discussed the importance of nitrogen as a component of proteins, the building blocks of life. Similarly, oxygen is essential for life because it is the gas we need for respiration. We will discuss the importance of some of the other gases later in this chapter.</para>
+<note id="notfhsst_id69"><title> Interesting Fact </title><para id="uid24903">
+The earth's early atmosphere was very different from what it is today. When the earth formed around 4.5 billion years ago, there was probably no atmosphere. Some scientists believe that the earliest atmosphere contained gases such as water vapour, carbon dioxide, nitrogen and sulfur which were released from inside the planet as a result of volcanic activity. Many scientists also believe that the first stage in the evolution of life, around 4 billion years ago, needed an oxygen-free environment. At a later stage, these primitive forms of plant life began to release small amounts of oxygen into the atmosphere as a product of photosynthesis. During photosynthesis, plants use carbon dioxide, water and sunlight to produce simple sugars. Oxygen is also released in the process.</para>
+
+      <para id="id63490"><m:math overflow="scroll"><m:mrow><m:mn>6</m:mn><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math> + sunlight <m:math overflow="scroll"><m:mrow><m:mo>→</m:mo><m:msub><m:mi>C</m:mi><m:mn>6</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>12</m:mn></m:msub><m:msub><m:mi>O</m:mi><m:mn>6</m:mn></m:msub><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></para>
+      <para id="id63568">This build-up of oxygen in the atmosphere eventually led to the formation of the ozone layer, which helped to filter the sun's harmful UV radiation so that plants were able to flourish in different environments. As plants became more widespread and photosythesis increased, so did the production of oxygen. The increase in the amount of oxygen in the atmosphere allowed more forms of life to exist on Earth.</para>
+</note>
+      <para id="id63575">If you have ever had to climb to a very high altitude (altitude means the 'height' in the atmosphere), you will have noticed that it becomes very difficult to breathe, and many climbers suffer from 'altitude sickness' before they reach their destination. This is because the density of gases becomes less as you move higher in the atmosphere. It is <emphasis effect="bold">gravity</emphasis> that holds the atmosphere close to the earth. As you move higher, this force weakens slightly and so the gas particles become more spread out. In effect, when you are at a high altitude, the gases in the atmosphere haven't changed, but there are fewer oxygen molecules in the same amount of air that you are able to breathe.</para>
+<definition id="fhsst_id74"><term id="termfhsst_id74"> Earth's atmosphere </term> <meaning id="meaningfhsst_id74">
+      <para id="id63595">The Earth's atmosphere is a layer of gases that surround the planet, and which are held there by the Earth's gravity. The atmosphere contains roughly 78.1% nitrogen, 20.9% oxygen, 0.9% argon, 0.038% carbon dioxide, trace amounts of other gases, and a variable amount of water vapour. This mixture of gases is commonly known as air. The atmosphere protects life on Earth by absorbing ultraviolet solar radiation and reducing temperature extremes between day and night.
+ </para>
+      </meaning></definition>
+    </section>
+    <section id="cid3">
+      <title>The structure of the atmosphere</title>
+      <para id="id63619">The earth's atmosphere is divided into different layers, each with its own particular characteristics (<link target-id="uid1"/>).</para>
+      <figure id="uid1">
+        <media id="uid1_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C10_001.png" id="uid1_onlineimage" width="584"><!-- NOTE: attribute width changes image size online (pixels). original width is 584. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C10_001.eps" id="uid1_printimage"/>
+        </media>
+        <caption>A generalised diagram showing the structure of the atmosphere and the changing temperatures up to a height of 110 km</caption>
+      </figure>
+      <section id="uid2">
+        <title>The troposphere</title>
+        <para id="id63648">The <emphasis effect="bold">troposphere</emphasis> is the lowest level in the atmosphere, and it is the part in which we live. The troposphere varies in thickness, and extends from the ground to a height of about 7km at the poles and about 18km at the equator. An important characteristic of the troposphere is that its temperature <emphasis effect="italics">decreases</emphasis> with an increase in altitude. In other words, as you climb higher, it will get colder. You will have noticed this if you have climbed a mountain, or if you have moved from a city at a high altitude to one which is lower; the average temperature is often lower where the altitude is higher. This is because the troposphere is heated from the 'bottom up'. In other words, places that are closer to the Earth's surface will be warmer than those at higher altitudes. The heating of the atmosphere will be discussed in more detail later in this chapter.</para>
+        <para id="id63669">The word troposphere comes from the Greek <emphasis effect="italics">tropos</emphasis>, meaning <emphasis effect="italics">turning</emphasis> or <emphasis effect="italics">mixing</emphasis>. The troposphere is the most turbulent (or agitated) part of the atmosphere and is the part where our <emphasis effect="bold">weather</emphasis> takes place. Weather is the state of the air at a particular place and time e.g. if it is warm or cold, wet or dry, and how cloudy or windy it is. Generally, jet aircraft fly just above the troposphere to avoid all this turbulence.</para>
+      </section>
+      <section id="uid3">
+        <title>The stratosphere</title>
+        <para id="id63708">Above the troposphere is another layer called the <emphasis effect="bold">stratosphere</emphasis>, where most long distance aircraft fly. The stratosphere extends from altitudes of 10 to 50km. If you have ever been in an aeroplane and have looked out the window once you are well into the flight, you will have noticed that you are actually flying above the level of the clouds. As we have already mentioned, clouds and weather occur in the troposphere, whereas the stratosphere has very stable atmospheric conditions and very little turbulence. It is easy to understand why aircraft choose to fly here!</para>
+        <para id="id63395">The stratosphere is different from the troposphere because its temperature <emphasis effect="italics">increases</emphasis> as altitude increases. This is because the stratosphere absorbs solar radiation directly, meaning that the upper layers closer to the sun will be warmer. The upper layers of the stratosphere are also warmer because of the presence of the <emphasis effect="bold">ozone layer</emphasis>. Ozone (O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>) is formed when solar radiation splits an oxygen molecule (O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) into two atoms of oxygen. Each individual atom is then able to combine with an oxygen molecule to form ozone. The two reactions are shown below:</para>
+        <equation id="id63440">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>→</m:mo>
+              <m:mi>O</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>O</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id63862">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>O</m:mi>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>→</m:mo>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id63891">The change from one type of molecule to another produces energy, and this contributes to higher temperatures in the upper part of the stratosphere. An important function of the ozone layer is to absorb UV radiation and reduce the amount of harmful radiation that reaches the Earth's surface.</para>
+<section id="secfhsst_id130"><title>
+        CFCs and the ozone layer </title>
+        <para id="id63908">You may have heard people talking about 'the hole in the ozone layer'. What do they mean by this and do we need to be worried about it?</para>
+        <para id="id63914">Most of the earth's ozone is found in the stratosphere and this limits the amount of UV radiation that reaches the earth. However, human activities have once again disrupted the chemistry of the atmosphere. Chlorofluorocarbons (CFC's) are compounds found in aerosol cans, fridges and airconditioners. In aerosol cans, it is the CFC's that cause the substance within the can to be sprayed outwards. The negative side of CFC's is that, when they are released into the atmosphere, they break down ozone molecules so that the ozone is no longer able to protect us as much from UV rays. The 'ozone hole' is actually a thinning of the ozone layer approximately above Antarctica. Let's take a closer look at the chemical reactions that are involved in breaking down ozone:</para>
+        <list id="id63926" display="block" list-type="enumerated">
+          <item id="uid4">When CFC's react with UV radiation, a carbon-chlorine bond in the chlorofluorocarbon breaks and a new compound is formed, with a chlorine atom.
+<equation id="id63941"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>C</m:mi><m:mi>F</m:mi><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mi>U</m:mi><m:mi>V</m:mi><m:mi>l</m:mi><m:mi>i</m:mi><m:mi>g</m:mi><m:mi>h</m:mi><m:mi>t</m:mi><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>F</m:mi><m:mi>C</m:mi><m:msubsup><m:mi>l</m:mi><m:mrow><m:mn>2</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup><m:mo>+</m:mo><m:mi>C</m:mi><m:msup><m:mi>l</m:mi><m:mo>+</m:mo></m:msup></m:mrow></m:math></equation></item>
+          <item id="uid5">The single chlorine atom reacts with ozone to form a molecule of chlorine monoxide and oxygen gas. In the process, ozone is destroyed.
+<equation id="id64028"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>C</m:mi><m:msup><m:mi>l</m:mi><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>l</m:mi><m:mi>O</m:mi><m:mo>+</m:mo><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></equation></item>
+          <item id="uid6">The chlorine monoxide then reacts with a free oxygen atom (UV radiation breaks O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> down into single oxygen atoms) to form oxygen gas and a single chlorine atom.
+<equation id="id64099"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>C</m:mi><m:mi>l</m:mi><m:mi>O</m:mi><m:mo>+</m:mo><m:mi>O</m:mi><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>l</m:mi><m:mo>+</m:mo><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></equation></item>
+          <item id="uid7">The chlorine atom is then free to attack more ozone molecules, and the process continues. A single CFC molecule can destroy 100 000 ozone molecules.
+</item>
+        </list>
+        <para id="id63034">One observed consequence of ozone depletion is an increase in the incidence of skin cancer in affected areas because there is more UV radiation reaching earth's surface. CFC replacements are now being used to reduce emissions, and scientists are trying to find ways to restore ozone levels in the atmosphere. </para>
+</section>
+      </section>
+      <section id="uid8">
+        <title>The mesosphere</title>
+        <para id="id64349">The mesosphere is located about 50-80 km above Earth's surface. Within this layer, temperature decreases with increasing altitude. Temperatures in the upper mesosphere can fall as low as -100<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C in some areas. Millions of meteors burn up daily in the mesosphere because of collisions with the gas particles that are present in this layer. This leads to a high concentration of iron and other metal atoms.</para>
+      </section>
+      <section id="uid9">
+        <title>The thermosphere</title>
+        <para id="id64376">The thermosphere exists at altitudes above 80 km. In this part of the atmosphere, ultraviolet (UV) and shorter X-Ray radiation from the sun cause neutral gas atoms to be <emphasis effect="italics">ionised</emphasis>. At these radiation frequencies, photons from the solar radiation are able to dislodge electrons from neutral atoms and molecules during a collision. A <emphasis effect="italics">plasma</emphasis> is formed, which consists of negative free electrons and positive ions. The part of the atmosphere that is ionized by solar radiation is called the <emphasis effect="bold">ionosphere</emphasis>. At the same time that ionisation takes place however, an opposing process called recombination also begins. Some of the free electrons are drawn to the positive ions, and combine again with them if they are in close enough contact. Since the gas density increases at lower altitudes, the recombination process occurs more often here because the gas molecules and ions are closer together. The ionisation process produces energy which means that the upper parts of the thermosphere, which are dominated by ionisation, have a higher temperature than the lower layers where recombination takes place. Overall, temperature in the thermosphere increases with an increase in altitude.</para>
+<section id="secfhsst_id154"><title>
+        The ionosphere and radio waves </title>
+        <para id="id64416">The ionosphere is of practical importance because it allows <emphasis effect="bold">radio waves</emphasis> to be transmitted. A radio wave is a type of electromagnetic radiation that humans use to transmit information without wires. When using high-frequency bands, the ionosphere is used to reflect the transmitted radio beam. When a radio wave reaches the ionosphere, the electric field in the wave forces the electrons in the ionosphere into oscillation at the same frequency as the radio wave. Some of the radio wave energy is given up to this mechanical oscillation. The oscillating electron will then either recombine with a positive ion, or will re-radiate the original wave energy back downward again. The beam returns to the Earth's surface, and may then be reflected back into the ionosphere for a second bounce. </para>
+</section>
+<note id="notfhsst_id158"><title> Interesting Fact </title>
+<para id="uid32053">The ionosphere is also home to the <emphasis effect="bold">auroras</emphasis>. Auroras are caused by the collision of charged particles (e.g. electrons) with atoms in the earth's upper atmosphere. Charged particles are energised and so, when they collide with atoms, the atoms also become energised. Shortly afterwards, the atoms emit the energy they have gained, as light. Often these emissions are from oxygen atoms, resulting in a greenish glow (wavelength 557.7 nm) and, at lower energy levels or higher altitudes, a dark red glow (wavelength 630 nm). Many other colours can also be observed. For example, emissions from atomic nitrogen are blue, and emissions from molecular nitrogen are purple. Auroras emit visible light (as described above), and also infra-red, ultraviolet and x-rays, which can be observed from space.</para>
+</note>
+<section id="secfhsst_id160"><title> The composition of the atmosphere
+        </title>
+        <list id="id64472" display="block" list-type="enumerated">
+          <item id="uid10">Complete the following summary table by providing the missing information for each layer in the atmosphere.
+<table id="id64488" summary=""><tgroup cols="4"><tbody><row><entry><emphasis effect="bold">Atmospheric layer</emphasis></entry><entry><emphasis effect="bold">Height (km)</emphasis></entry><entry><emphasis effect="bold">Gas composition</emphasis></entry><entry><emphasis effect="bold">General characteristics</emphasis></entry></row><row><entry>Troposphere</entry><entry>0-18</entry><entry/><entry>Turbulent; part of atmosphere where weather occurs</entry></row><row><entry/><entry/><entry/><entry>Ozone reduces harmful radiation reaching Earth</entry></row><row><entry>Mesosphere</entry><entry/><entry/><entry>High concentration of metal atoms</entry></row><row><entry/><entry>more than 80 km</entry><entry/><entry/></row></tbody></tgroup></table></item>
+          <item id="uid11">
+Use your knowledge of the atmosphere to explain the following statements:
+<list id="id64679" display="block" list-type="enumerated"><item id="uid12">Athletes who live in coastal areas need to acclimatise if they are competing at high altitudes.
+</item><item id="uid13">Higher incidences of skin cancer have been recorded in areas where the ozone layer in the atmosphere is thin.
+</item><item id="uid14">During a flight, turbulence generally decreases above a certain altitude.
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

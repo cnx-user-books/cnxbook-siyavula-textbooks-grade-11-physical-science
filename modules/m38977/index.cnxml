@@ -1,0 +1,1225 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Forces between masses</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38977</md:content-id>
+  <md:title>Forces between masses</md:title>
+  <md:abstract/>
+  <md:uuid>e62d0250-afb5-4483-ace7-e31f7995bc79</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Forces between Masses</title>
+      <para id="id77608">In Grade 10, you saw that gravitational fields exert forces on masses in the field. A field is a region of space in which an object experiences a force. The strength of a field is defined by a field strength. For example, the gravitational field strength, <m:math overflow="scroll"><m:mi>g</m:mi></m:math>, on or near the surface of the Earth has a value that is approximately 9,8 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>.</para>
+      <para id="id77648">The force exerted by a field of strength <m:math overflow="scroll"><m:mi>g</m:mi></m:math> on an object of mass <m:math overflow="scroll"><m:mi>m</m:mi></m:math> is given by:</para>
+      <equation id="uid284">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>F</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>m</m:mi>
+            <m:mo>·</m:mo>
+            <m:mi>g</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id77694">This can be re-written in terms of <m:math overflow="scroll"><m:mi>g</m:mi></m:math> as:</para>
+      <equation id="id77709">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>g</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>F</m:mi>
+              <m:mi>m</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id77729">This means that <m:math overflow="scroll"><m:mi>g</m:mi></m:math> can be understood to be a measure of force exerted per unit mass.</para>
+      <para id="id77745">The force defined in <link target-id="uid284"/> is known as weight.</para>
+      <para id="id77753">Objects in a gravitational field exert forces on each other without touching. The gravitational force is an example of a non-contact force.</para>
+      <para id="id77757">Gravity is a force and therefore must be described by a vector - so remember thta gravity has both magnitude and direction.</para>
+      <section id="uid285">
+        <title>Newton's Law of Universal Gravitation</title>
+<definition id="fhsst_id4667"><term id="termfhsst_id4667"> Newton's Law of Universal Gravitation </term> <meaning id="meaningfhsst_id4667">
+        <para id="id77776">Every point mass attracts every other point mass by a force directed along the line connecting the two. This force is proportional to the product of the masses and inversely proportional to the square of the distance between them. </para>
+        </meaning></definition>
+        <para id="id77790">The magnitude of the attractive gravitational force between the two point masses, <m:math overflow="scroll"><m:mi>F</m:mi></m:math> is given by:</para>
+        <equation id="uid286">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>F</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>G</m:mi>
+              <m:mfrac>
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>m</m:mi>
+                    <m:mn>1</m:mn>
+                  </m:msub>
+                  <m:msub>
+                    <m:mi>m</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                </m:mrow>
+                <m:msup>
+                  <m:mi>r</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msup>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id77850">where:
+<m:math overflow="scroll"><m:mi>G</m:mi></m:math> is the gravitational constant, <m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mn>1</m:mn></m:msub></m:math> is the mass of the first point mass, <m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mn>2</m:mn></m:msub></m:math> is the mass of the second point mass and <m:math overflow="scroll"><m:mi>r</m:mi></m:math> is the distance between the two point masses.</para>
+        <para id="id77902">Assuming SI units, <m:math overflow="scroll"><m:mi>F</m:mi></m:math> is measured in newtons (N), <m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mn>2</m:mn></m:msub></m:math> in kilograms (kg), <m:math overflow="scroll"><m:mi>r</m:mi></m:math> in meters (m), and the constant <m:math overflow="scroll"><m:mi>G</m:mi></m:math> is approximately equal to <m:math overflow="scroll"><m:mrow><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>67</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>11</m:mn></m:mrow></m:msup><m:mi>N</m:mi><m:mo>·</m:mo><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>·</m:mo><m:mspace width="3.33333pt"/><m:mi>k</m:mi><m:msup><m:mi>g</m:mi><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math>. Remember that this is a force of attraction.</para>
+        <para id="id78018">For example, consider a man of mass 80 kg standing 10 m from a woman with a mass of 65 kg. The attractive gravitational force between them would be:</para>
+        <equation id="id78024">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>F</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>G</m:mi>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>m</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>m</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msub>
+                      </m:mrow>
+                      <m:msup>
+                        <m:mi>r</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>6</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>67</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>11</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">m</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>·</m:mo>
+                      <m:mspace width="3.33333pt"/>
+                      <m:msup>
+                        <m:mi> kg </m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>80</m:mn>
+                          <m:mi> kg </m:mi>
+                          <m:mo>)</m:mo>
+                          <m:mo>(</m:mo>
+                          <m:mn>65</m:mn>
+                          <m:mi> kg </m:mi>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:msup>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mn>10</m:mn>
+                            <m:mi mathvariant="normal">m</m:mi>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mfrac>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>47</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>9</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id78229">If the man and woman move to 1 m apart, then the force is:</para>
+        <equation id="id78235">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>F</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>G</m:mi>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>m</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>m</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msub>
+                      </m:mrow>
+                      <m:msup>
+                        <m:mi>r</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>6</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>67</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>11</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">m</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>·</m:mo>
+                      <m:mspace width="3.33333pt"/>
+                      <m:msup>
+                        <m:mi> kg </m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>80</m:mn>
+                          <m:mi> kg </m:mi>
+                          <m:mo>)</m:mo>
+                          <m:mo>(</m:mo>
+                          <m:mn>65</m:mn>
+                          <m:mi> kg </m:mi>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:msup>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mn>1</m:mn>
+                            <m:mi mathvariant="normal">m</m:mi>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mfrac>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>47</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>7</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id78440">As you can see, these forces are very small.</para>
+        <para id="id78444">Now consider the gravitational force between the Earth and the Moon. The mass of the Earth is <m:math overflow="scroll"><m:mrow><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>98</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>24</m:mn></m:msup></m:mrow></m:math> kg, the mass of the Moon is <m:math overflow="scroll"><m:mrow><m:mn>7</m:mn><m:mo>,</m:mo><m:mn>35</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>22</m:mn></m:msup></m:mrow></m:math> kg and the Earth and Moon are <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>8</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup></m:mrow></m:math> m apart. The gravitational force between the Earth and Moon is:</para>
+        <equation id="id78522">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>F</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>G</m:mi>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>m</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>m</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msub>
+                      </m:mrow>
+                      <m:msup>
+                        <m:mi>r</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>6</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>67</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>11</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">m</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>·</m:mo>
+                      <m:mspace width="3.33333pt"/>
+                      <m:msup>
+                        <m:mi> kg </m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mn>5</m:mn>
+                            <m:mo>,</m:mo>
+                            <m:mn>98</m:mn>
+                            <m:mo>×</m:mo>
+                            <m:msup>
+                              <m:mn>10</m:mn>
+                              <m:mn>24</m:mn>
+                            </m:msup>
+                            <m:mi> kg </m:mi>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mn>7</m:mn>
+                            <m:mo>,</m:mo>
+                            <m:mn>35</m:mn>
+                            <m:mo>×</m:mo>
+                            <m:msup>
+                              <m:mn>10</m:mn>
+                              <m:mn>22</m:mn>
+                            </m:msup>
+                            <m:mi> kg </m:mi>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:msup>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mn>0</m:mn>
+                            <m:mo>,</m:mo>
+                            <m:mn>38</m:mn>
+                            <m:mo>×</m:mo>
+                            <m:msup>
+                              <m:mn>10</m:mn>
+                              <m:mn>9</m:mn>
+                            </m:msup>
+                            <m:mi mathvariant="normal">m</m:mi>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mfrac>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>03</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>20</m:mn>
+                    </m:msup>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id78767">From this example you can see that the force is very large.</para>
+        <para id="id78771">These two examples demonstrate that the greater the masses, the greater the force between them. The <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>/</m:mo><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> factor tells us that the distance between the two bodies plays a role as well. The closer two bodies are, the
+stronger the gravitational force between them is. We feel the gravitational attraction of the Earth most at the surface since that is the closest we can get to it, but if we were in outer-space, we would barely feel the effect of the Earth's gravity!</para>
+        <para id="id78799">Remember that</para>
+        <equation id="uid287">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>F</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>m</m:mi>
+              <m:mo>·</m:mo>
+              <m:mi>a</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id78827">which means that every object on Earth feels the same gravitational acceleration! That means whether you drop a pen or a book (from the same height), they will both take the same length of time to hit the ground... in fact they will be head to head for the entire fall if you drop them at the
+same time. We can show this easily by using the two equations above (Equations <link target-id="uid286"/> and <link target-id="uid287"/>). The force between the Earth (which has the mass <m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mi>e</m:mi></m:msub></m:math>) and an object of mass <m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mi>o</m:mi></m:msub></m:math> is</para>
+        <equation id="uid288">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>F</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>G</m:mi>
+                  <m:msub>
+                    <m:mi>m</m:mi>
+                    <m:mi>o</m:mi>
+                  </m:msub>
+                  <m:msub>
+                    <m:mi>m</m:mi>
+                    <m:mi>e</m:mi>
+                  </m:msub>
+                </m:mrow>
+                <m:msup>
+                  <m:mi>r</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msup>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id78923">and the acceleration of an object of mass <m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mi>o</m:mi></m:msub></m:math> (in terms of the force acting on it) is</para>
+        <equation id="uid289">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>a</m:mi>
+                <m:mi>o</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>F</m:mi>
+                <m:msub>
+                  <m:mi>m</m:mi>
+                  <m:mi>o</m:mi>
+                </m:msub>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id78979">So we substitute equation <link target-id="uid288"/> into Equation <link target-id="uid289"/>, and we find that</para>
+        <equation id="uid290">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>a</m:mi>
+                <m:mi>o</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>G</m:mi>
+                  <m:msub>
+                    <m:mi>m</m:mi>
+                    <m:mi>e</m:mi>
+                  </m:msub>
+                </m:mrow>
+                <m:msup>
+                  <m:mi>r</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msup>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id79038">Since it doesn't matter what <m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mi>o</m:mi></m:msub></m:math> is, this tells us that the acceleration on a body (due to the Earth's gravity) does not depend on the mass of the body. Thus all objects experience the same gravitational acceleration. The force on different bodies will be different but the acceleration will be the same. Due to the fact that this acceleration caused by gravity is the same on all objects we label it differently, instead of using <m:math overflow="scroll"><m:mi>a</m:mi></m:math> we use <m:math overflow="scroll"><m:mi>g</m:mi></m:math> which we call the gravitational acceleration.</para>
+      </section>
+      <section id="uid291">
+        <title>Comparative Problems</title>
+        <para id="id79088">Comparative problems involve calculation of something in terms of something else that we know. For example, if you weigh 490 N on Earth and the gravitational acceleration on Venus is 0,903 that of the gravitational acceleration on the Earth, then you would weigh 0,903 x 490 N = 442,5 N on Venus.</para>
+        <section id="uid292">
+          <title>Principles for answering comparative problems</title>
+          <list id="id79106" display="block" list-type="bulleted">
+            <item id="uid293">Write out equations and calculate all quantities for the given situation
+</item>
+            <item id="uid294">Write out all relationships between variable from first and
+second case
+</item>
+            <item id="uid295">Write out second case
+</item>
+            <item id="uid296">Substitute all first case variables into second case
+</item>
+            <item id="uid297">Write second case in terms of first case
+</item>
+          </list>
+<exercise id="secfhsst_id5203"><title> Comparative Problem 1 </title>
+          <problem id="probfhsst_id5204">
+          <para id="id79185">A man has a mass of 70 kg. The planet Zirgon is the same size as the Earth but has twice the mass of the Earth. What would the man weigh on Zirgon, if the gravitational acceleration on Earth is 9,8 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>? </para>
+          </problem>
+          <solution id="solfhsst_id5207"> <list id="listfhsst_id5207" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Determine what information has been given </label>
+          <para id="id79237">The following has been provided:</para>
+          <list id="id79241" display="block" list-type="bulleted">
+            <item id="uid298">the mass of the man, <m:math overflow="scroll"><m:mi>m</m:mi></m:math></item>
+            <item id="uid299">the mass of the planet Zirgon (<m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mi>Z</m:mi></m:msub></m:math>) in terms of the mass of the Earth (<m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mi>E</m:mi></m:msub></m:math>), <m:math overflow="scroll"><m:mrow><m:msub><m:mi>m</m:mi><m:mi>Z</m:mi></m:msub><m:mo>=</m:mo><m:mn>2</m:mn><m:msub><m:mi>m</m:mi><m:mi>E</m:mi></m:msub></m:mrow></m:math></item>
+            <item id="uid300">the radius of the planet Zirgon (<m:math overflow="scroll"><m:msub><m:mi>r</m:mi><m:mi>Z</m:mi></m:msub></m:math>) in terms of the radius of the Earth (<m:math overflow="scroll"><m:msub><m:mi>r</m:mi><m:mi>E</m:mi></m:msub></m:math>), <m:math overflow="scroll"><m:mrow><m:msub><m:mi>r</m:mi><m:mi>Z</m:mi></m:msub><m:mo>=</m:mo><m:msub><m:mi>r</m:mi><m:mi>E</m:mi></m:msub></m:mrow></m:math></item>
+          </list>
+          </item> <item> <label> Determine how to approach the problem </label>
+          <para id="id79400">We are required to determine the man's weight on Zirgon (<m:math overflow="scroll"><m:msub><m:mi>w</m:mi><m:mi>Z</m:mi></m:msub></m:math>). We can do this by using:</para>
+          <equation id="id79418">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>w</m:mi>
+                <m:mo>=</m:mo>
+                <m:mi>m</m:mi>
+                <m:mi>g</m:mi>
+                <m:mo>=</m:mo>
+                <m:mi>G</m:mi>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:mo>·</m:mo>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                  <m:msup>
+                    <m:mi>r</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mfrac>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id79469">to calculate the weight of the man on Earth and then use this value to determine the weight of the man on Zirgon.</para>
+          </item> <item> <label> Situation on Earth </label>
+          <equation id="id79479">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>w</m:mi>
+                      <m:mi>E</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:msub>
+                        <m:mi>g</m:mi>
+                        <m:mi>E</m:mi>
+                      </m:msub>
+                      <m:mo>=</m:mo>
+                      <m:mi>G</m:mi>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>m</m:mi>
+                            <m:mi>E</m:mi>
+                          </m:msub>
+                          <m:mo>·</m:mo>
+                          <m:mi>m</m:mi>
+                        </m:mrow>
+                        <m:msubsup>
+                          <m:mi>r</m:mi>
+                          <m:mi>E</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msubsup>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>70</m:mn>
+                        <m:mspace width="0.166667em"/>
+                        <m:mi> kg </m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>9</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>8</m:mn>
+                        <m:mspace width="0.166667em"/>
+                        <m:mi mathvariant="normal">m</m:mi>
+                        <m:mo>·</m:mo>
+                        <m:msup>
+                          <m:mi mathvariant="normal">s</m:mi>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>686</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Situation on Zirgon in terms of situation on Earth </label>
+          <para id="id79631">Write the equation for the gravitational force on Zirgon and then substitute the values for <m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mi>Z</m:mi></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>r</m:mi><m:mi>Z</m:mi></m:msub></m:math>, in terms of the values for the Earth.</para>
+          <equation id="id79665">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>w</m:mi>
+                        <m:mi>Z</m:mi>
+                      </m:msub>
+                      <m:mo>=</m:mo>
+                      <m:mi>m</m:mi>
+                      <m:msub>
+                        <m:mi>g</m:mi>
+                        <m:mi>Z</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>G</m:mi>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>m</m:mi>
+                            <m:mi>Z</m:mi>
+                          </m:msub>
+                          <m:mo>·</m:mo>
+                          <m:mi>m</m:mi>
+                        </m:mrow>
+                        <m:msubsup>
+                          <m:mi>r</m:mi>
+                          <m:mi>Z</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msubsup>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>G</m:mi>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:msub>
+                            <m:mi>m</m:mi>
+                            <m:mi>E</m:mi>
+                          </m:msub>
+                          <m:mo>·</m:mo>
+                          <m:mi>m</m:mi>
+                        </m:mrow>
+                        <m:msubsup>
+                          <m:mi>r</m:mi>
+                          <m:mi>E</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msubsup>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mo>(</m:mo>
+                      <m:mi>G</m:mi>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>m</m:mi>
+                            <m:mi>E</m:mi>
+                          </m:msub>
+                          <m:mo>·</m:mo>
+                          <m:mi>m</m:mi>
+                        </m:mrow>
+                        <m:msubsup>
+                          <m:mi>r</m:mi>
+                          <m:mi>E</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msubsup>
+                      </m:mfrac>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:msub>
+                        <m:mi>w</m:mi>
+                        <m:mi>E</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mo>(</m:mo>
+                      <m:mn>686</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mn>372</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Quote the final answer </label>
+          <para id="id79894">The man weighs 1 372 N on Zirgon. </para>
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id5491"><title> Comparative Problem 2 </title>
+          <problem id="probfhsst_id5492">
+          <para id="id79923">A man has a mass of 70 kg. On the planet Beeble how much will he weigh if Beeble has mass half of that of the Earth and a radius one quarter that of the Earth. Gravitational acceleration on Earth is 9,8 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>. </para>
+          </problem>
+          <solution id="solfhsst_id5495"> <list id="listfhsst_id5495" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Determine what information has been given </label>
+          <para id="id79975">The following has been provided:</para>
+          <list id="id79978" display="block" list-type="bulleted">
+            <item id="uid301">the mass of the man on Earth, <m:math overflow="scroll"><m:mi>m</m:mi></m:math></item>
+            <item id="uid302">the mass of the planet Beeble (<m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mi>B</m:mi></m:msub></m:math>) in terms of the mass of the Earth (<m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mi>E</m:mi></m:msub></m:math>), <m:math overflow="scroll"><m:mrow><m:msub><m:mi>m</m:mi><m:mi>B</m:mi></m:msub><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mi>m</m:mi><m:mi>E</m:mi></m:msub></m:mrow></m:math></item>
+            <item id="uid303">the radius of the planet Beeble (<m:math overflow="scroll"><m:msub><m:mi>r</m:mi><m:mi>B</m:mi></m:msub></m:math>) in terms of the radius of the Earth (<m:math overflow="scroll"><m:msub><m:mi>r</m:mi><m:mi>E</m:mi></m:msub></m:math>), <m:math overflow="scroll"><m:mrow><m:msub><m:mi>r</m:mi><m:mi>B</m:mi></m:msub><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:msub><m:mi>r</m:mi><m:mi>E</m:mi></m:msub></m:mrow></m:math></item>
+          </list>
+          </item> <item> <label> Determine how to approach the problem </label>
+          <para id="id80148">We are required to determine the man's weight on Beeble (<m:math overflow="scroll"><m:msub><m:mi>w</m:mi><m:mi>B</m:mi></m:msub></m:math>). We can do this by using:</para>
+          <equation id="uid304">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>w</m:mi>
+                <m:mo>=</m:mo>
+                <m:mi>m</m:mi>
+                <m:mi>g</m:mi>
+                <m:mo>=</m:mo>
+                <m:mi>G</m:mi>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:mo>·</m:mo>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                  <m:msup>
+                    <m:mi>r</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mfrac>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id80221">to calculate the weight of the man on Earth and then use this value to determine the weight of the man on Beeble.</para>
+          </item> <item> <label> Situation on Earth </label>
+          <equation id="id80231">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>w</m:mi>
+                      <m:mi>E</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:msub>
+                        <m:mi>g</m:mi>
+                        <m:mi>E</m:mi>
+                      </m:msub>
+                      <m:mo>=</m:mo>
+                      <m:mi>G</m:mi>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>m</m:mi>
+                            <m:mi>E</m:mi>
+                          </m:msub>
+                          <m:mo>·</m:mo>
+                          <m:mi>m</m:mi>
+                        </m:mrow>
+                        <m:msubsup>
+                          <m:mi>r</m:mi>
+                          <m:mi>E</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msubsup>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>70</m:mn>
+                        <m:mspace width="0.166667em"/>
+                        <m:mi> kg </m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>9</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>8</m:mn>
+                        <m:mspace width="0.166667em"/>
+                        <m:mi mathvariant="normal">m</m:mi>
+                        <m:mo>·</m:mo>
+                        <m:msup>
+                          <m:mi mathvariant="normal">s</m:mi>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>686</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Situation on Beeble in terms of situation on Earth </label>
+          <para id="id80383">Write the equation for the gravitational force on Beeble and then substitute the values for <m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mi>B</m:mi></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>r</m:mi><m:mi>B</m:mi></m:msub></m:math>, in terms of the values for the Earth.</para>
+          <equation id="id80417">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>w</m:mi>
+                        <m:mi>B</m:mi>
+                      </m:msub>
+                      <m:mo>=</m:mo>
+                      <m:mi>m</m:mi>
+                      <m:msub>
+                        <m:mi>g</m:mi>
+                        <m:mi>B</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>G</m:mi>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>m</m:mi>
+                            <m:mi>B</m:mi>
+                          </m:msub>
+                          <m:mo>·</m:mo>
+                          <m:mi>m</m:mi>
+                        </m:mrow>
+                        <m:msubsup>
+                          <m:mi>r</m:mi>
+                          <m:mi>B</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msubsup>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>G</m:mi>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                          <m:msub>
+                            <m:mi>m</m:mi>
+                            <m:mi>E</m:mi>
+                          </m:msub>
+                          <m:mo>·</m:mo>
+                          <m:mi>m</m:mi>
+                        </m:mrow>
+                        <m:msup>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mfrac>
+                              <m:mn>1</m:mn>
+                              <m:mn>4</m:mn>
+                            </m:mfrac>
+                            <m:msub>
+                              <m:mi>r</m:mi>
+                              <m:mi>E</m:mi>
+                            </m:msub>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>8</m:mn>
+                      <m:mo>(</m:mo>
+                      <m:mi>G</m:mi>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>m</m:mi>
+                            <m:mi>E</m:mi>
+                          </m:msub>
+                          <m:mo>·</m:mo>
+                          <m:mi>m</m:mi>
+                        </m:mrow>
+                        <m:msubsup>
+                          <m:mi>r</m:mi>
+                          <m:mi>E</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msubsup>
+                      </m:mfrac>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>8</m:mn>
+                      <m:msub>
+                        <m:mi>w</m:mi>
+                        <m:mi>E</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>8</m:mn>
+                      <m:mo>(</m:mo>
+                      <m:mn>686</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mn>488</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Quote the final answer </label>
+          <para id="id80665">The man weighs 5 488 N on Beeble. </para>
+          </item> </list> </solution>
+</exercise>
+          <para id="id80680">Physics is all about being simple - all we do is look at the world around us and notice how it really works. It is the one thing everyone is qualified to do - we spend most of our time when we are really young experimenting to find out how things work.</para>
+          <para id="id80685">The actual force of air resistance is quite complicated. Experiment by moving a book through the air with the face of the book and then the side of the book forward, you will agree that the area of the book makes a difference as to how much you must work in order to move the book at the same speed in both cases. This is why racing cars are slim-lined in design, and not shaped like a big box!</para>
+        </section>
+      </section>
+      <section id="uid305">
+        <title>Exercise</title>
+        <list id="id80736" display="block" list-type="enumerated">
+          <item id="uid306">Two objects of mass 2m and 3m respectively exert a force F on each other
+when they are a certain distance apart. What will be the force between two objects situated the same distance apart but having a mass of 5m and 6m respectively?
+<list id="id80753" display="block" list-type="enumerated"><item id="uid307"><label>A</label>0,2 F
+</item><item id="uid308"><label>B</label>1,2 F
+</item><item id="uid309"><label>C</label>2,2 F
+</item><item id="uid310"><label>D</label>5 F
+</item></list></item>
+          <item id="uid311">As the distance of an object above the surface of the Earth is greatly increased, the
+weight of the object would
+<list id="id80827" display="block" list-type="enumerated"><item id="uid312"><label>A</label>increase
+</item><item id="uid313"><label>B</label>decrease
+</item><item id="uid314"><label>C</label>increase and then suddenly decrease
+</item><item id="uid315"><label>D</label>remain the same
+</item></list></item>
+          <item id="uid316">A satellite circles around the Earth at a height where the gravitational force is a
+factor 4 less than at the surface of the Earth. If the Earth's radius is R, then the height of the satellite above the surface is:
+<list id="id80902" display="block" list-type="enumerated"><item id="uid317"><label>A</label>R
+</item><item id="uid318"><label>B</label>2 R
+</item><item id="uid319"><label>C</label>4 R
+</item><item id="uid320"><label>D</label>16 R
+</item></list></item>
+          <item id="uid321">A satellite experiences a force F when at the surface of the Earth. What will be the force on the satellite if it orbits at a height equal to the diameter of the Earth:
+<list id="id80977" display="block" list-type="enumerated"><item id="uid322"><label>A</label><m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mi>F</m:mi></m:mfrac></m:math></item><item id="uid323"><label>B</label><m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math><m:math overflow="scroll"><m:mi>F</m:mi></m:math></item><item id="uid324"><label>C</label><m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:math><m:math overflow="scroll"><m:mi>F</m:mi></m:math></item><item id="uid325"><label>D</label><m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mn>9</m:mn></m:mfrac></m:math><m:math overflow="scroll"><m:mi>F</m:mi></m:math></item></list></item>
+          <item id="uid326">The weight of a rock lying on surface of the Moon is W. The radius of the Moon is R. On planet Alpha, the same rock has weight 8W. If the radius of planet Alpha is half that of the Moon, and the mass of the Moon is M, then the mass, in kg, of planet Alpha is:
+<list id="id81120" display="block" list-type="enumerated"><item id="uid327"><label>A</label><m:math overflow="scroll"><m:mfrac><m:mi>M</m:mi><m:mn>2</m:mn></m:mfrac></m:math></item><item id="uid328"><label>B</label><m:math overflow="scroll"><m:mfrac><m:mi>M</m:mi><m:mn>4</m:mn></m:mfrac></m:math></item><item id="uid329"><label>C</label>2 M
+</item><item id="uid330"><label>D</label>4 M
+</item></list></item>
+          <item id="uid331">Consider the symbols of the two physical quantities <m:math overflow="scroll"><m:mi>g</m:mi></m:math> and <m:math overflow="scroll"><m:mi>G</m:mi></m:math> used in Physics.
+<list id="id81233" display="block" list-type="enumerated"><item id="uid332">Name the physical quantities represented by <m:math overflow="scroll"><m:mi>g</m:mi></m:math> and <m:math overflow="scroll"><m:mi>G</m:mi></m:math>.
+</item><item id="uid333">Derive a formula for calculating <m:math overflow="scroll"><m:mi>g</m:mi></m:math> near the Earth's surface using Newton's Law of Universal Gravitation. M and R represent the mass and radius of the Earth respectively.
+</item></list></item>
+          <item id="uid334">Two spheres of mass 800g and 500g respectively are situated so that their centers are 200 cm apart. Calculate the gravitational force between them.
+</item>
+          <item id="uid335">Two spheres of mass 2 kg and 3 kg respectively are situated so that the gravitational force between them is 2,5 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>8</m:mn></m:mrow></m:msup></m:math> N. Calculate the distance between them.
+</item>
+          <item id="uid336">Two identical spheres are placed 10 cm apart. A force of 1,6675 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:math> N exists between them. Find the masses of the spheres.
+</item>
+          <item id="uid337">Halley's comet, of approximate mass 1 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>15</m:mn></m:msup></m:math> kg was 1,3 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>8</m:mn></m:msup></m:math> km from the Earth,
+at its point of closest approach during its last sighting in 1986.
+<list id="id81400" display="block" list-type="enumerated"><item id="uid338">Name the force through which the Earth and the comet interact.
+</item><item id="uid339">Is the magnitude of the force experienced by the comet the same, greater than or less than the force experienced by the Earth? Explain.
+</item><item id="uid340">Does the acceleration of the comet increase, decrease or remain the same as it moves closer to the Earth? Explain.
+</item><item id="uid341">If the mass of the Earth is 6 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>24</m:mn></m:msup></m:math> kg, calculate the magnitude of the force exerted by the Earth on Halley's comet at its point of closest approach.
+</item></list></item>
+        </list>
+      </section>
+    </section>
+     </content>
+</document>

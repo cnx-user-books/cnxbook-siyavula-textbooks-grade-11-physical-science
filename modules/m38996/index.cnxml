@@ -1,0 +1,114 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Conductors, insulators and semi-conductors</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38996</md:content-id>
+  <md:title>Conductors, insulators and semi-conductors</md:title>
+  <md:abstract/>
+  <md:uuid>8d1ece08-d988-48bf-82da-73490bb41d62</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id62184">We can study many different features of solids. Just a few of the things we could study are how hard or soft they are, what their magnetic properties are or how well they conduct heat. The thing that we are interested in, in this chapter are their electronic properties. Simply, how well do they conduct electricity and how do they do it.</para>
+      <para id="id62190">We are only going to discuss materials that form a 3-dimensional lattice. This means that the atoms that make up the material have a regular pattern (carbon, silicon, etc.). We won't discuss materials where the atoms are jumbled together in a irregular way (plastic, glass, rubber etc.).</para>
+    </section>
+    <section id="cid3">
+      <title>Conduction</title>
+      <para id="id62544">We know that there are materials that do conduct electricity, called conductors, like the copper wires in the circuits you build. There are also materials that do not conduct electricity, called insulators, like the plastic covering on the copper wires.</para>
+      <para id="id62550">Conductors come in two major categories: metals (e.g. copper) and semi-conductors (e.g. silicon). Metals conduct very well and semi-conductors don't. One very interesting difference is that metals conduct less as they become hotter but semi-conductors conduct more.</para>
+      <para id="id62555">What is different about these substances that makes them conduct differently? That is what we are about to find out.</para>
+      <para id="id62560">We have learnt that electrons in an atom have discrete energy levels. When an electron is given the right amount of energy, it can jump to a higher energy level, while if it loses the right amount of energy it can drop to a lower energy level. The lowest energy level is known as the ground state.</para>
+      <para id="id62565">
+        <figure id="id62568">
+          <media id="id62568_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C10_001.png" id="id62568_onlineimage" width="425"><!-- NOTE: attribute width changes image size online (pixels). original width is 425. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C10_001.eps" id="id62568_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id62575">When two atoms are far apart from each other they don't influence each other. Look at the picture below. There are two atoms depicted by the black dots. When they are far apart their electron clouds (the gray clouds) are distinct. The dotted line depicts the distance of the outermost electron energy level that is occupied.</para>
+      <para id="id62581">
+        <figure id="id62584">
+          <media id="id62584_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C10_002.png" id="id62584_onlineimage" width="510"><!-- NOTE: attribute width changes image size online (pixels). original width is 510. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C10_002.eps" id="id62584_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id62590">In some lattice structures the atoms would be closer together. If they are close enough their electron clouds, and therefore electron energy levels start to overlap. Look at the picture below. In this picture the two atoms are closer together. The electron clouds now overlap. The overlapping area is coloured in solid gray to make it easier to see.</para>
+      <para id="id62596">
+        <figure id="id62599">
+          <media id="id62599_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C10_003.png" id="id62599_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C10_003.eps" id="id62599_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id62605">When this happens we might find two electrons with the same energy and spin in the same space. We know that this is not allowed from the Pauli exclusion principle. Something must change to allow the overlapping to happen. The change is that the energies of the energy levels change a tiny bit so that the electrons are not in exactly the same spin and energy state at the same time.</para>
+      <para id="id62612">So if we have 2 atoms then in the overlapping area we will have twice the number of electrons and energy levels but the energy levels from the different atoms will be very very close in energy. If we had 3 atoms then there would be 3 energy levels very close in energy and so on. In a solid there may be very many energy levels that are very close in energy. These groups of energy levels are called bands. The spacing between these bands determines whether the solid is a conductor or an insulator.</para>
+      <para id="id62619">
+        <figure id="id62622">
+          <media id="id62622_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C10_004.png" id="id62622_onlineimage" width="289"><!-- NOTE: attribute width changes image size online (pixels). original width is 289. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C10_004.eps" id="id62622_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id62628">In a gas, the atoms are spaced far apart and they do not influence each other. However, the atoms in a solid greatly influence each other. The forces that bind these atoms together in a solid affect how the electrons of the atoms behave, by causing the individual energy levels of an atom to break up and form energy bands. The resulting energy levels are more closely spaced than those in the individual atoms. The energy bands still contain discrete energy levels, but there are now many more energy levels than in the single atom.</para>
+      <para id="id62636">In crystalline solids, atoms interact with their neighbors, and the energy levels of the electrons in isolated atoms turn into bands. Whether a material conducts or not is determined by its band structure.</para>
+      <para id="id62641">
+        <figure id="id62644">
+          <media id="id62644_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C10_005.png" id="id62644_onlineimage" width="498"><!-- NOTE: attribute width changes image size online (pixels). original width is 498. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C10_005.eps" id="id62644_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id62650">Electrons follow the Pauli exclusion principle, meaning that two electrons cannot occupy the same state. Thus electrons in a solid fill up the energy bands up to a certain level (this is called the Fermi energy). Bands which are completely full of electrons cannot conduct electricity, because there is no state of nearby energy to which the electrons can jump. Materials in which all bands are full are insulators.</para>
+      <section id="uid1">
+        <title>Metals</title>
+        <para id="id62666">Metals are good conductors because they have unfilled spaces in the valence energy band. In the absence of an electric field, there are electrons traveling in all directions. When an electric field is applied the mobile electrons flow. Electrons in this band can be accelerated by the electric field because there are plenty of nearby unfilled spaces in the band.</para>
+      </section>
+      <section id="uid2">
+        <title>Insulator</title>
+        <para id="id62681">The energy diagram for the insulator shows the insulator with a very wide energy gap. The wider this gap, the greater the amount of energy required to move the electron from the valence band to the conduction band. Therefore, an insulator requires a large amount of energy to obtain a small amount of current. The insulator “insulates" because of the wide forbidden band or energy gap.</para>
+        <section id="uid3">
+          <title>Breakdown</title>
+          <para id="id62699">A solid with filled bands is an insulator. If we raise the temperature the electrons gain thermal energy. If there is enough energy added then electrons can be thermally excited from the valence band to the conduction band. The fraction of electrons excited in this way depends on:</para>
+          <list id="id62705" display="block" list-type="bulleted">
+            <item id="uid4">the temperature and
+</item>
+            <item id="uid5">the band gap, the energy difference between the two bands.
+</item>
+          </list>
+          <para id="id62732">Exciting these electrons into the conduction band leaves behind positively charged holes in the valence band, which can also conduct electricity.</para>
+        </section>
+      </section>
+      <section id="uid6">
+        <title>Semi-conductors</title>
+        <para id="id62746">A semi-conductor is very similar to an insulator. The main difference between semiconductors and insulators is the size of the band gap between the conduction and valence bands. The band gap in insulators is larger than the band gap in semiconductors.</para>
+        <para id="id62751">In semi-conductors at room temperature, just as in insulators, very few electrons gain enough thermal energy to leap the band gap, which is necessary for conduction. For this reason, pure semi-conductors and insulators, in the absence of applied fields, have roughly similar electrical properties. The smaller band gaps of semi-conductors, however, allow for many other means besides temperature to control their electrical properties. The most important one being that for a certain amount of applied voltage, more current will flow in the semiconductor than in the insulator.</para>
+<section id="secfhsst_id145"><title> Conduction </title>
+        <list id="id62766" display="block" list-type="enumerated">
+          <item id="uid7">Explain how energy levels of electrons in an atom combine with those of other atoms in the formation of crystals.
+</item>
+          <item id="uid8">Explain how the resulting energy levels are more closely spaced than those in the individual atoms, forming energy bands.
+</item>
+          <item id="uid9">Explain the existence of energy bands in metal crystals as the result of superposition of energy levels.
+</item>
+          <item id="uid10">Explain and contrast the conductivity of conductors, semi-conductors and insulators using energy band theory.
+</item>
+          <item id="uid11">What is the main difference in the energy arrangement between an isolated atom and the atom in a solid?
+</item>
+          <item id="uid12">What determines whether a solid is an insulator, a semiconductor, or a conductor?
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+ 
+  </content>
+</document>

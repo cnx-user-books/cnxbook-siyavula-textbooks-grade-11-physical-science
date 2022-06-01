@@ -1,0 +1,1143 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Conservation of momentum</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38985</md:content-id>
+  <md:title>Conservation of momentum</md:title>
+  <md:abstract/>
+  <md:uuid>1732fc2c-3225-4794-a3ef-f80e60a8e875</md:uuid>
+</metadata>
+
+<content>
+      <section id="uid412">
+        <title>Conservation of Momentum</title>
+        <para id="id89747">In the absence of an external force acting on a system, momentum is conserved.</para>
+<definition id="fhsst_id8724"><term id="termfhsst_id8724"> Conservation of Linear Momentum </term> <meaning id="meaningfhsst_id8724">
+        <para id="id89757">The total linear momentum of an isolated system is constant. An isolated system has no forces acting on it from the outside. </para>
+        </meaning></definition>
+        <para id="id89770">This means that in an isolated system the total momentum before a collision or explosion is equal to the total momentum after the collision or explosion.</para>
+        <para id="id89775">Consider a simple collision of two billiard balls. The balls are rolling on a frictionless surface and the system is isolated. So, we can apply conservation of momentum. The first ball has a mass <m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mn>1</m:mn></m:msub></m:math> and an initial velocity <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mrow><m:mi>i</m:mi><m:mn>1</m:mn></m:mrow></m:msub></m:math>. The second ball has a mass <m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mn>2</m:mn></m:msub></m:math> and moves towards the first ball with an initial velocity <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mrow><m:mi>i</m:mi><m:mn>2</m:mn></m:mrow></m:msub></m:math>. This
+situation is shown in <link target-id="uid413"/>.</para>
+        <figure id="uid413">
+          <media id="uid413_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_070.png" id="uid413_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_070.eps" id="uid413_printimage"/>
+          </media>
+          <caption>Before the collision.</caption>
+        </figure>
+        <para id="id89860">The total momentum of the system before the collision, <m:math overflow="scroll"><m:msub><m:mi>p</m:mi><m:mi>i</m:mi></m:msub></m:math> is:</para>
+        <equation id="id89879">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mi>i</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>m</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>v</m:mi>
+                <m:mrow>
+                  <m:mi>i</m:mi>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>m</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>v</m:mi>
+                <m:mrow>
+                  <m:mi>i</m:mi>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id89937">After the two balls collide and move away they each have a different momentum. If the first ball has a final velocity of <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mrow><m:mi>f</m:mi><m:mn>1</m:mn></m:mrow></m:msub></m:math> and the second ball has a final velocity of <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mrow><m:mi>f</m:mi><m:mn>2</m:mn></m:mrow></m:msub></m:math> then we have the situation shown in <link target-id="uid414"/>.</para>
+        <figure id="uid414">
+          <media id="uid414_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_071.png" id="uid414_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_071.eps" id="uid414_printimage"/>
+          </media>
+          <caption>After the collision.</caption>
+        </figure>
+        <para id="id89992">The total momentum of the system after the collision, <m:math overflow="scroll"><m:msub><m:mi>p</m:mi><m:mi>f</m:mi></m:msub></m:math> is:</para>
+        <equation id="id90011">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mi>f</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>m</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>v</m:mi>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>m</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>v</m:mi>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id90069">This system of two balls is isolated since there are no external forces acting on the balls. Therefore, by the principle of conservation of linear momentum, the total momentum before the collision is equal to the total momentum after the collision. This gives the equation for the conservation of momentum in a collision of two objects,</para>
+        <para id="id90075"><equation id="id6342">
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>p</m:mi>
+                          <m:mi>i</m:mi>
+                        </m:msub>
+                        <m:mo>=</m:mo>
+                        <m:msub>
+                          <m:mi>p</m:mi>
+                          <m:mi>f</m:mi>
+                        </m:msub>
+                      </m:mrow>
+                    </m:math>
+                  </equation>
+<equation id="id621332">
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>m</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mrow>
+                            <m:mi>i</m:mi>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:msub>
+                        <m:mo>+</m:mo>
+                        <m:msub>
+                          <m:mi>m</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mrow>
+                            <m:mi>i</m:mi>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:msub>
+                        <m:mo>=</m:mo>
+                        <m:msub>
+                          <m:mi>m</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mrow>
+                            <m:mi>f</m:mi>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:msub>
+                        <m:mo>+</m:mo>
+                        <m:msub>
+                          <m:mi>m</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mrow>
+                            <m:mi>f</m:mi>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:msub>
+                      </m:mrow>
+                    </m:math>
+                  </equation>
+where:
+                    <m:math overflow="scroll">
+                      <m:msub>
+                        <m:mi>m</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                    </m:math>
+is the mass of object 1 (kg)<newline/>
+
+                    <m:math overflow="scroll">
+                      <m:msub>
+                        <m:mi>m</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:math>
+is the mass of object 2 (kg)<newline/>
+                    <m:math overflow="scroll">
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>i</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msub>
+                    </m:math>
+is the initial velocity of object 1 (m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>+ direction)<newline/>
+                    <m:math overflow="scroll">
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>i</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msub>
+                    </m:math>
+is the initial velocity of object 2 (m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>- direction)<newline/>
+                    <m:math overflow="scroll">
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>f</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msub>
+                    </m:math>
+is the final velocity of object 1 (m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>- direction)<newline/>
+                    <m:math overflow="scroll">
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>f</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msub>
+                    </m:math>
+is the final velocity of object 2 (m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>+ direction)
+        </para>
+        <para id="id90474">This equation is always true - momentum is always conserved in collisions.</para>
+<exercise id="secfhsst_id8980"><title> Conservation of Momentum 1 </title>
+        <problem id="probfhsst_id8981">
+        <para id="id90490">A toy car of mass 1 kg moves westwards with a speed of 2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. It collides head-on with a toy train. The train has a mass of 1,5 kg and is moving at a speed of 1,5 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>eastwards. If the car rebounds at 2,05 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, calculate the velocity of the train. </para>
+        </problem>
+        <solution id="solfhsst_id8984"> <list id="listfhsst_id8984" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Draw rough sketch of the situation </label>
+        <figure id="uid415">
+          <media id="uid415_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_072.png" id="uid415_onlineimage" width="265"><!-- NOTE: attribute width changes image size online (pixels). original width is 265. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_072.eps" id="uid415_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Choose a frame of reference </label>
+        <para id="id90604">We will choose to the east as positive.</para>
+        </item> <item> <label> Apply the Law of Conservation of momentum </label>
+        <equation id="id90614">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mi>i</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>+</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>f</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>05</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>25</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mspace width="4pt"/>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>5</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>85</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mspace width="4pt"/>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mi> eastwards </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id9345"><title> Conservation of Momentum 2 </title>
+        <problem id="probfhsst_id9346">
+        <para id="id91264">A helicopter flies at a speed of 275 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. The pilot fires a missile forward out of a gun barrel at a speed of 700 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. The respective masses of the helicopter and the missile are 5000 kg and 50 kg. Calculate the new speed of the helicopter immmediately after the missile had been fired. </para>
+        </problem>
+        <solution id="solfhsst_id9349"> <list id="listfhsst_id9349" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Draw rough sketch of the situation </label>
+        <figure id="uid416">
+          <media id="uid416_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_073.png" id="uid416_onlineimage" width="317"><!-- NOTE: attribute width changes image size online (pixels). original width is 317. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_073.eps" id="uid416_printimage"/>
+          </media>
+          <caption>helicopter and missile</caption>
+        </figure>
+        </item> <item> <label> Analyse the question and list what is given </label>
+        <para id="id91356"><m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mn>1</m:mn></m:msub></m:math> = 5000 kg</para>
+        <para id="id91373"><m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mn>2</m:mn></m:msub></m:math> = 50 kg</para>
+        <para id="id91392"><m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mrow><m:mi>i</m:mi><m:mn>1</m:mn></m:mrow></m:msub></m:math> = <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mrow><m:mi>i</m:mi><m:mn>2</m:mn></m:mrow></m:msub></m:math> = 275 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></para>
+        <para id="id91455"><m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mrow><m:mi>f</m:mi><m:mn>1</m:mn></m:mrow></m:msub></m:math> = ?</para>
+        <para id="id91476"><m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mrow><m:mi>f</m:mi><m:mn>2</m:mn></m:mrow></m:msub></m:math> = 700 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></para>
+        </item> <item> <label> Apply the Law of Conservation of momentum </label>
+        <para id="id91528">The helicopter and missile are connected initially and move at the same velocity. We will therefore combine their masses and change the momentum equation as follows:</para>
+        <equation id="id91533">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mi>i</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>m</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>m</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>5000</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>50</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>275</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>5000</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>f</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>50</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>700</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>1388750</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:mn>35000</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>5000</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>f</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>270</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>75</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id91958">Note that speed is asked and not velocity, therefore no direction is included in the answer.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id9617"><title> Conservation of Momentum 3 </title>
+        <problem id="probfhsst_id9618">
+        <para id="id91989">A bullet of mass 50 g travelling horizontally at 500 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>strikes a stationary wooden block of mass 2 kg resting on a smooth horizontal surface. The bullet goes through the block and comes out on the other side at 200 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Calculate the speed of the block after the bullet has come out the other side. </para>
+        </problem>
+        <solution id="solfhsst_id9621"> <list id="listfhsst_id9621" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Draw rough sketch of the situation </label>
+        <figure id="uid417">
+          <media id="uid417_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_074.png" id="uid417_onlineimage" width="229"><!-- NOTE: attribute width changes image size online (pixels). original width is 229. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_074.eps" id="uid417_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Choose a frame of reference </label>
+        <para id="id92077">We will choose to the right as positive.</para>
+        </item> <item> <label> Apply the Law of Conservation of momentum </label>
+        <equation id="id92088"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mi>i</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mi>f</m:mi>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>i</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>05</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>+</m:mo>
+                      <m:mn>500</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>05</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>+</m:mo>
+                      <m:mn>200</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mrow>
+                          <m:mi>f</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>25</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>-</m:mo>
+                    <m:mn>10</m:mn>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mi>f</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mrow>
+                      <m:mi>f</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>7</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup><m:mspace width="2pt"/>
+                    <m:mrow>
+                      <m:mi> in the same direction as the bullet</m:mi>
+                      <m:mi> the </m:mi>
+                      <m:mi> same </m:mi>
+                      <m:mi> direction </m:mi>
+                      <m:mi> as </m:mi>
+                      <m:mi> the </m:mi>
+                      <m:mi> bullet </m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+      </section>
+
+  </content>
+</document>

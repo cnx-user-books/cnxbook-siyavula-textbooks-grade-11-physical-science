@@ -1,0 +1,680 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Capacitors</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39008</md:content-id>
+  <md:title>Capacitors</md:title>
+  <md:abstract/>
+  <md:uuid>b3173ec7-77f4-4203-99bb-1b1ae7343b51</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>Capacitance and the parallel plate capacitor</title>
+      <section id="uid39">
+        <title>Capacitors and capacitance</title>
+        <para id="id284732">A parallel plate capacitor is a device that consists of two
+oppositely charged conducting plates separated by a small
+distance, which stores charge. When voltage is applied to the
+capacitor, usually by connecting it to an energy source (e.g. a battery) in a circuit, electric charge of equal magnitude, but opposite
+polarity, builds up on each plate.</para>
+        <figure id="uid40">
+          <media id="uid40_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C7_023.png" id="uid40_onlineimage" width="112"><!-- NOTE: attribute width changes image size online (pixels). original width is 112. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_023.eps" id="uid40_printimage"/>
+          </media>
+          <caption>A capacitor (C) connected in series with a resistor (R) and an energy source (E).</caption>
+        </figure>
+<definition id="fhsst_id2864"><term id="termfhsst_id2864"> Capacitance </term> <meaning id="meaningfhsst_id2864">
+        <para id="id284757">Capacitance is the charge stored per volt
+and is measured in Farads (F). </para>
+        </meaning></definition>
+        <para id="id284769">Mathematically, capacitance is the ratio of the charge on a single
+plate to the voltage across the plates of the capacitor:</para>
+        <equation id="id284774">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>Q</m:mi>
+                <m:mi>V</m:mi>
+              </m:mfrac>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id284797">Capacitance is measured in Farads (F). Since capacitance is defined
+as <m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>Q</m:mi><m:mi>V</m:mi></m:mfrac></m:mrow></m:math>, the units are in terms of charge over
+potential difference. The unit of charge is the coulomb and the
+unit of the potential difference is the volt. One farad is
+therefore the capacitance if one coulomb of charge was stored on a
+capacitor for every volt applied.</para>
+        <para id="id284824">1 C of charge is a very large amount of charge. So, for a small
+amount of voltage applied, a 1 F capacitor can store a enormous
+amount of charge. Therefore, capacitors are often denoted in terms
+of microfarads (<m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>6</m:mn></m:mrow></m:msup></m:mrow></m:math>), nanofarads (<m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup></m:mrow></m:math>),
+or picofarads (<m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>12</m:mn></m:mrow></m:msup></m:mrow></m:math>).</para>
+<note id="notfhsst_id2894" type="tip"><m:math overflow="scroll"><m:mi>Q</m:mi></m:math> is the magnitude of the charge stored on either
+plate, not on both plates added together. Since one plate stores
+positive charge and the other stores negative charge, the total
+charge on the two plates is zero.</note>
+<exercise id="secfhsst_id2898"><title> Capacitance </title>
+        <problem id="probfhsst_id2899">
+        <para id="id284930">Suppose that a 5 V battery is connected in a circuit to
+a 5 pF capacitor. After the battery has been connected for a long time, what is
+the charge stored on each of the plates? </para>
+        </problem>
+        <solution id="solfhsst_id2904"> <list id="listfhsst_id2904" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what we know </label>
+        <para id="id284956">To begin remember that after a voltage has been applied for a
+long time the capacitor is fully charged. The relation between
+voltage and the maximum charge of a capacitor is found in equation
+ <link target-id=""/>.</para>
+        <equation id="id284965">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:mi>V</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>Q</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id284984">Inserting the given values of <m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mo>=</m:mo><m:mn>5</m:mn><m:mi mathvariant="normal">F</m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:mn>5</m:mn><m:mi mathvariant="normal">V</m:mi></m:mrow></m:math>, we find that:</para>
+        <equation id="id285024">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>Q</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>C</m:mi>
+                    <m:mi>V</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>12</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mi>F</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mi>V</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>11</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mi>C</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid41">
+        <title>Dielectrics</title>
+        <para id="id285153">The electric field between the plates of a capacitor is affected by the substance between them. The substance between the plates is called a dielectric. Common substances used as dielectrics are mica, perspex, air, paper and glass.</para>
+        <para id="id285158">When a dielectric is inserted between the plates of a parallel
+plate capacitor the dielectric becomes polarised so an electric
+field is induced in the dielectric that opposes the field between
+the plates. When the two electric fields are superposed, the new
+field between the plates becomes smaller. Thus the voltage between
+the plates decreases so the capacitance increases.</para>
+        <para id="id285167">In every capacitor, the dielectric stops the charge on one plate
+from travelling to the other plate. However, each capacitor is
+different in how much charge it allows to build up on the
+electrodes per voltage applied. When scientists started studying
+capacitors they discovered the property that the voltage applied
+to the capacitor was proportional to the maximum charge that would
+accumulate on the electrodes. The constant that made this
+relation into an equation was called the capacitance, C. The
+capacitance was different for different capacitors. But, it stayed
+constant no matter how much voltage was applied. So, it predicts
+how much charge will be stored on a capacitor when different
+voltages are applied.</para>
+      </section>
+      <section id="uid42">
+        <title>Physical properties of the capacitor and capacitance</title>
+        <para id="id285188">The capacitance of a capacitor is proportional to the surface area of the
+conducting plate and inversely proportional to the distance
+between the plates. It also depends on the dielectric between the plates. We say that it is proportional to the permittivity of
+the <emphasis effect="italics">dielectric</emphasis>. The dielectric is the non-conducting
+substance that separates the plates. As mentioned before, dielectrics can be air, paper, mica, perspex
+or glass.</para>
+        <para id="id285201">The capacitance of a parallel-plate capacitor is given by:</para>
+        <equation id="id285207">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>ϵ</m:mi>
+                <m:mn>0</m:mn>
+              </m:msub>
+              <m:mfrac>
+                <m:mi>A</m:mi>
+                <m:mi>d</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id285236">where <m:math overflow="scroll"><m:msub><m:mi>ϵ</m:mi><m:mn>0</m:mn></m:msub></m:math> is, in this case, the
+permittivity of air, <m:math overflow="scroll"><m:mi>A</m:mi></m:math> is the area of the plates and <m:math overflow="scroll"><m:mi>d</m:mi></m:math> is the
+distance between the plates.</para>
+<exercise id="secfhsst_id3047"><title> Capacitance </title>
+        <problem id="probfhsst_id3048">
+        <para id="id285287">What is the capacitance of a capacitor in which the
+dielectric is air, the area of the plates is <m:math overflow="scroll"><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>001</m:mn><m:msup><m:mi mathvariant="normal">m</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> and the distance
+between the plates is <m:math overflow="scroll"><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>02</m:mn><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math>? </para>
+        </problem>
+        <solution id="solfhsst_id3053"> <list id="listfhsst_id3053" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is required </label>
+        <para id="id285354">We need to determine the capacitance of the capacitor.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id285361">We can use the formula:</para>
+        <equation id="id285365">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>ϵ</m:mi>
+                <m:mn>0</m:mn>
+              </m:msub>
+              <m:mfrac>
+                <m:mi>A</m:mi>
+                <m:mi>d</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Determine what is given. </label>
+        <para id="id285397">We are given the area of the plates, the distance between the plates and that the dielectric is air.</para>
+        </item> <item> <label> Determine the capacitance </label>
+        <equation id="uid43">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>C</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>ϵ</m:mi>
+                      <m:mn>0</m:mn>
+                    </m:msub>
+                    <m:mfrac>
+                      <m:mi>A</m:mi>
+                      <m:mi>d</m:mi>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>12</m:mn>
+                      </m:mrow>
+                      <m:mo>)</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>001</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>02</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>45</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>13</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mi mathvariant="normal">F</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid44">
+        <title>Electric field in a capacitor</title>
+        <para id="id285559">The electric field strength between the plates of a capacitor can be calculated using the formula:</para>
+        <para id="id285563">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>E</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>V</m:mi>
+                <m:mi>d</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id285586">where <m:math overflow="scroll"><m:mi>E</m:mi></m:math> is the electric field in <m:math overflow="scroll"><m:mrow><m:mi mathvariant="normal">J</m:mi><m:mo>.</m:mo><m:msup><m:mi mathvariant="normal">C</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>, <m:math overflow="scroll"><m:mi>V</m:mi></m:math> is the potential difference in volts (<m:math overflow="scroll"><m:mi mathvariant="normal">V</m:mi></m:math>) and <m:math overflow="scroll"><m:mi>d</m:mi></m:math> is the distance between the plates in metres (<m:math overflow="scroll"><m:mi mathvariant="normal">m</m:mi></m:math>).</para>
+<exercise id="secfhsst_id3178"><title> Electric field in a capacitor </title>
+        <problem id="probfhsst_id3179">
+        <para id="id285679">What is the strength of the electric field in a capacitor which has a potential difference of <m:math overflow="scroll"><m:mrow><m:mn>300</m:mn><m:mi mathvariant="normal">V</m:mi></m:mrow></m:math> between its parallel plates that are <m:math overflow="scroll"><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>02</m:mn><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math> apart? </para>
+        </problem>
+        <solution id="solfhsst_id3182"> <list id="listfhsst_id3182" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is required </label>
+        <para id="id285736">We need to determine the electric field between the plates of the capacitor.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id285744">We can use the formula:</para>
+        <para id="id285748">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>E</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>V</m:mi>
+                <m:mi>d</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </para>
+        </item> <item> <label> Determine what is given. </label>
+        <para id="id285776">We are given the potential difference and the distance between the plates.</para>
+        </item> <item> <label> Determine the electric field </label>
+        <equation id="uid45">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>E</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi>V</m:mi>
+                    <m:mi>d</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>300</m:mn>
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>02</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>50</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>4</m:mn>
+                    </m:msup>
+                    <m:mrow>
+                      <m:mi mathvariant="normal">J</m:mi>
+                      <m:mo>.</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">C</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id3270"><title> Capacitance and the parallel plate capacitor </title>
+        <list id="id285911" display="block" list-type="enumerated">
+          <item id="uid46">Determine the capacitance of a capacitor which stores <m:math overflow="scroll"><m:mrow><m:mn>9</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mi mathvariant="normal">C</m:mi></m:mrow></m:math>
+when a potential difference of 12 V is applied to it.
+</item>
+          <item id="uid47">What charge will be stored on a <m:math overflow="scroll"><m:mrow><m:mn>5</m:mn><m:mrow><m:mi>μ</m:mi><m:mi mathvariant="normal">F</m:mi></m:mrow></m:mrow></m:math> capacitor if a potential
+difference of <m:math overflow="scroll"><m:mrow><m:mn>6</m:mn><m:mi mathvariant="normal">V</m:mi></m:mrow></m:math> is maintained between its plates?
+</item>
+          <item id="uid48">What is the capacitance of a capacitor that uses air as its dielectric if it has an area of <m:math overflow="scroll"><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>004</m:mn><m:msup><m:mi mathvariant="normal">m</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> and a distance of <m:math overflow="scroll"><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>03</m:mn><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math> between its plates?
+</item>
+          <item id="uid49">What is the strength of the electric field between the plates of a charged capacitor if the plates are <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi> mm </m:mi></m:mrow></m:math> apart and have a potential difference of <m:math overflow="scroll"><m:mrow><m:mn>200</m:mn><m:mi mathvariant="normal">V</m:mi></m:mrow></m:math> across them?
+</item>
+        </list>
+        
+</section>
+      </section><para id="eip-523"><figure id="id63458">
+            <media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/capacitor-lab-screenshot.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/capacitor-lab-screenshot.eps" id="id63458_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/capacitor-lab/capacitor-lab_en.jnlp">run demo</link></para>
+    </section>
+    <section id="cid7">
+      <title>A capacitor as a circuit device</title>
+      <section id="uid50">
+        <title>A capacitor in a circuit</title>
+        <para id="id286123">When a capacitor is connected in a DC circuit, current will flow
+until the capacitor is fully charged. After that, no further
+current will flow. If the charged capacitor is connected to
+another circuit with no source of emf in it, the capacitor will
+discharge through the circuit, creating a potential difference for
+a short time. This is useful, for example, in a camera flash.</para>
+        <para id="id286130">Initially, the electrodes have no net charge. A
+voltage source is applied to charge a capacitor. The voltage source creates an electric
+field, causing the electrons to move. The charges move around the
+circuit stopping at the left electrode. Here they are unable to
+travel across the dielectric, since electrons cannot travel
+through an insulator. The charge begins to accumulate, and an
+electric field forms pointing from the left electrode to the right
+electrode. This is the opposite direction of the electric field
+created by the voltage source. When this electric field is equal
+to the electric field created by the voltage source, the electrons
+stop moving. The capacitor is then fully charged, with a positive
+charge on the left electrode and a negative charge on the right
+electrode.</para>
+        <para id="id286142">If the voltage is removed, the capacitor will discharge. The
+electrons begin to move because in the absence of the voltage
+source, there is now a net electric field. This field is due to
+the imbalance of charge on the electrodes–the field across the
+dielectric. Just as the electrons flowed to the positive electrode
+when the capacitor was being charged, during discharge, the
+electrons flow to negative electrode. The charges cancel, and
+there is no longer an electric field across the dielectric.</para>
+      </section>
+      <section id="uid51">
+        <title>Real-world applications: capacitors</title>
+        <para id="id286166">Capacitors are used in many different types of circuitry. In car
+speakers, capacitors are often used to aid the power supply when
+the speakers require more power than the car battery can provide.
+Capacitors are also used in processing electronic signals in
+circuits, such as smoothing voltage spikes due to inconsistent
+voltage sources. This is important for protecting sensitive electronic components in a circuit.</para>
+      </section>
+    </section>
+    <para id="eip-728"><figure id="slidesharefigure1" class="slideshare">
+    	<media id="slidesharemedia1" alt="Powerpoint presentation on electrostatics">
+    	<flash id="slideshareflash1" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=g11electrostaticselectricfields-100512050702-phpapp01&amp;stripped_title=g-11-electrostatics-electric-f-ields-4064950&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid8">
+      <title>Summary</title>
+      <list id="id286183" display="block" list-type="enumerated">
+        <item id="uid52">Objects can be <emphasis effect="bold">positively</emphasis>, <emphasis effect="bold">negatively</emphasis> charged or <emphasis effect="bold">neutral</emphasis>.
+</item>
+        <item id="uid53">Charged objects feel a force with a magnitude. This is known as Coulomb's law:
+<equation id="id286228"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>F</m:mi><m:mo>=</m:mo><m:mi>k</m:mi><m:mfrac><m:mrow><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup></m:mfrac></m:mrow></m:math></equation></item>
+        <item id="uid54">The electric field due to a point charge is given by the equation:
+<equation id="id286283"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>k</m:mi><m:mi>Q</m:mi></m:mrow><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup></m:mfrac></m:mrow></m:math></equation></item>
+        <item id="uid55">The force is attractive for unlike charges and repulsive for
+like charges.
+</item>
+        <item id="uid56">Electric fields start on positive charges and end on negative
+charges.
+</item>
+        <item id="uid57">A charge in an electric field, just like a mass under gravity,
+has potential energy which is related to the work to move it.
+</item>
+        <item id="uid58">A capacitor is a device that stores charge in a circuit.
+</item>
+        <item id="uid59">The electrical potential energy between two point charges is given by:
+<equation id="id286375"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>U</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>k</m:mi><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup></m:mfrac></m:mrow></m:math></equation></item>
+        <item id="uid60">Potential difference is measured in volts and is given by the equation:
+<equation id="id286430"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>W</m:mi><m:mi>q</m:mi></m:mfrac></m:mrow></m:math></equation></item>
+        <item id="uid61">The electric field is constant between equally charged parallel
+plates. The electric field is given by:
+<equation id="id286463"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>V</m:mi><m:mi>d</m:mi></m:mfrac></m:mrow></m:math></equation></item>
+        <item id="uid62">The capacitance of a capacitor can be calculated as
+<equation id="id286496"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>C</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>Q</m:mi><m:mi>V</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>ϵ</m:mi><m:mn>0</m:mn></m:msub><m:mi>A</m:mi></m:mrow><m:mi>d</m:mi></m:mfrac></m:mrow></m:math></equation></item>
+      </list>
+    </section>
+    <section id="cid9">
+      <title>Exercises - Electrostatics</title>
+      <list id="id286544" display="block" list-type="enumerated">
+        <item id="uid63">Two charges of <m:math overflow="scroll"><m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:mi> nC </m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>5</m:mn><m:mi> nC </m:mi></m:mrow></m:math> are separated by a distance of <m:math overflow="scroll"><m:mrow><m:mn>40</m:mn><m:mi> cm </m:mi></m:mrow></m:math>. What is the electrostatic force between the two charges?
+</item>
+        <item id="uid64">Two insulated metal spheres carrying charges of <m:math overflow="scroll"><m:mrow><m:mo>+</m:mo><m:mn>6</m:mn><m:mi> nC </m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>10</m:mn><m:mi> nC </m:mi></m:mrow></m:math> are separated by a distance of 20 mm.
+<list id="id286643" display="block" list-type="enumerated"><item id="uid65">What is the electrostatic force between the spheres?
+</item><item id="uid66">The two spheres are touched and then separated by a distance of <m:math overflow="scroll"><m:mrow><m:mn>60</m:mn><m:mi> mm </m:mi></m:mrow></m:math>. What are the new charges on the spheres?
+</item><item id="uid67">What is new electrostatic force between the spheres at this distance?
+</item></list></item>
+        <item id="uid68">The electrostatic force between two charged spheres of <m:math overflow="scroll"><m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:mi> nC </m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mo>+</m:mo><m:mn>4</m:mn><m:mi> nC </m:mi></m:mrow></m:math> respectively is <m:math overflow="scroll"><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>04</m:mn><m:mi mathvariant="normal">N</m:mi></m:mrow></m:math>. What is the distance between the spheres?
+</item>
+        <item id="uid69">Calculate the potential difference between two parallel plates if it takes <m:math overflow="scroll"><m:mrow><m:mn>5000</m:mn><m:mi mathvariant="normal">J</m:mi></m:mrow></m:math> of energy to move <m:math overflow="scroll"><m:mrow><m:mn>25</m:mn><m:mi mathvariant="normal">C</m:mi></m:mrow></m:math> of charge between the plates?
+</item>
+        <item id="uid70">Draw the electric field pattern lines between:
+<list id="id286811" display="block" list-type="enumerated"><item id="uid71">two equal positive point charges.
+</item><item id="uid72">two equal negative point charges.
+</item></list></item>
+        <item id="uid73">Calculate the electric field between the plates of a capacitor if the plates are <m:math overflow="scroll"><m:mrow><m:mn>20</m:mn><m:mi> mm </m:mi></m:mrow></m:math> apart and the potential difference between the plates is <m:math overflow="scroll"><m:mrow><m:mn>300</m:mn><m:mi mathvariant="normal">V</m:mi></m:mrow></m:math>.
+</item>
+        <item id="uid74">Calculate the electrical potential energy of a <m:math overflow="scroll"><m:mrow><m:mn>6</m:mn><m:mi> nC </m:mi></m:mrow></m:math> charge that is <m:math overflow="scroll"><m:mrow><m:mn>20</m:mn><m:mi> cm </m:mi></m:mrow></m:math> from a <m:math overflow="scroll"><m:mrow><m:mn>10</m:mn><m:mi> nC </m:mi></m:mrow></m:math> charge.
+</item>
+        <item id="uid75">What is the capacitance of a capacitor if it has a charge of <m:math overflow="scroll"><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>02</m:mn><m:mi mathvariant="normal">C</m:mi></m:mrow></m:math> on each of its plates when the potential difference between the plates is <m:math overflow="scroll"><m:mrow><m:mn>12</m:mn><m:mi mathvariant="normal">V</m:mi></m:mrow></m:math>?
+</item>
+        <item id="uid76">[SC 2003/11] Two small identical metal spheres, on insulated stands, carry charges -<m:math overflow="scroll"><m:mi>q</m:mi></m:math> and <m:math overflow="scroll"><m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>q</m:mi></m:mrow></m:math> respectively. When the centres of the spheres are separated by a distance <m:math overflow="scroll"><m:mi>d</m:mi></m:math> the one exerts an electrostatic force of magnitude <m:math overflow="scroll"><m:mi>F</m:mi></m:math> on the other.
+<figure id="id287032"><media id="id287032_media" alt=""><image mime-type="image/png" src="../../media/PG11C7_024.png" id="id287032_onlineimage" width="129"><!-- NOTE: attribute width changes image size online (pixels). original width is 129. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_024.eps" id="id287032_printimage"/></media></figure>
+The spheres are now made to touch each other and are then brought
+back to the same distance <m:math overflow="scroll"><m:mi>d</m:mi></m:math> apart. What will be the magnitude of
+the electrostatic force which one sphere now exerts on the other?
+<list id="id287053" display="block" list-type="enumerated"><item id="uid77"><m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mi>F</m:mi></m:mrow></m:math></item><item id="uid78"><m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mi>F</m:mi></m:mrow></m:math></item><item id="uid79"><m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>F</m:mi></m:mrow></m:math></item><item id="uid80"><m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mi>F</m:mi></m:mrow></m:math></item></list></item>
+        <item id="uid81">[SC 2003/11] Three point charges of magnitude +1 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>C, +1 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>C and -1 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>C respectively are placed on the three corners of an equilateral triangle as shown.
+<figure id="id287199"><media id="id287199_media" alt=""><image mime-type="image/png" src="../../media/PG11C7_025.png" id="id287199_onlineimage" width="89"><!-- NOTE: attribute width changes image size online (pixels). original width is 89. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_025.eps" id="id287199_printimage"/></media></figure>
+Which vector best represents the direction of the resultant force
+acting on the -1 <m:math overflow="scroll"><m:mi>μ</m:mi></m:math>C charge as a result of the forces exerted
+by the other two charges?
+<table id="id287219" summary=""><tgroup cols="4"><tbody><row><entry><figure id="id287226"><media id="id287226_media" alt=""><image mime-type="image/png" src="../../media/PG11C7_026.png" id="id287226_onlineimage" width="3"><!-- NOTE: attribute width changes image size online (pixels). original width is 3. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_026.eps" id="id287226_printimage"/></media></figure></entry><entry><figure id="id287236"><media id="id287236_media" alt=""><image mime-type="image/png" src="../../media/PG11C7_027.png" id="id287236_onlineimage" width="3"><!-- NOTE: attribute width changes image size online (pixels). original width is 3. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_027.eps" id="id287236_printimage"/></media></figure></entry><entry><figure id="id287246"><media id="id287246_media" alt=""><image mime-type="image/png" src="../../media/PG11C7_028.png" id="id287246_onlineimage" width="40"><!-- NOTE: attribute width changes image size online (pixels). original width is 40. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_028.eps" id="id287246_printimage"/></media></figure></entry><entry><figure id="id287256"><media id="id287256_media" alt=""><image mime-type="image/png" src="../../media/PG11C7_029.png" id="id287256_onlineimage" width="40"><!-- NOTE: attribute width changes image size online (pixels). original width is 40. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_029.eps" id="id287256_printimage"/></media></figure></entry></row><row><entry>(a)</entry><entry>(b)</entry><entry>(c)</entry><entry>(d)</entry></row></tbody></tgroup></table></item>
+        <item id="uid82">[IEB 2003/11 HG1 - Force Fields]
+<list id="id287303" display="block" list-type="enumerated"><item id="uid83">Write a statement of Coulomb's law.
+</item><item id="uid84">Calculate the magnitude of the force exerted by a point charge of +2 nC on another point charge of -3 nC separated by a distance of 60 mm.
+</item><item id="uid85">Sketch the electric field between two point charges of +2 nC and -3 nC, respectively, placed 60 mm apart from each other.
+</item></list></item>
+        <item id="uid86">[IEB 2003/11 HG1 - Electrostatic Ping-Pong]
+Two charged parallel metal plates, X and Y, separated by a
+distance of 60 mm, are connected to a DC supply of emf 2 000 V
+in series with a microammeter. An initially uncharged conducting
+sphere (a graphite-coated ping pong ball) is suspended from an
+insulating thread between the metal plates as shown in the
+diagram.
+<figure id="id287365"><media id="id287365_media" alt=""><image mime-type="image/png" src="../../media/PG11C7_030.png" id="id287365_onlineimage" width="269"><!-- NOTE: attribute width changes image size online (pixels). original width is 269. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_030.eps" id="id287365_printimage"/></media></figure>
+When the ping pong ball is moved to the right to touch the
+positive plate, it acquires a charge of +9 nC. It is then
+released. The ball swings to and fro between the two plates,
+touching each plate in turn.
+<list id="id287377" display="block" list-type="enumerated"><item id="uid87">How many electrons have been removed from the ball when it acquires a charge of +9 nC?
+</item><item id="uid88">Explain why a current is established in the circuit.
+</item><item id="uid89">Determine the current if the ball takes 0,25 s to swing from Y to X.
+</item><item id="uid90">Using the same graphite-coated ping pong ball, and the same two metal plates, give TWO ways in which this current could be increased.
+</item><item id="uid91">Sketch the electric field between the plates X and Y.
+</item><item id="uid92">How does the electric force exerted on the ball change as it moves from Y to X?
+</item></list></item>
+        <item id="uid93">[IEB 2005/11 HG] A positive charge <m:math overflow="scroll"><m:mi>Q</m:mi></m:math> is released from rest at the centre of a uniform electric field.
+<figure id="id287483"><media id="id287483_media" alt=""><image mime-type="image/png" src="../../media/PG11C7_031.png" id="id287483_onlineimage" width="143"><!-- NOTE: attribute width changes image size online (pixels). original width is 143. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_031.eps" id="id287483_printimage"/></media></figure>
+How does <m:math overflow="scroll"><m:mi>Q</m:mi></m:math> move immediately after it is released?
+<list id="id287503" display="block" list-type="enumerated"><item id="uid94">It accelerates uniformly.
+</item><item id="uid95">It moves with an increasing acceleration.
+</item><item id="uid96">It moves with constant speed.
+</item><item id="uid97">It remains at rest in its initial position.
+</item></list></item>
+        <item id="uid98">[SC 2002/03 HG1]
+The sketch below shows two sets of parallel plates which are
+connected together. A potential difference of 200 V is applied
+across both sets of plates. The distances between the two sets of
+plates are 20 mm and 40 mm respectively.
+<figure id="id287576"><media id="id287576_media" alt=""><image mime-type="image/png" src="../../media/PG11C7_032.png" id="id287576_onlineimage" width="163"><!-- NOTE: attribute width changes image size online (pixels). original width is 163. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_032.eps" id="id287576_printimage"/></media></figure>
+When a charged particle Q is placed at point R, it experiences a
+force of magnitude <m:math overflow="scroll"><m:mi>F</m:mi></m:math>. Q is now moved to point P, halfway between
+plates AB and CD. Q now experiences a force of magnitude .
+<list id="id287597" display="block" list-type="enumerated"><item id="uid99"><m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>F</m:mi></m:mrow></m:math></item><item id="uid100"><m:math overflow="scroll"><m:mi>F</m:mi></m:math></item><item id="uid101"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>F</m:mi></m:mrow></m:math></item><item id="uid102"><m:math overflow="scroll"><m:mrow><m:mn>4</m:mn><m:mi>F</m:mi></m:mrow></m:math></item></list></item>
+        <item id="uid103">[SC 2002/03 HG1]
+The electric field strength at a distance <m:math overflow="scroll"><m:mi>x</m:mi></m:math> from a point charge
+is <m:math overflow="scroll"><m:mi>E</m:mi></m:math>. What is the magnitude of the electric field strength at a
+distance <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow></m:math> away from the point charge?
+<list id="id287732" display="block" list-type="enumerated"><item id="uid104"><m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mi>E</m:mi></m:mrow></m:math></item><item id="uid105"><m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>E</m:mi></m:mrow></m:math></item><item id="uid106"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>E</m:mi></m:mrow></m:math></item><item id="uid107"><m:math overflow="scroll"><m:mrow><m:mn>4</m:mn><m:mi>E</m:mi></m:mrow></m:math></item></list></item>
+        <item id="uid108">[IEB 2005/11 HG1]
+An electron (mass 9,11 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>31</m:mn></m:mrow></m:msup></m:math> kg) travels
+horizontally in a vacuum. It enters the shaded regions between two
+horizontal metal plates as shown in the diagram below.
+<figure id="id287877"><media id="id287877_media" alt=""><image mime-type="image/png" src="../../media/PG11C7_033.png" id="id287877_onlineimage" width="185"><!-- NOTE: attribute width changes image size online (pixels). original width is 185. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_033.eps" id="id287877_printimage"/></media></figure>
+A potential difference of 400 V is applied across the places which are separated by 8 mm.
+The electric field intensity in the shaded region between the
+metal plates is uniform. Outside this region, it is zero.
+<list id="id287893" display="block" list-type="enumerated"><item id="uid109">Explain what is meant by the phrase <emphasis effect="bold">“the electric field intensity is uniform”</emphasis>.
+</item><item id="uid110">Copy the diagram and draw the following:
+<list id="id287928" display="block" list-type="enumerated"><item id="uid111">The electric field between the metal plates.
+</item><item id="uid112">An arrow showing the direction of the electrostatic force on the electron when it is at <emphasis effect="bold">P</emphasis>.
+</item></list></item><item id="uid113">Determine the magnitude of the electric field intensity between the metal plates.
+</item><item id="uid114">Calculate the magnitude of the electrical force on the electron during its passage through the electric field between the plates.
+</item><item id="uid115">Calculate the magnitude of the acceleration of the electron (due to the electrical force on it) during its passage through the electric field between the plates.
+</item><item id="uid116">After the electron has passed through the electric field between these plates, it collides with phosphorescent paint on a TV screen and this causes the paint to glow. What energy transfer takes place during this collision?
+</item></list></item>
+        <item id="uid117">[IEB 2004/11 HG1] A positively-charged particle is placed in a uniform electric field. Which of the following pairs of statements correctly describes the potential energy of the charge, and the force which the charge experiences in this field?
+Potential energy — Force
+<list id="id288036" display="block" list-type="enumerated"><item id="uid118">Greatest near the negative plate — Same everywhere in the field
+</item><item id="uid119">Greatest near the negative plate — Greatest near the positive and negative plates
+</item><item id="uid120">Greatest near the positive plate — Greatest near the positive and negative plates
+</item><item id="uid121">Greatest near the positive plate — Same everywhere in the field
+</item></list></item>
+        <item id="uid122">[IEB 2004/11 HG1 - TV Tube]
+A speck of dust is attracted to a TV screen. The screen is
+negatively charged, because this is where the electron beam
+strikes it. The speck of dust is neutral.
+<list id="id288111" display="block" list-type="enumerated"><item id="uid123">What is the name of the electrostatic process which causes dust to be attracted to a TV screen?
+</item><item id="uid124">Explain why a neutral speck of dust is attracted to the negatively-charged TV screen?
+</item><item id="uid125">Inside the TV tube, electrons are accelerated through a uniform electric field. Determine the magnitude of the electric force exerted on an electron when it accelerates through a potential difference of 2 000 V over a distance of 50 mm.
+</item><item id="uid126">How much kinetic energy (in J) does one electron gain while it accelerates over this distance?
+</item><item id="uid127">The TV tube has a power rating of 300 W. Estimate the maximum number of electrons striking the screen per second.
+</item></list></item>
+        <item id="uid128">[IEB 2003/11 HG1] A point charge is held stationary between two charged parallel plates that are separated by a distance d. The point charge experiences an electrical force F due to the electric field E between the parallel plates.
+What is the electrical force on the point charge when the plate
+separation is increased to 2d?
+<list id="id288202" display="block" list-type="enumerated"><item id="uid129"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="false"><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mstyle></m:math> F
+</item><item id="uid130"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="false"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mstyle></m:math> F
+</item><item id="uid131">2 F
+</item><item id="uid132">4 F
+</item></list></item>
+        <item id="uid133">[IEB 2001/11 HG1] - <emphasis effect="bold">Parallel Plates</emphasis>
+A distance of 32 mm separates the horizontal parallel plates A and B.
+B is at a potential of +1 000 V.
+<figure id="id288319"><media id="id288319_media" alt=""><image mime-type="image/png" src="../../media/PG11C7_034.png" id="id288319_onlineimage" width="269"><!-- NOTE: attribute width changes image size online (pixels). original width is 269. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_034.eps" id="id288319_printimage"/></media></figure><list id="id288326" display="block" list-type="enumerated"><item id="uid134">Draw a sketch to show the electric field lines between the plates A and B.
+</item><item id="uid135">Calculate the magnitude of the electric field intensity (strength) between the plates.
+A tiny charged particle is stationary at S, 8 mm below plate A
+that is at zero electrical potential. It has a charge of 3,2
+<m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>12</m:mn></m:mrow></m:msup></m:math> C.
+</item><item id="uid136">State whether the charge on this particle is positive or negative.
+</item><item id="uid137">Calculate the force due to the electric field on the charge.
+</item><item id="uid138">Determine the mass of the charged particle.
+The charge is now moved from S to Q.
+</item><item id="uid139">What is the magnitude of the force exerted by the electric field on the charge at Q?
+</item><item id="uid140">Calculate the work done when the particle is moved from S to Q.
+</item></list></item>
+      </list>
+    </section>
+  </content>
+</document>

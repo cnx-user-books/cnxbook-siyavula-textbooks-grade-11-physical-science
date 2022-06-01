@@ -1,0 +1,501 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Transformers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38923</md:content-id>
+  <md:title>Transformers</md:title>
+  <md:abstract/>
+  <md:uuid>59d11e52-fa77-40d1-8cf4-ca3ed93d3d10</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Transformers</title>
+      <para id="id70912">One of the real-world applications of Faraday's Law is in a
+<emphasis effect="italics">transformer</emphasis>.</para>
+      <para id="id70921">Eskom generates electricity at around 22 000 V. When you plug in a
+toaster, the mains voltage is 220 V. A transformer is used to
+<emphasis effect="italics">step-down</emphasis> the high voltage to the lower voltage that is
+used as mains voltage.</para>
+<definition id="fhsst_id820"><term id="termfhsst_id820"> Transformer </term> <meaning id="meaningfhsst_id820">
+      <para id="id70939">A transformer is an electrical device
+that uses the principle of induction between the primary coil and
+the secondary coil to either step-up or step-down the voltage. </para>
+      </meaning></definition>
+      <para id="id70952">The essential features of a transformer are two coils of wire,
+called the primary coil and the secondary coil, which are wound around
+different sections of the same iron core.</para>
+      <para id="id70956">
+        <figure id="id70960">
+          <media id="id70960_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C8_028.png" id="id70960_onlineimage" width="233"><!-- NOTE: attribute width changes image size online (pixels). original width is 233. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_028.eps" id="id70960_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id70966">When an alternating voltage is applied to the primary coil it
+creates an alternating current in that coil, which induces an
+alternating magnetic field in the iron core. The changing
+magnetic flux through the secondary coil induces an emf, which creates a current in this secondary coil.</para>
+      <para id="id70972">The circuit symbol for a transformer is:</para>
+      <para id="id70976">
+        <figure id="id70979">
+          <media id="id70979_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C8_029.png" id="id70979_onlineimage" width="71"><!-- NOTE: attribute width changes image size online (pixels). original width is 71. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_029.eps" id="id70979_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id70986">By choosing the number of coils in the secondary solenoid relative to the number of coils in the primary solenoid, we can choose how much bigger or smaller the induced secondary current is by comparison to the current in the primary solenoid (so by how much the current is stepped up or down.)</para>
+      <para id="id70992">This ability to transform
+voltage and current levels according to a simple ratio, determined
+by the ratio of input and output coil turns is a very useful property of transformers and accounts for the name. We can derive a
+mathematical relationship by using Faraday's law.</para>
+      <para id="id70997">Assume that an alternating voltage <m:math overflow="scroll"><m:msub><m:mi>V</m:mi><m:mi>p</m:mi></m:msub></m:math> is applied to the
+primary coil (which has <m:math overflow="scroll"><m:msub><m:mi>N</m:mi><m:mi>p</m:mi></m:msub></m:math> turns) of a transformer. The current
+that results from this voltage generates a changing magnetic flux <m:math overflow="scroll"><m:msub><m:mi>φ</m:mi><m:mi>p</m:mi></m:msub></m:math>.
+We can then describe the emf in the primary coil by:</para>
+      <equation id="id71045">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>V</m:mi>
+              <m:mi>p</m:mi>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:msub>
+              <m:mi>N</m:mi>
+              <m:mi>p</m:mi>
+            </m:msub>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:msub>
+                  <m:mi>φ</m:mi>
+                  <m:mi>p</m:mi>
+                </m:msub>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mi>t</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id71090">Similarly, for the secondary
+coil,</para>
+      <equation id="id71096">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>V</m:mi>
+              <m:mi>s</m:mi>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:msub>
+              <m:mi>N</m:mi>
+              <m:mi>s</m:mi>
+            </m:msub>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:msub>
+                  <m:mi>φ</m:mi>
+                  <m:mi>s</m:mi>
+                </m:msub>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mi>t</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id71142">If we assume that the primary and secondary windings are perfectly
+coupled, then:</para>
+      <equation id="id71146">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>φ</m:mi>
+              <m:mi>p</m:mi>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:msub>
+              <m:mi>φ</m:mi>
+              <m:mi>s</m:mi>
+            </m:msub>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id71173">which means that:</para>
+      <equation id="id71179">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mi>p</m:mi>
+              </m:msub>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mi>s</m:mi>
+              </m:msub>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>N</m:mi>
+                <m:mi>p</m:mi>
+              </m:msub>
+              <m:msub>
+                <m:mi>N</m:mi>
+                <m:mi>s</m:mi>
+              </m:msub>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+<exercise id="secfhsst_id961"><title> Transformer specifications </title>
+      <problem id="probfhsst_id962">
+      <para id="id71238">Calculate the voltage on the secondary coil if the voltage on the primary coil is 120 V and the ratio of primary windings to secondary windings is 10:1. </para>
+      </problem>
+      <solution id="solfhsst_id965"> <list id="listfhsst_id965" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Determine how to approach the problem </label>
+      <para id="id71264">Use</para>
+      <equation id="id71267">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mi>p</m:mi>
+              </m:msub>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mi>s</m:mi>
+              </m:msub>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>N</m:mi>
+                <m:mi>p</m:mi>
+              </m:msub>
+              <m:msub>
+                <m:mi>N</m:mi>
+                <m:mi>s</m:mi>
+              </m:msub>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id71314">with</para>
+      <list id="id71319" display="block" list-type="bulleted">
+        <item id="uid48">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mi>p</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mn>120</m:mn>
+            </m:mrow>
+          </m:math>
+        </item>
+        <item id="uid49">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>N</m:mi>
+                  <m:mi>p</m:mi>
+                </m:msub>
+                <m:msub>
+                  <m:mi>N</m:mi>
+                  <m:mi>s</m:mi>
+                </m:msub>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mn>10</m:mn>
+                <m:mn>1</m:mn>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </item>
+      </list>
+      </item> <item> <label> Rearrange equation to solve for <m:math overflow="scroll"><m:msub><m:mi>V</m:mi><m:mi>s</m:mi></m:msub></m:math> </label>
+      <equation id="id71413">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mfrac>
+                  <m:msub>
+                    <m:mi>V</m:mi>
+                    <m:mi>p</m:mi>
+                  </m:msub>
+                  <m:msub>
+                    <m:mi>V</m:mi>
+                    <m:mi>s</m:mi>
+                  </m:msub>
+                </m:mfrac>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:msub>
+                    <m:mi>N</m:mi>
+                    <m:mi>p</m:mi>
+                  </m:msub>
+                  <m:msub>
+                    <m:mi>N</m:mi>
+                    <m:mi>s</m:mi>
+                  </m:msub>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mfrac>
+                  <m:mn>1</m:mn>
+                  <m:msub>
+                    <m:mi>V</m:mi>
+                    <m:mi>s</m:mi>
+                  </m:msub>
+                </m:mfrac>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>N</m:mi>
+                      <m:mi>p</m:mi>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>N</m:mi>
+                      <m:mi>s</m:mi>
+                    </m:msub>
+                  </m:mfrac>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mi>p</m:mi>
+                    </m:msub>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mo>∴</m:mo>
+                  <m:msub>
+                    <m:mi>V</m:mi>
+                    <m:mi>s</m:mi>
+                  </m:msub>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mfrac>
+                      <m:msub>
+                        <m:mi>N</m:mi>
+                        <m:mi>p</m:mi>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>N</m:mi>
+                        <m:mi>s</m:mi>
+                      </m:msub>
+                    </m:mfrac>
+                  </m:mfrac>
+                  <m:msub>
+                    <m:mi>V</m:mi>
+                    <m:mi>p</m:mi>
+                  </m:msub>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Substitute values and solve for <m:math overflow="scroll"><m:msub><m:mi>V</m:mi><m:mi>s</m:mi></m:msub></m:math> </label>
+      <equation id="id71593">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mi>s</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mfrac>
+                      <m:msub>
+                        <m:mi>N</m:mi>
+                        <m:mi>p</m:mi>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>N</m:mi>
+                        <m:mi>s</m:mi>
+                      </m:msub>
+                    </m:mfrac>
+                  </m:mfrac>
+                  <m:msub>
+                    <m:mi>V</m:mi>
+                    <m:mi>p</m:mi>
+                  </m:msub>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mfrac>
+                      <m:mn>10</m:mn>
+                      <m:mn>1</m:mn>
+                    </m:mfrac>
+                  </m:mfrac>
+                  <m:mn>120</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>12</m:mn>
+                  <m:mspace width="0.277778em"/>
+                  <m:mi mathvariant="normal">V</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+      <para id="id71710">A transformer designed to output more voltage than it takes in
+across the input coil is called a <emphasis effect="italics">step-up</emphasis> transformer. A
+step-up transformer has more windings on the secondary coil than
+on the primary coil. This means that:</para>
+      <equation id="id71721">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>N</m:mi>
+              <m:mi>s</m:mi>
+            </m:msub>
+            <m:mo>&gt;</m:mo>
+            <m:msub>
+              <m:mi>N</m:mi>
+              <m:mi>p</m:mi>
+            </m:msub>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id71748">Similarly, a transformer designed to output less than it takes in
+across the input coil is called a <emphasis effect="italics">step-down</emphasis> transformer.
+A step-down transformer has more windings on the primary coil than
+on the primary coil. This means that:</para>
+      <equation id="id71759">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>N</m:mi>
+              <m:mi>p</m:mi>
+            </m:msub>
+            <m:mo>&gt;</m:mo>
+            <m:msub>
+              <m:mi>N</m:mi>
+              <m:mi>s</m:mi>
+            </m:msub>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id71786">We use a step-up transformer to increase the voltage from the primary coil to the secondary coil. It is used at power stations to increase the voltage for the transmission lines.
+A step-down transformer decreases the voltage from the primary coil to the secondary coil. It is particularly used to decrease the voltage from the transmission lines to a voltage which can be used in factories and in homes.</para>
+      <para id="id71793">Transformer technology has made long-range electric power
+distribution practical. Without the ability to efficiently step
+voltage up and down, it would be cost-prohibitive to construct
+power systems for anything but close-range (within a few kilometres) use.</para>
+      <para id="id71798">As useful as transformers are, they only work with AC,
+not DC. This is because the phenomenon of mutual inductance relies on
+<emphasis effect="italics">changing</emphasis> magnetic fields, and direct current (DC) can
+only produce steady magnetic fields, transformers simply will not
+work with direct current.</para>
+      <para id="id71809">Of course, direct current may be
+interrupted (pulsed) through the primary winding of a transformer
+to create a changing magnetic field (as is done in automotive
+ignition systems to produce high-voltage spark plug power from a
+low-voltage DC battery), but pulsed DC is not that different from
+AC. Perhaps more than any other reason, this is why AC finds such
+widespread application in power systems.</para>
+      <para id="eip-960"><figure id="id63458">
+            <media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/faraday-screenshot.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/faraday-screenshot.eps" id="id63458_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/faraday/faraday_en.jnlp">run demo</link></para><section id="uid50">
+        <title>Real-world applications</title>
+        <para id="id71824">Transformers are very important in the supply of electricity
+nationally. In order to reduce energy losses due to heating,
+electrical energy is transported from power stations along power
+lines at high voltage and low current. Transformers are used to
+step the voltage up from the power station to the power lines, and
+step it down from the power lines to buildings where it is needed.</para>
+<section id="secfhsst_id1274"><title> Transformers </title>
+        <list id="id71841" display="block" list-type="enumerated">
+          <item id="uid51">Draw a sketch of the main features of a transformer
+</item>
+          <item id="uid52">Use Faraday's Law to explain how a transformer works in words and pictures.
+</item>
+          <item id="uid53">Use the equation for Faraday's Law to derive an expression involving the ratios of the voltages and the number of windings in the primary and secondary coils.
+</item>
+          <item id="uid54">If we have <m:math overflow="scroll"><m:msub><m:mi>N</m:mi><m:mi>p</m:mi></m:msub></m:math> = 100 and <m:math overflow="scroll"><m:msub><m:mi>N</m:mi><m:mi>s</m:mi></m:msub></m:math> = 50, and we connect the primary winding to a 230 V, 50Hz supply, then calculate the voltage on the secondary winding.
+</item>
+          <item id="uid55">State the difference between a step-up and a step-down transformer in both structure and function.
+</item>
+          <item id="uid56">Give an example of the use of transformers.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

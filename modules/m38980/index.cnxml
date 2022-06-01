@@ -1,0 +1,1102 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Momentum</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38980</md:content-id>
+  <md:title>Momentum</md:title>
+  <md:abstract/>
+  <md:uuid>06af25c4-6520-45da-8d73-39bc8cc705d3</md:uuid>
+</metadata>
+
+<content>
+<section id="cid6">
+      <title>Momentum</title>
+      <para id="id81480">Momentum is a physical quantity which is closely related to forces. Momentum is a property which applies to moving objects.</para>
+<definition id="fhsst_id5849"><term id="termfhsst_id5849"> Momentum </term> <meaning id="meaningfhsst_id5849">
+      <para id="id81490">Momentum is the tendency of an object to continue to move in its direction of travel. Momentum is calculated from the product of the mass and velocity of an object. </para>
+      </meaning></definition>
+      <para id="id81503">The momentum (symbol <m:math overflow="scroll"><m:mi>p</m:mi></m:math>) of an object of mass <m:math overflow="scroll"><m:mi>m</m:mi></m:math> moving at velocity <m:math overflow="scroll"><m:mi>v</m:mi></m:math> is:</para>
+      <equation id="id81534">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>m</m:mi>
+            <m:mo>·</m:mo>
+            <m:mi>v</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id81554">According to this equation, momentum is related to both the mass and velocity of an object. A small car travelling at the same velocity as a big truck will have a smaller momentum than the truck. The smaller the mass, the smaller the velocity.</para>
+      <para id="id81560">A car travelling at 120 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>will have a bigger momentum than the same car travelling at 60 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Momentum is also related to velocity; the smaller the velocity, the smaller the momentum.</para>
+      <para id="id81617">Different objects can also have the same momentum, for example a car travelling slowly can have the same momentum as a motor cycle travelling relatively fast. We can easily demonstrate this. Consider a car of mass 1 000 kg with a velocity of 8 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>(about 30 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>). The momentum of the car is therefore</para>
+      <equation id="id81677">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>p</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mi>v</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>1000</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>8000</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi> kg </m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:msup>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id81806">Now consider a motor cycle of mass 250 kg travelling at 32 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> (about 115 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>). The momentum of the motor cycle is:</para>
+      <equation id="id81862">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>p</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mi>v</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>250</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>32</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>8000</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi> kg </m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:msup>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id81990">Even though the motor cycle is considerably lighter than the car, the fact that the motor cycle is travelling much faster than the car means that the momentum of both vehicles is the same.</para>
+      <para id="id81995">From the calculations above, you are able to derive the unit for momentum as kg<m:math overflow="scroll"><m:mo>·</m:mo></m:math>m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.</para>
+      <para id="id82036">Momentum is also vector quantity, because it is the product of a scalar (<m:math overflow="scroll"><m:mi>m</m:mi></m:math>) with a vector (<m:math overflow="scroll"><m:mi>v</m:mi></m:math>).</para>
+      <para id="id82060">This means that whenever we calculate the momentum of an object, we need to include the direction of the momentum.</para>
+<para id="eip-508"><figure id="momentum-1" class="khanacademy">
+	  <title>Khan academy video on momentum - 1</title>
+	  <media id="yt-media4" display="block" alt="video on momentum 1">
+	  <flash id="yt-video4" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/XFhntPxow0U&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><exercise id="secfhsst_id6026"><title> Momentum of a Soccer Ball </title>
+      <problem id="probfhsst_id6027">
+      <para id="id82078">A soccer ball of mass 420 g is kicked at 20 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> towards the goal post. Calculate the momentum of the ball. </para>
+      </problem>
+      <solution id="solfhsst_id6030"> <list id="listfhsst_id6030" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Identify what information is given and what is asked for </label>
+      <para id="id82128">The question explicitly gives</para>
+      <list id="id82132" display="block" list-type="bulleted">
+        <item id="uid342">the mass of the ball, and
+</item>
+        <item id="uid343">the velocity of the ball
+</item>
+      </list>
+      <para id="id82161">The mass of the ball must be converted to SI units.</para>
+      <equation id="id82164">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mn>420</m:mn>
+            <m:mspace width="4pt"/>
+            <m:mi mathvariant="normal">g</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>42</m:mn>
+            <m:mspace width="0.166667em"/>
+            <m:mi> kg </m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id82198">We are asked to calculate the momentum of the ball. From the definition of momentum,</para>
+      <equation id="id82202">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>m</m:mi>
+            <m:mo>·</m:mo>
+            <m:mi>v</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id82223">we see that we need the mass and velocity of the ball, which we are given.</para>
+      </item> <item> <label> Do the calculation </label>
+      <para id="id82233">We calculate the magnitude of the momentum of the ball,</para>
+      <equation id="id82237">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>p</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mi>v</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>42</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>20</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>8</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>4</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi> kg </m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:msup>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Quote the final answer </label>
+      <para id="id82378">We quote the answer with the direction of motion included,
+<m:math overflow="scroll"><m:mi>p</m:mi></m:math> = 8,4 kg<m:math overflow="scroll"><m:mo>·</m:mo></m:math>m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> in the direction of the goal post. </para>
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id6156"><title> Momentum of a cricket ball </title>
+      <problem id="probfhsst_id6157">
+      <para id="id82450">A cricket ball of mass 160 g is bowled at 40 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> towards a batsman. Calculate the momentum of the cricket ball. </para>
+      </problem>
+      <solution id="solfhsst_id6160"> <list id="listfhsst_id6160" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Identify what information is given and what is asked for </label>
+      <para id="id82499">The question explicitly gives</para>
+      <list id="id82503" display="block" list-type="bulleted">
+        <item id="uid344">the mass of the ball (<m:math overflow="scroll"><m:mi>m</m:mi></m:math> = 160 g = 0,16 kg), and
+</item>
+        <item id="uid345">the velocity of the ball (<m:math overflow="scroll"><m:mi>v</m:mi></m:math> = 40 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)
+</item>
+      </list>
+      <para id="id82575">To calculate the momentum we will use</para>
+      <equation id="id82579">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>m</m:mi>
+            <m:mo>·</m:mo>
+            <m:mi>v</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id82599">.</para>
+      </item> <item> <label> Do the calculation </label>
+      <equation id="id82608">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>p</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mi>v</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>16</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>40</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>6</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>4</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi> kg </m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:msup>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>6</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>4</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi> kg </m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:msup>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mrow>
+                    <m:mi> in </m:mi>
+                    <m:mi> the </m:mi>
+                    <m:mi> direction </m:mi>
+                    <m:mi> of </m:mi>
+                    <m:mi> the </m:mi>
+                    <m:mi> batsman </m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id6301"><title> Momentum of the Moon </title>
+      <problem id="probfhsst_id6302">
+      <para id="id82839">The Moon is 384 400 km away from the Earth and orbits the Earth in 27,3 days. If the Moon has a mass of 7,35 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>22</m:mn></m:msup></m:math>kg, what is the magnitude of its momentum if we assume a circular orbit? </para>
+      </problem>
+      <solution id="solfhsst_id6305"> <list id="listfhsst_id6305" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Identify what information is given and what is asked for </label>
+      <para id="id82878">The question explicitly gives</para>
+      <list id="id82882" display="block" list-type="bulleted">
+        <item id="uid346">the mass of the Moon (m = 7,35 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>22</m:mn></m:msup></m:math> kg)
+</item>
+        <item id="uid347">the distance to the Moon (384 400 km = 384 400 000 m = 3,844 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>8</m:mn></m:msup></m:math> m)
+</item>
+        <item id="uid348">the time for one orbit of the Moon (27,3 days = 27,3 x 24 x 60 x 60 = 2,36 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>6</m:mn></m:msup></m:math> s)
+</item>
+      </list>
+      <para id="id82964">We are asked to calculate only the magnitude of the momentum of the Moon (i.e. we do not need to specify a direction). In order to do this we require the mass and the magnitude of the velocity of the Moon, since</para>
+      <equation id="id82969">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>m</m:mi>
+            <m:mo>·</m:mo>
+            <m:mi>v</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Find the magnitude of the velocity of the Moon </label>
+      <para id="id82992">The magnitude of the average velocity is the same as the speed. Therefore:</para>
+      <equation id="id82996">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>s</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>d</m:mi>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mi>t</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id83021">We are given the time the Moon takes for one orbit but not how far it travels in that time. However, we can work this out from the distance to the Moon and the fact that the Moon has a circular orbit. Using the equation for the circumference, <m:math overflow="scroll"><m:mi>C</m:mi></m:math>, of a circle in terms of its radius, we can determine the distance travelled by the Moon in one
+orbit:</para>
+      <equation id="id83036">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>C</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mi>π</m:mi>
+                  <m:mi>r</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mi>π</m:mi>
+                  <m:mo>(</m:mo>
+                  <m:mn>3</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>844</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mn>8</m:mn>
+                  </m:msup>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>42</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mn>9</m:mn>
+                  </m:msup>
+                  <m:mspace width="4pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id83141">Combining the distance travelled by the Moon in an orbit and the time
+taken by the Moon to complete one orbit, we can determine the
+magnitude of the Moon's velocity or speed,</para>
+      <equation id="id83145">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>s</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mi>d</m:mi>
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mi>C</m:mi>
+                  <m:mi>T</m:mi>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>42</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>9</m:mn>
+                    </m:msup>
+                    <m:mi>m</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>36</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>6</m:mn>
+                    </m:msup>
+                    <m:mi>s</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>02</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:msup>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:msup>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mo>.</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Finally calculate the momentum and quote the answer </label>
+      <para id="id83301">The magnitude of the Moon's momentum is:</para>
+      <equation id="id83304">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>p</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mi>v</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>7</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>35</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>22</m:mn>
+                    </m:msup>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>02</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>3</m:mn>
+                    </m:msup>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>7</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>50</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mn>25</m:mn>
+                  </m:msup>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi> kg </m:mi>
+                  <m:mo>·</m:mo>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:msup>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+      <section id="uid349">
+        <title>Vector Nature of Momentum</title>
+        <para id="id83503">As we have said, momentum is a vector quantity. Since momentum is a vector, the techniques of vector addition discussed in Chapter <link target-id=""/> must be used to calculate the total momentum of a system.</para>
+<exercise id="secfhsst_id6616"><title> Calculating the Total Momentum of a System </title>
+        <problem id="probfhsst_id6617">
+        <para id="id83524">Two billiard balls roll towards each other. They each have a mass of 0,3 kg. Ball 1 is moving at <m:math overflow="scroll"><m:mrow><m:msub><m:mi>v</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>1</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> to the right, while ball 2 is moving at <m:math overflow="scroll"><m:mrow><m:msub><m:mi>v</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>8</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> to the left. Calculate the total momentum of the system. </para>
+        </problem>
+        <solution id="solfhsst_id6620"> <list id="listfhsst_id6620" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Identify what information is given and what is asked for </label>
+        <para id="id83640">The question
+explicitly gives</para>
+        <list id="id83643" display="block" list-type="bulleted">
+          <item id="uid350">the mass of each ball,
+</item>
+          <item id="uid351">the velocity of ball 1, <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mn>1</m:mn></m:msub></m:math>, and
+</item>
+          <item id="uid352">the velocity of ball 2, <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mn>2</m:mn></m:msub></m:math>,
+</item>
+        </list>
+        <para id="id83713">all in the correct units!</para>
+        <para id="id83717">We are asked to calculate the <emphasis effect="bold">total momentum of
+the system</emphasis>. In this example our system consists of two balls. To find
+the total momentum we must determine the momentum of each ball and add them.</para>
+        <equation id="id83727">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mrow>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>l</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id83773">Since ball 1 is moving to the right, its momentum is in this direction,
+while the second ball's momentum is directed towards the left.</para>
+        <para id="id83778">
+          <figure id="id83781">
+            <media id="id83781_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_068.png" id="id83781_onlineimage" width="160"><!-- NOTE: attribute width changes image size online (pixels). original width is 160. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_068.eps" id="id83781_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id83787">Thus, we are required to find the sum of two vectors acting along the
+same straight line. The algebraic method of vector addition introduced
+in Chapter <link target-id=""/> can thus be used.</para>
+        </item> <item> <label> Choose a frame of reference </label>
+        <para id="id83802">Let us choose right as the
+positive direction, then obviously left is negative.</para>
+        </item> <item> <label> Calculate the momentum </label>
+        <para id="id83812">The total momentum of the system is then the sum of the two momenta taking the
+directions of the velocities into account. Ball 1 is travelling
+at 1 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>to the right or +1 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Ball 2 is travelling at 0,8 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>to the left or -0,8 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Thus,</para>
+        <equation id="id83917">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>p</m:mi>
+                    <m:mrow>
+                      <m:mi>t</m:mi>
+                      <m:mi>o</m:mi>
+                      <m:mi>t</m:mi>
+                      <m:mi>a</m:mi>
+                      <m:mi>l</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>m</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>+</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>+</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>·</m:mo>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>24</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                      <m:mo>·</m:mo>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>06</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>06</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mrow>
+                      <m:mi> to </m:mi>
+                      <m:mi> the </m:mi>
+                      <m:mi> right </m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id84313">In the last step the direction was added in words. Since the result
+in the second last line is positive, the total momentum of the system
+is in the positive direction (i.e. to the right). </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid353">
+        <title>Exercise</title>
+        <list id="id84342" display="block" list-type="enumerated">
+          <item id="uid354">
+            <list id="id84353" display="block" list-type="enumerated">
+              <item id="uid355">The fastest recorded delivery for a cricket ball is 161,3 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, bowled by Shoaib Akhtar of Pakistan during a match against England in the 2003 Cricket World Cup, held in South Africa. Calculate the ball's momentum if it has a mass of 160 g.
+</item>
+              <item id="uid356">The fastest tennis service by a man is 246,2 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>by Andy Roddick of the United States of America during a match in London in 2004. Calculate the ball's momentum if it has a mass of 58 g.
+</item>
+              <item id="uid357">The fastest server in the women's game is Venus Williams of the United States of America, who recorded a serve of 205 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>during a match in Switzerland in 1998. Calculate the ball's momentum if it has a mass of 58 g.
+</item>
+              <item id="uid358">If you had a choice of facing Shoaib, Andy or Venus and didn't want to get hurt, who would you choose based on the momentum of each ball.
+</item>
+            </list>
+          </item>
+          <item id="uid359">Two golf balls roll towards each other. They each have a mass of 100 g. Ball 1 is moving at <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mn>1</m:mn></m:msub></m:math> = 2,4 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>to the right, while ball 2 is moving at <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mn>2</m:mn></m:msub></m:math> = 3 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>to the left. Calculate the total momentum of the system.
+</item>
+          <item id="uid360">Two motor cycles are involved in a head on collision. Motorcycle A has a mass of 200 kg and was travelling at 120 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>south. Motor cycle B has a mass of 250 kg and was travelling north at 100 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. A and B are about to collide. Calculate the momentum of the system before the collision takes place.
+</item>
+        </list>
+      </section>
+</section>
+  </content>
+</document>

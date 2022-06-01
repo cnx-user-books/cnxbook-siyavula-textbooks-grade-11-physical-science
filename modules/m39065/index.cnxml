@@ -1,0 +1,109 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Liquids</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39065</md:content-id>
+  <md:title>Liquids</md:title>
+  <md:abstract/>
+  <md:uuid>63ade966-b6cc-4ded-9174-41d12620a55f</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Intermolecular forces in liquids</title>
+      <para id="id262501">Intermolecular forces affect a number of properties in liquids:</para>
+      <list id="id262505" display="block" list-type="bulleted">
+        <item id="uid20"><emphasis effect="bold">Surface tension</emphasis>
+You may have noticed how some insects are able to walk across a water surface, and how leaves float in water. This is because of surface tension. In water, each molecule is held to the surrounding molecules by strong hydrogen bonds. Molecules in the centre of the liquid are completely surrounded by other molecules, so these forces are exerted in all directions. However, molecules at the surface do not have any water molecules above them to pull them upwards. Because they are only pulled sideways and downwards, the water molecules at the surface are held more closely together. This is called <emphasis effect="bold">surface tension</emphasis>.
+<figure id="uid21"><media id="uid21_media" alt=""><image mime-type="image/png" src="../../media/CG11C2_008.png" id="uid21_onlineimage" width="615"><!-- NOTE: attribute width changes image size online (pixels). original width is 615. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C2_008.eps" id="uid21_printimage"/></media><caption>Surface tension in a liquid</caption></figure></item>
+     
+        <item id="uid23"><emphasis effect="bold">Evaporation</emphasis>
+In a liquid, each particle has kinetic energy, but some particles will have more energy than others. We therefore refer to the <emphasis effect="italics">average</emphasis> kinetic energy of the molecules when we describe the liquid. When the liquid is heated, those particles which have the highest energy will be able to overcome the intermolecular forces holding them in the liquid phase, and will become a gas. This is called <emphasis effect="bold">evaporation</emphasis>. Evaporation occurs when a liquid changes to a gas. The stronger the intermolecular forces in a liquid, the higher the temperature of the molecules will have to be for it to become a gas. You should note that a liquid doesn't necessarily have to reach boiling point before evaporation can occur. Evaporation takes place all the time. You will see this if you leave a glass of water outside in the sun. Slowly the water level will drop over a period of time.
+What happens then to the molecules of water that remain in the liquid? Remember that it was the molecules with the highest energy that left the liquid. This means that the average kinetic energy of the remaining molecules will decrease, and so will the <emphasis effect="italics">temperature</emphasis> of the liquid.
+A similar process takes place when a person sweats during exercise. When you exercise, your body temperature increases and you begin to release moisture (sweat) through the pores in your skin. The sweat quickly evaporates and causes the temperature of your skin to drop. This helps to keep your body temperature at a level that is suitable for it to function properly.
+</item>
+   <item id="uid22"><emphasis effect="bold">Capillarity</emphasis>
+</item>
+      </list>
+<section id="secfhsst_id271"><title> Investigation : Capillarity
+</title>
+<para id="uid234">Half fill a beaker with water and hold a hollow glass tube in the centre as shown below. Mark the level of the water in the glass tube, and look carefully at the shape of the air-water interface in the tube. What do you notice?</para>
+<figure id="id262589"><media id="id262589_media" alt=""><image mime-type="image/png" src="../../media/CG11C2_009.png" id="id262589_onlineimage" width="159"><!-- NOTE: attribute width changes image size online (pixels). original width is 159. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C2_009.eps" id="id262589_printimage"/></media></figure>
+<para id="uid402">At the air-water interface, you will notice a <emphasis effect="bold">meniscus</emphasis>, where the water appears to dip in the centre. In the glass tube, the attractive forces between the glass and the water are stronger than the intermolecular forces between the water molecules. This causes the water to be held more closely to the glass, and a meniscus forms. The forces between the glass and the water also mean that the water can be 'pulled up' higher when it is in the tube than when it is in the beaker. Capillarity is the surface tension that occurs in liquids that are inside tubes.
+ </para>
+</section>
+<note id="notfhsst_id285"><title> Interesting Fact </title> <emphasis effect="bold">Transpiration in plants</emphasis> - Did you know that plants also 'sweat'? In plants, this is called <emphasis effect="italics">transpiration</emphasis>, and a plant will lose water through spaces in the leaf surface called <emphasis effect="italics">stomata</emphasis>. Although this water loss is important in the survival of a plant, if a plant loses too much water, it will die. Plants that live in very hot, dry places such as deserts, must be specially adapted to reduce the amount of water that transpires (evaporates) from their leaf surface. Desert plants have some amazing adaptations to deal with this problem! Some have hairs on their leaves, which reflect sunlight so that the temperature is not as high as it would be, while others have a thin waxy layer covering their leaves, which reduces water loss. Some plants are even able to close their stomata during the day when temperatures (and therefore transpiration) are highest.</note>
+<note id="notfhsst_id286" type="tip">In the same way that intermolecular forces affect the properties of liquids, they also affect the properties of solids. For example, the stronger the intermolecular forces between the particles that make up the solid, the <emphasis effect="italics">harder</emphasis> the solid is likely to be, and the higher its <emphasis effect="italics">melting point</emphasis> is likely to be.</note>
+    </section>
+    <para id="eip-893"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=intermolecularforces-100512052036-phpapp02&amp;stripped_title=intermolecular-forces-4065157&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid5">
+      <title>Summary</title>
+      <list id="id262733" display="block" list-type="bulleted">
+        <item id="uid24"><emphasis effect="bold">Intermolecular forces</emphasis> are the forces that act between stable molecules.
+</item>
+        <item id="uid25">The <emphasis effect="bold">type</emphasis> of intermolecular force in a substance, will depend on the <emphasis effect="bold">nature of the molecules</emphasis>.
+</item>
+        <item id="uid26"><emphasis effect="bold">Polar molecules</emphasis> have an unequal distribution of charge, meaning that one part of the molecule is slightly positive and the other part is slightly negative. <emphasis effect="bold">Non-polar molecules</emphasis> have an equal distribution of charge.
+</item>
+        <item id="uid27">There are three types of <emphasis effect="bold">Van der Waal's forces</emphasis>. These are dipole-dipole, ion-dipole and London forces (momentary dipole).
+</item>
+        <item id="uid28"><emphasis effect="bold">Dipole-dipole</emphasis> forces exist between two <emphasis effect="bold">polar molecules</emphasis>, for example between two molecules of hydrogen chloride.
+</item>
+        <item id="uid29"><emphasis effect="bold">Ion-dipole</emphasis> forces exist between <emphasis effect="bold">ions and dipole molecules</emphasis>. The ion is attracted to the part of the molecule that has an opposite charge to its own. An example of this is when an ionic solid such as sodium chloride dissolves in water.
+</item>
+        <item id="uid30"><emphasis effect="bold">Momentary dipole</emphasis> forces occur between two <emphasis effect="bold">non-polar molecules</emphasis>, where at some point there is an uequal distribution of charge in the molecule. For example, there are London forces between two molecules of carbon dioxide.
+</item>
+        <item id="uid31"><emphasis effect="bold">Hydrogen bonds</emphasis> occur between <emphasis effect="bold">hydrogen atoms</emphasis> and other <emphasis effect="bold">atoms that have a high electronegativity</emphasis> such as oxygen, nitrogen and fluorine. The hydrogen atom in one molecule will be attracted to the nitrogen atom in another molecule, for example. There are hydrogen bonds between water molecules and between ammonia molecules.
+</item>
+        <item id="uid32">Intermolecular forces affect the <emphasis effect="bold">properties</emphasis> of substances. For example, the stronger the intermolecular forces, the higher the <emphasis effect="bold">melting point</emphasis> of that substance, and the more likely that substance is to exist as a solid or liquid. Its <emphasis effect="bold">boiling point</emphasis> will also be higher.
+</item>
+        <item id="uid33">In <emphasis effect="bold">liquids</emphasis>, properties such as <emphasis effect="bold">surface tension</emphasis>, <emphasis effect="bold">capillarity</emphasis> and <emphasis effect="bold">evaporation</emphasis> are the result of intermolecular forces.
+</item>
+      </list>
+<section id="secfhsst_id312"><title> Summary Exercise
+      </title>
+      <list id="id263005" display="block" list-type="enumerated">
+        <item id="uid34">Give one word or term for each of the following descriptions:
+<list id="id263020" display="block" list-type="enumerated"><item id="uid35">The tendency of an atom in a molecule to attract bonding electrons.
+</item><item id="uid36">A molecule that has an unequal distribution of charge.
+</item><item id="uid37">A charged atom.
+</item></list></item>
+        <item id="uid38">For each of the following questions, choose the one correct answer from the list provided.
+<list id="id263075" display="block" list-type="enumerated"><item id="uid39">The following table gives the melting points of various hydrides:
+<table id="id263091" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Hydride</emphasis></entry><entry><emphasis effect="bold">Melting point</emphasis> (<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C)</entry></row><row><entry>HI</entry><entry>-50</entry></row><row><entry>NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></entry><entry>-78</entry></row><row><entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>S</entry><entry>-83</entry></row><row><entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></entry><entry>-184</entry></row></tbody></tgroup></table>
+In which of these hydrides does hydrogen bonding occur?
+<list id="id263268" display="block" list-type="enumerated"><item id="uid40">HI only
+</item><item id="uid41">NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> only
+</item><item id="uid42">HI and NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> only
+</item><item id="uid43">HI, NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> and H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>S
+</item></list>
+(IEB Paper 2, 2003)
+</item><item id="uid44">Refer to the list of substances below:
+HCl, Cl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>, H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O, NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>, N<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>, HF
+Select the true statement from the list below:
+<list id="id263451" display="block" list-type="enumerated"><item id="uid45">NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> is a non-polar molecule
+</item><item id="uid46">The melting point of NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> will be higher than for Cl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item><item id="uid47">Ion-dipole forces exist between molecules of HF
+</item><item id="uid48">At room temperature N<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> is usually a liquid
+</item></list></item></list></item>
+        <item id="uid49">The respective boiling points for four chemical substances are given below:
+Hydrogen sulphide -60<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C
+Ammonia -33<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C
+Hydrogen fluoride 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C
+Water 100<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C
+<list id="id263636" display="block" list-type="enumerated"><item id="uid50">Which one of the substances exhibits the strongest forces of attraction between its molecules in the liquid state?
+</item><item id="uid51">Give the name of the force responsible for the relatively high boiling points of ammonia and water and explain how this force originates.
+</item><item id="uid52">The shapes of the molecules of hydrogen sulfide and water are similar, yet their boiling points differ. Explain.
+</item></list>
+(IEB Paper 2, 2002)
+</item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,1634 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Coulomb's law</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39002</md:content-id>
+  <md:title>Coulomb's law</md:title>
+  <md:abstract/>
+  <md:uuid>9e6f577a-4682-4cac-9083-0a320ff2fee2</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id277088">In Grade 10, you learnt about the force between charges. In this
+chapter you will learn exactly how to determine this force and
+about a basic law of electrostatics.</para>
+    </section>
+    <section id="cid3">
+      <title>Forces between charges - Coulomb's Law</title>
+      <para id="id277102">Like charges repel each other while opposite charges attract each other. If the charges are at rest then the force between
+them is known as the <emphasis effect="bold">electrostatic force</emphasis>. The
+electrostatic force between charges increases when the magnitude
+of the charges increases or the distance between the charges
+decreases.</para>
+      <para id="id277451">The electrostatic force was first studied in detail by
+Charles Coulomb around 1784. Through his observations he was able
+to show that the electrostatic force between two point-like
+charges is inversely proportional to the square of the distance
+between the objects. He also discovered that the force is
+proportional to the product of the charges on the two objects. That is:</para>
+      <equation id="id277459">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>F</m:mi>
+                  <m:mo>∝</m:mo>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mi>r</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mfrac>
+                  <m:mo>,</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id277510">where <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub></m:math> is the charge on the one point-like object, <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math> is
+the charge on the second, and <m:math overflow="scroll"><m:mi>r</m:mi></m:math> is the distance between the two.
+The magnitude of the electrostatic force between two point-like
+charges is given by <emphasis effect="italics">Coulomb's Law</emphasis>.</para>
+<definition id="fhsst_id121"><term id="termfhsst_id121"> Coulomb's Law </term> <meaning id="meaningfhsst_id121">
+      <para id="id277562">Coulomb's Law states that the
+magnitude of the electrostatic force between two point charges is
+directly proportional to the magnitudes of each charge and
+inversely proportional to the square of the distance between the
+charges:</para>
+      <equation id="uid1">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>F</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>k</m:mi>
+            <m:mfrac>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>Q</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:msub>
+                  <m:mi>Q</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:msup>
+                <m:mi>r</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id277614">The proportionality constant <m:math overflow="scroll"><m:mi>k</m:mi></m:math> is called the
+<emphasis effect="italics">electrostatic constant</emphasis> and has the value:</para>
+      <equation id="id277632">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>k</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>8</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>99</m:mn>
+            <m:mo>×</m:mo>
+            <m:msup>
+              <m:mn>10</m:mn>
+              <m:mn>9</m:mn>
+            </m:msup>
+            <m:mrow>
+              <m:mi mathvariant="normal">N</m:mi>
+              <m:mo>·</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">m</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>·</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">C</m:mi>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+              </m:msup>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:mrow>
+        </m:math>
+      </equation>
+      
+      </meaning></definition>
+<section id="secfhsst_id189"><title>
+      Similarity of Coulomb's Law to Newton's Universal Law
+of Gravitation. </title>
+      <para id="id277896">Notice how similar Coulomb's Law is to the form
+of Newton's Universal Law of Gravitation between two point-like
+particles:</para>
+      <equation id="id277902">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>F</m:mi>
+                    <m:mi>G</m:mi>
+                  </m:msub>
+                  <m:mo>=</m:mo>
+                  <m:mi>G</m:mi>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>m</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>m</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mi>r</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mfrac>
+                  <m:mo>,</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id277958">where <m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>m</m:mi><m:mn>2</m:mn></m:msub></m:math> are the masses of the two particles, <m:math overflow="scroll"><m:mi>r</m:mi></m:math> is
+the distance between them, and <m:math overflow="scroll"><m:mi>G</m:mi></m:math> is the gravitational constant.</para>
+      <para id="id278005">Both laws represent the force exerted by particles (masses or
+charges) on each other that interact by means of a field.</para>
+      
+</section>
+<para id="eip-298"><figure id="electrostatics-1" class="khanacademy">
+	  <title>Khan academy video on electrostatics - 1</title>
+	  <media id="yt-media1" display="block" alt="video on electrostatics 1">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/NXMgvrS8Gr8&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><exercise id="secfhsst_id236"><title> Coulomb's Law I </title>
+      <problem id="probfhsst_id237">
+      <para id="id278032">Two point-like charges carrying charges of <m:math overflow="scroll"><m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mi mathvariant="normal">C</m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>5</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mi mathvariant="normal">C</m:mi></m:mrow></m:math> are <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math> apart. Determine the
+magnitude of the force between them and state whether it is
+attractive or repulsive. </para>
+      </problem>
+      <solution id="solfhsst_id242"> <list id="listfhsst_id242" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Determine what is required </label>
+      <para id="id278127">We
+are required to find the force between two point charges given the
+charges and the distance between them.</para>
+      </item> <item> <label> Determine how to approach the problem </label>
+      <para id="id278135">We can use
+Coulomb's Law to find the force.</para>
+      <equation id="id278139">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>F</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>k</m:mi>
+            <m:mfrac>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>Q</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:msub>
+                  <m:mi>Q</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:msup>
+                <m:mi>r</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Determine what is given </label>
+      <para id="id278184">We are given:</para>
+      <list id="id278187" display="block" list-type="bulleted">
+        <item id="uid2">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msub>
+                <m:mi>Q</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mo>+</m:mo>
+              <m:mn>3</m:mn>
+              <m:mo>×</m:mo>
+              <m:msup>
+                <m:mn>10</m:mn>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>9</m:mn>
+                </m:mrow>
+              </m:msup>
+              <m:mi mathvariant="normal">C</m:mi>
+            </m:mrow>
+          </m:math>
+        </item>
+        <item id="uid3">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msub>
+                <m:mi>Q</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mo>-</m:mo>
+              <m:mn>5</m:mn>
+              <m:mo>×</m:mo>
+              <m:msup>
+                <m:mn>10</m:mn>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>9</m:mn>
+                </m:mrow>
+              </m:msup>
+              <m:mi mathvariant="normal">C</m:mi>
+            </m:mrow>
+          </m:math>
+        </item>
+        <item id="uid4">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>r</m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>2</m:mn>
+              <m:mspace width="0.166667em"/>
+              <m:mi mathvariant="normal">m</m:mi>
+            </m:mrow>
+          </m:math>
+        </item>
+      </list>
+      <para id="id278314">We know that <m:math overflow="scroll"><m:mrow><m:mi>k</m:mi><m:mo>=</m:mo><m:mn>8</m:mn><m:mo>,</m:mo><m:mn>99</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>9</m:mn></m:msup><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">m</m:mi><m:mn>2</m:mn></m:msup><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">C</m:mi><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow></m:math>.</para>
+      <para id="id278376">We can draw a diagram of the situation.</para>
+      <para id="id278381">
+        <figure id="id278384">
+          <media id="id278384_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C7_001.png" id="id278384_onlineimage" width="219"><!-- NOTE: attribute width changes image size online (pixels). original width is 219. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_001.eps" id="id278384_printimage"/>
+          </media>
+        </figure>
+      </para>
+      </item> <item> <label> Check units </label>
+      <para id="id278394">All quantities are in SI units.</para>
+      </item> <item> <label> Determine the magnitude of the force </label>
+      <para id="id278402">Using Coulomb's Law
+we have</para>
+      <equation id="id278405">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>F</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>k</m:mi>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mi>r</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>99</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>9</m:mn>
+                    </m:msup>
+                    <m:mrow>
+                      <m:mi mathvariant="normal">N</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">m</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>/</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">C</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>9</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mi mathvariant="normal">C</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>9</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mi mathvariant="normal">C</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mi mathvariant="normal">m</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>37</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>8</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mi mathvariant="normal">N</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id278618">Thus the <emphasis effect="italics">magnitude</emphasis> of the force is
+<m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>37</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>8</m:mn></m:mrow></m:msup><m:mi mathvariant="normal">N</m:mi></m:mrow></m:math>. However since both point charges have
+opposite signs, the force will be attractive. </para>
+      </item> </list> </solution>
+</exercise>
+      <para id="id278668">Next is another example that demonstrates the difference in
+magnitude between the gravitational force and the electrostatic
+force.</para>
+<exercise id="secfhsst_id490"><title> Coulomb's Law II </title>
+      <problem id="probfhsst_id491">
+      <para id="id278685">Determine the electrostatic force and gravitational force between
+two electrons <m:math overflow="scroll"><m:mrow><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>10</m:mn></m:mrow></m:msup><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math> apart (i.e. the forces felt inside an atom). </para>
+      </problem>
+      <solution id="solfhsst_id495"> <list id="listfhsst_id495" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Determine what is required </label>
+      <para id="id278729">We are required to calculate
+the electrostatic and gravitational forces between two electrons,
+a given distance apart.</para>
+      </item> <item> <label> Determine how to approach the problem </label>
+      <para id="id278738">We can use:</para>
+      <equation id="id278741">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>F</m:mi>
+              <m:mi>e</m:mi>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mi>k</m:mi>
+            <m:mfrac>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>Q</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:msub>
+                  <m:mi>Q</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:msup>
+                <m:mi>r</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id278787">to calculate the electrostatic
+force and</para>
+      <equation id="id278793">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>F</m:mi>
+              <m:mi>g</m:mi>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mi>G</m:mi>
+            <m:mfrac>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>m</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:msub>
+                  <m:mi>m</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:msup>
+                <m:mi>r</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id278839">to calculate the gravitational force.</para>
+      </item> <item> <label> Determine what is given </label>
+      <list id="id278848" display="block" list-type="bulleted">
+        <item id="uid5"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup><m:mspace width="0.277778em"/><m:mi mathvariant="normal">C</m:mi></m:mrow></m:math>(The charge on an electron)
+</item>
+        <item id="uid6"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>m</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>m</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>31</m:mn></m:mrow></m:msup><m:mspace width="0.166667em"/><m:mi> kg </m:mi></m:mrow></m:math>(The mass of an electron)
+</item>
+        <item id="uid7">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>r</m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>1</m:mn>
+              <m:mo>×</m:mo>
+              <m:msup>
+                <m:mn>10</m:mn>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>10</m:mn>
+                </m:mrow>
+              </m:msup>
+              <m:mi mathvariant="normal">m</m:mi>
+            </m:mrow>
+          </m:math>
+        </item>
+      </list>
+      <para id="id279015">We know that:</para>
+      <list id="id279018" display="block" list-type="bulleted">
+        <item id="uid8">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>k</m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>8</m:mn>
+              <m:mo>,</m:mo>
+              <m:mn>99</m:mn>
+              <m:mo>×</m:mo>
+              <m:msup>
+                <m:mn>10</m:mn>
+                <m:mn>9</m:mn>
+              </m:msup>
+              <m:mspace width="0.277778em"/>
+              <m:mi mathvariant="normal">N</m:mi>
+              <m:mo>·</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">m</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>·</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">C</m:mi>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </item>
+        <item id="uid9">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>G</m:mi>
+              <m:mo>=</m:mo>
+              <m:mn>6</m:mn>
+              <m:mo>,</m:mo>
+              <m:mn>67</m:mn>
+              <m:mo>×</m:mo>
+              <m:msup>
+                <m:mn>10</m:mn>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>11</m:mn>
+                </m:mrow>
+              </m:msup>
+              <m:mspace width="0.277778em"/>
+              <m:mi mathvariant="normal">N</m:mi>
+              <m:mo>·</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">m</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>·</m:mo>
+              <m:msup>
+                <m:mi> kg </m:mi>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </item>
+      </list>
+      <para id="id279163">All quantities are in SI units.</para>
+      <para id="id279166">We can draw a diagram of the situation.</para>
+      <para id="id279171">
+        <figure id="id279174">
+          <media id="id279174_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C7_002.png" id="id279174_onlineimage" width="236"><!-- NOTE: attribute width changes image size online (pixels). original width is 236. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_002.eps" id="id279174_printimage"/>
+          </media>
+        </figure>
+      </para>
+      </item> <item> <label> Calculate the electrostatic force </label>
+      <equation id="id279185">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>F</m:mi>
+                  <m:mi>e</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>k</m:mi>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mi>r</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>99</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>9</m:mn>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>60</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>19</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>60</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>19</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>10</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>30</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>8</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mspace width="0.277778em"/>
+                  <m:mi mathvariant="normal">N</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id279387">Hence the <emphasis effect="italics">magnitude</emphasis> of the electrostatic force between the
+electrons is <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>30</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>8</m:mn></m:mrow></m:msup><m:mi mathvariant="normal">N</m:mi></m:mrow></m:math>. Since electrons carry the
+same charge, the force is repulsive.</para>
+      </item> <item> <label> Calculate the gravitational force </label>
+      <equation id="id279430">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>F</m:mi>
+                  <m:mi>g</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>G</m:mi>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>m</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>m</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mi>r</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>6</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>67</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>11</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mrow>
+                      <m:mi mathvariant="normal">N</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">m</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>/</m:mo>
+                      <m:msup>
+                        <m:mi> kg </m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>9</m:mn>
+                        <m:mo>.</m:mo>
+                        <m:mn>11</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>31</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mi mathvariant="normal">C</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>9</m:mn>
+                        <m:mo>.</m:mo>
+                        <m:mn>11</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>31</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mi> kg </m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>10</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mi mathvariant="normal">m</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>5</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>54</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>51</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mi mathvariant="normal">N</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id279667">The magnitude of the gravitational force between the electrons is
+<m:math overflow="scroll"><m:mrow><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>54</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>51</m:mn></m:mrow></m:msup><m:mi mathvariant="normal">N</m:mi></m:mrow></m:math>. This is an attractive force.</para>
+      <para id="id279702">Notice that the gravitational force between the electrons is much
+smaller than the electrostatic force. For this reason, the
+gravitational force is usually neglected when determining the
+force between two charged objects. </para>
+      </item> </list> </solution>
+</exercise>
+<note id="notfhsst_id959" type="tip">We can apply Newton's Third Law to charges because, two
+charges exert forces of equal magnitude on one another in opposite
+directions.</note>
+<note id="notfhsst_id962" type="tip"><title>Coulomb's Law </title>When substituting into the Coulomb's Law
+equation, one may choose a positive direction thus making it unnecessary to include the signs of the charges.
+Instead, select a positive direction. Those forces that tend to
+move the charge in this direction are added, while forces acting
+in the opposite direction are subtracted.</note>
+      
+<exercise id="secfhsst_id968"><title> Coulomb's Law III </title>
+      <problem id="probfhsst_id969">
+      <para id="id279752">Three point charges are in a straight line.
+Their charges are <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub></m:math> = <m:math overflow="scroll"><m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mi mathvariant="normal">C</m:mi></m:mrow></m:math>, <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math> = <m:math overflow="scroll"><m:mrow><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mi mathvariant="normal">C</m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>3</m:mn></m:msub></m:math> = <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn></m:mrow></m:msup><m:mi mathvariant="normal">C</m:mi></m:mrow></m:math>. The distance between
+<m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math> is <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math> and the distance between <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math> and
+<m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>3</m:mn></m:msub></m:math> is <m:math overflow="scroll"><m:mrow><m:mn>4</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math>. What is the net electrostatic force on <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math>
+from the other two charges?</para>
+      <para id="id280015">
+        <figure id="id280016">
+          <media id="id280016_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C7_003.png" id="id280016_onlineimage" width="228"><!-- NOTE: attribute width changes image size online (pixels). original width is 228. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_003.eps" id="id280016_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+      </problem>
+      <solution id="solfhsst_id985"> <list id="listfhsst_id985" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Determine what is required </label>
+      <para id="id280043">We are needed to calculate the net force on <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math>. This force is the sum of the two electrostatic forces - the forces between <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub></m:math> on <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>3</m:mn></m:msub></m:math> on <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math>.</para>
+      </item> <item> <label> Determine how to approach the problem </label>
+      <list id="id280122" display="block" list-type="bulleted">
+        <item id="uid10">We need to calculate the two electrostatic forces on <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math>, using Coulomb's Law.
+</item>
+        <item id="uid11">We then need to add up the two forces using our rules for adding vector quantities, because force is a vector quantity.
+</item>
+      </list>
+      </item> <item> <label> Determine what is given </label>
+      <para id="id280169">We are given all the charges and all the distances.</para>
+      </item> <item> <label> Calculate the forces. </label>
+      <para id="id280177">Force of <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub></m:math> on <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math>:</para>
+      <equation id="id280209">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>F</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>k</m:mi>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mi>r</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>99</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>9</m:mn>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>9</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>9</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>4</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>5</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mi mathvariant="normal">N</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id280392">Force of <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>3</m:mn></m:msub></m:math> on <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math>:</para>
+      <equation id="id280427">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>F</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>k</m:mi>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mi>r</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>99</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mn>9</m:mn>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>9</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:msup>
+                          <m:mn>10</m:mn>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>9</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>4</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>4</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>69</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mi mathvariant="normal">N</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id280607">Both forces act in the same direction because the force between <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math>
+is repulsive (like charges) and the force between <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>3</m:mn></m:msub></m:math> is attractive
+(unlike charges).</para>
+      <para id="id280671">Therefore,</para>
+      <equation id="id280676">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>F</m:mi>
+                  <m:mrow>
+                    <m:mi>t</m:mi>
+                    <m:mi>o</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>50</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mo>+</m:mo>
+                  <m:mn>4</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>50</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>6</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>19</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mi mathvariant="normal">N</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+      <para id="id280806">We mentioned in Chapter <link target-id=""/> that charge placed on a
+spherical conductor spreads evenly along the surface. As a result,
+if we are far enough from the charged sphere, electrostatically,
+it behaves as a point-like charge. Thus we can treat spherical
+conductors (e.g. metallic balls) as point-like charges, with all
+the charge acting at the centre.</para>
+<exercise id="secfhsst_id1326"><title> Coulomb's Law: challenging question </title>
+      <problem id="probfhsst_id1327">
+      <para id="id280827">In the picture below, X is a small negatively charged sphere with
+a mass of 10kg. It is suspended from the roof by an insulating
+rope which makes an angle of <m:math overflow="scroll"><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup></m:math> with the roof. Y is a
+small positively charged sphere which has the same magnitude of
+charge as X. Y is fixed to the wall by means of an insulating
+bracket. Assuming the system is in equilibrium, what is the
+magnitude of the charge on X?</para>
+      <para id="id280851">
+        <figure id="id280854">
+          <media id="id280854_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C7_004.png" id="id280854_onlineimage" width="169"><!-- NOTE: attribute width changes image size online (pixels). original width is 169. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_004.eps" id="id280854_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+      </problem>
+      <solution id="solfhsst_id1345"> 
+      <para id="id280876">How are we going to determine the charge on X? Well, if we know
+the force between X and Y we can use Coulomb's Law to determine
+their charges as we know the distance between them. So, firstly,
+we need to determine the magnitude of the electrostatic force
+between X and Y.</para>
+<list id="listfhsst_id1345" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label>  </label>
+      <para id="id280887">Is everything in S.I. units? The
+distance between X and Y is <m:math overflow="scroll"><m:mrow><m:mn>50</m:mn><m:mi> cm </m:mi><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mi mathvariant="normal">m</m:mi></m:mrow></m:math>, and the mass of
+X is 10kg.</para>
+      </item> <item> <label> Draw a force diagram </label>
+      <para id="id280921">Draw the forces on X (with
+directions) and label.</para>
+      <para id="id280924">
+        <figure id="id280928">
+          <media id="id280928_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C7_005.png" id="id280928_onlineimage" width="155"><!-- NOTE: attribute width changes image size online (pixels). original width is 155. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_005.eps" id="id280928_printimage"/>
+          </media>
+        </figure>
+      </para>
+      </item> <item> <label> Calculate the magnitude of the electrostatic force, <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mi>E</m:mi></m:msub></m:math> </label>
+      <para id="id280953">Since nothing is moving (system is in equilibrium) the vertical
+and horizontal components of the gravitational force must cancel the vertical and horizontal components of the electrostatic force. Thus</para>
+      <equation id="id280958">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>F</m:mi>
+                    <m:mi>E</m:mi>
+                  </m:msub>
+                  <m:mo>=</m:mo>
+                  <m:mi>T</m:mi>
+                  <m:mo form="prefix">cos</m:mo>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:msup>
+                      <m:mn>60</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="2.em"/>
+                  <m:mspace width="2.em"/>
+                  <m:msub>
+                    <m:mi>F</m:mi>
+                    <m:mi>g</m:mi>
+                  </m:msub>
+                  <m:mo>=</m:mo>
+                  <m:mi>T</m:mi>
+                  <m:mo form="prefix">sin</m:mo>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:msup>
+                      <m:mn>60</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mo>.</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id281045">The only force we know is the gravitational force <m:math overflow="scroll"><m:mrow><m:msub><m:mi>F</m:mi><m:mi>g</m:mi></m:msub><m:mo>=</m:mo><m:mi>m</m:mi><m:mi>g</m:mi></m:mrow></m:math>. Now we
+can calculate the magnitude of <m:math overflow="scroll"><m:mi>T</m:mi></m:math> from above:</para>
+      <equation id="id281082">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>T</m:mi>
+                  <m:mo>=</m:mo>
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>g</m:mi>
+                    </m:msub>
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>60</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mfrac>
+                  <m:mo>=</m:mo>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>10</m:mn>
+                      <m:mo>)</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mn>10</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>60</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mfrac>
+                  <m:mo>=</m:mo>
+                  <m:mn>115</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>5</m:mn>
+                  <m:mi mathvariant="normal">N</m:mi>
+                  <m:mo>.</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id281181">Which means that <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mi>E</m:mi></m:msub></m:math> is:</para>
+      <equation id="id281202">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>F</m:mi>
+              <m:mi>E</m:mi>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mi>T</m:mi>
+            <m:mo form="prefix">cos</m:mo>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:msup>
+                <m:mn>60</m:mn>
+                <m:mo>∘</m:mo>
+              </m:msup>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mn>115</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>5</m:mn>
+            <m:mo>·</m:mo>
+            <m:mo form="prefix">cos</m:mo>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:msup>
+                <m:mn>60</m:mn>
+                <m:mo>∘</m:mo>
+              </m:msup>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mn>57</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>75</m:mn>
+            <m:mi mathvariant="normal">N</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label>  </label>
+      <para id="id281285">Now that we know the magnitude of the electrostatic
+force between X and Y, we can calculate their charges using
+Coulomb's Law. Don't forget that the magnitudes of the charges on
+X and Y are the same: <m:math overflow="scroll"><m:mrow><m:msub><m:mi>Q</m:mi><m:mi mathvariant="normal">X</m:mi></m:msub><m:mo>=</m:mo><m:msub><m:mi>Q</m:mi><m:mi mathvariant="normal">Y</m:mi></m:msub></m:mrow></m:math>. The magnitude of
+the electrostatic force is</para>
+      <equation id="id281320">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>F</m:mi>
+                  <m:mi>E</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>k</m:mi>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mi mathvariant="normal">X</m:mi>
+                      </m:msub>
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mi mathvariant="normal">Y</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mi>r</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mfrac>
+                  <m:mo>=</m:mo>
+                  <m:mi>k</m:mi>
+                  <m:mfrac>
+                    <m:msubsup>
+                      <m:mi>Q</m:mi>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">X</m:mi>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msubsup>
+                    <m:msup>
+                      <m:mi>r</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>Q</m:mi>
+                  <m:mi mathvariant="normal">X</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:msqrt>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>E</m:mi>
+                      </m:msub>
+                      <m:msup>
+                        <m:mi>r</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mi>k</m:mi>
+                  </m:mfrac>
+                </m:msqrt>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:msqrt>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>57</m:mn>
+                        <m:mo>.</m:mo>
+                        <m:mn>75</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>0</m:mn>
+                          <m:mo>.</m:mo>
+                          <m:mn>5</m:mn>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>8</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:mn>99</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mn>9</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:msqrt>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>5</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>66</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mi mathvariant="normal">C</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id281547">Thus the charge on X is <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>5</m:mn><m:mo>.</m:mo><m:mn>66</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>5</m:mn></m:mrow></m:msup><m:mi mathvariant="normal">C</m:mi></m:mrow></m:math>. </para>
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id1666"><title> Electrostatic forces </title>
+      <list id="id281605" display="block" list-type="enumerated">
+        <item id="uid12">Calculate the electrostatic force between two charges of <m:math overflow="scroll"><m:mrow><m:mo>+</m:mo><m:mn>6</m:mn><m:mi> nC </m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mo>+</m:mo><m:mn>1</m:mn><m:mi> nC </m:mi></m:mrow></m:math> if they are separated by a distance of <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi> mm </m:mi></m:mrow></m:math>.
+</item>
+        <item id="uid13">Calculate the distance between two charges of <m:math overflow="scroll"><m:mrow><m:mo>+</m:mo><m:mn>4</m:mn><m:mi> nC </m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn><m:mi> nC </m:mi></m:mrow></m:math> if the electrostaticforce between them is <m:math overflow="scroll"><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>005</m:mn><m:mi mathvariant="normal">N</m:mi></m:mrow></m:math>.
+</item>
+        <item id="uid14">Calculate the charge on two identical spheres that are similiarly charged if they are separated by <m:math overflow="scroll"><m:mrow><m:mn>20</m:mn><m:mi> cm </m:mi></m:mrow></m:math> and the electrostatic force between them is <m:math overflow="scroll"><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>06</m:mn><m:mi mathvariant="normal">N</m:mi></m:mrow></m:math>.
+</item>
+      </list>
+      
+</section>
+    </section>
+
+  </content>
+</document>

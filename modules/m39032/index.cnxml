@@ -1,0 +1,317 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Introduction and key concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39032</md:content-id>
+  <md:title>Introduction and key concepts</md:title>
+  <md:abstract/>
+  <md:uuid>ac8b878c-a94d-4bbd-ae04-2aa388725a5d</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id291765">In Grade 10 we studied pulses and waves. We looked at transverse waves more closely. In this chapter we look at another type of wave called <emphasis effect="italics">longitudinal</emphasis> waves. In transverse waves, the motion of the particles in the medium were perpendicular to the direction of the wave. In longitudinal waves, the particles in the medium move <emphasis effect="italics">parallel</emphasis> (in the <emphasis effect="italics">same</emphasis> direction as) to the motion of the wave. Examples of transverse waves are water waves or light waves. An example of a longitudinal wave is a sound wave.</para>
+    </section>
+    <section id="cid3">
+      <title>What is a <emphasis effect="italics">longitudinal wave</emphasis>?</title>
+<definition id="fhsst_id64"><term id="termfhsst_id64"> Longitudinal waves </term> <meaning id="meaningfhsst_id64">
+      <para id="id292147">A longitudinal wave is a wave where the particles in the medium move parallel to the direction of propagation of the wave. </para>
+      </meaning></definition>
+      <para id="id292159">When we studied transverse waves we looked at two different motions: the motion of the particles of the medium and the motion of the wave itself. We will do the same for longitudinal waves.</para>
+      <para id="id292164">The question is how do we construct such a wave?</para>
+      <para id="id292167">To create a transverse wave, we flick the end of for example a rope up and down. The particles move up and down and return to their equilibrium position. The wave moves from left to right and will be displaced.</para>
+      <para id="id292172">
+        <figure id="id292175">
+          <media id="id292175_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C4_001.png" id="id292175_onlineimage" width="149"><!-- NOTE: attribute width changes image size online (pixels). original width is 149. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C4_001.eps" id="id292175_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id292181">A longitudinal wave is seen best in a spring that is hung from a ceiling. Do the following investigation to find out more about longitudinal waves.</para>
+<section id="secfhsst_id79"><title> Investigation : Investigating longitudinal waves </title>
+      <list id="id292193" display="block" list-type="enumerated">
+        <item id="uid1">Take a spring and hang it from the ceiling. Pull the free end of the spring and release it. Observe what happens.
+<figure id="id292211"><media id="id292211_media" alt=""><image mime-type="image/png" src="../../media/PG11C4_002.png" id="id292211_onlineimage" width="165"><!-- NOTE: attribute width changes image size online (pixels). original width is 165. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C4_002.eps" id="id292211_printimage"/></media></figure></item>
+        <item id="uid2">In which direction does the disturbance move?
+</item>
+        <item id="uid3">What happens when the disturbance reaches the ceiling?
+</item>
+        <item id="uid4">Tie a ribbon to the middle of the spring. Watch carefully what happens to the ribbon when the free end of the spring is pulled and released. Describe the motion of the ribbon.
+</item>
+      </list>
+      
+</section>
+      <para id="id292264">From the investigation you will have noticed that the disturbance moves parallel to the direction in which the spring was pulled. The spring was pulled down and the wave moved up and down. The ribbon in the investigation represents one particle in the medium. The particles in the medium move in the same direction as the wave. The ribbon moves from rest upwards, then back to its original position, then down and then back to its original position.</para>
+      <figure id="uid5">
+        <media id="uid5_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C4_003.png" id="uid5_onlineimage" width="285"><!-- NOTE: attribute width changes image size online (pixels). original width is 285. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C4_003.eps" id="uid5_printimage"/>
+        </media>
+        <caption>Longitudinal wave through a spring</caption>
+      </figure>
+    </section>
+    <section id="cid4">
+      <title>Characteristics of Longitudinal Waves</title>
+      <para id="id292291">As in the case of transverse waves the following properties can be defined for longitudinal waves:
+wavelength, amplitude, period, frequency and wave speed. However instead of peaks and troughs, longitudinal waves have <emphasis effect="italics">compressions</emphasis> and <emphasis effect="italics">rarefactions</emphasis>.</para>
+<definition id="fhsst_id105"><term id="termfhsst_id105"> Compression </term> <meaning id="meaningfhsst_id105">
+      <para id="id292313">A <emphasis effect="bold">compression</emphasis> is a region in a longitudinal wave where the particles are closest together. </para>
+      </meaning></definition>
+<definition id="fhsst_id108"><term id="termfhsst_id108"> Rarefaction </term> <meaning id="meaningfhsst_id108">
+      <para id="id292335">A <emphasis effect="bold">rarefaction</emphasis> is a region in a longitudinal wave where the particles are furthest apart. </para>
+      </meaning></definition>
+      <section id="uid6">
+        <title>Compression and Rarefaction</title>
+        <para id="id292360">As seen in <link target-id="uid7"/>, there are regions where the medium is compressed and other regions where the medium is spread out in a longitudinal wave.</para>
+        <para id="id292369">The region where the medium is compressed is known as a <emphasis effect="bold">compression</emphasis> and the region where the medium is spread out is known as a <emphasis effect="bold">rarefaction</emphasis>.</para>
+        <figure id="uid7">
+          <media id="uid7_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C4_004.png" id="uid7_onlineimage" width="285"><!-- NOTE: attribute width changes image size online (pixels). original width is 285. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C4_004.eps" id="uid7_printimage"/>
+          </media>
+          <caption>Compressions and rarefactions on a longitudinal wave</caption>
+        </figure>
+      </section>
+      <section id="uid8">
+        <title>Wavelength and Amplitude</title>
+<definition id="fhsst_id125"><term id="termfhsst_id125"> Wavelength </term> <meaning id="meaningfhsst_id125">
+        <para id="id292410">The <emphasis effect="bold">wavelength</emphasis> in a longitudinal wave is the distance between two consecutive points that are in phase. </para>
+        </meaning></definition>
+        <para id="id292427">The wavelength in a longitudinal wave refers to the distance between two consecutive compressions or between two consecutive rarefactions.</para>
+<definition id="fhsst_id129"><term id="termfhsst_id129"> Amplitude </term> <meaning id="meaningfhsst_id129">
+        <para id="id292437">The <emphasis effect="bold">amplitude</emphasis> is the maximum displacement from a position of rest. </para>
+        </meaning></definition>
+        <figure id="uid9">
+          <media id="uid9_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C4_005.png" id="uid9_onlineimage" width="287"><!-- NOTE: attribute width changes image size online (pixels). original width is 287. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C4_005.eps" id="uid9_printimage"/>
+          </media>
+          <caption>Wavelength on a longitudinal wave</caption>
+        </figure>
+        <para id="id292465">The amplitude is the distance from the equilibrium position of the medium to a compression or a rarefaction.</para>
+      </section>
+      <section id="uid10">
+        <title>Period and Frequency</title>
+<definition id="fhsst_id143"><term id="termfhsst_id143"> Period </term> <meaning id="meaningfhsst_id143">
+        <para id="id292484">The <emphasis effect="bold">period</emphasis> of a wave is the time taken by the wave to move one wavelength. </para>
+        </meaning></definition>
+<definition id="fhsst_id146"><term id="termfhsst_id146"> Frequency </term> <meaning id="meaningfhsst_id146">
+        <para id="id292507">The <emphasis effect="bold">frequency</emphasis> of a wave is the number of wavelengths per second.  </para>
+        </meaning></definition>
+        <para id="id292523">The <emphasis effect="italics">period</emphasis> of a longitudinal wave is the time taken by the wave to move one wavelength. As for transverse waves, the symbol <m:math overflow="scroll"><m:mi>T</m:mi></m:math> is used to represent period and period is measured in seconds (s).</para>
+        <para id="id292542">The <emphasis effect="italics">frequency</emphasis><m:math overflow="scroll"><m:mi>f</m:mi></m:math> of a wave is the number of wavelengths per second. Using this definition and the fact that the period is the time taken for 1 wavelength, we can define:</para>
+        <equation id="id291687">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>f</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mi>T</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id291706">or alternately,</para>
+        <equation id="id292764">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>T</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mi>f</m:mi>
+              </m:mfrac>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+      </section>
+      <section id="uid11">
+        <title>Speed of a Longitudinal Wave</title>
+        <para id="id292794">The speed of a longitudinal wave is defined as:</para>
+        <equation id="id292798">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>v</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>f</m:mi>
+              <m:mo>·</m:mo>
+              <m:mi>λ</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id292818">where</para>
+        <para id="id292821"><m:math overflow="scroll"><m:mi>v</m:mi></m:math> = speed in m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></para>
+        <para id="id292847"><m:math overflow="scroll"><m:mi>f</m:mi></m:math> = frequency in Hz</para>
+        <para id="id292859"><m:math overflow="scroll"><m:mi>λ</m:mi></m:math> = wavelength in m</para>
+<exercise id="secfhsst_id196"><title> Speed of longitudinal waves </title>
+        <problem id="probfhsst_id197">
+        <para id="id292883">The musical note ï¿½Aï¿½ is a sound wave. The note has a frequency of 440 Hz and a wavelength of 0,784 m. Calculate the speed of the musical note. </para>
+        </problem>
+        <solution id="solfhsst_id200"> <list id="listfhsst_id200" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is given and what is required </label>
+        <equation id="id292908">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>f</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>440</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi> Hz </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>λ</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>784</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id292968">We need to calculate the speed of the musical note “A”.</para>
+        </item> <item> <label> Determine how to approach based on what is given </label>
+        <para id="id292978">We are given the frequency and wavelength of the note. We can therefore use:</para>
+        <equation id="id292982">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>v</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>f</m:mi>
+              <m:mo>·</m:mo>
+              <m:mi>λ</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Calculate the wave speed </label>
+        <equation id="id293005">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>v</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>f</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>λ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>440</m:mn>
+                    <m:mspace width="0.277778em"/>
+                    <m:mi> Hz </m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>784</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>345</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the final answer </label>
+        <para id="id293114">The musical note “A” travels at 345 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id324"><title> Speed of longitudinal waves </title>
+        <problem id="probfhsst_id325">
+        <para id="id293164">A longitudinal wave travels into a medium in which its speed increases.
+How does this affect its... (write only <emphasis effect="italics">increases, decreases, stays the same</emphasis>).</para>
+        <list id="id293176" display="block" list-type="enumerated">
+          <item id="uid12">period?
+</item>
+          <item id="uid13">wavelength?
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id336"> <list id="listfhsst_id336" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is required </label>
+        <para id="id293222">We need to determine how the period and wavelength of a longitudinal wave change when its speed increases.</para>
+        </item> <item> <label> Determine how to approach based on what is given </label>
+        <para id="id293231">We need to find the link between period, wavelength and wave speed.</para>
+        </item> <item> <label> Discuss how the period changes </label>
+        <para id="id293238">We know that the frequency of a longitudinal wave is dependent on the frequency of the vibrations that lead to the creation of the longitudinal wave. Therefore, the frequency is always unchanged, irrespective of any changes in speed. Since the period is the inverse of the frequency, the period remains the same.</para>
+        </item> <item> <label> Discuss how the wavelength changes </label>
+        <para id="id293248">The frequency remains unchanged. According to the wave equation</para>
+        <equation id="id293252">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>v</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>f</m:mi>
+              <m:mi>λ</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id293270">if <m:math overflow="scroll"><m:mi>f</m:mi></m:math> remains the same and <m:math overflow="scroll"><m:mi>v</m:mi></m:math> increases, then <m:math overflow="scroll"><m:mi>λ</m:mi></m:math>, the wavelength, must also increase.
+ </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+    </section>
+
+  </content>
+</document>

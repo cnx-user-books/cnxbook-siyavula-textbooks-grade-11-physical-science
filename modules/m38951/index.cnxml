@@ -1,0 +1,409 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Nuclear fission and fusion</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38951</md:content-id>
+  <md:title>Nuclear fission and fusion</md:title>
+  <md:abstract/>
+  <md:uuid>b3a1327c-740a-4253-9327-7913e7bf4588</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid9">
+      <title>Nuclear Fission</title>
+      <para id="id66023"><emphasis effect="bold">Nuclear fission</emphasis> is a process where the nucleus of an atom is split into two or more smaller nuclei, known as <emphasis effect="italics">fission products</emphasis>. The fission of heavy elements is an <emphasis effect="bold">exothermic reaction</emphasis> and huge amounts of energy are released in the process. This energy can be used to produce <emphasis effect="italics">nuclear power</emphasis> or to make <emphasis effect="italics">nuclear weapons</emphasis>, both of which we will discuss a little later.</para>
+<definition id="fhsst_id611"><term id="termfhsst_id611"> Nuclear fission </term> <meaning id="meaningfhsst_id611">
+      <para id="id66063">The splitting of an atomic nucleus into smaller nuclei </para>
+      </meaning></definition>
+      <para id="id66075">Below is a diagram showing the nuclear fission of Uranium-235. An atom of Uranium-235 is bombarded with a neutron to initiate the fission process. This neutron is absorbed by Uranium-235, to become Uranium-236. Uranium-236 is highly unstable and breaks down into a number of lighter elements, releasing energy in the process. Free neutrons are also produced during this process, and these are then available to bombard other fissionable elements. This process is known as a <emphasis effect="bold">fission chain reaction</emphasis>, and occurs when one nuclear reaction starts off another, which then also starts off another one so that there is a rapid increase in the number of nuclear reactions that are taking place.</para>
+      <figure id="uid68">
+        <media id="uid68_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C4_004.png" id="uid68_onlineimage" width="440"><!-- NOTE: attribute width changes image size online (pixels). original width is 440. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C4_004.eps" id="uid68_printimage"/>
+        </media>
+      </figure>
+      <para id="eip-51"><figure id="id6845">
+            <media id="id6845_media" alt="">
+            <image mime-type="image/png" src="../../media/nuclear-fission-screenshot.png" id="id6845_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/nuclear-fission-screenshot.eps" id="id6845_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/nuclear-physics/nuclear-fission_en.jnlp">run demo</link></para><section id="uid69">
+        <title>The Atomic bomb - an abuse of nuclear fission</title>
+        <para id="id66107">A nuclear chain reaction can happen very quickly, releasing vast amounts of energy in the process. In 1939, it was discovered that Uranium could undergo nuclear fission. In fact, it was uranium that was used in the first atomic bomb. The bomb contained large amounts of Uranium-235, enough to start a runaway nuclear fission chain reaction. Because the process was uncontrolled, the energy from the fission reactions was released in a matter of <emphasis effect="italics">seconds</emphasis>, resulting in the massive explosion of that first bomb. Since then, more atomic bombs have been detonated, causing massive destruction and loss of life.</para>
+<section id="secfhsst_id624"><title> Discussion : Nuclear weapons testing - an ongoing issue
+        </title>
+        <para id="id66134">Read the article below which has been adapted from one that appeared in 'The Globe' in Washington on 10th October 2006, and then answer the questions that follow.</para>
+        <para id="id66141">
+          <quote id="id66141_quote" display="block">US officials and arms control specialists warned yesterday that North Korea's test of a small nuclear device could start an arms race in the region and threaten the landmark global treaty designed nearly four decades ago to halt the spread of nuclear weapons. US officials expressed concern that North Korea's neighbors, including Japan, Taiwan, and South Korea, could eventually decide to develop weapons of their own. They also fear that North Korea's moves could embolden Iran, and that this in turn could encourage Saudi Arabia or other neighbours in the volatile Middle East to one day seek nuclear deterrents, analysts say.</quote>
+        </para>
+        <para id="id66152">
+          <quote id="id66152_quote" display="block">North Korea is the first country to conduct a nuclear test after pulling out of the Nuclear Nonproliferation Treaty. The treaty, which was created in 1968, now includes 185 nations (nearly every country in the world). Under the treaty, the five declared nuclear powers at the time (United States, the Soviet Union, France, China, and Great Britain) agreed to reduce their supplies of nuclear weapons. The treaty has also helped to limit the number of new nuclear weapons nations.</quote>
+        </para>
+        <para id="id66162">
+          <quote id="id66162_quote" display="block">But there have also been serious setbacks. India and Pakistan, which never signed the treaty, became new nuclear powers, shocking the world with test explosions in 1998. The current issue of nuclear weapons testing in North Korea, is another such setback and a blow to the treaty.</quote>
+        </para>
+        <!--empty paragraphs get left behind.-->
+        <para id="id66176">
+          <emphasis effect="bold">Group discussion questions:</emphasis>
+        </para>
+        
+        <list id="id66191" display="block" list-type="enumerated">
+          <item id="uid70">Discuss what is meant by an 'arms race' and a 'treaty'.
+</item>
+          <item id="uid71">Do you think it is important to have such treaties in place to control the testing and use of nuclear weapons? Explain your answer.
+</item>
+          <item id="uid72">Discuss some of the reasons why countries might not agree to be part of a nuclear weapons treaty.
+</item>
+          <item id="uid73">How would you feel if South Africa decided to develop its own nuclear weapons?
+</item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid74">
+        <title>Nuclear power - harnessing energy</title>
+        <para id="id66266">However, nuclear fission can also be carried out in a controlled way in a <emphasis effect="italics">nuclear reactor</emphasis>. A nuclear reactor is a piece of equpiment where nuclear chain reactions can be started in a controlled and sustained way. This is different from a nuclear <emphasis effect="italics">explosion</emphasis> where the chain reaction occurs in seconds. The most important use of nuclear reactors at the moment is to produce <emphasis effect="bold">electrical power</emphasis>, and most of these nuclear reactors use nuclear fission. A <emphasis effect="bold">nuclear fuel</emphasis> is a chemical isotope that can keep a fission chain reaction going. The most common isotopes that are used are Uranium-235 and Plutonium-239. The amount of free energy that is in nuclear fuels is far greater than the energy in a similar amount of other fuels such as gasoline. In many countries, nuclear power is seen as a relatively environmentally friendly alternative to fossil fuels, which release large amounts of greenhouse gases, and are also non-renewable resources. However, one of the concerns around the use of nuclear power is the production of <emphasis effect="italics">nuclear waste</emphasis>, which contains radioactive chemical elements.</para>
+<section id="secfhsst_id657"><title> Debate : Nuclear Power
+        </title>
+        <para id="id66319">The use of nuclear power as a source of energy has been a subject of much debate. There are many advantages of nuclear power over other energy sources. These include the large amount of energy that can be produced at a small plant, little atmospheric pollution and the small quantity of waste. However there are also disadvantages. These include the expense of maintaining nuclear power stations, the huge impact that an accident could have as well as the disposal of dangerous nuclear waste.</para>
+        <para id="id66329">Use these ideas as a starting point for a class debate.</para>
+        <para id="id66335">
+          <emphasis effect="bold">Nuclear power - An energy alternative or environmental hazard?</emphasis>
+        </para>
+        <para id="id66346">Your teacher will divide the class into teams. Some of the teams will be 'pro' nuclear power while the others will be 'anti' nuclear power.
+ </para>
+</section>
+      </section>
+    </section>
+    <section id="cid10">
+      <title>Nuclear Fusion</title>
+      <para id="id66366"><emphasis effect="bold">Nuclear fusion</emphasis> is the joining together of the nuclei of two atoms to form a heavier nucleus. If the atoms involved are small, this process is accompanied by the release of energy. It is the nuclear fusion of elements that causes stars to shine and hydrogen bombs to explode. As with nuclear <emphasis effect="italics">fission</emphasis> then, there are both positive and negative uses of nuclear fusion.</para>
+<definition id="fhsst_id672"><term id="termfhsst_id672"> Nuclear fusion </term> <meaning id="meaningfhsst_id672">
+      <para id="id66389">The joining together of the nuclei of two atoms to form a larger nucleus. </para>
+      </meaning></definition>
+      <para id="id66401">You will remember that nuclei naturally repel one another because of the electrostatic force between their positively charged protons. So, in order to bring two nuclei together, a lot of energy must be supplied if fusion is to take place. If two nuclei can be brought close enough together however, the electrostatic force is overwhelmed by the more powerful strong nuclear force which only operates over short distances. If this happens, nuclear fusion can take place. Inside the cores of stars, the temperature is high enough for hydrogen fusion to take place but scientists have so far been unsuccessful in making the process work in the laboratory. One of the huge advantages of nuclear fusion, if it could be made to work in the laboratory, is that it is a relatively environmentally friendly source of energy. The helium that is produced is not radioactive or poisonous and does not carry the dangers of nuclear fission.</para>
+    </section>
+    <section id="cid11">
+      <title>Nucleosynthesis</title>
+      <para id="id66422">An astronomer named Edwin Hubble discovered in the 1920's that the universe is expanding. He measured that far-away galaxies are moving away from the earth at great speed, and the further away they are, the faster they are moving.</para>
+<section id="secfhsst_id680"><title>
+      What are galaxies? </title>
+      <para id="id66441">Galaxies are huge clusters of stars and matter in the universe. The earth is part of the Milky Way galaxy which is shaped like a very large spiral. Astronomers can measure the light coming from distant galaxies using telescopes. Edwin Hubble was also able to measure the velocities of galaxies. </para>
+</section>
+      <para id="id66455">These observations led people to see that the universe is expanding. It also led to the 'Big Bang' hypothesis. The 'Big Bang' hypothesis is an idea about how the universe may have started. According to this theory, the universe started off at the beginning of time as a point which then exploded and expanded into the universe we live in today. This happened between 10 and 14 billion years ago.</para>
+      <para id="id66462">Just after the Big Bang, when the universe was only <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>43</m:mn></m:mrow></m:msup></m:math>s old, it was very hot and was made up of quarks and leptons (an example of a lepton is the electron). As the universe expanded, (<m:math overflow="scroll"><m:mrow><m:mo>∼</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math>s) and cooled, the quarks started binding together to form protons and neutrons (together called <emphasis effect="italics">nucleons</emphasis>).</para>
+      <section id="uid75">
+        <title>Age of Nucleosynthesis (225 s - <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup></m:math> s)</title>
+        <para id="id66537">About 225 s after the Big Bang, the protons and neutrons started binding together to form simple <emphasis effect="italics">nuclei</emphasis>. The process of forming nuclei is called <emphasis effect="italics">nucleosynthesis</emphasis>. When a proton and a neutron bind together, they form the <emphasis effect="italics">deuteron</emphasis>. The deuteron is like a hydrogen nucleus (which is just a proton) with a neutron added to it so it can be written as <m:math overflow="scroll"><m:mrow><m:msup><m:mrow/><m:mn>2</m:mn></m:msup><m:mi mathvariant="normal">H</m:mi></m:mrow></m:math>. Using protons and neutrons as building blocks, more nuclei can be formed as shown below. For example, the Helium-4 nucleus (also called an <emphasis effect="italics">alpha particle</emphasis>) can be formed in the following ways:</para>
+        <equation id="id66585">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow/>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mi mathvariant="normal">H</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi mathvariant="normal">n</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>→</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow/>
+                      <m:mn>3</m:mn>
+                    </m:msup>
+                    <m:mi mathvariant="normal">H</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> deuteron </m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi> neutron </m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>→</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mi> triton </m:mi>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id66660">center<emphasis effect="italics">then:</emphasis></para>
+        <equation id="id66669">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow/>
+                      <m:mn>3</m:mn>
+                    </m:msup>
+                    <m:mi mathvariant="normal">H</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi mathvariant="normal">p</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>→</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow/>
+                      <m:mn>4</m:mn>
+                    </m:msup>
+                    <m:mi> He </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> triton </m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi> proton </m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>→</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi> Helium </m:mi>
+                    <m:mn>4</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi> alpha </m:mi>
+                    </m:mrow>
+                    <m:mspace width="4pt"/>
+                    <m:mrow>
+                      <m:mi> particle </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id66763">or</para>
+        <equation id="id66766">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow/>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mi mathvariant="normal">H</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi mathvariant="normal">p</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>→</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow/>
+                      <m:mn>3</m:mn>
+                    </m:msup>
+                    <m:mi> He </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> deuteron </m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi> proton </m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>→</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi> Helium </m:mi>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id66842">center<emphasis effect="italics">then:</emphasis></para>
+        <equation id="id66852">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow/>
+                      <m:mn>3</m:mn>
+                    </m:msup>
+                    <m:mi> He </m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi mathvariant="normal">n</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>→</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow/>
+                      <m:mn>4</m:mn>
+                    </m:msup>
+                    <m:mi> He </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi> Helium </m:mi>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mi> neutron </m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>→</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi> Helium </m:mi>
+                    <m:mn>4</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi> alpha </m:mi>
+                    </m:mrow>
+                    <m:mspace width="4pt"/>
+                    <m:mrow>
+                      <m:mi> particle </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id66947">Some <m:math overflow="scroll"><m:mrow><m:msup><m:mrow/><m:mn>7</m:mn></m:msup><m:mi> Li </m:mi></m:mrow></m:math> nuclei could also have been formed by the fusion of <m:math overflow="scroll"><m:mrow><m:msup><m:mrow/><m:mn>4</m:mn></m:msup><m:mi> He </m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:msup><m:mrow/><m:mn>3</m:mn></m:msup><m:mi mathvariant="normal">H</m:mi></m:mrow></m:math>.</para>
+      </section>
+      <section id="uid76">
+        <title>Age of Ions (<m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup></m:math> s - <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>13</m:mn></m:msup></m:math> s)</title>
+        <para id="id67041">However, at this time the universe was still very hot and the electrons still had too much energy to become bound to the alpha particles to form helium <emphasis effect="italics">atoms</emphasis>. Also, the nuclei with mass numbers greater than 4 (i.e. greater than <m:math overflow="scroll"><m:mrow><m:msup><m:mrow/><m:mn>4</m:mn></m:msup><m:mi> He </m:mi></m:mrow></m:math>) are very short-lived and would have decayed almost immediately after being formed. Therefore, the universe moved through a stage called the Age of Ions when it consisted of free positively charged <m:math overflow="scroll"><m:msup><m:mrow><m:mi mathvariant="normal">H</m:mi></m:mrow><m:mo>+</m:mo></m:msup></m:math> ions and <m:math overflow="scroll"><m:mrow><m:msup><m:mrow/><m:mn>4</m:mn></m:msup><m:mi> He </m:mi></m:mrow></m:math> ions, and negatively charged electrons not yet bound into atoms.</para>
+      </section>
+      <section id="uid77">
+        <title>Age of Atoms (<m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>13</m:mn></m:msup></m:math> s - <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>15</m:mn></m:msup></m:math> s)</title>
+        <para id="id67143">As the universe expanded further, it cooled down until the electrons were able to bind to the hydrogen and helium nuclei to form hydrogen and helium atoms. Earlier, during the Age of Ions, both the hydrogen and helium ions were positively charged which meant that they repelled each other (electrostatically). During the Age of Atoms, the hydrogen and helium along with the electrons, were in the form of atoms which are electrically neutral and so they no longer repelled each other and instead pulled together under gravity to form clouds of gas, which evetually formed stars.</para>
+      </section>
+      <section id="uid78">
+        <title>Age of Stars and Galaxies (the universe today)</title>
+        <para id="id67161">Inside the core of stars, the densities and temperatures are high enough for fusion reactions to occur. Most of the heavier nuclei that exist today were formed inside stars from thermonuclear reactions! (It's interesting to think that the atoms that we are made of were actually manufactured inside stars!). Since stars are mostly composed of hydrogen, the first stage of thermonuclear reactions inside stars involves hydrogen and is called <emphasis effect="bold">hydrogen burning</emphasis>. The process has three steps and results in four hydrogen atoms being formed into a helium atom with (among other things) two photons (light!) being released.</para>
+        <para id="id67174">The next stage is <emphasis effect="bold">helium burning</emphasis> which results in the formation of carbon. All these reactions release a large amount of energy and heat the star which causes heavier and heavier nuclei to fuse into nuclei with higher and higher atomic numbers. The process stops with the formation of <m:math overflow="scroll"><m:mrow><m:msup><m:mrow/><m:mn>56</m:mn></m:msup><m:mi> Fe </m:mi></m:mrow></m:math>, which is the most strongly bound nucleus. To make heavier nuclei, even higher energies are needed than is possible inside normal stars. These nuclei are most likely formed when huge amounts of energy are released, for example when stars explode (an exploding star is called a <emphasis effect="bold">supernova</emphasis>). This is also how all the nuclei formed inside stars get "recycled" in the universe to become part of new stars and planets.</para>
+      </section>
+    </section>
+    <section id="cid12">
+      <title>Summary</title>
+      <list id="id67224" display="block" list-type="bulleted">
+        <item id="uid79"><emphasis effect="bold">Nuclear physics</emphasis> is the branch of physics that deals with the nucleus of an atom.
+</item>
+        <item id="uid80">There are two forces between the particles of the nucleus. The <emphasis effect="bold">strong nuclear force</emphasis> is an attractive force between the neutrons and the <emphasis effect="bold">electromagnetic force</emphasis> is the repulsive force between like-charged protons.
+</item>
+        <item id="uid81">In atoms with large nuclei, the electromagnetic force becomes greater than the strong nuclear force and particles or energy may be released from the nucleus.
+</item>
+        <item id="uid82"><emphasis effect="bold">Radioactive decay</emphasis> occurs when an unstable atomic nucleus loses energy by emitting particles or electromagnetic waves.
+</item>
+        <item id="uid83">The particles and energy released are called <emphasis effect="bold">radiation</emphasis> and the atom is said to be <emphasis effect="bold">radioactive</emphasis>.
+</item>
+        <item id="uid84">Radioactive isotopes are called <emphasis effect="bold">radioisotopes</emphasis>.
+</item>
+        <item id="uid85">Radioactivity was first discovered by Henri Becquerel, Marie Curie and her husband Pierre.
+</item>
+        <item id="uid86">There are three types of radiation from radioactive decay: <emphasis effect="bold">alpha (<m:math overflow="scroll"><m:mi>α</m:mi></m:math>)</emphasis>, <emphasis effect="bold">beta (<m:math overflow="scroll"><m:mi>β</m:mi></m:math>)</emphasis> and <emphasis effect="bold">gamma (<m:math overflow="scroll"><m:mi>γ</m:mi></m:math>)</emphasis> radiation.
+</item>
+        <item id="uid87">During <emphasis effect="bold">alpha decay</emphasis>, an alpha particle is released. An alpha particle consists of two protons and two neutrons bound together. Alpha radiation has low penetration power.
+</item>
+        <item id="uid88">During <emphasis effect="bold">beta decay</emphasis>, a beta particle is released. During beta decay, a neutron is converted to a proton, an electron and a neutrino. A beta particle is the electron that is released. Beta radiation has greater penetration power than alpha radiation.
+</item>
+        <item id="uid89">During <emphasis effect="bold">gamma decay</emphasis>, electromagnetic energy is released as gamma rays. Gamma radiation has the highest penetration power of the three radiation types.
+</item>
+        <item id="uid90">There are many <emphasis effect="bold">sources of radiation</emphasis>. Some sources are natural and others are man-made.
+</item>
+        <item id="uid91">Natural sources of radiation include cosmic and terrestrial radiation.
+</item>
+        <item id="uid92">Man-made sources of radiation include televisions, smoke detectors, X-rays and radiation therapy.
+</item>
+        <item id="uid93">The <emphasis effect="bold">half-life</emphasis> of an element is the time it takes for half the atoms of a radioisotope to decay into other atoms.
+</item>
+        <item id="uid94">Radiation can be very damaging. Some of the <emphasis effect="bold">negative impacts of radiation</emphasis> exposure include damage to cells, genetic abnormalities and cancer.
+</item>
+        <item id="uid95">However, radiation can also have many <emphasis effect="bold">positive uses</emphasis>. These include use in the medical field (e.g. chemical tracers), biochemistry and genetics, use in food preservation, the environment and in archaeology.
+</item>
+        <item id="uid96"><emphasis effect="bold">Nuclear fission</emphasis> is the splitting of an atomic nucleus into smaller fission products. Nuclear fission produces large amounts of energy, which can be used to produce nuclear power, and to make nuclear weapons.
+</item>
+        <item id="uid97"><emphasis effect="bold">Nuclear fusion</emphasis> is the joining together of the nuclei of two atoms to form a heavier nucleus. In stars, fusion reactions involve the joining of hydrogen atoms to form helium atoms.
+</item>
+        <item id="uid98"><emphasis effect="bold">Nucleosynthesis</emphasis> is the process of forming nuclei. This was very important in helping to form the universe as we know it.
+</item>
+      </list>
+<section id="secfhsst_id968"><title> Summary exercise
+      </title>
+      <list id="id67639" display="block" list-type="enumerated">
+        <item id="uid99">Explain each of the following terms:
+<list id="id67654" display="block" list-type="enumerated"><item id="uid100">electromagnetic force
+</item><item id="uid101">radioactive decay
+</item><item id="uid102">radiocarbon dating
+</item></list></item>
+        <item id="uid103">For each of the following questions, choose the <emphasis effect="bold">one correct answer</emphasis>:
+<list id="id67714" display="block" list-type="enumerated"><item id="uid104">The part of the atom that undergoes radioactive decay is the...
+<list id="id67730" display="block" list-type="enumerated"><item id="uid105">neutrons
+</item><item id="uid106">nucleus
+</item><item id="uid107">electrons
+</item><item id="uid108">entire atom
+</item></list></item><item id="uid109">The radioisotope Po-212 undergoes alpha decay. Which of the following statements is <emphasis effect="bold">true</emphasis>?
+<list id="id67802" display="block" list-type="enumerated"><item id="uid110">The number of protons in the element remains unchanged.
+</item><item id="uid111">The number of nucleons after decay is 212.
+</item><item id="uid112">The number of protons in the element after decay is 82.
+</item><item id="uid113">The end product after decay is Po-208.
+</item></list></item></list></item>
+        <item id="uid114">20 g of sodium-24 undergoes radoactive decay. Calculate the percentage of the original sample that remains after 60 hours.
+</item>
+        <item id="uid115">Nuclear physics can be controversial. Many people argue that studying the nucleus has led to devastation and huge loss of life. Others would argue that the benefits of nuclear physics far outweigh the negative things that have come from it.
+<list id="id67885" display="block" list-type="enumerated"><item id="uid116">Outline some of the ways in which nuclear physics has been used in negative ways.
+</item><item id="uid117">Outline some of the benefits that have come from nuclear physics.
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

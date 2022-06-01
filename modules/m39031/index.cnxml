@@ -1,0 +1,164 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The human eye</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39031</md:content-id>
+  <md:title>The human eye</md:title>
+  <md:abstract/>
+  <md:uuid>6acab2ac-e1b8-41ce-b6c4-b3d9736b2b8a</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>The Human Eye</title>
+<section id="secfhsst_id1370"><title> Investigation : Model of the Human Eye </title>
+      <para id="id347072">This demonstration shows that:</para>
+      <list id="id347078" display="block" list-type="enumerated">
+        <item id="uid91">The eyeball has a spherical shape.
+</item>
+        <item id="uid92">The pupil is a small hole in the front and middle of the eye that lets light into the eye.
+</item>
+        <item id="uid93">The retina is at the back of the eyeball.
+</item>
+        <item id="uid94">The images that we see are formed on the retina.
+</item>
+        <item id="uid95">The images on the retina are upside down. The brain inverts the images so that what we see is the right way up.
+</item>
+      </list>
+      <para id="id347145">You will need:</para>
+      <list id="id347148" display="block" list-type="enumerated">
+        <item id="uid96">a round, clear glass bowl
+</item>
+        <item id="uid97">water
+</item>
+        <item id="uid98">a sheet of cardboard covered with black paper
+</item>
+        <item id="uid99">a sheet of cardboard covered with white paper
+</item>
+        <item id="uid100">a small desk lamp with an incandescent light-bulb or a candle and a match
+</item>
+      </list>
+      <para id="id347215">You will have to:</para>
+      <list id="id347218" display="block" list-type="enumerated">
+        <item id="uid101">Fill the glass bowl with water.
+</item>
+        <item id="uid102">Make a small hole in the middle of the black cardboard.
+</item>
+        <item id="uid103">Place the black cardboard against one side of the bowl and the white cardboard on the other side of the bowl so that it is opposite the black cardboard.
+</item>
+        <item id="uid104">Turn on the lamp (or light the candle).
+</item>
+        <item id="uid105">Place the lamp so it is shining through the hole in the black cardboard.
+</item>
+        <item id="uid106">Make the room as dark as possible.
+</item>
+        <item id="uid107">Move the white cardboard until an image of the light bulb or candle appears on it.
+</item>
+      </list>
+      <para id="id347310">You now have a working model of the human eye.</para>
+      <list id="id347314" display="block" list-type="enumerated">
+        <item id="uid108">The hole in the black cardboard represents the pupil. The pupil is a small hole in the front of the eyeball that lets light into the eye.
+</item>
+        <item id="uid109">The round bowl of water represents the eyeball.
+</item>
+        <item id="uid110">The white cardboard represents the retina. Images are projected onto the retina and are then sent to the brain via the optic nerve.
+</item>
+      </list>
+      <para id="id347357">
+        <emphasis effect="bold">Tasks</emphasis>
+      </para>
+      <list id="id347364" display="block" list-type="enumerated">
+        <item id="uid111">Is the image on the retina right-side up or upside down? Explain why.
+</item>
+        <item id="uid112">Draw a simple labelled diagram of the model of the eye showing which part of the eye each part of the model represents.
+</item>
+      </list>
+      
+</section>
+      <section id="uid113">
+        <title>Structure of the Eye</title>
+        <para id="id347412">Eyesight begins with lenses. As light rays enter your eye, they pass first through the <emphasis effect="bold">cornea</emphasis> and then through the <emphasis effect="bold">crystalline lens</emphasis>. These form a double lens system and focus light rays onto the back wall of the eye, called the <emphasis effect="bold">retina</emphasis>. <emphasis effect="bold">Rods</emphasis> and <emphasis effect="bold">cones</emphasis> are nerve cells on the retina that transform light into electrical signals. These signals are sent to the brain via the <emphasis effect="bold">optic nerve</emphasis>. A cross-section of the eye is shown in <link target-id="uid114"/>.</para>
+        <figure id="uid114">
+          <media id="uid114_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C3_027.png" id="uid114_onlineimage" width="227"><!-- NOTE: attribute width changes image size online (pixels). original width is 227. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_027.eps" id="uid114_printimage"/>
+          </media>
+          <caption>A cross-section of the human eye.</caption>
+        </figure>
+        <para id="id347470">For clear vision, the image must be formed right on the retina, not in front of or behind it. To accomplish this, you may need a long or short focal length, depending on the object distance. How do we get the exact right focal length we need? Remember that the lens system has two parts. The cornea is fixed in place but the crystalline lens is flexible – it can change shape. When the shape of the lens changes, its focal length also changes. You have muscles in your eye called <emphasis effect="bold">ciliary muscles</emphasis> that control the shape of the crystalline lens. When you focus your gaze on something, you are squeezing (or relaxing) these muscles. This process of <emphasis effect="bold">accommodation</emphasis> changes the focal length of the lens and allows you to see an image clearly.</para>
+        <para id="id347495">The lens in the eye creates a real image that is smaller than the object and is inverted</para>
+        <para id="id347500">(<link target-id="uid115"/>).</para>
+        <figure id="uid115">
+          <media id="uid115_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C3_028.png" id="uid115_onlineimage" width="696"><!-- NOTE: attribute width changes image size online (pixels). original width is 696. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_028.eps" id="uid115_printimage"/>
+          </media>
+          <caption>Normal eye</caption>
+        </figure>
+      </section>
+      <section id="uid116">
+        <title>Defects of Vision</title>
+        <para id="id347532">In a normal eye the image is focused on the retina.</para>
+        <figure id="uid117">
+          <media id="uid117_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C3_029.png" id="uid117_onlineimage" width="131"><!-- NOTE: attribute width changes image size online (pixels). original width is 131. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_029.eps" id="uid117_printimage"/>
+          </media>
+          <caption>Normal eye</caption>
+        </figure>
+        <para id="id347548">If the muscles in the eye are unable to accommodate adequately, the image will not be in focus. This leads to problems with vision. There are three basic conditions that arise:</para>
+        <list id="id347553" display="block" list-type="enumerated">
+          <item id="uid118">short-sightedness
+</item>
+          <item id="uid119">long-sightedness
+</item>
+          <item id="uid120">astigmatism
+</item>
+        </list>
+        <section id="uid121">
+          <title>Short-sightedness</title>
+          <para id="id347602">Short-sightedness or <emphasis effect="bold">myopia</emphasis> is a defect of vision which means that the image is focused in front of the retina. Close objects are seen clearly but distant objects appear blurry. This condition can be corrected by placing a diverging lens in front of the eye. The diverging lens spreads out light rays before they enter the eye. The situation for short-sightedness and how to correct it is shown in <link target-id="uid122"/>.</para>
+          <figure id="uid122" orient="vertical">
+            <subfigure id="id347635">
+              <media id="id347635_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C3_030.png" id="id347635_onlineimage" width="129"><!-- NOTE: attribute width changes image size online (pixels). original width is 129. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_030.eps" id="id347635_printimage"/>
+              </media>
+            </subfigure>
+            <subfigure id="id347644">
+              <media id="id347644_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C3_031.png" id="id347644_onlineimage" width="132"><!-- NOTE: attribute width changes image size online (pixels). original width is 132. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_031.eps" id="id347644_printimage"/>
+              </media>
+            </subfigure>
+            <caption>Short-sightedness</caption>
+          </figure>
+        </section>
+        <section id="uid123">
+          <title>Long-sightedness</title>
+          <para id="id347661">Long-sightedness or <emphasis effect="bold">hyperopia</emphasis> is a defect of vision which means that the image is focused in behind the retina. People with this condition can see distant objects clearly, but not close ones. A converging lens in front of the eye corrects long-sightedness by converging the light rays slightly before they enter the eye. Reading glasses are an example of a converging lens used to correct long-sightedness.</para>
+          <figure id="uid124" orient="vertical">
+            <subfigure id="id347686">
+              <media id="id347686_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C3_032.png" id="id347686_onlineimage" width="140"><!-- NOTE: attribute width changes image size online (pixels). original width is 140. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_032.eps" id="id347686_printimage"/>
+              </media>
+            </subfigure>
+            <subfigure id="id347695">
+              <media id="id347695_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C3_033.png" id="id347695_onlineimage" width="132"><!-- NOTE: attribute width changes image size online (pixels). original width is 132. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_033.eps" id="id347695_printimage"/>
+              </media>
+            </subfigure>
+            <caption>Long-sightedness</caption>
+          </figure>
+        </section>
+        <section id="uid125">
+          <title>Astigmatism</title>
+          <para id="id347713">Astigmatism is characterised by a cornea or lens that is not spherical, but is more curved in one plane compared to another. This means that horizontal lines may be focused at a different point to vertical lines. Astigmatism causes blurred vision and is corrected by a special lens, which has different focal lengths in the vertical and horizontal planes.</para>
+          
+        </section>
+      </section>
+    </section>
+ 
+  </content>
+</document>

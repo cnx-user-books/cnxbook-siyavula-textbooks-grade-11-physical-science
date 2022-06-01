@@ -1,0 +1,189 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Introduction and key concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39054</md:content-id>
+  <md:title>Introduction and key concepts</md:title>
+  <md:abstract/>
+  <md:uuid>880db164-dd33-4e74-ac64-6437edaf47d2</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id186361">This chapter focuses on vectors. We will learn what is a vector and how it differs from everyday numbers. We will also learn how to add, subtract and multiply them and where they appear in Physics.</para>
+      <para id="id186366">Are vectors Physics? No, vectors themselves are not Physics. Physics is just a description of the world around us. To describe something we need to use a language. The most common language used to describe Physics is Mathematics. Vectors form a very important part of the mathematical description of Physics, so much so that it is
+absolutely essential to master the use of vectors.</para>
+    </section>
+    <section id="cid3">
+      <title>Scalars and Vectors</title>
+      <para id="id186720">In Mathematics, you learned that a number is something that represents a quantity. For example if you have 5 books, 6 apples and 1 bicycle, the 5, 6, and 1 represent how many of each item you have.</para>
+      <para id="id186725">These kinds of numbers are known as <emphasis effect="italics">scalars</emphasis>.</para>
+<definition id="fhsst_id78"><term id="termfhsst_id78"> Scalar </term> <meaning id="meaningfhsst_id78">
+      <para id="id186740">A scalar is a quantity that has only magnitude (size). </para>
+      </meaning></definition>
+      <para id="id186750">An extension to a scalar is a vector, which is a scalar with a direction. For example, if you travel 1 km down Main Road to school, the quantity <emphasis effect="bold">1 km down Main Road</emphasis> is a vector. The “<emphasis effect="bold">1 km</emphasis>” is the quantity (or scalar) and the “<emphasis effect="bold">down Main Road</emphasis>” gives a direction.</para>
+      <para id="id186771">In Physics we use the word <emphasis effect="italics">magnitude</emphasis> to refer to the scalar part of the vector.</para>
+<definition id="fhsst_id83"><term id="termfhsst_id83"> Vectors </term> <meaning id="meaningfhsst_id83">
+      <para id="id186786">A vector is a quantity that has both magnitude and direction. </para>
+      </meaning></definition>
+      <para id="id186797">A vector should tell you <emphasis effect="bold">how much</emphasis> and <emphasis effect="bold">which way</emphasis>.</para>
+      <para id="id186810">For example, a man is driving his car east along a freeway at 100 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. What we have given here is a vector – the velocity. The car is moving at 100 <m:math overflow="scroll"><m:mrow><m:mi>k</m:mi><m:mo>·</m:mo><m:msup><m:mi>h</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> (this is the magnitude) and we know where it is going – east (this is the direction). Thus, we know the speed and direction of the car. These two quantities, a magnitude and a direction, form a vector we call velocity.</para>
+    </section>
+    <section id="cid4">
+      <title>Notation</title>
+      <para id="id186874">Vectors are different to scalars and therefore have their own notation.</para>
+      <section id="uid1">
+        <title>Mathematical Representation</title>
+        <para id="id186887">There are many ways of writing the symbol for a vector. Vectors are denoted by symbols with an arrow pointing to the right above it. For example, <m:math overflow="scroll"><m:mover accent="true"><m:mi>a</m:mi><m:mo>→</m:mo></m:mover></m:math>, <m:math overflow="scroll"><m:mover accent="true"><m:mi>v</m:mi><m:mo>→</m:mo></m:mover></m:math> and <m:math overflow="scroll"><m:mover accent="true"><m:mi>F</m:mi><m:mo>→</m:mo></m:mover></m:math> represent the vectors acceleration, velocity and force, meaning they have both a magnitude and a direction.</para>
+        <para id="id186935">Sometimes just the magnitude of a vector is needed. In this case, the arrow is omitted. In other words, <m:math overflow="scroll"><m:mi>F</m:mi></m:math> denotes the magnitude of the vector <m:math overflow="scroll"><m:mover accent="true"><m:mi>F</m:mi><m:mo>→</m:mo></m:mover></m:math>. <m:math overflow="scroll"><m:mrow><m:mrow><m:mo>|</m:mo></m:mrow><m:mover accent="true"><m:mi>F</m:mi><m:mo>→</m:mo></m:mover><m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:math> is another way of representing the magnitude of a vector.</para>
+      </section>
+      <section id="uid2">
+        <title>Graphical Representation</title>
+        <para id="id186285">Vectors are drawn as arrows. An arrow has both a magnitude (how long it is) and a direction (the direction in which it points). The starting point of a vector is known as the <emphasis effect="italics">tail</emphasis> and the end point is known as the <emphasis effect="italics">head</emphasis>.</para>
+        <figure id="uid3">
+          <media id="uid3_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C1_001.png" id="uid3_onlineimage" width="143"><!-- NOTE: attribute width changes image size online (pixels). original width is 143. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_001.eps" id="uid3_printimage"/>
+          </media>
+          <caption>Examples of vectors</caption>
+        </figure>
+        <figure id="uid4">
+          <media id="uid4_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C1_002.png" id="uid4_onlineimage" width="158"><!-- NOTE: attribute width changes image size online (pixels). original width is 158. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_002.eps" id="uid4_printimage"/>
+          </media>
+          <caption>Parts of a vector</caption>
+        </figure>
+      </section>
+    </section>
+    <section id="cid5">
+      <title>Directions</title>
+      <para id="id187219">There are many acceptable methods of writing vectors. As long as the vector has a magnitude and a direction, it is most likely acceptable. These different methods come from the different methods of expressing a direction for a vector.</para>
+      <section id="uid5">
+        <title>Relative Directions</title>
+        <para id="id187233">The simplest method of expressing direction is with relative directions: to the left, to the right, forward, backward, up and down.</para>
+      </section>
+      <section id="uid6">
+        <title>Compass Directions</title>
+        <para id="id187246">Another common method of expressing directions is to use the points of a compass: North, South, East, and West.
+If a vector does not point exactly in one of the compass directions, then we use an angle. For example, we can have a vector pointing 40<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> North of West. Start with the vector pointing along the West direction:
+Then rotate the vector towards the north until there is a 40<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> angle between the vector and the West.
+The direction of this vector can also be described as: W 40<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> N (West 40<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> North); or N 50<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> W (North 50<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> West)
+
+
+
+<figure id="id187349"><media id="id187349_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_003.png" id="id187349_onlineimage" width="68"><!-- NOTE: attribute width changes image size online (pixels). original width is 68. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_003.eps" id="id187349_printimage"/></media></figure><figure id="id187358"><media id="id187358_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_004.png" id="id187358_onlineimage" width="86"><!-- NOTE: attribute width changes image size online (pixels). original width is 86. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_004.eps" id="id187358_printimage"/></media></figure><figure id="id187367"><media id="id187367_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_005.png" id="id187367_onlineimage" width="58"><!-- NOTE: attribute width changes image size online (pixels). original width is 58. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_005.eps" id="id187367_printimage"/></media></figure></para>
+      </section>
+      <section id="uid7">
+        <title>Bearing</title>
+        <para id="id187384">The final method of expressing direction is to use a <emphasis effect="italics">bearing</emphasis>. A bearing is a direction relative to a fixed point.</para>
+        <para id="id187393">Given just an angle, the convention is to define the angle with respect to the North. So, a vector with a direction of 110<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> has been rotated clockwise 110<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> relative to the North. A bearing is always written as a three digit number, for example 275<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> or 080<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> (for 80<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>).</para>
+        <para id="id187459">
+          <figure id="id187462">
+            <media id="id187462_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C1_006.png" id="id187462_onlineimage" width="45"><!-- NOTE: attribute width changes image size online (pixels). original width is 45. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_006.eps" id="id187462_printimage"/>
+            </media>
+          </figure>
+        </para>
+<section id="secfhsst_id146"><title> Scalars and Vectors </title>
+        <list id="id187475" display="block" list-type="enumerated">
+          <item id="uid8">Classify the following quantities as scalars or vectors:
+<list id="id187490" display="block" list-type="enumerated"><item id="uid9">12 km
+</item><item id="uid10">1 m south
+</item><item id="uid11">2 <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>·</m:mo><m:msup><m:mi>s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>, 45<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></item><item id="uid12">075<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>, 2 cm
+</item><item id="uid13">100 <m:math overflow="scroll"><m:mrow><m:mi>km</m:mi><m:mo>·</m:mo><m:msup><m:mi>h</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>, 0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></item></list></item>
+          <item id="uid14">Use two different notations to write down the direction of the vector in each of the following diagrams:
+<list id="id187643" display="block" list-type="enumerated"><item id="uid15"><figure id="id187654"><media id="id187654_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_007.png" id="id187654_onlineimage" width="4"><!-- NOTE: attribute width changes image size online (pixels). original width is 4. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_007.eps" id="id187654_printimage"/></media></figure></item><item id="uid16"><figure id="id187668"><media id="id187668_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_008.png" id="id187668_onlineimage" width="58"><!-- NOTE: attribute width changes image size online (pixels). original width is 58. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_008.eps" id="id187668_printimage"/></media></figure></item><item id="uid17"><figure id="id187683"><media id="id187683_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_009.png" id="id187683_onlineimage" width="45"><!-- NOTE: attribute width changes image size online (pixels). original width is 45. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_009.eps" id="id187683_printimage"/></media></figure></item></list></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid6">
+      <title>Drawing Vectors</title>
+      <para id="id187709">In order to draw a vector accurately we must specify a scale and
+include a reference direction in the diagram. A scale allows us to
+translate the length of the arrow into the vector's magnitude. For
+instance if one chose a scale of 1 cm = 2 N (1 cm represents 2 N), a
+force of 20 N towards the East would be represented as an arrow 10 cm
+long. A reference direction may be a line representing a horizontal surface or the points of a compass.</para>
+      <para id="id187716">
+        <figure id="id187719">
+          <media id="id187719_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C1_010.png" id="id187719_onlineimage" width="285"><!-- NOTE: attribute width changes image size online (pixels). original width is 285. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_010.eps" id="id187719_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id187725">
+        <emphasis effect="bold">Method: Drawing Vectors</emphasis>
+        <list id="id187736" display="block" list-type="enumerated">
+          <item id="uid18">Decide upon a scale and write it down.
+</item>
+          <item id="uid19">Determine the length of the arrow representing the vector, by using the scale.
+</item>
+          <item id="uid20">Draw the vector as an arrow. Make sure that you fill in the arrow head.
+</item>
+          <item id="uid21">Fill in the magnitude of the vector.
+</item>
+        </list>
+      </para>
+<exercise id="secfhsst_id189"><title> Drawing vectors </title>
+      <problem id="probfhsst_id190">
+      <para id="id187800">Represent the following vector quantities:</para>
+      <list id="id187805" display="block" list-type="enumerated">
+        <item id="uid22">6 <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>·</m:mo><m:msup><m:mi>s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> north
+</item>
+        <item id="uid23">16 m east
+</item>
+      </list>
+      
+      </problem>
+      <solution id="solfhsst_id200"> <list id="listfhsst_id200" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Decide upon a scale and write it down. </label>
+      <list id="id187874" display="block" list-type="enumerated">
+        <item id="uid24">1 cm = 2 <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>·</m:mo><m:msup><m:mi>s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></item>
+        <item id="uid25">1 cm = 4 m
+</item>
+      </list>
+      </item> <item> <label> Determine the length of the arrow at the specific scale. </label>
+      <list id="id187925" display="block" list-type="enumerated">
+        <item id="uid26">If 1 cm = 2 <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>·</m:mo><m:msup><m:mi>s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>, then 6 <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>·</m:mo><m:msup><m:mi>s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> = 3 cm
+</item>
+        <item id="uid27">If 1 cm = 4 m, then 16 m = 4 cm
+</item>
+      </list>
+      </item> <item> <label> Draw the vectors as arrows. </label>
+      <list id="id188000" display="block" list-type="enumerated">
+        <item id="uid28">
+Scale used: 1 cm = 2 <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>·</m:mo><m:msup><m:mi>s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>
+Direction = North
+<figure id="id188039"><media id="id188039_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_011.png" id="id188039_onlineimage" width="57"><!-- NOTE: attribute width changes image size online (pixels). original width is 57. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_011.eps" id="id188039_printimage"/></media></figure></item>
+        <item id="uid29">
+Scale used: 1 cm = 4 m
+Direction = East
+<figure id="id188060"><media id="id188060_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_012.png" id="id188060_onlineimage" width="115"><!-- NOTE: attribute width changes image size online (pixels). original width is 115. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_012.eps" id="id188060_printimage"/></media></figure></item>
+      </list>
+      
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id228"><title> Drawing Vectors </title>
+      <para id="id188088">Draw each of the following vectors to scale. Indicate the scale that you have used:</para>
+      <list id="id188094" display="block" list-type="enumerated">
+        <item id="uid30">12 km south
+</item>
+        <item id="uid31">1,5 m N 45<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> W
+</item>
+        <item id="uid32">1 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> East of North
+</item>
+        <item id="uid33">50 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, 085<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></item>
+        <item id="uid34">5 mm, 225<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></item>
+      </list>
+      
+</section>
+    </section>
+
+  </content>
+</document>

@@ -1,0 +1,1283 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Adding and subtracting vectors</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39059</md:content-id>
+  <md:title>Adding and subtracting vectors</md:title>
+  <md:abstract/>
+  <md:uuid>9e8cb7c2-d952-4afe-8632-7e58cb83d594</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid8">
+      <title>Techniques of Vector Addition</title>
+      <para id="id189251">Now that you have learned about the mathematical properties of
+vectors, we return to vector addition in more detail. There are a number of
+techniques of vector addition. These techniques fall into two main categories - graphical and algebraic techniques.</para>
+      <section id="uid38">
+        <title>Graphical Techniques</title>
+        <para id="id189266">Graphical techniques involve drawing accurate scale diagrams to denote
+individual vectors and their resultants. We next discuss the two primary
+graphical techniques, the head-to-tail technique and the parallelogram
+method.</para>
+        <section id="uid39">
+          <title>The Head-to-Tail Method</title>
+          <para id="id189280">In describing the mathematical properties of vectors we used
+displacements and the head-to-tail graphical method of vector addition
+as an illustration. The head-to-tail method of graphically adding vectors is a standard method that must be understood.</para>
+          <para id="id189285">
+            <emphasis effect="bold">Method: Head-to-Tail Method of Vector Addition</emphasis>
+          </para>
+          <list id="id189292" display="block" list-type="enumerated">
+            <item id="uid40">Draw a rough sketch of the situation.
+</item>
+            <item id="uid41">Choose a scale and include a reference direction.
+</item>
+            <item id="uid42">Choose any of the vectors and draw it as an arrow in the
+correct direction and of the correct length – remember to put an
+arrowhead on the end to denote its direction.
+</item>
+            <item id="uid43">Take the next vector and draw it as an arrow starting from the
+arrowhead of the first vector in the correct direction and of the
+correct length.
+</item>
+            <item id="uid44">Continue until you have drawn each vector – each time starting
+from the head of the previous vector. In this way, the vectors to be
+added are drawn one after the other head-to-tail.
+</item>
+            <item id="uid45">The resultant is then the vector drawn from the tail of the
+first vector to the head of the last. Its magnitude can be
+determined from the length of its arrow using the scale. Its
+direction too can be determined from the scale diagram.
+</item>
+          </list>
+<exercise id="secfhsst_id738"><title> Head-to-Tail Addition I </title>
+          <problem id="probfhsst_id739">
+          <para id="id189392">A ship leaves harbour H and sails 6 km north to port A. From here the ship travels 12 km east to port B, before sailing 5,5 km south-west to port C. Determine the ship's resultant displacement using the head-to-tail technique of vector addition. </para>
+          </problem>
+          <solution id="solfhsst_id742"> <list id="listfhsst_id742" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Draw a rough sketch of the situation </label>
+          <para id="id189417">Its easy to understand the problem if we first draw a quick sketch. The rough sketch should include all of the information given in the problem. All of the magnitudes of the displacements are shown and a compass has been included as a reference direction. In a rough sketch one is interested in the approximate shape of the vector diagram.</para>
+          <para id="id189423">
+            <figure id="id189427">
+              <media id="id189427_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_040.png" id="id189427_onlineimage" width="246"><!-- NOTE: attribute width changes image size online (pixels). original width is 246. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_040.eps" id="id189427_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Choose a scale and include a reference direction. </label>
+          <para id="id189438">The choice of scale depends on the actual question – you should choose a
+scale such that your vector diagram fits the page.</para>
+          <para id="id189443">It is clear from the rough sketch that choosing a scale where 1 cm represents 2 km (scale: 1 cm = 2 km) would be a good choice in this
+problem. The diagram will then take up a good fraction of an A4 page. We now start the accurate construction.</para>
+          </item> <item> <label> Choose any of the vectors to be summed and draw it as an arrow in the correct direction and of the correct length – remember to put an
+arrowhead on the end to denote its direction. </label>
+          <para id="id189458">Starting at the harbour H we draw the first vector 3 cm long in the direction north.</para>
+          <para id="id189462">
+            <figure id="id189466">
+              <media id="id189466_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_041.png" id="id189466_onlineimage" width="29"><!-- NOTE: attribute width changes image size online (pixels). original width is 29. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_041.eps" id="id189466_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Take the next vector and draw it as an arrow starting from the
+head of the first vector in the correct direction and of the
+correct length. </label>
+          <para id="id189477">Since the ship is now at port A we draw the second vector 6 cm long starting from point A in the direction east.</para>
+          <para id="id189483">
+            <figure id="id189486">
+              <media id="id189486_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_042.png" id="id189486_onlineimage" width="199"><!-- NOTE: attribute width changes image size online (pixels). original width is 199. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_042.eps" id="id189486_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Take the next vector and draw it as an arrow starting from the
+head of the second vector in the correct direction and of the
+correct length. </label>
+          <para id="id189498">Since the ship is now at port B we draw the third vector 2,25 cm long starting from this point in the direction south-west. A protractor is required to measure the angle of 45<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>.</para>
+          <para id="id189518">
+            <figure id="id189521">
+              <media id="id189521_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_043.png" id="id189521_onlineimage" width="210"><!-- NOTE: attribute width changes image size online (pixels). original width is 210. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_043.eps" id="id189521_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> The resultant is then the vector drawn from the tail of the
+first vector to the head of the last. Its magnitude can be
+determined from the length of its arrow using the scale. Its
+direction too can be determined from the scale diagram. </label>
+          <para id="id189533">As a final step we draw the resultant displacement from
+the starting point (the harbour H) to the end point (port C). We use a
+ruler to measure the length of this arrow and a protractor to determine its direction.</para>
+          <para id="id189538">
+            <figure id="id189541">
+              <media id="id189541_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_044.png" id="id189541_onlineimage" width="292"><!-- NOTE: attribute width changes image size online (pixels). original width is 292. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_044.eps" id="id189541_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Apply the scale conversion </label>
+          <para id="id189552">We now use the scale to convert the length of the resultant in the scale diagram to the actual displacement in the problem. Since we have chosen a scale of 1 cm = 2 km in this problem the resultant has a magnitude of 9,2 km. The direction can be specified in terms of the angle measured either as 072,3<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> east of north or on a bearing of 072,3<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>.</para>
+          </item> <item> <label> Quote the final answer </label>
+          <para id="id189591">The resultant displacement of the ship is 9,2 km on a bearing of 072,3<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. </para>
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id814"><title> Head-to-Tail Graphical Addition II </title>
+          <problem id="probfhsst_id815">
+          <para id="id189632">A man walks 40 m East, then 30 m North.</para>
+          <list id="id189638" display="block" list-type="enumerated">
+            <item id="uid46">What was the total distance he walked?
+</item>
+            <item id="uid47">What is his resultant displacement?
+</item>
+          </list>
+          
+          </problem>
+          <solution id="solfhsst_id825"> <list id="listfhsst_id825" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Draw a rough sketch </label>
+          <para id="id189688">
+            <figure id="id189692">
+              <media id="id189692_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_045.png" id="id189692_onlineimage" width="525"><!-- NOTE: attribute width changes image size online (pixels). original width is 525. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_045.eps" id="id189692_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Determine the distance that the man traveled </label>
+          <para id="id189703">In the first part of his journey he traveled 40 m and in the second part he traveled 30 m. This gives us a total distance traveled of 40 m + 30 m = 70 m.</para>
+          </item> <item> <label> Determine his resultant displacement </label>
+          <para id="id189711">The man's resultant displacement is the <emphasis effect="bold">vector</emphasis> from where he started to where he ended. It is the vector sum of his two separate displacements. We will use the head-to-tail method of accurate construction to find this vector.</para>
+          </item> <item> <label> Choose a suitable scale </label>
+          <para id="id189726">A scale of 1 cm represents 10 m (1 cm = 10 m) is a good choice here. Now we can begin the process of construction.</para>
+          </item> <item> <label> Draw the first vector to scale </label>
+          <para id="id189736">We draw the first displacement as an arrow 4 cm long in an eastwards direction.</para>
+          <para id="id189740">
+            <figure id="id189744">
+              <media id="id189744_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_046.png" id="id189744_onlineimage" width="114"><!-- NOTE: attribute width changes image size online (pixels). original width is 114. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_046.eps" id="id189744_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Draw the second vector to scale </label>
+          <para id="id189754">Starting from the head of the first vector we draw the second vector as an arrow 3 cm long in a northerly direction.</para>
+          <para id="id189760">
+            <figure id="id189763">
+              <media id="id189763_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_047.png" id="id189763_onlineimage" width="290"><!-- NOTE: attribute width changes image size online (pixels). original width is 290. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_047.eps" id="id189763_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Determine the resultant vector </label>
+          <para id="id189774">Now we connect the starting point to the end point and
+measure the length and direction of this arrow (the resultant).</para>
+          <para id="id189778">
+            <figure id="id189781">
+              <media id="id189781_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_048.png" id="id189781_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 295. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_048.eps" id="id189781_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Find the direction </label>
+          <para id="id189792">To find the direction you measure the angle between the resultant and the 40 m vector. You should get about 37<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>.</para>
+          </item> <item> <label> Apply the scale conversion </label>
+          <para id="id189815">Finally we use the scale to convert the length of the resultant in
+the scale diagram to the actual magnitude of the resultant
+displacement. According to the chosen scale 1 cm = 10 m. Therefore 5 cm represents 50 m. The resultant displacement is then 50 m 37<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> north of east.
+ </para>
+          </item> </list> </solution>
+</exercise>
+        </section>
+        <para id="eip-917"><figure id="Vectors" class="phetsim">
+	  <title>Phet simulation for Vectors</title>
+	  <media id="phet_sim" display="block" alt="vectors phet simulation">
+	  <flash id="phet-simulation" mime-type="application/x-shockwave-flash" src="vector-addition.swf" width="425" height="344">
+	  </flash>
+	  </media>
+	  </figure></para><section id="uid48">
+          <title>The Parallelogram Method</title>
+          <para id="id189855">The <emphasis effect="italics">parallelogram method</emphasis> is another graphical technique of finding the resultant of two vectors.</para>
+          <para id="id189864">
+            <emphasis effect="bold">Method: The Parallelogram Method</emphasis>
+          </para>
+          <list id="id189871" display="block" list-type="enumerated">
+            <item id="uid49">Make a rough sketch of the vector diagram.
+</item>
+            <item id="uid50">Choose a scale and a reference direction.
+</item>
+            <item id="uid51">Choose either of the vectors to be added and draw it as an arrow
+of the correct length in the correct direction.
+</item>
+            <item id="uid52">Draw the second vector as an arrow of the correct length in the
+correct direction from the tail of the first vector.
+</item>
+            <item id="uid53">Complete the parallelogram formed by these two vectors.
+</item>
+            <item id="uid54">The resultant is then the diagonal of the parallelogram. The
+magnitude can be determined from the length of its arrow using the
+scale. The direction too can be determined from the scale diagram.
+</item>
+          </list>
+<exercise id="secfhsst_id906"><title> Parallelogram Method of Vector Addition I </title>
+          <problem id="probfhsst_id907">
+          <para id="id189966">A force of <m:math overflow="scroll"><m:mrow><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>5</m:mn><m:mi mathvariant="normal">N</m:mi></m:mrow></m:math> is applied to a block in a horizontal direction. A second force <m:math overflow="scroll"><m:mrow><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mn>4</m:mn><m:mi mathvariant="normal">N</m:mi></m:mrow></m:math> is applied to the object at an angle of 30<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> above the horizontal.</para>
+          <para id="id190034">
+            <figure id="id190037">
+              <media id="id190037_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_049.png" id="id190037_onlineimage" width="115"><!-- NOTE: attribute width changes image size online (pixels). original width is 115. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_049.eps" id="id190037_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id190043">Determine the resultant force acting on the block using the
+parallelogram method of accurate construction. </para>
+          </problem>
+          <solution id="solfhsst_id920"> <list id="listfhsst_id920" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Firstly make a rough sketch of the vector diagram </label>
+          <para id="id190066">
+            <figure id="id190069">
+              <media id="id190069_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_050.png" id="id190069_onlineimage" width="170"><!-- NOTE: attribute width changes image size online (pixels). original width is 170. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_050.eps" id="id190069_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Choose a suitable scale </label>
+          <para id="id190080">In this problem a scale of 1 cm = 1 N would be appropriate, since then the vector diagram would take up a reasonable fraction of the page. We can now begin the accurate scale diagram.</para>
+          </item> <item> <label> Draw the first scaled vector </label>
+          <para id="id190090">Let us draw <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> first. According to the scale it has length
+5 cm.</para>
+          <para id="id190109">
+            <figure id="id190112">
+              <media id="id190112_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_051.png" id="id190112_onlineimage" width="142"><!-- NOTE: attribute width changes image size online (pixels). original width is 142. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_051.eps" id="id190112_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Draw the second scaled vector </label>
+          <para id="id190122">Next we draw <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math>. According to the scale it has length 4 cm. We make use of a protractor to draw this vector at 30<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the horizontal.</para>
+          <para id="id190154">
+            <figure id="id190157">
+              <media id="id190157_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_052.png" id="id190157_onlineimage" width="143"><!-- NOTE: attribute width changes image size online (pixels). original width is 143. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_052.eps" id="id190157_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Determine the resultant vector </label>
+          <para id="id190167">Next we complete the parallelogram and draw the diagonal.</para>
+          <para id="id190171">
+            <figure id="id190175">
+              <media id="id190175_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_053.png" id="id190175_onlineimage" width="242"><!-- NOTE: attribute width changes image size online (pixels). original width is 242. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_053.eps" id="id190175_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id190181">The resultant has a measured length of 8,7 cm.</para>
+          </item> <item> <label> Find the direction </label>
+          <para id="id190189">We use a protractor to measure the angle between the horizontal and the resultant. We get 13,3<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>.</para>
+          </item> <item> <label> Apply the scale conversion </label>
+          <para id="id190211">Finally we use the scale to convert the measured length into the
+actual magnitude. Since 1 cm = 1 N, 8,7 cm represents 8,7 N. Therefore the resultant force is 8,7 N at 13,3<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> above the horizontal. </para>
+          </item> </list> </solution>
+</exercise>
+          <para id="id190240">The parallelogram method is restricted to the addition of just two
+vectors. However, it is arguably the most intuitive way of adding two
+forces acting on a point.</para>
+        </section>
+      </section>
+      <section id="uid55">
+        <title>Algebraic Addition and Subtraction of Vectors</title>
+        <section id="uid56">
+          <title>Vectors in a Straight Line</title>
+          <para id="id190264">Whenever you are faced with adding vectors acting in a straight line (i.e. some directed left and some right, or some acting up and others down) you can use a very simple algebraic technique:</para>
+          <para id="id190269">
+            <emphasis effect="bold">Method: Addition/Subtraction of Vectors in a Straight Line</emphasis>
+          </para>
+          <list id="id190277" display="block" list-type="enumerated">
+            <item id="uid57">Choose a positive direction. As an example, for
+situations involving displacements in the directions west and east, you
+might choose west as your positive direction. In that case,
+displacements east are negative.
+</item>
+            <item id="uid58">Next simply add (or subtract) the
+magnitude of the vectors using the appropriate signs.
+</item>
+            <item id="uid59">As a final step the direction of the resultant should be included in
+words (positive answers are in the positive direction, while negative
+resultants are in the negative direction).
+</item>
+          </list>
+          <para id="id190321">Let us consider a few examples.</para>
+<exercise id="secfhsst_id999"><title> Adding vectors algebraically I </title>
+          <problem id="probfhsst_id1000">
+          <para id="id190338">A tennis ball is rolled towards a wall which is 10 m away from the ball. If after striking the wall the ball rolls a further 2,5 m along the ground away from the wall, calculate algebraically the ball's resultant displacement. </para>
+          </problem>
+          <solution id="solfhsst_id1003"> <list id="listfhsst_id1003" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Draw a rough sketch of the situation </label>
+          <para id="id190365">
+            <figure id="id190368">
+              <media id="id190368_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_054.png" id="id190368_onlineimage" width="175"><!-- NOTE: attribute width changes image size online (pixels). original width is 175. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_054.eps" id="id190368_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Decide which method to use to calculate the resultant </label>
+          <para id="id190379">We know that the resultant displacement of the ball
+(<m:math overflow="scroll"><m:msub><m:mover accent="true"><m:mi>x</m:mi><m:mo>→</m:mo></m:mover><m:mi>R</m:mi></m:msub></m:math>) is equal to the sum of the ball's separate
+displacements (<m:math overflow="scroll"><m:msub><m:mover accent="true"><m:mi>x</m:mi><m:mo>→</m:mo></m:mover><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mover accent="true"><m:mi>x</m:mi><m:mo>→</m:mo></m:mover><m:mn>2</m:mn></m:msub></m:math>):</para>
+          <equation id="id190446">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mover accent="true">
+                        <m:mi>x</m:mi>
+                        <m:mo>→</m:mo>
+                      </m:mover>
+                      <m:mi>R</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mover accent="true">
+                          <m:mi>x</m:mi>
+                          <m:mo>→</m:mo>
+                        </m:mover>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mover accent="true">
+                          <m:mi>x</m:mi>
+                          <m:mo>→</m:mo>
+                        </m:mover>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id190515">Since the motion of the ball is in a straight line (i.e. the ball
+moves towards and away from the wall), we can use the method of algebraic addition
+just explained.</para>
+          </item> <item> <label> Choose a positive direction </label>
+          <para id="id190526">Let's choose the <emphasis effect="bold">positive</emphasis> direction to be towards the wall. This means that the <emphasis effect="bold">negative</emphasis> direction is away from the wall.</para>
+          </item> <item> <label> Now define our vectors algebraically </label>
+          <para id="id190545">With right positive:</para>
+          <equation id="id190549">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mover accent="true">
+                        <m:mi>x</m:mi>
+                        <m:mo>→</m:mo>
+                      </m:mover>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>+</m:mo>
+                      <m:mn>10</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mi>m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi>s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mover accent="true">
+                        <m:mi>x</m:mi>
+                        <m:mo>→</m:mo>
+                      </m:mover>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mi>m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi>s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Add the vectors </label>
+          <para id="id190665">Next we simply add the two displacements to give the resultant:</para>
+          <equation id="id190669">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mover accent="true">
+                        <m:mi>x</m:mi>
+                        <m:mo>→</m:mo>
+                      </m:mover>
+                      <m:mi>R</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mo>+</m:mo>
+                        <m:mn>10</m:mn>
+                        <m:mi>m</m:mi>
+                        <m:mo>·</m:mo>
+                        <m:msup>
+                          <m:mi>s</m:mi>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo>+</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mi>m</m:mi>
+                        <m:mo>·</m:mo>
+                        <m:msup>
+                          <m:mi>s</m:mi>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mo>+</m:mo>
+                        <m:mn>7</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi>s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Quote the resultant </label>
+          <para id="id190806">Finally, in this case <emphasis effect="underline">towards the wall is the positive direction</emphasis>, so:
+<m:math overflow="scroll"><m:msub><m:mover accent="true"><m:mi>x</m:mi><m:mo>→</m:mo></m:mover><m:mi>R</m:mi></m:msub></m:math> = 7,5 m towards the wall. </para>
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1222"><title> Subtracting vectors algebraically I </title>
+          <problem id="probfhsst_id1223">
+          <para id="id190861">Suppose that a tennis ball is thrown horizontally towards a wall at an initial velocity of 3 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>to the right. After striking the wall, the ball returns to the thrower at 2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Determine the change in velocity of the ball. </para>
+          </problem>
+          <solution id="solfhsst_id1226"> <list id="listfhsst_id1226" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Draw a sketch </label>
+          <para id="id190936">A quick sketch will help us understand the problem.</para>
+          <para id="id190940">
+            <figure id="id190944">
+              <media id="id190944_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_055.png" id="id190944_onlineimage" width="118"><!-- NOTE: attribute width changes image size online (pixels). original width is 118. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_055.eps" id="id190944_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Decide which method to use to calculate the resultant </label>
+          <para id="id190954">Remember that velocity is a vector. The change in the velocity of the
+ball is equal to the difference between the ball's initial and final
+velocities:</para>
+          <equation id="id190959">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mover accent="true">
+                  <m:mi>v</m:mi>
+                  <m:mo>→</m:mo>
+                </m:mover>
+                <m:mo>=</m:mo>
+                <m:msub>
+                  <m:mover accent="true">
+                    <m:mi>v</m:mi>
+                    <m:mo>→</m:mo>
+                  </m:mover>
+                  <m:mi>f</m:mi>
+                </m:msub>
+                <m:mo>-</m:mo>
+                <m:msub>
+                  <m:mover accent="true">
+                    <m:mi>v</m:mi>
+                    <m:mo>→</m:mo>
+                  </m:mover>
+                  <m:mi>i</m:mi>
+                </m:msub>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id191013">Since the ball moves along a straight line (i.e. left and right), we
+can use the algebraic technique of vector subtraction just discussed.</para>
+          </item> <item> <label> Choose a positive direction </label>
+          <para id="id191022">Choose the <emphasis effect="bold">positive</emphasis> direction to be towards the wall. This means that the <emphasis effect="bold">negative</emphasis> direction is away from the wall.</para>
+          </item> <item> <label> Now define our vectors algebraically </label>
+          <equation id="id191042">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mover accent="true">
+                        <m:mi>v</m:mi>
+                        <m:mo>→</m:mo>
+                      </m:mover>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>+</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:mi>m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi>s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mover accent="true">
+                        <m:mi>v</m:mi>
+                        <m:mo>→</m:mo>
+                      </m:mover>
+                      <m:mi>f</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mi>m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi>s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Subtract the vectors </label>
+          <para id="id191149">Thus, the change in velocity of the ball is:</para>
+          <equation id="id191153">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>v</m:mi>
+                        <m:mo>→</m:mo>
+                      </m:mover>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mi>m</m:mi>
+                        <m:mo>·</m:mo>
+                        <m:msup>
+                          <m:mi>s</m:mi>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mo>+</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mi>m</m:mi>
+                        <m:mo>·</m:mo>
+                        <m:msup>
+                          <m:mi>s</m:mi>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi>s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Quote the resultant </label>
+          <para id="id191279">Remember that in this case <emphasis effect="underline">towards the wall means a positive velocity</emphasis>, so <emphasis effect="underline">away from the wall means a negative velocity</emphasis>:
+<m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mover accent="true"><m:mi>v</m:mi><m:mo>→</m:mo></m:mover><m:mo>=</m:mo><m:mn>5</m:mn><m:mi>m</m:mi><m:mo>·</m:mo><m:msup><m:mi>s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> away from the wall. </para>
+          </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id1424"><title> Resultant Vectors </title>
+          <list id="id191353" display="block" list-type="enumerated">
+            <item id="uid60">Harold walks to school by walking 600 m Northeast and then 500 m N 40<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> W. Determine his resultant displacement by using accurate scale drawings.
+</item>
+            <item id="uid61">A dove flies from her nest, looking for food for her chick. She flies at a velocity of 2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> on a bearing of 135<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> and then at a velocity of 1,2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> on a bearing of 230<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. Calculate her resultant velocity by using accurate scale drawings.
+</item>
+            <item id="uid62">A squash ball is dropped to the floor with an initial velocity of 2,5 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. It rebounds (comes back up) with a velocity of 0,5 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+<list id="id191536" display="block" list-type="enumerated"><item id="uid63">What is the change in velocity of the squash ball?
+</item><item id="uid64">What is the resultant velocity of the squash ball?
+</item></list></item>
+          </list>
+          
+</section>
+          <para id="id191575">Remember that the technique of addition and subtraction just discussed can only be applied to vectors acting along a straight line. When vectors are not in a straight line, i.e. at an angle to each other, the following method can be used:</para>
+        </section>
+        <section id="uid65">
+          <title>A More General Algebraic technique</title>
+          <para id="id191590">Simple geometric and trigonometric techniques can be used to find resultant vectors.</para>
+<exercise id="secfhsst_id1442"><title> An Algebraic Solution I </title>
+          <problem id="probfhsst_id1443">
+          <para id="id191607">A man walks 40 m East, then 30 m North. Calculate the man's resultant displacement. </para>
+          </problem>
+          <solution id="solfhsst_id1446"> <list id="listfhsst_id1446" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Draw a rough sketch </label>
+          <para id="id191632">As before, the rough sketch looks as follows:</para>
+          <para id="id191635">
+            <figure id="id191639">
+              <media id="id191639_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_056.png" id="id191639_onlineimage" width="315"><!-- NOTE: attribute width changes image size online (pixels). original width is 315. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_056.eps" id="id191639_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Determine the length of the resultant </label>
+          <para id="id191649">Note that the triangle formed by his separate displacement vectors and his resultant displacement vector is a right-angle triangle. We can thus use the Theorem of Pythagoras to determine the length of the resultant. Let <m:math overflow="scroll"><m:msub><m:mi>x</m:mi><m:mi>R</m:mi></m:msub></m:math> represent the length of the resultant vector. Then:</para>
+          <equation id="id191670">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msubsup>
+                      <m:mi>x</m:mi>
+                      <m:mi>R</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msubsup>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>40</m:mn>
+                          <m:mi>m</m:mi>
+                          <m:mo>·</m:mo>
+                          <m:msup>
+                            <m:mi>s</m:mi>
+                            <m:mrow>
+                              <m:mo>-</m:mo>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                          </m:msup>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>30</m:mn>
+                          <m:mi>m</m:mi>
+                          <m:mo>·</m:mo>
+                          <m:msup>
+                            <m:mi>s</m:mi>
+                            <m:mrow>
+                              <m:mo>-</m:mo>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                          </m:msup>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msubsup>
+                      <m:mi>x</m:mi>
+                      <m:mi>R</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msubsup>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mspace width="4pt"/>
+                      <m:mn>500</m:mn>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mi>m</m:mi>
+                          <m:mo>·</m:mo>
+                          <m:msup>
+                            <m:mi>s</m:mi>
+                            <m:mrow>
+                              <m:mo>-</m:mo>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                          </m:msup>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>x</m:mi>
+                      <m:mi>R</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>50</m:mn>
+                      <m:mi>m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi>s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Determine the direction of the resultant </label>
+          <para id="id191855">Now we have the length of the resultant displacement vector but not yet its direction. To determine its direction we calculate the angle <m:math overflow="scroll"><m:mi>α</m:mi></m:math> between the resultant displacement vector and East, by using simple trigonometry:</para>
+          <equation id="id191870">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">tan</m:mo>
+                      <m:mi>α</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi> opposite </m:mi>
+                        <m:mi> side </m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi> adjacent </m:mi>
+                        <m:mi> side </m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">tan</m:mo>
+                      <m:mi>α</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mn>30</m:mn>
+                      <m:mn>40</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>α</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mo form="prefix">tan</m:mo>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>75</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>α</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>36</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:msup>
+                        <m:mn>9</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Quote the resultant </label>
+          <para id="id192009">The resultant displacement is then 50 m at 36,9<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> North of East.</para>
+          <para id="id192027">This is exactly the same answer we arrived at after drawing a scale diagram! </para>
+          </item> </list> </solution>
+</exercise>
+          <para id="id192042">In the previous example we were able to use simple trigonometry to
+calculate the resultant displacement. This was possible since the
+directions of motion were perpendicular (north and east).
+Algebraic techniques, however, are not limited to cases where the vectors to be combined are along the same straight line or at right angles to one
+another. The following example illustrates this.</para>
+<exercise id="secfhsst_id1676"><title> An Algebraic Solution II </title>
+          <problem id="probfhsst_id1677">
+          <para id="id192061">A man walks from point A to point B which is 12 km away on a bearing of 45<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. From point B the man walks a further 8 km east to point C. Calculate the resultant displacement. </para>
+          </problem>
+          <solution id="solfhsst_id1680"> <list id="listfhsst_id1680" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Draw a rough sketch of the situation </label>
+          <para id="id192101">
+            <figure id="id192104">
+              <media id="id192104_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_057.png" id="id192104_onlineimage" width="207"><!-- NOTE: attribute width changes image size online (pixels). original width is 207. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_057.eps" id="id192104_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id192111"><m:math overflow="scroll"><m:mrow><m:mi>B</m:mi><m:mover accent="true"><m:mi>A</m:mi><m:mo>^</m:mo></m:mover><m:mi>F</m:mi><m:mo>=</m:mo><m:msup><m:mn>45</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> since the man walks initially on a bearing of 45<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>.
+Then, <m:math overflow="scroll"><m:mrow><m:mi>A</m:mi><m:mover accent="true"><m:mi>B</m:mi><m:mo>^</m:mo></m:mover><m:mi>G</m:mi><m:mo>=</m:mo><m:mi>B</m:mi><m:mover accent="true"><m:mi>A</m:mi><m:mo>^</m:mo></m:mover><m:mi>F</m:mi><m:mo>=</m:mo><m:msup><m:mn>45</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> (parallel lines, alternate angles). Both of these angles are included in the rough sketch.</para>
+          </item> <item> <label> Calculate the length of the resultant </label>
+          <para id="id192209">The resultant is the vector AC. Since we know both
+the lengths of AB and BC and the included angle <m:math overflow="scroll"><m:mrow><m:mi>A</m:mi><m:mover accent="true"><m:mi>B</m:mi><m:mo>^</m:mo></m:mover><m:mi>C</m:mi></m:mrow></m:math>, we can use
+the cosine rule:</para>
+          <equation id="id192235">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:msup>
+                        <m:mi>C</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:msup>
+                        <m:mi>B</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mi>B</m:mi>
+                      <m:msup>
+                        <m:mi>C</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>·</m:mo>
+                      <m:mi>A</m:mi>
+                      <m:mi>B</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:mi>B</m:mi>
+                      <m:mi>C</m:mi>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>A</m:mi>
+                        <m:mover accent="true">
+                          <m:mi>B</m:mi>
+                          <m:mo>^</m:mo>
+                        </m:mover>
+                        <m:mi>C</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>12</m:mn>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>8</m:mn>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>·</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>12</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>8</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>135</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>343</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:mi>C</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>18</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mi> km </m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Determine the direction of the resultant </label>
+          <para id="id192454">Next we use the sine rule to determine the angle <m:math overflow="scroll"><m:mi>θ</m:mi></m:math>:</para>
+          <equation id="id192467">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                      <m:mn>8</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:msup>
+                          <m:mn>135</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>18</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>8</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:msup>
+                          <m:mn>135</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>18</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>θ</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>3058</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>θ</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>17</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:msup>
+                        <m:mn>8</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id192636">To find <m:math overflow="scroll"><m:mrow><m:mi>F</m:mi><m:mover accent="true"><m:mi>A</m:mi><m:mo>^</m:mo></m:mover><m:mi>C</m:mi></m:mrow></m:math>, we add 45<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>.
+Thus, <m:math overflow="scroll"><m:mrow><m:mi>F</m:mi><m:mover accent="true"><m:mi>A</m:mi><m:mo>^</m:mo></m:mover><m:mi>C</m:mi><m:mo>=</m:mo><m:mn>62</m:mn><m:mo>,</m:mo><m:msup><m:mn>8</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math>.</para>
+          </item> <item> <label> Quote the resultant </label>
+          <para id="id192715">The resultant displacement is therefore 18,5 km on a bearing of 062,8<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. </para>
+          </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id1948"><title> More Resultant Vectors </title>
+          <list id="id192751" display="block" list-type="enumerated">
+            <item id="uid66">A frog is trying to cross a river. It swims at 3 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>in a northerly direction towards the opposite bank. The water is flowing in a westerly direction at 5 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Find the frog's resultant velocity by using appropriate calculations. Include a rough sketch of the situation in your answer.
+</item>
+            <item id="uid67">Sandra walks to the shop by walking 500 m Northwest and then 400 m N 30<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> E. Determine her resultant displacement by doing appropriate calculations.
+</item>
+          </list>
+          
+</section>
+        </section>
+      </section>
+    </section>
+
+  </content>
+</document>

@@ -1,0 +1,1035 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Converging lenses</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39026</md:content-id>
+  <md:title>Converging lenses</md:title>
+  <md:abstract/>
+  <md:uuid>92526afd-a9fd-41af-9843-131158c3ebed</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id340610">In Grade 10, we studied how light is reflected and refracted. This chapter builds on what you have learnt in Grade 10. You will learn about lenses, how the human eye works as well as how telescopes and microscopes work.</para>
+    </section>
+    <section id="cid3">
+      <title>Lenses</title>
+      <para id="id340624">In this section we will discuss properties of <emphasis effect="bold">thin lenses</emphasis>. In Grade 10, you learnt about two kinds of mirrors: concave mirrors which were also known as converging mirrors and convex mirrors which were also known as diverging mirrors. Similarly, there are two types of lenses: converging and diverging lenses.</para>
+      <para id="id340973">We have learnt how light travels in different materials, and we are now ready to learn how we can control the direction of light rays. We use <emphasis effect="italics">lenses</emphasis> to control the direction of light. When light enters a lens, the light rays bend or change direction as shown in <link target-id="uid1"/>.</para>
+      <figure id="uid1" orient="vertical">
+        <subfigure id="id341001">
+          <media id="id341001_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C3_001.png" id="id341001_onlineimage" width="740"><!-- NOTE: attribute width changes image size online (pixels). original width is 740. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_001.eps" id="id341001_printimage"/>
+          </media>
+        </subfigure>
+        <subfigure id="id341009">
+          <media id="id341009_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C3_002.png" id="id341009_onlineimage" width="763"><!-- NOTE: attribute width changes image size online (pixels). original width is 763. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_002.eps" id="id341009_printimage"/>
+          </media>
+        </subfigure>
+        <caption>The behaviour of parallel light rays entering either a converging or diverging lens.</caption>
+      </figure>
+<definition id="fhsst_id90"><term id="termfhsst_id90"> Lens </term> <meaning id="meaningfhsst_id90">
+      <para id="id341022">A lens is any transparent material (e.g. glass) of an appropriate shape that can take parallel rays of incident light and either converge the rays to a point or diverge the rays from a point. </para>
+      </meaning></definition>
+      <para id="id341034">Some lenses will focus light rays to a single point. These lenses are called converging or convex lenses. Other lenses spread out the light rays so that it looks like they all come from the same point. These lenses are called diverging or concave lenses. Lenses change the direction of light rays by <emphasis effect="italics">refraction</emphasis>. They are designed so that the image appears in a certain place or as a certain size. Lenses are used in eyeglasses, cameras, microscopes, and telescopes. You also have lenses in your eyes!</para>
+<definition id="fhsst_id94"><term id="termfhsst_id94"> Converging Lenses </term> <meaning id="meaningfhsst_id94">
+      <para id="id341053">Converging lenses converge parallel rays of light and are thicker in the middle than at the edges. </para>
+      </meaning></definition>
+<definition id="fhsst_id97"><term id="termfhsst_id97"> Diverging Lenses </term> <meaning id="meaningfhsst_id97">
+      <para id="id341070">Diverging lenses diverge parallel rays of light and are thicker at the edges than in the middle. </para>
+      </meaning></definition>
+      <para id="id341081">Examples of converging and diverging lenses are shown in <link target-id="uid2"/>.</para>
+      <figure id="uid2">
+        <media id="uid2_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C3_003.png" id="uid2_onlineimage" width="372"><!-- NOTE: attribute width changes image size online (pixels). original width is 372. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_003.eps" id="uid2_printimage"/>
+        </media>
+        <caption>Types of lenses</caption>
+      </figure>
+      <para id="id341101">Before we study lenses in detail, there are a few important terms that must be defined. <link target-id="uid7"/> shows important lens properties:</para>
+      <list id="id341110" display="block" list-type="bulleted">
+        <item id="uid3">The <emphasis effect="bold">principal axis</emphasis> is the line which runs horizontally straight through the <emphasis effect="italics">optical centre</emphasis> of the lens. It is also sometimes called the <emphasis effect="italics">optic axis</emphasis>.
+</item>
+        <item id="uid4">The <emphasis effect="bold">optical centre</emphasis> (O) of a convex lens is usually the centre point of the lens. The direction of all light rays which pass through the optical centre, remains unchanged.
+</item>
+        <item id="uid5">The <emphasis effect="bold">focus</emphasis> or <emphasis effect="bold">focal point</emphasis> of the lens is
+the position on the <emphasis effect="italics">principal axis</emphasis>
+where all light rays which run <emphasis effect="italics">parallel</emphasis> to the principal axis through the lens converge (come together) at a point. Since light can pass through the lens either from right to left or left to right, there is a focal point on each side of the lens (<m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math>), at the same distance from the optical centre in each direction. (<emphasis effect="bold">Note:</emphasis> the plural form of the word focus is <emphasis effect="italics">foci</emphasis>.)
+</item>
+        <item id="uid6">The <emphasis effect="bold">focal length</emphasis> (<m:math overflow="scroll"><m:mi>f</m:mi></m:math>) is the distance between the <emphasis effect="italics">optical centre</emphasis> and the <emphasis effect="italics">focal point</emphasis>.
+</item>
+      </list>
+      <figure id="uid7" orient="vertical">
+        <subfigure id="id341278">
+          <media id="id341278_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C3_004.png" id="id341278_onlineimage" width="227"><!-- NOTE: attribute width changes image size online (pixels). original width is 227. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_004.eps" id="id341278_printimage"/>
+          </media>
+        </subfigure>
+        <subfigure id="id341286">
+          <media id="id341286_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C3_005.png" id="id341286_onlineimage" width="227"><!-- NOTE: attribute width changes image size online (pixels). original width is 227. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_005.eps" id="id341286_printimage"/>
+          </media>
+        </subfigure>
+        <caption>Properties of lenses.</caption>
+      </figure>
+      <section id="uid8">
+        <title>Converging Lenses</title>
+        <para id="id341302">We will only discuss double convex converging lenses as shown in <link target-id="uid9"/>. Converging lenses are thinner on the outside and thicker on the inside.</para>
+        <figure id="uid9">
+          <media id="uid9_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C3_006.png" id="uid9_onlineimage" width="129"><!-- NOTE: attribute width changes image size online (pixels). original width is 129. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_006.eps" id="uid9_printimage"/>
+          </media>
+          <caption>A double convex lens is a converging lens.</caption>
+        </figure>
+        <para id="id341323"><link target-id="uid10"/> shows a convex lens. Light rays traveling through a <emphasis effect="bold">convex</emphasis> lens are bent <emphasis effect="bold">towards</emphasis> the principal axis. For this reason, convex lenses are called <emphasis effect="bold">converging</emphasis> lenses.</para>
+        <figure id="uid10">
+          <media id="uid10_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C3_007.png" id="uid10_onlineimage" width="255"><!-- NOTE: attribute width changes image size online (pixels). original width is 255. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_007.eps" id="uid10_printimage"/>
+          </media>
+          <caption>Light rays bend towards each other or <emphasis effect="italics">converge</emphasis> when they travel through a convex lens. <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math> are the foci of the lens.</caption>
+        </figure>
+        <para id="id341391">When an object is placed in front of a lens, the light rays coming from the object are refracted by the lens. An image of the object is produced at the point where the light rays intersect.
+The type of images created by a convex lens is dependent on the position of the object. We will examine the following cases:</para>
+        <list id="id341397" display="block" list-type="enumerated">
+          <item id="uid11">the object is placed at a distance greater than <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> from the lens
+</item>
+          <item id="uid12">the object is placed at a distance equal to <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> from the lens
+</item>
+          <item id="uid13">the object is placed at a distance between <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mi>f</m:mi></m:math> from the lens
+</item>
+          <item id="uid14">the object is placed at a distance less than <m:math overflow="scroll"><m:mi>f</m:mi></m:math> from the lens
+</item>
+        </list>
+        <para id="id341498">We examine the properties of the image in each of these cases by drawing ray diagrams. We can find the image by tracing the path of three light rays through the lens. Any two of these rays will show us the location of the image. The third ray is used to check that the location is correct.</para>
+<section id="secfhsst_id167"><title> Experiment : Lenses A </title>
+        <para id="id341513">
+          <emphasis effect="bold">Aim:</emphasis>
+        </para>
+        <para id="id341522">To determine the focal length of a convex lens.</para>
+        <para id="id341527">
+          <emphasis effect="bold">Method:</emphasis>
+        </para>
+        <list id="id341536" display="block" list-type="enumerated">
+          <item id="uid15">Using a distant object from outside, adjust the position of the convex lens so that it gives the smallest possible focus on a sheet of paper that is held parallel to the lens.
+</item>
+          <item id="uid16">Measure the distance between the lens and the sheet of paper as accurately as possible.
+</item>
+        </list>
+        <para id="id341565">
+          <emphasis effect="bold">Results:</emphasis>
+        </para>
+        <para id="id341573">
+The focal length of the lens is <emphasis effect="underline">                     </emphasis> cm
+
+ </para>
+</section>
+<section id="secfhsst_id189"><title> Experiment : Lenses B </title>
+        <para id="id341596">
+          <emphasis effect="bold">Aim:</emphasis>
+        </para>
+        <para id="id341605">To investigate the position, size and nature of the image formed by a convex lens.</para>
+        <para id="id341611">
+          <emphasis effect="bold">Method:</emphasis>
+        </para>
+        <list id="id341619" display="block" list-type="enumerated">
+          <item id="uid17">Set up a candle, and the lens from Experiment Lenses A in its holder and the screen in a straight line on the metre rule. Make sure the lens holder is on the 50 cm mark.
+From your knowledge of the focal length of your lens, note where <m:math overflow="scroll"><m:mi>f</m:mi></m:math> and <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> are on both sides of the lens.
+</item>
+          <item id="uid18">Using the position indicated on the table below, start with the candle at a position that is greater than <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> and adjust the position of the screen until a sharp focused image is obtained. Note that there are two positions for which a sharp focused image will not be obtained on the screen. When this is so, remove the screen and look at the candle through the lens.
+</item>
+          <item id="uid19">Fill in the relevant information on the table below
+</item>
+        </list>
+        <figure id="uid20">
+          <media id="uid20_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C3_008.png" id="uid20_onlineimage" width="220"><!-- NOTE: attribute width changes image size online (pixels). original width is 220. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_008.eps" id="uid20_printimage"/>
+          </media>
+          <caption>Experimental setup for investigation.</caption>
+        </figure>
+        <para id="id340534">
+          <emphasis effect="bold">Results:</emphasis>
+        </para>
+        <table id="id340543" summary="">
+          <tgroup cols="5">
+            <tbody>
+              <row>
+                <entry>Relative position of object</entry>
+                <entry>Relative position of image</entry>
+                <entry>Image upright or inverted</entry>
+                <entry>Relative size of image</entry>
+                <entry>Nature of image</entry>
+              </row>
+              <row>
+                <entry>Beyond <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math><emphasis effect="underline">       </emphasis>
+cm
+</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>At <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><emphasis effect="underline">       </emphasis>
+cm
+</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Between <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mi>f</m:mi></m:math></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><emphasis effect="underline">       </emphasis>
+cm
+</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>At <m:math overflow="scroll"><m:mi>f</m:mi></m:math></entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><emphasis effect="underline">       </emphasis>
+cm
+</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Between <m:math overflow="scroll"><m:mi>f</m:mi></m:math> and the lens
+</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><emphasis effect="underline">       </emphasis>
+cm
+</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id342159">
+          <emphasis effect="bold">QUESTIONS:</emphasis>
+        </para>
+        <list id="id342168" display="block" list-type="enumerated">
+          <item id="uid21">When a convex lens is being used:
+<list id="id342182" display="block" list-type="enumerated"><item id="uid22">A real inverted image is formed when an object is placed <emphasis effect="underline">                     </emphasis></item><item id="uid23">No image is formed when an object is placed <emphasis effect="underline">                     </emphasis></item><item id="uid24">An upright, enlarged, virtual image is formed when an object is placed <emphasis effect="underline">                     </emphasis></item></list></item>
+          <item id="uid25">Write a conclusion for this investigation.
+</item>
+        </list>
+        
+</section>
+<section id="secfhsst_id314"><title> Experiment : Lenses C </title>
+        <para id="id342264">
+          <emphasis effect="bold">Aim:</emphasis>
+        </para>
+        <para id="id342273">To determine the mathematical relationship between <m:math overflow="scroll"><m:mrow><m:msub><m:mi>d</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>d</m:mi><m:mi>i</m:mi></m:msub></m:mrow></m:math> and <m:math overflow="scroll"><m:mi>f</m:mi></m:math> for a lens.</para>
+        <para id="id342310">
+          <emphasis effect="bold">Method:</emphasis>
+        </para>
+        <list id="id342318" display="block" list-type="enumerated">
+          <item id="uid26">Using the same arrangement as in Experiment Lenses B, place the object (candle) at the distance indicated from the lens.
+</item>
+          <item id="uid27">Move the screen until a clear sharp image is obtained. Record the results on the table below.
+</item>
+        </list>
+        <para id="id342347">
+          <emphasis effect="bold">Results:</emphasis>
+        </para>
+        <para id="id342356"><m:math overflow="scroll"><m:mi>f</m:mi></m:math> = focal length of lens
+
+<m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mn>0</m:mn></m:msub></m:math> = object distance
+
+<m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>i</m:mi></m:msub></m:math> = image distance
+</para>
+        <table id="id342409" summary="">
+          <tgroup cols="5">
+            <tbody>
+              <row>
+                <entry>Object distance</entry>
+                <entry>Image distance</entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:msub>
+                        <m:mi>d</m:mi>
+                        <m:mn>0</m:mn>
+                      </m:msub>
+                    </m:mfrac>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:msub>
+                        <m:mi>d</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mfrac>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:msub>
+                          <m:mi>d</m:mi>
+                          <m:mn>0</m:mn>
+                        </m:msub>
+                      </m:mfrac>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:msub>
+                          <m:mi>d</m:mi>
+                          <m:mi>i</m:mi>
+                        </m:msub>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mn>0</m:mn></m:msub></m:math> (cm)</entry>
+                <entry><m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>i</m:mi></m:msub></m:math> (cm)</entry>
+                <entry>(cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</entry>
+                <entry>(cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</entry>
+                <entry>(cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</entry>
+              </row>
+              <row>
+                <entry>25,0</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>20,0</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>18,0</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>15,0</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>Average = <emphasis effect="underline">       </emphasis></entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <equation id="id342671">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi> Reciprocal </m:mi>
+                      <m:mi> of </m:mi>
+                      <m:mi> average </m:mi>
+                    </m:mrow>
+                    <m:mo>=</m:mo>
+                    <m:mfenced separators="" open="(" close=")">
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:msub>
+                              <m:mi mathvariant="normal">d</m:mi>
+                              <m:mn>0</m:mn>
+                            </m:msub>
+                          </m:mfrac>
+                          <m:mo>+</m:mo>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:msub>
+                              <m:mi mathvariant="normal">d</m:mi>
+                              <m:mi mathvariant="normal">i</m:mi>
+                            </m:msub>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:munder>
+                      <m:mspace width="85.35826pt"/>
+                      <m:mo>̲</m:mo>
+                    </m:munder>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi mathvariant="normal">a</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> Focal </m:mi>
+                    <m:mi> length </m:mi>
+                    <m:mi> of </m:mi>
+                    <m:mi> lens </m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:munder>
+                      <m:mspace width="85.35826pt"/>
+                      <m:mo>̲</m:mo>
+                    </m:munder>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi mathvariant="normal">b</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id342809">
+          <emphasis effect="bold">QUESTIONS:</emphasis>
+        </para>
+        <list id="id342816" display="block" list-type="enumerated">
+          <item id="uid28">Compare the values for (a) and (b) above and explain any similarities or differences
+</item>
+          <item id="uid29">What is the name of the mathematical relationship between <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mn>0</m:mn></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>i</m:mi></m:msub></m:math> and <m:math overflow="scroll"><m:mi>f</m:mi></m:math>?
+</item>
+          <item id="uid30">Write a conclusion for this part of the investigation.
+</item>
+        </list>
+        
+</section>
+        <para id="id342904">
+          <emphasis effect="bold">Drawing Ray Diagrams for Converging Lenses</emphasis>
+        </para>
+        <para id="id342911">Ray diagrams are normally drawn using three rays. The three rays are labelled <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math>. The ray diagrams that follow will use this naming convention.</para>
+        <list id="id342959" display="block" list-type="enumerated">
+          <item id="uid31">The first ray (<m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math>) travels from the object to the lens <emphasis effect="italics">parallel</emphasis> to the principal axis. This ray is bent by the lens and travels through the <emphasis effect="bold">focal point</emphasis>.
+</item>
+          <item id="uid32"><emphasis effect="italics">Any</emphasis> ray travelling parallel to the principal axis is bent through the focal point.
+</item>
+          <item id="uid33">If a light ray passes through a focal point <emphasis effect="italics">before</emphasis> it enters the lens, then it will leave the lens <emphasis effect="italics">parallel</emphasis> to the principal axis. The second ray (<m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math>) is therefore drawn to pass through the focal point before it enters the lens.
+</item>
+          <item id="uid34">A ray that travels through the centre of the lens does not change direction. The third ray (<m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math>) is drawn through the centre of the lens.
+</item>
+          <item id="uid35">The point where all three of the rays (<m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math>) intersect is the <emphasis effect="bold">image</emphasis> of the point where they all started. The image will form at this point.
+</item>
+        </list>
+<note id="notfhsst_id543" type="tip"><title>In ray diagrams, lenses are drawn like this:</title>
+        <para id="id343151">Convex lens:
+
+
+<figure id="id343165"><media id="id343165_media" alt=""><image mime-type="image/png" src="../../media/PG11C3_009.png" id="id343165_onlineimage" width="6"><!-- NOTE: attribute width changes image size online (pixels). original width is 6. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_009.eps" id="id343165_printimage"/></media></figure>
+</para>
+<para id="uid098234">
+Concave lens:
+
+
+<figure id="id343184"><media id="id343184_media" alt=""><image mime-type="image/png" src="../../media/PG11C3_010.png" id="id343184_onlineimage" width="6"><!-- NOTE: attribute width changes image size online (pixels). original width is 6. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_010.eps" id="id343184_printimage"/></media></figure>
+</para>
+</note>
+        <section id="uid36">
+          <title><emphasis effect="underline">CASE 1:</emphasis> Object placed at a distance greater than <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> from the lens</title>
+          <figure id="uid37">
+            <media id="uid37_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C3_011.png" id="uid37_onlineimage" width="691"><!-- NOTE: attribute width changes image size online (pixels). original width is 691. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_011.eps" id="uid37_printimage"/>
+            </media>
+            <caption>An object is placed at a distance greater than <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> away from the converging lens. Three rays are drawn to locate the image, which is real, and smaller than the object and inverted.</caption>
+          </figure>
+          <para id="id343246">We can locate the position of the image by drawing our three rays. <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math> travels from the object to the lens parallel to the principal axis, is bent by the lens and then travels through the focal point. <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> passes through the focal point before it enters the lens and therefore must leave the lens parallel to the principal axis. <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math> travels through the center of the lens and does not change direction. The point where <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math> intersect is the image of the point where they all started.</para>
+          <para id="id343337">The image of an object placed at a distance greater than <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> from the lens is upside down or <emphasis effect="italics">inverted</emphasis>. This is because the rays which began at the top of the object, <emphasis effect="italics">above</emphasis> the principal axis, after passing through the lens end up <emphasis effect="italics">below</emphasis> the principal axis. The image is called a <emphasis effect="bold">real image</emphasis> because it is on the opposite side of the lens to the object and you can trace all the light rays directly from the image back to the object.</para>
+          <para id="id343377">The image is also smaller than the object and is located closer to the lens than the object.</para>
+<note id="notfhsst_id568" type="tip">In reality, light rays come from <emphasis effect="italics">all</emphasis> points along the length of the object. In ray diagrams we only draw three rays (all starting at the top of the object) to keep the diagram clear and simple.</note>
+        </section>
+        <section id="uid38">
+          <title><emphasis effect="underline">CASE 2:</emphasis> Object placed at a distance equal to <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> from the lens</title>
+          <figure id="uid39">
+            <media id="uid39_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C3_012.png" id="uid39_onlineimage" width="514"><!-- NOTE: attribute width changes image size online (pixels). original width is 514. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_012.eps" id="uid39_printimage"/>
+            </media>
+            <caption>An object is placed at a distance equal to <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> away from the converging lens. Three rays are drawn to locate the image, which is real, the same size as the object and inverted.</caption>
+          </figure>
+          <para id="id343448">We can locate the position of the image by drawing our three rays. <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math> travels from the object to the lens parallel to the principal axis and is bent by the lens and then travels through the focal point. <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> passes through the focal point before it enters the lens and therefore must leave the lens parallel to the principal axis. <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math> travels through the center of the lens and does not change direction. The point where <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math> intersect is the image of the point where they all started.</para>
+          <para id="id343539">The image of an object placed at a distance equal to <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> from the lens is upside down or <emphasis effect="italics">inverted</emphasis>. This is because the rays which began at the top of the object, <emphasis effect="italics">above</emphasis> the principal axis, after passing through the lens end up <emphasis effect="italics">below</emphasis> the principal axis. The image is called a <emphasis effect="bold">real image</emphasis> because it is on the opposite side of the lens to the object and you can trace all the light rays directly from the image back to the object.</para>
+          <para id="id343579">The image is the same size as the object and is located at a distance <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> away from the lens.</para>
+        </section>
+        <section id="uid40">
+          <title><emphasis effect="underline">CASE 3:</emphasis> Object placed at a distance between <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mi>f</m:mi></m:math> from the lens</title>
+          <figure id="uid41">
+            <media id="uid41_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C3_013.png" id="uid41_onlineimage" width="536"><!-- NOTE: attribute width changes image size online (pixels). original width is 536. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_013.eps" id="uid41_printimage"/>
+            </media>
+            <caption>An object is placed at a distance between <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mi>f</m:mi></m:math> away from the converging lens. Three rays are drawn to locate the image, which is real, larger than the object and inverted.</caption>
+          </figure>
+          <para id="id343666">We can locate the position of the image by drawing our three rays. <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math> travels from the object to the lens parallel to the principal axis and is bent by the lens and then travels through the focal point. <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> passes through the focal point before it enters the lens and therefore must leave the lens parallel to the principal axis. <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math> travels through the center of the lens and does not change direction. The point where <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math> intersect is the image of the point where they all started.</para>
+          <para id="id343757">The image of an object placed at a distance between <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mi>f</m:mi></m:math> from the lens is upside down or <emphasis effect="italics">inverted</emphasis>. This is because the rays which began at the top of the object, <emphasis effect="italics">above</emphasis> the principal axis, after passing through the lens end up <emphasis effect="italics">below</emphasis> the principal axis. The image is called a real image because it is on the opposite side of the lens to the object and you can trace all the light rays directly from the image back to the object.</para>
+          <para id="id343800">The image is larger than the object and is located at a distance greater than <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> away from the lens.</para>
+        </section>
+        <section id="uid42">
+          <title><emphasis effect="underline">CASE 4:</emphasis> Object placed at a distance less than <m:math overflow="scroll"><m:mi>f</m:mi></m:math> from the lens</title>
+          <figure id="uid43">
+            <media id="uid43_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C3_014.png" id="uid43_onlineimage" width="377"><!-- NOTE: attribute width changes image size online (pixels). original width is 377. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_014.eps" id="uid43_printimage"/>
+            </media>
+            <caption>An object is placed at a distance less than <m:math overflow="scroll"><m:mi>f</m:mi></m:math> away from the converging lens. Three rays are drawn to locate the image, which is virtual, larger than the object and upright.</caption>
+          </figure>
+          <para id="id343863">We can locate the position of the image by drawing our three rays. <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math> travels from the object to the lens parallel to the principal axis and is bent by the lens and then travels through the focal point. <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> passes through the focal point before it enters the lens and therefore must leave the lens parallel to the principal axis. <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math> travels through the center of the lens and does not change direction. The point where <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math> intersect is the image of the point where they all started.</para>
+          <para id="id343954">The image of an object placed at a distance less than <m:math overflow="scroll"><m:mi>f</m:mi></m:math> from the lens is upright. The image is called a <emphasis effect="bold">virtual image</emphasis> because it is on the same side of the lens as the object and you <emphasis effect="italics">cannot</emphasis> trace all the light rays directly from the image back to the object.</para>
+          <para id="id343978">The image is larger than the object and is located further away from the lens than the object.</para>
+<section id="secfhsst_id608"><title> The thin lens equation and magnification </title>
+          <para id="id343989">
+            <emphasis effect="bold">The Thin Lens Equation</emphasis>
+          </para>
+          <para id="id343998">We can find the position of the image of a lens mathematically as there is a mathematical relation between the object distance, image distance, and focal length. The equation is:</para>
+          <equation id="id344003">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mn>1</m:mn>
+                  <m:mi>f</m:mi>
+                </m:mfrac>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:mn>1</m:mn>
+                  <m:msub>
+                    <m:mi>d</m:mi>
+                    <m:mi>o</m:mi>
+                  </m:msub>
+                </m:mfrac>
+                <m:mo>+</m:mo>
+                <m:mfrac>
+                  <m:mn>1</m:mn>
+                  <m:msub>
+                    <m:mi>d</m:mi>
+                    <m:mi>i</m:mi>
+                  </m:msub>
+                </m:mfrac>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id344048">where <m:math overflow="scroll"><m:mi>f</m:mi></m:math> is the focal length, <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>o</m:mi></m:msub></m:math> is the object distance and <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>i</m:mi></m:msub></m:math> is the image distance.</para>
+          <para id="id344090">The object distance <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>o</m:mi></m:msub></m:math> is the distance from the object to the lens. <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>o</m:mi></m:msub></m:math> is positive if the object is on the same side of the lens as the light rays enter the lens. This should make sense: we expect the light rays to travel from the object to the lens. The image distance <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>i</m:mi></m:msub></m:math> is the distance from the lens to the image. Unlike mirrors, which reflect light back, lenses refract light through them. We expect to find the image on the same side of the lens as the light leaves the lens. If this is the case, then <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>i</m:mi></m:msub></m:math> is <emphasis effect="italics">positive</emphasis> and the image is <emphasis effect="bold">real</emphasis> (see <link target-id="uid41"/>). Sometimes the image will be on the same side of the lens as the light rays enter the lens. Then <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>i</m:mi></m:msub></m:math> is <emphasis effect="italics">negative</emphasis> and the image is <emphasis effect="bold">virtual</emphasis> (<link target-id="uid43"/>). If we know any two of the three quantities above, then we can use the Thin Lens Equation to solve for the third quantity.</para>
+          <para id="id344202">
+            <emphasis effect="bold">Magnification</emphasis>
+          </para>
+          <para id="id344211">It is possible to calculate the magnification of an image. The magnification is how much <emphasis effect="italics">bigger</emphasis> or <emphasis effect="italics">smaller</emphasis>
+the image is than the object.</para>
+          <equation id="id344227">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>m</m:mi>
+                <m:mo>=</m:mo>
+                <m:mo>-</m:mo>
+                <m:mfrac>
+                  <m:msub>
+                    <m:mi>d</m:mi>
+                    <m:mi>i</m:mi>
+                  </m:msub>
+                  <m:msub>
+                    <m:mi>d</m:mi>
+                    <m:mi>o</m:mi>
+                  </m:msub>
+                </m:mfrac>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id344261">where <m:math overflow="scroll"><m:mi>m</m:mi></m:math> is the magnification, <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>o</m:mi></m:msub></m:math> is the object distance and <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>i</m:mi></m:msub></m:math> is the image distance.</para>
+          <para id="id344304">If <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>i</m:mi></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>o</m:mi></m:msub></m:math> are both positive, the magnification is negative. This means the image is inverted, or upside down. If <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>i</m:mi></m:msub></m:math> is negative and <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>o</m:mi></m:msub></m:math> is positive, then the image is not inverted, or right side up. If the absolute value of the magnification is <emphasis effect="italics">greater than one</emphasis>, the image is <emphasis effect="italics">larger</emphasis> than the object. For example, a magnification of -2 means the image is <emphasis effect="italics">inverted</emphasis> and <emphasis effect="italics">twice as big</emphasis> as the object. </para>
+</section>
+<exercise id="secfhsst_id668"><title> Using the lens equation </title>
+          <problem id="probfhsst_id669">
+          <para id="id344407">An object is placed 6 cm from a converging lens with a focal point of 4 cm.</para>
+          <list id="id344413" display="block" list-type="enumerated">
+            <item id="uid44">Calculate the position of the image
+</item>
+            <item id="uid45">Calculate the magnification of the lens
+</item>
+            <item id="uid46">Identify three properties of the image
+</item>
+          </list>
+          
+          </problem>
+          <solution id="solfhsst_id681"> <list id="listfhsst_id681" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Identify what is given and what is being asked </label>
+          <equation id="id344476">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>f</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> cm </m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>d</m:mi>
+                      <m:mi>o</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>6</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> cm </m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>d</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mo>?</m:mo>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>m</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mo>?</m:mo>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id344573">Properties of the image are required.</para>
+          </item> <item> <label> Calculate the image distance (<m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>i</m:mi></m:msub></m:math>) </label>
+          <equation id="id344598">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mi>f</m:mi>
+                    </m:mfrac>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:msub>
+                          <m:mi>d</m:mi>
+                          <m:mi>o</m:mi>
+                        </m:msub>
+                      </m:mfrac>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:msub>
+                          <m:mi>d</m:mi>
+                          <m:mi>i</m:mi>
+                        </m:msub>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>4</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>6</m:mn>
+                      </m:mfrac>
+                      <m:mo>+</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:msub>
+                          <m:mi>d</m:mi>
+                          <m:mi>i</m:mi>
+                        </m:msub>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>4</m:mn>
+                      </m:mfrac>
+                      <m:mo>-</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>6</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:msub>
+                        <m:mi>d</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>3</m:mn>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                      <m:mn>12</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:msub>
+                        <m:mi>d</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>d</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>12</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> cm </m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Calculate the magnification </label>
+          <equation id="id344796">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>m</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mfrac>
+                        <m:msub>
+                          <m:mi>d</m:mi>
+                          <m:mi>i</m:mi>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>d</m:mi>
+                          <m:mi>o</m:mi>
+                        </m:msub>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mfrac>
+                        <m:mn>12</m:mn>
+                        <m:mn>6</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Write down the properties of the image </label>
+          <para id="id344877">The image is real, <m:math overflow="scroll"><m:msub><m:mi>d</m:mi><m:mi>i</m:mi></m:msub></m:math> is positive, inverted (because the magnification is negative) and enlarged (magnification is <m:math overflow="scroll"><m:mo>&gt;</m:mo></m:math> 1)
+ </para>
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id943"><title> Locating the image position of a convex lens: I </title>
+          <problem id="probfhsst_id944">
+          <para id="id344930">An object is placed 5 cm to the left of a converging lens which has a focal length of 2,5 cm.</para>
+          <list id="id344937" display="block" list-type="enumerated">
+            <item id="uid47">What is the position of the image?
+</item>
+            <item id="uid48">Is the image real or virtual?
+</item>
+          </list>
+          
+          </problem>
+          <solution id="solfhsst_id954"> <list id="listfhsst_id954" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Set up the ray diagram </label>
+          <para id="id344987">Draw the lens, the object and mark the focal points.</para>
+          <para id="id344991">
+            <figure id="id344994">
+              <media id="id344994_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C3_015.png" id="id344994_onlineimage" width="715"><!-- NOTE: attribute width changes image size online (pixels). original width is 715. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_015.eps" id="id344994_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Draw the three rays </label>
+          <list id="id345005" display="block" list-type="bulleted">
+            <item id="uid49"><m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math> goes from the top of the object parallel to the principal axis, through the lens and through the focal point <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math> on the other side of the lens.
+</item>
+            <item id="uid50"><m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> goes from the top of the object through the focal point <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math>, through the lens and out parallel to the principal axis.
+</item>
+            <item id="uid51"><m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math> goes from the top of the object through the optical centre with its direction unchanged.
+</item>
+          </list>
+          <para id="id345116">
+            <figure id="id345119">
+              <media id="id345119_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C3_016.png" id="id345119_onlineimage" width="764"><!-- NOTE: attribute width changes image size online (pixels). original width is 764. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_016.eps" id="id345119_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Find the image </label>
+          <para id="id345129">The image is at the place where all the rays intersect. Draw the image.</para>
+          <para id="id345132">
+            <figure id="id345136">
+              <media id="id345136_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C3_017.png" id="id345136_onlineimage" width="756"><!-- NOTE: attribute width changes image size online (pixels). original width is 756. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_017.eps" id="id345136_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Measure the distance between the lens and the image </label>
+          <para id="id345146">The image is 5 cm away from the lens, on the opposite side of the lens to the object.</para>
+          </item> <item> <label> Is the image virtual or real? </label>
+          <para id="id345155">Since the image is on the opposite side of the lens to the object, the image is real. </para>
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id998"><title> Locating the image position of a convex lens: II </title>
+          <problem id="probfhsst_id999">
+          <para id="id345184">An object, 1 cm high, is placed 2 cm to the left of a converging lens which has a focal length of 3,0 cm. The image is found also on the left side of the lens.</para>
+          <list id="id345192" display="block" list-type="enumerated">
+            <item id="uid52">Is the image real or virtual?
+</item>
+            <item id="uid53">What is the position and height of the image?
+</item>
+          </list>
+          
+          </problem>
+          <solution id="solfhsst_id1009"> <list id="listfhsst_id1009" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Draw the picture to set up the problem </label>
+          <para id="id345243">Draw the lens, principal axis, focal points and the object.</para>
+          <para id="id345247">
+            <figure id="id345250">
+              <media id="id345250_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C3_018.png" id="id345250_onlineimage" width="524"><!-- NOTE: attribute width changes image size online (pixels). original width is 524. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_018.eps" id="id345250_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Draw the three rays to locate image </label>
+          <list id="id345261" display="block" list-type="bulleted">
+            <item id="uid54"><m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math> goes from the top of the object parallel to the principal axis, through the lens and through the focal point <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math> on the other side of the lens.
+</item>
+            <item id="uid55"><m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> is the light ray which should go through the focal point <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> but the object is placed <emphasis effect="italics">after</emphasis> the focal point! This is not a problem, just trace the line from the focal point <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math>, through the top of the object, to the lens. This ray then leaves the lens parallel to the principal axis.
+</item>
+            <item id="uid56"><m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math> goes from the top of the object through the optical centre with its direction unchanged.
+</item>
+            <item id="uid57">Do not write <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math> on your diagram, otherwise it becomes too cluttered.
+</item>
+            <item id="uid58">Since the rays do not intersect on the right side of the lens, we need to trace them backwards to find the place where they do come together (these are the light gray lines). Again, this is the position of the image.
+</item>
+          </list>
+          <para id="id345460">
+            <figure id="id345464">
+              <media id="id345464_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C3_019.png" id="id345464_onlineimage" width="528"><!-- NOTE: attribute width changes image size online (pixels). original width is 528. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_019.eps" id="id345464_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Draw the image </label>
+          <para id="id345474">
+            <figure id="id345477">
+              <media id="id345477_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C3_020.png" id="id345477_onlineimage" width="524"><!-- NOTE: attribute width changes image size online (pixels). original width is 524. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_020.eps" id="id345477_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Measure distance to image </label>
+          <para id="id345488">The image is 6 cm away from the lens, on the same side as the object.</para>
+          </item> <item> <label> Measure the height of the image </label>
+          <para id="id345496">The image is 3 cm high.</para>
+          </item> <item> <label> Is image real or virtual? </label>
+          <para id="id345504">Since the image is on the same side of the lens as the object, the image is virtual. </para>
+          </item> </list> </solution>
+</exercise>
+<para id="eip-16"><figure id="Geometric-optics" class="phetsim">
+	  <title>Phet simulation for Geometrical Optics</title>
+	  <media id="phet_sim" display="block" alt="geometric optics phet simulation">
+	  <flash id="phet-simulation" mime-type="application/x-shockwave-flash" src="geometric-optics.swf" width="425" height="344">
+	  </flash>
+	  </media>
+	  </figure></para><section id="secfhsst_id1058"><title> Converging Lenses </title>
+          <list id="id345527" display="block" list-type="enumerated">
+            <item id="uid59">Which type of lens can be used as a magnifying glass? Draw a diagram to show how it works. An image of the sun is formed at the principal focus of a magnifying glass.
+</item>
+            <item id="uid60">In each case state whether a real or virtual image is formed:
+<list id="id345556" display="block" list-type="enumerated"><item id="uid61">Much further than <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math></item><item id="uid62">Just further than <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math></item><item id="uid63">At <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math></item><item id="uid64">Between <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>f</m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mi>f</m:mi></m:math></item><item id="uid65">At <m:math overflow="scroll"><m:mi>f</m:mi></m:math></item><item id="uid66">Between <m:math overflow="scroll"><m:mi>f</m:mi></m:math> and 0
+</item></list>
+Is a virtual image always inverted?
+</item>
+            <item id="uid67">An object stands 50 mm from a lens (focal length 40 mm). Draw an accurate sketch to determine the position of the image. Is it enlarged or shrunk; upright or inverted?
+</item>
+            <item id="uid68">Draw a scale diagram (scale: 1 cm = 50 mm) to find the position of the image formed by a convex lens with a focal length of 200 mm. The distance of the object is 100 mm and the size of the object is 50 mm. Determine whether the image is enlarged or shrunk. What is the height of the image? What is the magnification?
+</item>
+            <item id="uid69">An object, 20 mm high, is 80 mm from a convex lens with focal length 50 mm. Draw an accurate scale diagram and find the position and size of the image, and hence the ratio between the image size and object size.
+</item>
+            <item id="uid70">An object, 50 mm high, is placed 100 mm from a convex lens with a focal length of 150 mm. Construct an accurate ray diagram to determine the nature of the image, the size of the image and the magnification. Check your answer for the magnification by using a calculation.
+</item>
+            <item id="uid71">What would happen if you placed the object right at the focus of a converging lens? Hint: Draw the picture.
+</item>
+          </list>
+          
+</section>
+        </section>
+      </section>
+</section>
+  </content>
+</document>

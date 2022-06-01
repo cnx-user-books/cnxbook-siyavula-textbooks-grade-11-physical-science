@@ -1,0 +1,1655 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Components</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39057</md:content-id>
+  <md:title>Components</md:title>
+  <md:abstract/>
+  <md:uuid>8e83c3a5-5e1b-4633-aaf2-af0fab2b1c83</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid9">
+      <title>Components of Vectors</title>
+      <para id="id192865">In the discussion of vector addition we saw that a number of vectors acting
+together can be combined to give a single vector (the resultant). In
+much the same way a single vector can be broken down into a number of vectors which when added give that original vector. These vectors which sum to the original are called <emphasis effect="bold">components</emphasis> of the original vector. The process of breaking a vector into its components is called <emphasis effect="bold">resolving into components</emphasis>.</para>
+      <para id="id192884">While summing a given set of vectors gives just one answer (the
+resultant), a single vector can be resolved into infinitely many sets
+of components. In the diagrams below the same black vector is resolved
+into different pairs of components. These components are shown as dashed lines. When added together the dashed vectors give the original black vector
+(i.e. the original vector is the resultant of its components).</para>
+      <para id="id192891">
+        <figure id="id192894">
+          <media id="id192894_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C1_058.png" id="id192894_onlineimage" width="135"><!-- NOTE: attribute width changes image size online (pixels). original width is 135. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_058.eps" id="id192894_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id192901">In practice it is most useful to resolve a vector into components
+which are at right angles to one another, usually horizontal and vertical.</para>
+      <para id="id192905">Any vector can be resolved into a horizontal and a vertical component. If <m:math overflow="scroll"><m:mover accent="true"><m:mi>A</m:mi><m:mo>→</m:mo></m:mover></m:math> is a vector, then the horizontal component of <m:math overflow="scroll"><m:mover accent="true"><m:mi>A</m:mi><m:mo>→</m:mo></m:mover></m:math> is <m:math overflow="scroll"><m:msub><m:mover accent="true"><m:mi>A</m:mi><m:mo>→</m:mo></m:mover><m:mi>x</m:mi></m:msub></m:math> and the vertical component is <m:math overflow="scroll"><m:msub><m:mover accent="true"><m:mi>A</m:mi><m:mo>→</m:mo></m:mover><m:mi>y</m:mi></m:msub></m:math>.</para>
+      <para id="id192983">
+        <figure id="id192986">
+          <media id="id192986_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C1_059.png" id="id192986_onlineimage" width="89"><!-- NOTE: attribute width changes image size online (pixels). original width is 89. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_059.eps" id="id192986_printimage"/>
+          </media>
+        </figure>
+      </para>
+<exercise id="secfhsst_id1989"><title> Resolving a vector into components </title>
+      <problem id="probfhsst_id1990">
+      <para id="id193006">A motorist undergoes a displacement of 250 km in a direction 30<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> north of east. Resolve this displacement into components in the directions north (<m:math overflow="scroll"><m:msub><m:mover accent="true"><m:mi>x</m:mi><m:mo>→</m:mo></m:mover><m:mi>N</m:mi></m:msub></m:math>) and east (<m:math overflow="scroll"><m:msub><m:mover accent="true"><m:mi>x</m:mi><m:mo>→</m:mo></m:mover><m:mi>E</m:mi></m:msub></m:math>). </para>
+      </problem>
+      <solution id="solfhsst_id1993"> <list id="listfhsst_id1993" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Draw a rough sketch of the original vector </label>
+      <para id="id193086">
+        <figure id="id193089">
+          <media id="id193089_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C1_060.png" id="id193089_onlineimage" width="143"><!-- NOTE: attribute width changes image size online (pixels). original width is 143. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_060.eps" id="id193089_printimage"/>
+          </media>
+        </figure>
+      </para>
+      </item> <item> <label> Determine the vector component </label>
+      <para id="id193100">Next we resolve the displacement into its components north and
+east. Since these directions are perpendicular to one another, the
+components form a right-angled triangle with the original displacement
+as its hypotenuse.</para>
+      <para id="id193105">
+        <figure id="id193109">
+          <media id="id193109_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C1_061.png" id="id193109_onlineimage" width="191"><!-- NOTE: attribute width changes image size online (pixels). original width is 191. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_061.eps" id="id193109_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id193115">Notice how the two components acting together give the original vector as
+their resultant.</para>
+      </item> <item> <label> Determine the lengths of the component vectors </label>
+      <para id="id193124">Now we can use trigonometry to calculate the magnitudes of the
+components of the original displacement:</para>
+      <equation id="id193128">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>x</m:mi>
+                  <m:mi>N</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>250</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msup>
+                      <m:mn>30</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>125</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi> km </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id193201">and</para>
+      <equation id="id193207">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>x</m:mi>
+                  <m:mi>E</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>250</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mo form="prefix">cos</m:mo>
+                    <m:msup>
+                      <m:mn>30</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>216</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>5</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi> km </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id193285">Remember <m:math overflow="scroll"><m:msub><m:mi>x</m:mi><m:mi>N</m:mi></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>x</m:mi><m:mi>E</m:mi></m:msub></m:math> are the magnitudes of the components – they
+are in the directions north and east respectively. </para>
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id2124"><title> Block on an incline </title>
+      <para id="id193336">As a further example of components let us consider a block of mass <m:math overflow="scroll"><m:mi>m</m:mi></m:math>
+placed on a frictionless surface inclined at some angle <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> to
+the horizontal. The block will obviously slide down the incline, but
+what causes this motion?</para>
+      <para id="id193362">The forces acting on the block are its weight <m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mi>g</m:mi></m:mrow></m:math> and the normal
+force <m:math overflow="scroll"><m:mi>N</m:mi></m:math> exerted by the surface on the object. These two forces are
+shown in the diagram below.</para>
+      <para id="id193388">
+        <figure id="id193391">
+          <media id="id193391_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C1_062.png" id="id193391_onlineimage" width="228"><!-- NOTE: attribute width changes image size online (pixels). original width is 228. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_062.eps" id="id193391_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id193397">Now the object's weight can be resolved into components parallel and
+perpendicular to the inclined surface. These components are shown as
+dashed arrows in the diagram above and are at right angles to each
+other. The components have been drawn acting from the same
+point. Applying the parallelogram method, the two components of the
+block's weight sum to the weight vector.</para>
+      <para id="id193403">To find the components in terms of the weight we can use trigonometry:</para>
+      <equation id="id193407">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>F</m:mi>
+                  <m:mrow>
+                    <m:mi>g</m:mi>
+                    <m:mo>∥</m:mo>
+                  </m:mrow>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mi>g</m:mi>
+                  <m:mo form="prefix">sin</m:mo>
+                  <m:mi>θ</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>F</m:mi>
+                  <m:mrow>
+                    <m:mi>g</m:mi>
+                    <m:mo>⊥</m:mo>
+                  </m:mrow>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mi>g</m:mi>
+                  <m:mo form="prefix">cos</m:mo>
+                  <m:mi>θ</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id193487">The component of the weight perpendicular to the slope <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mrow><m:mi>g</m:mi><m:mo>⊥</m:mo></m:mrow></m:msub></m:math>
+exactly balances the normal force <m:math overflow="scroll"><m:mi>N</m:mi></m:math> exerted by the surface. The
+parallel component, however, <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mrow><m:mi>g</m:mi><m:mo>∥</m:mo></m:mrow></m:msub></m:math> is unbalanced and causes
+the block to slide down the slope.
+ </para>
+</section>
+<section id="secfhsst_id2203"><title> Worked example </title>
+<exercise id="secfhsst_id2204"><title> Block on an incline plane </title>
+      <problem id="probfhsst_id2205">
+      <para id="id193563">Determine the force needed to keep a 10 kg block from sliding down a frictionless slope. The slope makes an angle of 30<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> with the horizontal. </para>
+      </problem>
+      <solution id="solfhsst_id2208"> <list id="listfhsst_id2208" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Draw a diagram of the situation </label>
+      <para id="id193602">
+        <figure id="id193605">
+          <media id="id193605_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C1_063.png" id="id193605_onlineimage" width="250"><!-- NOTE: attribute width changes image size online (pixels). original width is 250. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_063.eps" id="id193605_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id193612">The force that will keep the block from sliding is equal to the parallel component of the weight, but its direction is up the slope.</para>
+      </item> <item> <label> Calculate <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mrow><m:mi>g</m:mi><m:mo>∥</m:mo></m:mrow></m:msub></m:math> </label>
+      <equation id="id193638">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>F</m:mi>
+                  <m:mrow>
+                    <m:mi>g</m:mi>
+                    <m:mo>∥</m:mo>
+                  </m:mrow>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mi>g</m:mi>
+                  <m:mo form="prefix">sin</m:mo>
+                  <m:mi>θ</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>10</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:msup>
+                      <m:mn>30</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>49</m:mn>
+                  <m:mi mathvariant="normal">N</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Write final answer </label>
+      <para id="id193750">The force is 49 N up the slope. </para>
+      </item> </list> </solution>
+</exercise>
+      
+</section>
+      <section id="uid68">
+        <title>Vector addition using components</title>
+        <para id="id193784">Components can also be used to find the resultant of vectors. This technique can be applied to both graphical and algebraic methods of finding the resultant. The method is simple: make a rough sketch of the problem, find the horizontal and vertical components of each vector, find the sum of all horizontal components and the sum of all the vertical components and then use them to find the resultant.</para>
+        <para id="id193790">Consider the two vectors, <m:math overflow="scroll"><m:mover accent="true"><m:mi>A</m:mi><m:mo>→</m:mo></m:mover></m:math> and <m:math overflow="scroll"><m:mover accent="true"><m:mi>B</m:mi><m:mo>→</m:mo></m:mover></m:math>, in <link target-id="uid69"/>, together with their resultant, <m:math overflow="scroll"><m:mover accent="true"><m:mi>R</m:mi><m:mo>→</m:mo></m:mover></m:math>.</para>
+        <figure id="uid69">
+          <media id="uid69_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C1_064.png" id="uid69_onlineimage" width="266"><!-- NOTE: attribute width changes image size online (pixels). original width is 266. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_064.eps" id="uid69_printimage"/>
+          </media>
+          <caption>An example of two vectors being added to give a resultant</caption>
+        </figure>
+        <para id="id193858">Each vector in <link target-id="uid69"/> can be broken down into one component in the <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-direction (horizontal) and one in the <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-direction (vertical). These components are two vectors which when added give you the original vector as the resultant. This is shown in <link target-id="uid70"/> where we can see that:</para>
+        <para id="id193892">
+          <equation id="id193896">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mover accent="true">
+                      <m:mi>A</m:mi>
+                      <m:mo>→</m:mo>
+                    </m:mover>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mover accent="true">
+                          <m:mi>A</m:mi>
+                          <m:mo>→</m:mo>
+                        </m:mover>
+                        <m:mi>x</m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mover accent="true">
+                          <m:mi>A</m:mi>
+                          <m:mo>→</m:mo>
+                        </m:mover>
+                        <m:mi>y</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mover accent="true">
+                      <m:mi>B</m:mi>
+                      <m:mo>→</m:mo>
+                    </m:mover>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mover accent="true">
+                          <m:mi>B</m:mi>
+                          <m:mo>→</m:mo>
+                        </m:mover>
+                        <m:mi>x</m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mover accent="true">
+                          <m:mi>B</m:mi>
+                          <m:mo>→</m:mo>
+                        </m:mover>
+                        <m:mi>y</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mover accent="true">
+                      <m:mi>R</m:mi>
+                      <m:mo>→</m:mo>
+                    </m:mover>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mover accent="true">
+                          <m:mi>R</m:mi>
+                          <m:mo>→</m:mo>
+                        </m:mover>
+                        <m:mi>x</m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mover accent="true">
+                          <m:mi>R</m:mi>
+                          <m:mo>→</m:mo>
+                        </m:mover>
+                        <m:mi>y</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <!--empty paragraphs get left behind.-->
+          <equation id="id194071">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi> But </m:mi>
+                        <m:mo>,</m:mo>
+                      </m:mrow>
+                      <m:mspace width="1.em"/>
+                      <m:msub>
+                        <m:mover accent="true">
+                          <m:mi mathvariant="normal">R</m:mi>
+                          <m:mo>→</m:mo>
+                        </m:mover>
+                        <m:mi mathvariant="normal">x</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mover accent="true">
+                          <m:mi>A</m:mi>
+                          <m:mo>→</m:mo>
+                        </m:mover>
+                        <m:mi>x</m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mover accent="true">
+                          <m:mi>B</m:mi>
+                          <m:mo>→</m:mo>
+                        </m:mover>
+                        <m:mi>x</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi> and </m:mi>
+                      <m:mspace width="1.em"/>
+                      <m:msub>
+                        <m:mover accent="true">
+                          <m:mi mathvariant="normal">R</m:mi>
+                          <m:mo>→</m:mo>
+                        </m:mover>
+                        <m:mi mathvariant="normal">y</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mover accent="true">
+                          <m:mi>A</m:mi>
+                          <m:mo>→</m:mo>
+                        </m:mover>
+                        <m:mi>y</m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mover accent="true">
+                          <m:mi>B</m:mi>
+                          <m:mo>→</m:mo>
+                        </m:mover>
+                        <m:mi>y</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <!--empty paragraphs get left behind.-->
+        </para>
+        <para id="id194227">In summary, addition of the <m:math overflow="scroll"><m:mi>x</m:mi></m:math> components of the two original
+vectors gives the <m:math overflow="scroll"><m:mi>x</m:mi></m:math> component of the resultant. The same applies to
+the <m:math overflow="scroll"><m:mi>y</m:mi></m:math> components. So if we just added all the components
+together we would get the same answer! This is another important
+property of vectors.</para>
+        <figure id="uid70">
+          <media id="uid70_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C1_065.png" id="uid70_onlineimage" width="271"><!-- NOTE: attribute width changes image size online (pixels). original width is 271. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_065.eps" id="uid70_printimage"/>
+          </media>
+          <caption>Adding vectors using components.</caption>
+        </figure>
+<exercise id="secfhsst_id2504"><title> Adding Vectors Using Components </title>
+        <problem id="probfhsst_id2505">
+        <para id="id194284">If in <link target-id="uid70"/>, <m:math overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>A</m:mi><m:mo>→</m:mo></m:mover><m:mo>=</m:mo><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>385</m:mn><m:mi>m</m:mi><m:mo>·</m:mo><m:msup><m:mi>s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> at an angle of 21.8<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the horizontal and <m:math overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>B</m:mi><m:mo>→</m:mo></m:mover><m:mo>=</m:mo><m:mn>5</m:mn><m:mi>m</m:mi><m:mo>·</m:mo><m:msup><m:mi>s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> at an angle of 53,13<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the horizontal, find <m:math overflow="scroll"><m:mover accent="true"><m:mi>R</m:mi><m:mo>→</m:mo></m:mover></m:math>. </para>
+        </problem>
+        <solution id="solfhsst_id2508"> <list id="listfhsst_id2508" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Decide how to tackle the problem </label>
+        <para id="id194431">The first thing we must realise is that the order that we add the vectors does not matter. Therefore, we can work through the vectors to be added in any order.</para>
+        </item> <item> <label> Resolve <m:math overflow="scroll"><m:mover accent="true"><m:mi>A</m:mi><m:mo>→</m:mo></m:mover></m:math> into components </label>
+        <para id="id194455">We find the components of <m:math overflow="scroll"><m:mover accent="true"><m:mi>A</m:mi><m:mo>→</m:mo></m:mover></m:math> by using known trigonometric ratios. First we find the magnitude of the vertical component, <m:math overflow="scroll"><m:msub><m:mi>A</m:mi><m:mi>y</m:mi></m:msub></m:math>:</para>
+        <equation id="id194490">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>A</m:mi>
+                      <m:mi>y</m:mi>
+                    </m:msub>
+                    <m:mi>A</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mrow>
+                      <m:mn>21</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:msup>
+                        <m:mn>8</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>A</m:mi>
+                      <m:mi>y</m:mi>
+                    </m:msub>
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>385</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>A</m:mi>
+                    <m:mi>y</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>385</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mrow>
+                        <m:mn>21</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:msup>
+                          <m:mn>8</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id194659">Secondly we find the magnitude of the horizontal component, <m:math overflow="scroll"><m:msub><m:mi>A</m:mi><m:mi>x</m:mi></m:msub></m:math>:</para>
+        <equation id="id194678">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">cos</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>A</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:msub>
+                    <m:mi>A</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">cos</m:mo>
+                    <m:mrow>
+                      <m:mn>21</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:msup>
+                        <m:mn>8</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>A</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:msub>
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>385</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>A</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>385</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mrow>
+                        <m:mn>21</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:msup>
+                          <m:mn>8</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>5</m:mn>
+                    <m:mi>m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id194847">
+          <figure id="id194850">
+            <media id="id194850_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C1_066.png" id="id194850_onlineimage" width="158"><!-- NOTE: attribute width changes image size online (pixels). original width is 158. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_066.eps" id="id194850_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id194857">The components give the sides of the right angle triangle, for which the original vector, <m:math overflow="scroll"><m:mover accent="true"><m:mi>A</m:mi><m:mo>→</m:mo></m:mover></m:math>, is the hypotenuse.</para>
+        </item> <item> <label> Resolve <m:math overflow="scroll"><m:mover accent="true"><m:mi>B</m:mi><m:mo>→</m:mo></m:mover></m:math> into components </label>
+        <para id="id194896">We find the components of <m:math overflow="scroll"><m:mover accent="true"><m:mi>B</m:mi><m:mo>→</m:mo></m:mover></m:math> by using known trigonometric ratios. First we find the magnitude of the vertical component, <m:math overflow="scroll"><m:msub><m:mi>B</m:mi><m:mi>y</m:mi></m:msub></m:math>:</para>
+        <equation id="id194931">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>B</m:mi>
+                      <m:mi>y</m:mi>
+                    </m:msub>
+                    <m:mi>B</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mrow>
+                      <m:mn>53</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:msup>
+                        <m:mn>13</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>B</m:mi>
+                      <m:mi>y</m:mi>
+                    </m:msub>
+                    <m:mn>5</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>B</m:mi>
+                    <m:mi>y</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mrow>
+                        <m:mn>53</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:msup>
+                          <m:mn>13</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mi>m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id195090">Secondly we find the magnitude of the horizontal component, <m:math overflow="scroll"><m:msub><m:mi>B</m:mi><m:mi>x</m:mi></m:msub></m:math>:</para>
+        <equation id="id195109">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">cos</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>B</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:msub>
+                    <m:mi>B</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">cos</m:mo>
+                    <m:mrow>
+                      <m:mn>21</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:msup>
+                        <m:mn>8</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msub>
+                      <m:mi>B</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:msub>
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>385</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>B</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>385</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mrow>
+                        <m:mn>53</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:msup>
+                          <m:mn>13</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>5</m:mn>
+                    <m:mi>m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id195278">
+          <figure id="id195281">
+            <media id="id195281_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C1_067.png" id="id195281_onlineimage" width="106"><!-- NOTE: attribute width changes image size online (pixels). original width is 106. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_067.eps" id="id195281_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Determine the components of the resultant vector </label>
+        <para id="id195292">Now we have all the components. If we add all the horizontal components then
+we will have the <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-component of the resultant vector, <m:math overflow="scroll"><m:msub><m:mover accent="true"><m:mi>R</m:mi><m:mo>→</m:mo></m:mover><m:mi>x</m:mi></m:msub></m:math>. Similarly, we add all the vertical components then we will have the <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-component of the resultant vector, <m:math overflow="scroll"><m:msub><m:mover accent="true"><m:mi>R</m:mi><m:mo>→</m:mo></m:mover><m:mi>y</m:mi></m:msub></m:math>.</para>
+        <equation id="id195356">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>A</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>B</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>5</m:mn>
+                    <m:mi>m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mi>m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>8</m:mn>
+                    <m:mi>m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id195478">Therefore, <m:math overflow="scroll"><m:msub><m:mover accent="true"><m:mi>R</m:mi><m:mo>→</m:mo></m:mover><m:mi>x</m:mi></m:msub></m:math> is 8 m to the right.</para>
+        <equation id="id195505">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mi>y</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>A</m:mi>
+                      <m:mi>y</m:mi>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>B</m:mi>
+                      <m:mi>y</m:mi>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:mi>m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>6</m:mn>
+                    <m:mi>m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id195627">Therefore, <m:math overflow="scroll"><m:msub><m:mover accent="true"><m:mi>R</m:mi><m:mo>→</m:mo></m:mover><m:mi>y</m:mi></m:msub></m:math> is 6 m up.</para>
+        </item> <item> <label> Determine the magnitude and direction of the resultant vector </label>
+        <para id="id195658">Now that we have the components of the resultant, we can use the Theorem of Pythagoras to determine the magnitude of the resultant, <m:math overflow="scroll"><m:mi>R</m:mi></m:math>.</para>
+        <equation id="id195672">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msup>
+                    <m:mi>R</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mi>x</m:mi>
+                        </m:msub>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mi>y</m:mi>
+                        </m:msub>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msup>
+                    <m:mi>R</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>6</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>8</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msup>
+                    <m:mi>R</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>100</m:mn>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>∴</m:mo>
+                    <m:mi>R</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>10</m:mn>
+                    <m:mi>m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id195844">
+          <figure id="id195847">
+            <media id="id195847_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C1_068.png" id="id195847_onlineimage" width="260"><!-- NOTE: attribute width changes image size online (pixels). original width is 260. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_068.eps" id="id195847_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id195854">The magnitude of the resultant, <m:math overflow="scroll"><m:mi>R</m:mi></m:math> is 10 m. So all we have to do is calculate its direction. We can specify the direction as the angle the vectors makes with a known direction. To do this you only need to visualise the vector as starting at the origin of a coordinate system. We have drawn this explicitly below and the angle we will calculate is labeled <m:math overflow="scroll"><m:mi>α</m:mi></m:math>.</para>
+        <para id="id195877">Using our known trigonometric ratios we can calculate the value of <m:math overflow="scroll"><m:mi>α</m:mi></m:math>;</para>
+        <equation id="id195891">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">tan</m:mo>
+                    <m:mi>α</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>6</m:mn>
+                      <m:mi>m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi>s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>8</m:mn>
+                      <m:mi>m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi>s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>α</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mo form="prefix">tan</m:mo>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>6</m:mn>
+                        <m:mi>m</m:mi>
+                        <m:mo>·</m:mo>
+                        <m:msup>
+                          <m:mi>s</m:mi>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>8</m:mn>
+                        <m:mi>m</m:mi>
+                        <m:mo>·</m:mo>
+                        <m:msup>
+                          <m:mi>s</m:mi>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>α</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>36</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:msup>
+                      <m:mn>8</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>.</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Quote the final answer </label>
+        <para id="id196058"><m:math overflow="scroll"><m:mover accent="true"><m:mi>R</m:mi><m:mo>→</m:mo></m:mover></m:math> is 10 m at an angle of <m:math overflow="scroll"><m:mrow><m:mn>36</m:mn><m:mo>,</m:mo><m:msup><m:mn>8</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> to the positive <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-axis. </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id3383"><title> Adding and Subtracting Components of Vectors </title>
+        <list id="id196124" display="block" list-type="enumerated">
+          <item id="uid71">Harold walks to school by walking 600 m Northeast and then 500 m N 40<sup>o</sup> W. Determine his resultant displacement by means of addition of components of vectors.
+</item>
+          <item id="uid72">A dove flies from her nest, looking for food for her chick. She flies at a velocity of 2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> on a bearing of 135<m:math overflow="scroll"><m:msup><m:mrow/><m:mi>o</m:mi></m:msup></m:math> in a wind with a velocity of 1,2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> on a bearing of 230<m:math overflow="scroll"><m:msup><m:mrow/><m:mi>o</m:mi></m:msup></m:math>. Calculate her resultant velocity by adding the horizontal and vertical components of vectors.
+</item>
+        </list>
+        
+</section>
+<section id="secfhsst_id3392"><title> Vector Multiplication </title>
+        <para id="id196253">Vectors are special, they are more than just numbers. This means that multiplying vectors is not necessarily the same as just multiplying their magnitudes. There are two different types of multiplication defined for vectors. You can find the dot product of two vectors or the cross product.</para>
+        <para id="id196261">The <emphasis effect="italics">dot</emphasis> product is most similar to regular multiplication between scalars. To take the dot product of two vectors, you just multiply their magnitudes to get out a scalar answer. The mathematical definition of the dot product is:</para>
+        <equation id="id196271">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mover accent="true">
+                <m:mi>a</m:mi>
+                <m:mo>→</m:mo>
+              </m:mover>
+              <m:mo>•</m:mo>
+              <m:mover accent="true">
+                <m:mi>b</m:mi>
+                <m:mo>→</m:mo>
+              </m:mover>
+              <m:mo>=</m:mo>
+              <m:mrow>
+                <m:mo>|</m:mo>
+                <m:mover accent="true">
+                  <m:mi>a</m:mi>
+                  <m:mo>→</m:mo>
+                </m:mover>
+                <m:mo>|</m:mo>
+              </m:mrow>
+              <m:mo>·</m:mo>
+              <m:mrow>
+                <m:mo>|</m:mo>
+                <m:mover accent="true">
+                  <m:mi>b</m:mi>
+                  <m:mo>→</m:mo>
+                </m:mover>
+                <m:mo>|</m:mo>
+              </m:mrow>
+              <m:mo form="prefix">cos</m:mo>
+              <m:mi>θ</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id196342">Take two vectors <m:math overflow="scroll"><m:mover accent="true"><m:mi>a</m:mi><m:mo>→</m:mo></m:mover></m:math> and <m:math overflow="scroll"><m:mover accent="true"><m:mi>b</m:mi><m:mo>→</m:mo></m:mover></m:math>:</para>
+        <para id="id196377">
+          <figure id="id196380">
+            <media id="id196380_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C1_069.png" id="id196380_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_069.eps" id="id196380_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id196387">You can draw in the component of <m:math overflow="scroll"><m:mover accent="true"><m:mi>b</m:mi><m:mo>→</m:mo></m:mover></m:math> that is parallel to <m:math overflow="scroll"><m:mover accent="true"><m:mi>a</m:mi><m:mo>→</m:mo></m:mover></m:math>:</para>
+        <para id="id196422">
+          <figure id="id196425">
+            <media id="id196425_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C1_070.png" id="id196425_onlineimage" width="172"><!-- NOTE: attribute width changes image size online (pixels). original width is 172. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_070.eps" id="id196425_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id196431">In this way we can arrive at the definition of the dot product. You find how much of <m:math overflow="scroll"><m:mover accent="true"><m:mi>b</m:mi><m:mo>→</m:mo></m:mover></m:math> is lined up with <m:math overflow="scroll"><m:mover accent="true"><m:mi>a</m:mi><m:mo>→</m:mo></m:mover></m:math> by finding the component of <m:math overflow="scroll"><m:mover accent="true"><m:mi>b</m:mi><m:mo>→</m:mo></m:mover></m:math> parallel to <m:math overflow="scroll"><m:mover accent="true"><m:mi>a</m:mi><m:mo>→</m:mo></m:mover></m:math>. Then multiply the magnitude of that component, <m:math overflow="scroll"><m:mrow><m:mo>|</m:mo><m:mover accent="true"><m:mi>b</m:mi><m:mo>→</m:mo></m:mover><m:mo>|</m:mo></m:mrow></m:math><m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow></m:math>, with the magnitude of <m:math overflow="scroll"><m:mover accent="true"><m:mi>a</m:mi><m:mo>→</m:mo></m:mover></m:math> to get a scalar.</para>
+        <para id="id196550">The second type of multiplication, the cross product, is more subtle and uses the directions of the vectors in a more complicated way. The cross product of two vectors, <m:math overflow="scroll"><m:mover accent="true"><m:mi>a</m:mi><m:mo>→</m:mo></m:mover></m:math> and <m:math overflow="scroll"><m:mover accent="true"><m:mi>b</m:mi><m:mo>→</m:mo></m:mover></m:math>, is written <m:math overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>a</m:mi><m:mo>→</m:mo></m:mover><m:mo>×</m:mo><m:mover accent="true"><m:mi>b</m:mi><m:mo>→</m:mo></m:mover></m:mrow></m:math> and the result of this operation on <m:math overflow="scroll"><m:mover accent="true"><m:mi>a</m:mi><m:mo>→</m:mo></m:mover></m:math> and <m:math overflow="scroll"><m:mover accent="true"><m:mi>b</m:mi><m:mo>→</m:mo></m:mover></m:math> is another vector. The magnitude of the cross product of these two vectors is:</para>
+        <equation id="id196646">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mo>|</m:mo>
+                <m:mover accent="true">
+                  <m:mi>a</m:mi>
+                  <m:mo>→</m:mo>
+                </m:mover>
+                <m:mo>×</m:mo>
+                <m:mover accent="true">
+                  <m:mi>b</m:mi>
+                  <m:mo>→</m:mo>
+                </m:mover>
+                <m:mo>|</m:mo>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mrow>
+                <m:mo>|</m:mo>
+                <m:mover accent="true">
+                  <m:mi>a</m:mi>
+                  <m:mo>→</m:mo>
+                </m:mover>
+                <m:mo>|</m:mo>
+              </m:mrow>
+              <m:mrow>
+                <m:mo>|</m:mo>
+                <m:mover accent="true">
+                  <m:mi>b</m:mi>
+                  <m:mo>→</m:mo>
+                </m:mover>
+                <m:mo>|</m:mo>
+              </m:mrow>
+              <m:mo form="prefix">sin</m:mo>
+              <m:mi>θ</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id196720">We still need to find the direction of <m:math overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>a</m:mi><m:mo>→</m:mo></m:mover><m:mo>×</m:mo><m:mover accent="true"><m:mi>b</m:mi><m:mo>→</m:mo></m:mover></m:mrow></m:math>. We do this by applying the <emphasis effect="italics">right hand rule</emphasis>.</para>
+        <para id="id196757"><emphasis effect="bold">Method: Right Hand Rule</emphasis><list id="id196768" display="block" list-type="enumerated"><item id="uid73">Using your right hand:
+</item><item id="uid74">Point your index finger in the direction of <m:math overflow="scroll"><m:mover accent="true"><m:mi>a</m:mi><m:mo>→</m:mo></m:mover></m:math>.
+</item><item id="uid75">Point the middle finger in the direction of <m:math overflow="scroll"><m:mover accent="true"><m:mi>b</m:mi><m:mo>→</m:mo></m:mover></m:math>.
+</item><item id="uid76">Your thumb will show the direction of <m:math overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>a</m:mi><m:mo>→</m:mo></m:mover><m:mo>×</m:mo><m:mover accent="true"><m:mi>b</m:mi><m:mo>→</m:mo></m:mover></m:mrow></m:math>.
+</item></list><figure id="id196886"><media id="id196886_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_071.png" id="id196886_onlineimage" width="58"><!-- NOTE: attribute width changes image size online (pixels). original width is 58. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_071.eps" id="id196886_printimage"/></media></figure>
+
+
+ </para>
+</section>
+      </section>
+      <para id="eip-53"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on vectors">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=vectors-100512082234-phpapp02&amp;stripped_title=vectors-4068633&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="uid77">
+        <title>Summary</title>
+        <list id="id196910" display="block" list-type="enumerated">
+          <item id="uid78">A scalar is a physical quantity with magnitude only.
+</item>
+          <item id="uid79">A vector is a physical quantity with magnitude and direction.
+</item>
+          <item id="uid80">Vectors may be represented as arrows where the length of the arrow indicates the magnitude and the arrowhead indicates the direction of the vector.
+</item>
+          <item id="uid81">The direction of a vector can be indicated by referring to another vector or a fixed point (eg. 30<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> from the river bank); using a compass (eg. N 30<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> W); or bearing (eg. 053<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>).
+</item>
+          <item id="uid82">Vectors can be added using the head-to-tail method, the parallelogram method or the component method.
+</item>
+          <item id="uid83">The resultant of a number of vectors is the single vector whose effect is the same as the individual vectors acting together.
+</item>
+        </list>
+      </section>
+      <section id="uid84">
+        <title>End of chapter exercises: Vectors</title>
+        <list id="id197042" display="block" list-type="enumerated">
+          <item id="uid85">An object is suspended by means of a light string. The sketch shows a horizontal force <m:math overflow="scroll"><m:mi>F</m:mi></m:math> which pulls the object from the vertical position until it reaches an equilibrium position as shown. Which one of the following vector diagrams best represents all the forces acting on the object?
+<figure id="id197072"><media id="id197072_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_072.png" id="id197072_onlineimage" width="115"><!-- NOTE: attribute width changes image size online (pixels). original width is 115. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_072.eps" id="id197072_printimage"/></media></figure><table id="id197078" summary=""><tgroup cols="4"><tbody><row><entry>A</entry><entry>B</entry><entry>C</entry><entry>D</entry></row><row><entry><figure id="id197110"><media id="id197110_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_073.png" id="id197110_onlineimage" width="46"><!-- NOTE: attribute width changes image size online (pixels). original width is 46. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_073.eps" id="id197110_printimage"/></media></figure></entry><entry><figure id="id197121"><media id="id197121_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_074.png" id="id197121_onlineimage" width="86"><!-- NOTE: attribute width changes image size online (pixels). original width is 86. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_074.eps" id="id197121_printimage"/></media></figure></entry><entry><figure id="id197132"><media id="id197132_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_075.png" id="id197132_onlineimage" width="86"><!-- NOTE: attribute width changes image size online (pixels). original width is 86. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_075.eps" id="id197132_printimage"/></media></figure></entry><entry><figure id="id197143"><media id="id197143_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_076.png" id="id197143_onlineimage" width="86"><!-- NOTE: attribute width changes image size online (pixels). original width is 86. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_076.eps" id="id197143_printimage"/></media></figure></entry></row></tbody></tgroup></table></item>
+          <item id="uid86">A load of weight <m:math overflow="scroll"><m:mi>W</m:mi></m:math> is suspended from two strings. <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math> are the forces exerted by the strings on the load in the directions show in the figure above. Which one of the following equations is valid for this situation?
+<list id="id197206" display="block" list-type="enumerated"><item id="uid87"><label>A</label><m:math overflow="scroll"><m:mrow><m:mspace width="0.277778em"/><m:mspace width="0.277778em"/></m:mrow></m:math><m:math overflow="scroll"><m:mrow><m:mi>W</m:mi><m:mo>=</m:mo><m:msubsup><m:mi>F</m:mi><m:mn>1</m:mn><m:mn>2</m:mn></m:msubsup><m:mo>+</m:mo><m:msubsup><m:mi>F</m:mi><m:mn>2</m:mn><m:mn>2</m:mn></m:msubsup></m:mrow></m:math></item><item id="uid88"><label>B</label><m:math overflow="scroll"><m:mrow><m:mspace width="0.277778em"/><m:mspace width="0.277778em"/></m:mrow></m:math><m:math overflow="scroll"><m:mrow><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub><m:mo form="prefix">sin</m:mo><m:msup><m:mn>50</m:mn><m:mo>∘</m:mo></m:msup><m:mo>=</m:mo><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub><m:mo form="prefix">sin</m:mo><m:msup><m:mn>30</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid89"><label>C</label><m:math overflow="scroll"><m:mrow><m:mspace width="0.277778em"/><m:mspace width="0.277778em"/></m:mrow></m:math><m:math overflow="scroll"><m:mrow><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub><m:mo form="prefix">cos</m:mo><m:msup><m:mn>50</m:mn><m:mo>∘</m:mo></m:msup><m:mo>=</m:mo><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub><m:mo form="prefix">cos</m:mo><m:msup><m:mn>30</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid90"><label>D</label><m:math overflow="scroll"><m:mrow><m:mspace width="0.277778em"/><m:mspace width="0.277778em"/></m:mrow></m:math><m:math overflow="scroll"><m:mrow><m:mi>W</m:mi><m:mo>=</m:mo><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item></list><figure id="id197477"><media id="id197477_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_077.png" id="id197477_onlineimage" width="112"><!-- NOTE: attribute width changes image size online (pixels). original width is 112. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_077.eps" id="id197477_printimage"/></media></figure></item>
+          <item id="uid91">Two spring balances <m:math overflow="scroll"><m:mi>P</m:mi></m:math> and <m:math overflow="scroll"><m:mi>Q</m:mi></m:math> are connected by means of a piece of string to a wall as shown. A horizontal force of 100 N is exerted on spring balance Q. What will be the readings on spring balances <m:math overflow="scroll"><m:mi>P</m:mi></m:math> and <m:math overflow="scroll"><m:mi>Q</m:mi></m:math>?
+<figure id="id197535"><media id="id197535_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_078.png" id="id197535_onlineimage" width="286"><!-- NOTE: attribute width changes image size online (pixels). original width is 286. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_078.eps" id="id197535_printimage"/></media></figure><table id="id197541" summary=""><tgroup cols="3"><tbody><row><entry/><entry>P</entry><entry>Q</entry></row><row><entry>A</entry><entry>100 N</entry><entry>0 N</entry></row><row><entry>B</entry><entry>25 N</entry><entry>75 N</entry></row><row><entry>C</entry><entry>50 N</entry><entry>50 N</entry></row><row><entry>D</entry><entry>100 N</entry><entry>100 N</entry></row></tbody></tgroup></table></item>
+          <item id="uid92">A point is acted on by two forces in equilibrium. The forces
+<list id="id197705" display="block" list-type="enumerated"><item id="uid93"><label>A</label>have equal magnitudes and directions.
+</item><item id="uid94"><label>B</label>have equal magnitudes but opposite directions.
+</item><item id="uid95"><label>C</label>act perpendicular to each other.
+</item><item id="uid96"><label>D</label>act in the same direction.
+</item></list></item>
+          <item id="uid97">A point in equilibrium is acted on by three forces. Force <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> has components 15 N due south and 13 N due west. What are the components of force <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math>?
+<list id="id197809" display="block" list-type="enumerated"><item id="uid98"><label>A</label>13 N due north and 20 due west
+</item><item id="uid99"><label>B</label>13 N due north and 13 N due west
+</item><item id="uid100"><label>C</label>15 N due north and 7 N due west
+</item><item id="uid101"><label>D</label>15 N due north and 13 N due east
+</item></list><figure id="id197871"><media id="id197871_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_079.png" id="id197871_onlineimage" width="112"><!-- NOTE: attribute width changes image size online (pixels). original width is 112. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_079.eps" id="id197871_printimage"/></media></figure></item>
+          <item id="uid102">Which of the following contains two vectors and a scalar?
+<list id="id197890" display="block" list-type="enumerated"><item id="uid103"><label>A</label>distance, acceleration, speed
+</item><item id="uid104"><label>B</label>displacement, velocity, acceleration
+</item><item id="uid105"><label>C</label>distance, mass, speed
+</item><item id="uid106"><label>D</label>displacement, speed, velocity
+</item></list></item>
+          <item id="uid107">Two vectors act on the same point. What should the angle between them be so that a maximum resultant is obtained?
+<list id="id197965" display="block" list-type="enumerated"><item id="uid108"><label>A</label>0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></item><item id="uid109"><label>B</label>90<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></item><item id="uid110"><label>C</label>180<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></item><item id="uid111"><label>D</label>cannot tell
+</item></list></item>
+          <item id="uid112">Two forces, 4 N and 11 N, act on a point. Which one of the following <emphasis effect="underline">cannot</emphasis> be the magnitude of a resultant?
+<list id="id198082" display="block" list-type="enumerated"><item id="uid113"><label>A</label>4 N
+</item><item id="uid114"><label>B</label>7 N
+</item><item id="uid115"><label>C</label>11 N
+</item><item id="uid116"><label>D</label>15 N
+</item></list></item>
+        </list>
+      </section>
+      <section id="uid117">
+        <title>End of chapter exercises: Vectors - Long questions</title>
+        <list id="id198154" display="block" list-type="enumerated">
+          <item id="uid118">A helicopter flies due east with an air speed of 150 km.h<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. It flies through an air current which moves at 200 km.h<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> north. Given this information, answer the following questions:
+<list id="id198203" display="block" list-type="enumerated"><item id="uid119">In which direction does the helicopter fly?
+</item><item id="uid120">What is the ground speed of the helicopter?
+</item><item id="uid121">Calculate the ground distance covered in 40 minutes by the helicopter.
+</item></list></item>
+          <item id="uid122">A plane must fly 70 km due north. A cross wind is blowing to the west at 30 km.h<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. In which direction must the pilot steer if the plane flies at a speed of 200 km.h<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> in windless conditions?
+</item>
+          <item id="uid123">A stream that is 280 m wide flows along its banks with a velocity of 1.80m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. A raft can travel at a speed of 2.50 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> across the stream. Answer the following questions:
+<list id="id198337" display="block" list-type="enumerated"><item id="uid124">What is the shortest time in which the raft can cross the stream?
+</item><item id="uid125">How far does the raft drift downstream in that time?
+</item><item id="uid126">In what direction must the raft be steered against the current so that it crosses the stream perpendicular to its banks?
+</item><item id="uid127">How long does it take to cross the stream in part c?
+</item></list></item>
+          <item id="uid128">A helicopter is flying from place <m:math overflow="scroll"><m:mi>X</m:mi></m:math> to place <m:math overflow="scroll"><m:mi>Y</m:mi></m:math>. <m:math overflow="scroll"><m:mi>Y</m:mi></m:math> is 1000 km away in a direction <m:math overflow="scroll"><m:msup><m:mn>50</m:mn><m:mo>∘</m:mo></m:msup></m:math> east of north and the pilot wishes to reach it in two hours. There is a wind of speed 150 km.h<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> blowing from the northwest. Find, by accurate construction and measurement (with a scale of <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mspace width="3.33333pt"/><m:mi> cm </m:mi><m:mo>=</m:mo><m:mn>50</m:mn><m:mspace width="3.33333pt"/><m:msup><m:mrow><m:mi> km </m:mi><m:mo>.</m:mo><m:mi mathvariant="normal">h</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>), the
+<list id="id198505" display="block" list-type="enumerated"><item id="uid129">the direction in which the helicopter must fly, and
+</item><item id="uid130">the magnitude of the velocity required for it to reach its destination on time.
+</item></list></item>
+          <item id="uid131">An aeroplane is flying towards a destination 300 km due south from its present position. There is a wind blowing from the north east at 120 km.h<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. The aeroplane needs to reach its destination in 30 minutes. Find, by accurate construction and measurement (with a scale of <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mspace width="3.33333pt"/><m:mi> cm </m:mi><m:mo>=</m:mo><m:mn>30</m:mn><m:mspace width="3.33333pt"/><m:msup><m:mrow><m:mi> km </m:mi><m:mo>.</m:mo><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>), or otherwise,
+<list id="id198608" display="block" list-type="enumerated"><item id="uid132">the direction in which the aeroplane must fly and
+</item><item id="uid133">the speed which the aeroplane must maintain in order to reach the destination on time.
+</item><item id="uid134">Confirm your answers in the previous 2 subquestions with calculations.
+</item></list></item>
+          <item id="uid135">An object of weight <m:math overflow="scroll"><m:mi>W</m:mi></m:math> is supported by two cables attached to the ceiling and wall as shown. The tensions in the two cables are <m:math overflow="scroll"><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>T</m:mi><m:mn>2</m:mn></m:msub></m:math> respectively. Tension <m:math overflow="scroll"><m:mrow><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>1200</m:mn></m:mrow></m:math> N. Determine the tension <m:math overflow="scroll"><m:msub><m:mi>T</m:mi><m:mn>2</m:mn></m:msub></m:math> and weight <m:math overflow="scroll"><m:mi>W</m:mi></m:math> of the object by accurate construction and measurement or by calculation.
+<figure id="id198746"><media id="id198746_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_080.png" id="id198746_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_080.eps" id="id198746_printimage"/></media></figure></item>
+          <item id="uid136">In a map-work exercise, hikers are required to walk from a tree marked A on the map to another tree marked B which lies 2,0 km due East of A. The hikers then walk in a straight line to a waterfall in position C which has components measured from B of 1,0 km E and 4,0 km N.
+<list id="id198765" display="block" list-type="enumerated"><item id="uid137">Distinguish between quantities that are described as being <emphasis effect="italics">vector</emphasis> and <emphasis effect="italics">scalar</emphasis>.
+</item><item id="uid138">Draw a labelled displacement-vector diagram (not necessarily to scale) of the hikers' complete journey.
+</item><item id="uid139">What is the total distance walked by the hikers from their starting point at A to the waterfall C?
+</item><item id="uid140">What are the magnitude and bearing, to the nearest degree, of the displacement of the hikers from their starting point to the waterfall?
+</item></list></item>
+          <item id="uid141">An object <m:math overflow="scroll"><m:mi>X</m:mi></m:math> is supported by two strings, <m:math overflow="scroll"><m:mi>A</m:mi></m:math> and <m:math overflow="scroll"><m:mi>B</m:mi></m:math>, attached to the ceiling as shown in the sketch. Each of these strings can withstand a maximum force of 700 N. The weight of <m:math overflow="scroll"><m:mi>X</m:mi></m:math> is increased gradually.
+<list id="id198883" display="block" list-type="enumerated"><item id="uid142">Draw a rough sketch of the triangle of forces, and use it to explain which string will break first.
+</item><item id="uid143">Determine the maximum weight of <m:math overflow="scroll"><m:mi>X</m:mi></m:math> which can be supported.
+</item></list><figure id="id198922"><media id="id198922_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_081.png" id="id198922_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_081.eps" id="id198922_printimage"/></media></figure></item>
+          <item id="uid144">A rope is tied at two points which are 70 cm apart from each other, on the same horizontal line. The total length of rope is 1 m, and the maximum tension it can withstand in any part is 1000 N. Find the largest mass (<m:math overflow="scroll"><m:mi>m</m:mi></m:math>), in kg, that can be carried at the midpoint of the rope, without breaking the rope. Include a vector diagram in your answer.
+<figure id="id198958"><media id="id198958_media" alt=""><image mime-type="image/png" src="../../media/PG11C1_082.png" id="id198958_onlineimage" width="256"><!-- NOTE: attribute width changes image size online (pixels). original width is 256. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_082.eps" id="id198958_printimage"/></media></figure></item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

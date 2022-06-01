@@ -1,0 +1,187 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Shapes of molecules</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38905</md:content-id>
+  <md:title>Shapes of molecules</md:title>
+  <md:abstract/>
+  <md:uuid>d5d1d182-3eb0-419a-bfda-3615e56fafea</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid11">
+      <title>The Shape of Molecules</title>
+      <section id="uid107">
+        <title>Valence Shell Electron Pair Repulsion (VSEPR) theory</title>
+        <para id="id145538">The shape of a covalent molecule can be predicted using the Valence Shell Electron Pair Repulsion (VSEPR) theory. This is a model in chemistry that tries to predict the shapes of molecules. Very simply, VSEPR theory says that the valence electron pairs in a molecule will arrange themselves around the central atom of the molecule so that the repulsion between their negative charges is as small as possible. In other words, the valence electron pairs arrange themselves so that they are as far apart as they can be. The number of valence electron pairs in the molecule determines the dhape of that molecule.</para>
+<definition id="fhsst_id846"><term id="termfhsst_id846"> Valence Shell Electron Pair Repulsion Theory
+        </term> <meaning id="meaningfhsst_id847">
+        <para id="id145564">Valence shell electron pair repulsion (VSEPR) theory is a model in chemistry, which is used to predict the shape of individual molecules, based upon the extent of their electron-pair repulsion.</para>
+        <para id="id145571">VSEPR theory is based on the idea that the geometry of a molecule is mostly determined by repulsion among the pairs of electrons around a central atom. The pairs of electrons may be bonding or non-bonding (also called lone pairs). Only valence electrons of the central atom influence the molecular shape in a meaningful way. </para>
+        </meaning></definition>
+      </section>
+      <section id="uid108">
+        <title>Determining the shape of a molecule</title>
+        <para id="id145596">To predict the shape of a covalent molecule, follow these steps:</para>
+        <para id="id145599">
+          <emphasis effect="italics">Step 1:</emphasis>
+        </para>
+        <para id="id145608">Draw the molecule using Lewis notation. Make sure that you draw <emphasis effect="italics">all</emphasis> the electrons around the molecule's central atom.</para>
+        <para id="id145618">
+          <emphasis effect="italics">Step 2:</emphasis>
+        </para>
+        <para id="id145627">Count the number of electron pairs around the central atom.</para>
+        <para id="id145630">
+          <emphasis effect="italics">Step 3:</emphasis>
+        </para>
+        <para id="id145639">Determine the basic geometry of the molecule using the table below. For example, a molecule with two electron pairs around the central atom has a <emphasis effect="italics">linear</emphasis> shape, and one with four electron pairs around the central atom would have a <emphasis effect="italics">tetrahedral</emphasis> shape. The situation is actually more complicated than this, but this will be discussed later in this section.</para>
+        <table id="uid109" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Number of electron pairs</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Geometry</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>linear</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>trigonal planar</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>tetrahedral</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>trigonal bipyramidal</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>octahedral</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>The effect of electron pairs in determining the shape of molecules</caption>
+        </table>
+        <para id="id145806"><link target-id="uid110"/> shows each of these shapes. Remember that the shapes are 3-dimensional, and so you need to try to imagine them in this way. In the diagrams, the thicker lines represents those parts of the molecule that are 'in front' (or coming out of the page), while the dashed lines represent those parts that are 'at the back' (or going into the page) of the molecule.</para>
+        <figure id="uid110">
+          <media id="uid110_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_023.png" id="uid110_onlineimage" width="404"><!-- NOTE: attribute width changes image size online (pixels). original width is 404. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_023.eps" id="uid110_printimage"/>
+          </media>
+          <caption>Some common molecular shapes</caption>
+        </figure>
+<para id="eip-20">The simulation in <link target-id="cid5">covalent bonding</link> also allows you to view the molecules in 3-D. The shape of the molecules in this view is the shape of the molecule predicted by VSEPR.</para><para id="eip-668">You can also view different molecules and see their shapes at <link window="new" url="http://alteredqualia.com/canvasmol">this website</link>. You do not need to know all these molecules, this is simply to give you a feel for what molecules look like.</para><exercise id="secfhsst_id910"><title> The shapes of molecules </title>
+        <problem id="probfhsst_id911">
+        <para id="id145843">Determine the shape of a molecule of <m:math overflow="scroll"><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:math></para>
+        
+        </problem>
+        <solution id="solfhsst_id915"> <list id="listfhsst_id915" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Draw the molecule using Lewis notation </label>
+        <figure id="uid111">
+          <media id="uid111_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_024.png" id="uid111_onlineimage" width="62"><!-- NOTE: attribute width changes image size online (pixels). original width is 62. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_024.eps" id="uid111_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Count the number of electron pairs around the central atom </label>
+        <para id="id145898">There are two electron pairs.</para>
+        </item> <item> <label> Determine the basic geometry of the molecule </label>
+        <para id="id145908">Since there are two electron pairs, the molecule must be linear.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id930"><title> The shapes of molecules
+        </title>
+        <problem id="probfhsst_id932">
+        <para id="id145942">Determine the shape of a molecule of <m:math overflow="scroll"><m:mrow><m:mi>B</m:mi><m:msub><m:mi>F</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math></para>
+        
+        </problem>
+        <solution id="solfhsst_id936"> <list id="listfhsst_id936" list-type="enumerated" number-style="arabic" class="stepwise">
+        
+      
+        <item> <label> Draw the molecule using Lewis notation </label>
+        <figure id="uid112">
+          <media id="uid112_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_025.png" id="uid112_onlineimage" width="77"><!-- NOTE: attribute width changes image size online (pixels). original width is 77. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_025.eps" id="uid112_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Count the number of electron pairs around the central atom </label>
+        <para id="id146016">There are three electron pairs.</para>
+        </item> <item> <label> Determine the basic geometry of the molecule </label>
+        <para id="id146024">Since there are three electron pairs, the molecule must be trigonal planar.</para>
+  </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id951"><title>
+        More about molecular shapes
+        </title>
+        <para id="id146045">Determining the shape of a molecule can be a bit more complicated. In the examples we have used above, we looked only at the number of <emphasis effect="bold">bonding electron pairs</emphasis> when we were trying to decide on the molecules' shape. But there are also other electron pairs in the molecules. These electrons, which are not involved in bonding but which are also around the central atom, are called <emphasis effect="bold">lone pairs</emphasis>. The worked example below will give you an indea of how these lone pairs can affect the shape of the molecule.
+ </para>
+</section>
+<exercise id="secfhsst_id957"><title> Advanced
+        </title>
+        <problem id="probfhsst_id959">
+        <para id="id146091">Determine the shape of a molecule of <m:math overflow="scroll"><m:mrow><m:mi>N</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math></para>
+        
+        </problem>
+        <solution id="solfhsst_id963"> <list id="listfhsst_id963" list-type="enumerated" number-style="arabic" class="stepwise">
+        
+        
+        <item> <label> Draw the molecule using Lewis notation </label>
+        <figure id="uid113">
+          <media id="uid113_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_026.png" id="uid113_onlineimage" width="147"><!-- NOTE: attribute width changes image size online (pixels). original width is 147. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_026.eps" id="uid113_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Count the number of electron pairs around the central atom </label>
+        <para id="id146164">There are four electron pairs.</para>
+        </item> <item> <label> Determine the basic geometry of the molecule </label>
+        <para id="id146172">Since there are four electron pairs, the molecule must be tetrahedral.</para>
+        </item> <item> <label> Determine how many lone pairs are around the central atom </label>
+        <para id="id146180">There is one lone pair of electrons and this will affect the shape of the molecule.</para>
+        </item> <item> <label> Determine the final shape of the molecule </label>
+        <para id="id146191">The lone pair needs more space than the bonding pairs, and therefore pushes the three hydrogen atoms together a little more. The bond angles between the hydrogen and nitrogen atoms in the molecule become 106 degrees, rather than the usual 109 degrees of a tetrahedral molecule. The shape of the molecule is <emphasis effect="italics">trigonal pyramidal</emphasis>.</para>
+</item> </list> </solution>
+</exercise>
+<section id="secfhsst_id982"><title> Group work : Building molecular models
+        </title>
+        <para id="id146215">In groups, you are going to build a number of molecules using marshmallows to represent the atoms in the molecule, and toothpicks to represent the bonds between the atoms. In other words, the toothpicks will hold the atoms (marshmallows) in the molecule together. Try to use different coloured marshmallows to represent different elements.</para>
+        <para id="id146223">You will build models of the following molecules:</para>
+        <para id="id146227">HCl, <m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>, <m:math overflow="scroll"><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math>, HBr and NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></para>
+        <para id="id146278">For each molecule, you need to:</para>
+        <list id="id146283" display="block" list-type="bulleted">
+          <item id="uid114">Determine the basic geometry of the molecule
+</item>
+          <item id="uid115">Build your model so that the atoms are as far apart from each other as possible (remember that the electrons around the central atom will try to avoid the repulsions between them).
+</item>
+          <item id="uid116">Decide whether this shape is accurate for that molecule or whether there are any lone pairs that may influence it.
+</item>
+          <item id="uid117">Adjust the position of the atoms so that the bonding pairs are further away from the lone pairs.
+</item>
+          <item id="uid118">How has the shape of the molecule changed?
+</item>
+          <item id="uid119">Draw a simple diagram to show the shape of the molecule. It doesn't matter if it is not 100% accurate. This exercise is only to help you to visualise the 3-dimensional shapes of molecules.
+</item>
+        </list>
+        <para id="id146365">Do the models help you to have a clearer picture of what the molecules look like? Try to build some more models for other molecules you can think of.
+ </para>
+</section>
+      </section><para id="eip-755"><figure id="slidesharefigure1" class="slideshare">
+    	<media id="slidesharemedia1" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash1" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=shapesofmolecules-100512072754-phpapp01&amp;stripped_title=shapes-of-molecules-4068152&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,466 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Mathematical properties</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39056</md:content-id>
+  <md:title>Mathematical properties</md:title>
+  <md:abstract/>
+  <md:uuid>d35c6239-9a41-4ce4-8ac5-342a25ad5e9d</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid7">
+      <title>Mathematical Properties of Vectors</title>
+      <para id="id188277">Vectors are mathematical objects and we need to understand the mathematical properties of vectors, like adding and subtracting.</para>
+      <para id="id188281">For all the examples in this section, we will use displacement as our vector quantity. Displacement was discussed in
+Grade 10.</para>
+      <para id="id188286">Displacement is defined as the distance together with direction of the straight line joining a final point to an initial point.</para>
+      <para id="id188290">Remember that displacement is just one example of a vector. We could just as well have decided to use forces or velocities to illustrate the properties of vectors.</para>
+      <section id="uid35">
+        <title>Adding Vectors</title>
+        <para id="id188304">When vectors are added, we need to add both a magnitude <emphasis effect="bold">and</emphasis> a direction. For example, take 2 steps in the forward direction, stop and then take another 3 steps in the forward direction. The first 2 steps is a displacement vector and the second 3 steps is also a displacement vector. If we did not stop after the first 2 steps, we would have taken 5 steps in the forward direction in total. Therefore, if we add the displacement vectors for 2 steps and 3 steps, we should get a total of 5 steps in the forward direction. Graphically, this can be seen by first following the first vector two steps forward and then following the second one three steps forward (ie. in the same direction):</para>
+        <para id="id188318">
+          <figure id="id188322">
+            <media id="id188322_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C1_013.png" id="id188322_onlineimage" width="224"><!-- NOTE: attribute width changes image size online (pixels). original width is 224. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_013.eps" id="id188322_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id188328">We add the second vector at the end of the first vector, since this is where we now are after the first vector has acted. The vector from the tail of the
+first vector (the starting point) to the head of the last (the end
+point) is then the sum of the vectors. This is the <emphasis effect="italics">head-to-tail</emphasis> method of vector addition.</para>
+        <para id="id188340">As you can convince yourself, the order in which you add vectors does
+not matter. In the example above, if you decided to first go 3 steps
+forward and then another 2 steps forward, the end result would still be 5
+steps forward.</para>
+        <para id="id188345">The final answer when adding vectors is called the <emphasis effect="bold">resultant</emphasis>. The resultant displacement in this case will be 5 steps forward.</para>
+<definition id="fhsst_id269"><term id="termfhsst_id269"> Resultant of Vectors </term> <meaning id="meaningfhsst_id269">
+        <para id="id188362">The resultant of a number of vectors is the single vector whose effect is the same as the individual vectors acting together. </para>
+        </meaning></definition>
+        <para id="id188374">In other words, the individual vectors can be replaced by the
+resultant – the overall effect is the same. If vectors <m:math overflow="scroll"><m:mover accent="true"><m:mi>a</m:mi><m:mo>→</m:mo></m:mover></m:math> and <m:math overflow="scroll"><m:mover accent="true"><m:mi>b</m:mi><m:mo>→</m:mo></m:mover></m:math> have a resultant <m:math overflow="scroll"><m:mover accent="true"><m:mi>R</m:mi><m:mo>→</m:mo></m:mover></m:math>, this can be represented mathematically as,</para>
+        <equation id="id188427">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mover accent="true">
+                    <m:mi>R</m:mi>
+                    <m:mo>→</m:mo>
+                  </m:mover>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mover accent="true">
+                      <m:mi>a</m:mi>
+                      <m:mo>→</m:mo>
+                    </m:mover>
+                    <m:mo>+</m:mo>
+                    <m:mover accent="true">
+                      <m:mi>b</m:mi>
+                      <m:mo>→</m:mo>
+                    </m:mover>
+                    <m:mo>.</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id188482">Let us consider some more examples of vector addition using displacements. The arrows tell you how far to move and in what
+direction. Arrows to the right correspond to steps forward, while
+arrows to the left correspond to steps backward. Look at all of the
+examples below and check them.</para>
+        <para id="id186651">
+          <figure id="id186654">
+            <media id="id186654_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C1_014.png" id="id186654_onlineimage" width="223"><!-- NOTE: attribute width changes image size online (pixels). original width is 223. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_014.eps" id="id186654_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id186661">This example says 1 step forward and then another step forward is the same as an arrow twice as long – two steps forward.</para>
+        <para id="id186668">
+          <figure id="id186672">
+            <media id="id186672_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C1_015.png" id="id186672_onlineimage" width="222"><!-- NOTE: attribute width changes image size online (pixels). original width is 222. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_015.eps" id="id186672_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id186678">This examples says 1 step backward and then another step backward is the same as an arrow twice as long – two steps backward.</para>
+        <para id="id186684">It is sometimes possible that you end up back where you started. In this case the net result of what you have done is that you have gone nowhere
+(your start and end points are at the same place). In this case, your resultant displacement is a vector with length zero units. We use the symbol <m:math overflow="scroll"><m:mover accent="true"><m:mn>0</m:mn><m:mo>→</m:mo></m:mover></m:math> to denote such a vector:</para>
+        <para id="id186706">
+          <figure id="id186710">
+            <media id="id186710_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C1_016.png" id="id186710_onlineimage" width="165"><!-- NOTE: attribute width changes image size online (pixels). original width is 165. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_016.eps" id="id186710_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id186716">
+          <figure id="id188625">
+            <media id="id188625_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C1_017.png" id="id188625_onlineimage" width="166"><!-- NOTE: attribute width changes image size online (pixels). original width is 166. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_017.eps" id="id188625_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id188632">Check the following examples in the same way. Arrows up the page can be
+seen as steps left and arrows down the page as steps right.</para>
+        <para id="id188636">Try a couple to convince yourself!</para>
+        <table id="id188639" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <figure id="id188647">
+                    <media id="id188647_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_018.png" id="id188647_onlineimage" width="56"><!-- NOTE: attribute width changes image size online (pixels). original width is 56. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_018.eps" id="id188647_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+                <entry>
+                  <figure id="id188657">
+                    <media id="id188657_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_019.png" id="id188657_onlineimage" width="56"><!-- NOTE: attribute width changes image size online (pixels). original width is 56. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_019.eps" id="id188657_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <table id="id188668" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <figure id="id188676">
+                    <media id="id188676_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_020.png" id="id188676_onlineimage" width="63"><!-- NOTE: attribute width changes image size online (pixels). original width is 63. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_020.eps" id="id188676_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+                <entry>
+                  <figure id="id188686">
+                    <media id="id188686_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_021.png" id="id188686_onlineimage" width="63"><!-- NOTE: attribute width changes image size online (pixels). original width is 63. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_021.eps" id="id188686_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id188697">It is important to realise that the directions are not special– `forward
+and backwards' or `left and right' are treated in the same way. The same is
+true of any set of parallel directions:</para>
+        <table id="id188703" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <figure id="id188711">
+                    <media id="id188711_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_022.png" id="id188711_onlineimage" width="138"><!-- NOTE: attribute width changes image size online (pixels). original width is 138. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_022.eps" id="id188711_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+                <entry>
+                  <figure id="id188721">
+                    <media id="id188721_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_023.png" id="id188721_onlineimage" width="137"><!-- NOTE: attribute width changes image size online (pixels). original width is 137. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_023.eps" id="id188721_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <table id="id188732" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <figure id="id188740">
+                    <media id="id188740_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_024.png" id="id188740_onlineimage" width="93"><!-- NOTE: attribute width changes image size online (pixels). original width is 93. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_024.eps" id="id188740_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+                <entry>
+                  <figure id="id188750">
+                    <media id="id188750_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_025.png" id="id188750_onlineimage" width="92"><!-- NOTE: attribute width changes image size online (pixels). original width is 92. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_025.eps" id="id188750_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id188761">In the above examples the separate displacements were parallel to one
+another. However the same head-to-tail technique of vector addition
+can be applied to vectors in any direction.</para>
+        <table id="id188766" summary="">
+          <tgroup cols="3">
+            <tbody>
+              <row>
+                <entry>
+                  <figure id="id188773">
+                    <media id="id188773_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_026.png" id="id188773_onlineimage" width="108"><!-- NOTE: attribute width changes image size online (pixels). original width is 108. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_026.eps" id="id188773_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+                <entry>
+                  <figure id="id188783">
+                    <media id="id188783_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_027.png" id="id188783_onlineimage" width="108"><!-- NOTE: attribute width changes image size online (pixels). original width is 108. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_027.eps" id="id188783_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+                <entry>
+                  <figure id="id188793">
+                    <media id="id188793_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_028.png" id="id188793_onlineimage" width="118"><!-- NOTE: attribute width changes image size online (pixels). original width is 118. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_028.eps" id="id188793_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id188804">Now you have discovered one use for vectors; describing resultant
+displacement – how far and in what direction you
+have travelled after a series of movements.</para>
+        <para id="id188810">Although vector addition here has been demonstrated with
+displacements, all vectors behave in exactly the same way. Thus, if
+given a number of forces acting on a body you can use the same method
+to determine the resultant force acting on the body. We will return to
+vector addition in more detail later.</para>
+      </section>
+      <section id="uid36">
+        <title>Subtracting Vectors</title>
+        <para id="id188826">What does it mean to subtract a vector? Well this is really simple; if
+we have 5 apples and we subtract 3 apples, we have only 2 apples left. Now
+lets work in steps; if we take 5 steps forward and then subtract 3 steps
+forward we are left with only two steps forward:</para>
+        <para id="id188832">
+          <figure id="id188835">
+            <media id="id188835_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C1_029.png" id="id188835_onlineimage" width="312"><!-- NOTE: attribute width changes image size online (pixels). original width is 312. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_029.eps" id="id188835_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id188842">What have we done? You originally took 5 steps forward but then you took
+3 steps back. That backward displacement would be represented by an arrow
+pointing to the left (backwards) with length 3. The net result of
+adding these two vectors is 2 steps forward:</para>
+        <para id="id188847">
+          <figure id="id188851">
+            <media id="id188851_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C1_030.png" id="id188851_onlineimage" width="688"><!-- NOTE: attribute width changes image size online (pixels). original width is 688. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_030.eps" id="id188851_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id188857">Thus, subtracting a vector from another is the same as adding a vector in the opposite direction (i.e. subtracting 3 steps forwards is the same
+as adding 3 steps backwards).</para>
+<note id="notfhsst_id524" type="tip">Subtracting a vector from another is the same as adding a vector in the opposite direction.</note>
+        <para id="id188869">In the problem, motion in the forward direction has been represented by an arrow to the right. Arrows to the right are positive and arrows to the left are negative. More generally, vectors in opposite directions differ in sign (i.e. if we define up as positive, then
+vectors acting down are negative). Thus, changing the sign of a vector
+simply reverses its direction:</para>
+        <table id="id188875" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <figure id="id188883">
+                    <media id="id188883_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_031.png" id="id188883_onlineimage" width="68"><!-- NOTE: attribute width changes image size online (pixels). original width is 68. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_031.eps" id="id188883_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+                <entry>
+                  <figure id="id188893">
+                    <media id="id188893_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_032.png" id="id188893_onlineimage" width="68"><!-- NOTE: attribute width changes image size online (pixels). original width is 68. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_032.eps" id="id188893_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <table id="id188904" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <figure id="id188912">
+                    <media id="id188912_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_033.png" id="id188912_onlineimage" width="27"><!-- NOTE: attribute width changes image size online (pixels). original width is 27. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_033.eps" id="id188912_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+                <entry>
+                  <figure id="id188922">
+                    <media id="id188922_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_034.png" id="id188922_onlineimage" width="27"><!-- NOTE: attribute width changes image size online (pixels). original width is 27. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_034.eps" id="id188922_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <table id="id188933" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <figure id="id188940">
+                    <media id="id188940_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_035.png" id="id188940_onlineimage" width="50"><!-- NOTE: attribute width changes image size online (pixels). original width is 50. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_035.eps" id="id188940_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+                <entry>
+                  <figure id="id188950">
+                    <media id="id188950_media" alt="">
+                      <image mime-type="image/png" src="../../media/PG11C1_036.png" id="id188950_onlineimage" width="51"><!-- NOTE: attribute width changes image size online (pixels). original width is 51. --></image>
+                      <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_036.eps" id="id188950_printimage"/>
+                    </media>
+                  </figure>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id188962">In mathematical form, subtracting <m:math overflow="scroll"><m:mover accent="true"><m:mi>a</m:mi><m:mo>→</m:mo></m:mover></m:math> from
+<m:math overflow="scroll"><m:mover accent="true"><m:mi>b</m:mi><m:mo>→</m:mo></m:mover></m:math> gives a new vector <m:math overflow="scroll"><m:mover accent="true"><m:mi>c</m:mi><m:mo>→</m:mo></m:mover></m:math>:</para>
+        <equation id="id189012">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mover accent="true">
+                    <m:mi>c</m:mi>
+                    <m:mo>→</m:mo>
+                  </m:mover>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mover accent="true">
+                      <m:mi>b</m:mi>
+                      <m:mo>→</m:mo>
+                    </m:mover>
+                    <m:mo>-</m:mo>
+                    <m:mover accent="true">
+                      <m:mi>a</m:mi>
+                      <m:mo>→</m:mo>
+                    </m:mover>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mover accent="true">
+                      <m:mi>b</m:mi>
+                      <m:mo>→</m:mo>
+                    </m:mover>
+                    <m:mo>+</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mover accent="true">
+                        <m:mi>a</m:mi>
+                        <m:mo>→</m:mo>
+                      </m:mover>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id189102">This clearly shows that subtracting vector <m:math overflow="scroll"><m:mover accent="true"><m:mi>a</m:mi><m:mo>→</m:mo></m:mover></m:math> from
+<m:math overflow="scroll"><m:mover accent="true"><m:mi>b</m:mi><m:mo>→</m:mo></m:mover></m:math> is the same as adding <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mo>-</m:mo><m:mover accent="true"><m:mi>a</m:mi><m:mo>→</m:mo></m:mover><m:mo>)</m:mo></m:mrow></m:math> to
+<m:math overflow="scroll"><m:mover accent="true"><m:mi>b</m:mi><m:mo>→</m:mo></m:mover></m:math>. Look at the following examples of vector
+subtraction.</para>
+        <para id="id189179">
+          <figure id="id189182">
+            <media id="id189182_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C1_037.png" id="id189182_onlineimage" width="154"><!-- NOTE: attribute width changes image size online (pixels). original width is 154. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_037.eps" id="id189182_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id189188">
+          <figure id="id189192">
+            <media id="id189192_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C1_038.png" id="id189192_onlineimage" width="188"><!-- NOTE: attribute width changes image size online (pixels). original width is 188. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_038.eps" id="id189192_printimage"/>
+            </media>
+          </figure>
+        </para>
+      </section>
+      <section id="uid37">
+        <title>Scalar Multiplication</title>
+        <para id="id189208">What happens when you multiply a vector by a scalar (an ordinary
+number)?</para>
+        <para id="id189212">Going back to normal multiplication we know that <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mo>×</m:mo><m:mn>2</m:mn></m:mrow></m:math> is just
+2 groups of 2 added together to give 4. We can adopt a similar approach to understand how vector multiplication works.</para>
+        <para id="id189232">
+          <figure id="id189235">
+            <media id="id189235_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C1_039.png" id="id189235_onlineimage" width="162"><!-- NOTE: attribute width changes image size online (pixels). original width is 162. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_039.eps" id="id189235_printimage"/>
+            </media>
+          </figure>
+        </para>
+      </section>
+    </section>
+
+  </content>
+</document>

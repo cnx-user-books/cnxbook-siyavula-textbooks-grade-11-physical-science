@@ -1,0 +1,662 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Energy Changes In Chemical Reactions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35877</md:content-id>
+  <md:title>Energy Changes In Chemical Reactions</md:title>
+  <md:abstract/>
+  <md:uuid>6335469b-2d89-41f8-9d42-346f925347e7</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1">
+      <title>Introduction</title>
+      <para id="id62175">All chemical reactions involve energy changes. In some reactions, we are able to observe these energy changes as either an increase or a decrease in the overall energy of the system.</para>
+    </section>
+    <section id="cid2">
+      <title>What causes the energy changes in chemical reactions?</title>
+      <para id="id62190">When a chemical reaction occurs, bonds in the reactants <emphasis effect="italics">break</emphasis>, while new bonds <emphasis effect="italics">form</emphasis> in the product. The following example may help to explain this.
+Hydrogen reacts with oxygen to form water, according to the following equation:</para>
+      <equation id="uid1">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mn>2</m:mn>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>+</m:mo>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>→</m:mo>
+            <m:mn>2</m:mn>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mi>O</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id62589">In this reaction, the bond between the two hydrogen atoms in the H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> molecule will <emphasis effect="italics">break</emphasis>, as will the bond between the oxygen atoms in the O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> molecule. New bonds will <emphasis effect="italics">form</emphasis> between the two hydrogen atoms and the single oxygen atom in the water molecule that is formed as the product.</para>
+      <para id="id62629">For bonds to <emphasis effect="italics">break</emphasis>, energy must be <emphasis effect="italics">absorbed</emphasis>. When new bonds <emphasis effect="italics">form</emphasis>, energy is <emphasis effect="italics">released</emphasis>. The energy that is needed to break a bond is called the <emphasis effect="bold">bond energy</emphasis> or <emphasis effect="bold">bond dissociation energy</emphasis>. Bond energies are measured in units of kJ.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.</para>
+<definition id="fhsst_id74"><term id="termfhsst_id74"> Bond energy </term> <meaning id="meaningfhsst_id74">
+      <para id="id62686">Bond energy is a measure of bond strength in a chemical bond. It is the amount of energy (in kJ.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>) that is needed to break the chemical bond between two atoms. </para>
+      </meaning></definition>
+    </section>
+    <section id="cid3">
+      <title>Exothermic and endothermic reactions</title>
+      <para id="id62723">In some reactions, the energy that must be <emphasis effect="italics">absorbed</emphasis> to break the bonds in the reactants, is less than
+the total energy that is <emphasis effect="italics">released</emphasis> when new bonds are formed. This means that in the overall reaction, energy is <emphasis effect="italics">released</emphasis> as either heat or light. This type of reaction is called an <emphasis effect="bold">exothermic</emphasis> reaction. Another way of describing an exothermic reaction is that it is one in which the energy of the product is less than the energy of the reactants, because energy has been released during the reaction. We can represent this using the following general formula:</para>
+      <para id="id62752">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi> Reactants </m:mi>
+            <m:mo>→</m:mo>
+            <m:mi> Product </m:mi>
+            <m:mo>+</m:mo>
+            <m:mi> Energy </m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+<definition id="fhsst_id93"><term id="termfhsst_id93"> Exothermic reaction </term> <meaning id="meaningfhsst_id93">
+      <para id="id62779">An exothermic reaction is one that releases energy in the form of heat or light. </para>
+      </meaning></definition>
+      <para id="id62790">In other reactions,the energy that must be <emphasis effect="italics">absorbed</emphasis> to break the bonds in the reactants, is more than
+the total energy that is <emphasis effect="italics">released</emphasis> when new bonds are formed. This means that in the overall reaction, energy must be <emphasis effect="italics">absorbed</emphasis> from the surroundings. This type of reaction is known as an <emphasis effect="bold">endothermic</emphasis> reaction. Another way of describing an endothermic reaction is that it is one in which the energy of the product is greater than the energy of the reactants, because energy has been absorbed during the reaction. This can be represented by the following formula:</para>
+      <para id="id62819">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi> Reactants </m:mi>
+            <m:mo>+</m:mo>
+            <m:mi> Energy </m:mi>
+            <m:mo>→</m:mo>
+            <m:mi> Product </m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+<definition id="fhsst_id109"><term id="termfhsst_id109"> Endothermic reaction </term> <meaning id="meaningfhsst_id109">
+      <para id="id62846">An endothermic reaction is one that absorbs energy in the form of heat or light. </para>
+      </meaning></definition>
+      <para id="id62857">The difference in energy (E) between the reactants and the products is known as the <emphasis effect="bold">heat of the reaction</emphasis>. It is also sometimes referred to as the <emphasis effect="bold">enthalpy change</emphasis> of the system.</para>
+<section id="secfhsst_id113"><title> Demonstration : Endothermic and exothermic reactions 1
+      </title>
+      <para id="id62884">
+        <emphasis effect="bold">Apparatus and materials:</emphasis>
+      </para>
+      <para id="id62893">You will need citric acid, sodium bicarbonate, a glass beaker, the lid of an ice-cream container, thermometer, glass stirring rod and a pair of scissors. Note that citric acid is found in citrus fruits such as lemons. Sodium bicarbonate is actually bicarbonate of soda (baking soda), the baking ingredient that helps cakes to rise.</para>
+      <para id="id62901">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id62909" display="block" list-type="enumerated">
+        <item id="uid2">Cut a piece of plastic from the ice-cream container lid that will be big enough to cover the top of the beaker. Cut a small hole in the centre of this piece of plastic and place the thermometer through it.
+</item>
+        <item id="uid3">Pour some citric acid (H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>C<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>5</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>7</m:mn></m:msub></m:math>) into the glass beaker, cover the beaker with its 'lid' and record the temperature of the solution.
+</item>
+        <item id="uid4">Stir in the sodium bicarbonate (NaHCO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>), then cover the beaker again.
+</item>
+        <item id="uid5">Immediately record the temperature, and then take a temperature reading every two minutes after that. Record your results in a table like the one below.
+</item>
+      </list>
+      <table id="id63023" summary="">
+        <tgroup cols="5">
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Time</emphasis> (mins)</entry>
+              <entry>0</entry>
+              <entry>2</entry>
+              <entry>4</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Temperature</emphasis> (<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C)</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <!--empty paragraphs get left behind.-->
+      <para id="id63131">The equation for the reaction that takes place is:</para>
+      <para id="id63135">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>3</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>C</m:mi>
+              <m:mn>6</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>5</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>7</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>a</m:mi>
+              <m:mi>q</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:mn>3</m:mn>
+            <m:mi>N</m:mi>
+            <m:mi>a</m:mi>
+            <m:mi>H</m:mi>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>3</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>s</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>→</m:mo>
+            <m:mn>3</m:mn>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>g</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:mn>3</m:mn>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mi>O</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>l</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:mi>N</m:mi>
+            <m:msub>
+              <m:mi>a</m:mi>
+              <m:mn>3</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>C</m:mi>
+              <m:mn>6</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>5</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>7</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>a</m:mi>
+              <m:mi>q</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id63477">
+        <emphasis effect="bold">Results:</emphasis>
+      </para>
+      <list id="id63484" display="block" list-type="bulleted">
+        <item id="uid6">Plot your temperature results on a graph of temperature against time. What happens to the temperature during this reaction?
+</item>
+        <item id="uid7">Is this an exothermic or an endothermic reaction?
+</item>
+        <item id="uid8">Why was it important to keep the beaker covered with a lid?
+</item>
+        <item id="uid9">Do you think a glass beaker is the best thing to use for this experiment? Explain your answer.
+</item>
+        <item id="uid10">Suggest another container that could have been used and give reasons for your choice. It might help you to look back to Grade 10 for some ideas!
+</item>
+      </list>
+      
+</section>
+<section id="secfhsst_id262"><title> Demonstration : Endothermic and exothermic reactions 2
+      </title>
+      <para id="id63570">
+        <emphasis effect="bold">Apparatus and materials:</emphasis>
+      </para>
+      <para id="id63578">Vinegar, steel wool, thermometer, glass beaker and plastic lid (from previous demonstration).</para>
+      <para id="id63584">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id63593" display="block" list-type="enumerated">
+        <item id="uid11">Put the thermometer through the plastic lid, cover the beaker and record the temperature in the empty beaker. You will need to leave the thermometer in the beaker for about 5 minutes in order to get an accurate reading.
+</item>
+        <item id="uid12">Take the thermometer out of the jar.
+</item>
+        <item id="uid13">Soak a piece of steel wool in vinegar for about a minute. The vinegar removes the protective coating from the steel wool so that the metal is exposed to oxygen.
+</item>
+        <item id="uid14">After the steel wool has been in the vinegar, remove it and squeeze out any vinegar that is still on the wool. Wrap the steel wool around the thermometer and place it (still wrapped round the thermometer) back into the jar. The jar is automatically sealed when you do this because the thermometer is through the top of the lid.
+</item>
+        <item id="uid15">Leave the steel wool in the beaker for about 5 minutes and then record the temperature. Record your observations.
+</item>
+      </list>
+      <para id="id63661">
+        <emphasis effect="bold">Results:</emphasis>
+      </para>
+      <para id="id63667">You should notice that the temperature <emphasis effect="italics">increases</emphasis> when the steel wool is wrapped around the thermometer.</para>
+      <para id="id63678">
+        <emphasis effect="bold">Conclusion:</emphasis>
+      </para>
+      <para id="id63686">The reaction between oxygen and the exposed metal in the steel wool, is <emphasis effect="bold">exothermic</emphasis>, which means that energy is released and the temperature increases.
+ </para>
+</section>
+    </section>
+    <section id="cid4">
+      <title>The heat of reaction</title>
+      <para id="id63713">The <emphasis effect="bold">heat of the reaction</emphasis> is represented by the symbol <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>H</m:mi></m:mrow></m:math>, where:</para>
+      <equation id="id63732">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>Δ</m:mi>
+                  <m:mi>H</m:mi>
+                  <m:mo>=</m:mo>
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mrow>
+                      <m:mi>p</m:mi>
+                      <m:mi>r</m:mi>
+                      <m:mi>o</m:mi>
+                      <m:mi>d</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                  <m:mo>-</m:mo>
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mrow>
+                      <m:mi>r</m:mi>
+                      <m:mi>e</m:mi>
+                      <m:mi>a</m:mi>
+                      <m:mi>c</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <list id="id63791" display="block" list-type="bulleted">
+        <item id="uid16">In an <emphasis effect="italics">exothermic</emphasis> reaction, <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>H</m:mi></m:mrow></m:math> is less than zero because the energy of the reactants is greater than the energy of the product. For example,
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>H</m:mi><m:mi>C</m:mi><m:mi>l</m:mi></m:mrow></m:math><m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H = -183 kJ
+</item>
+        <item id="uid17">In an <emphasis effect="italics">endothermic</emphasis> reaction, <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>H</m:mi></m:mrow></m:math> is greater than zero because the energy of the reactants is less than the energy of the product. For example,
+<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>O</m:mi><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math><m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H = +131 kJ
+</item>
+      </list>
+      <para id="id63950">Some of the information relating to exothermic and endothermic reactions is summarised in <link target-id="uid18"/>.</para>
+<definition id="fhsst_id341"><term id="termfhsst_id341"> Enthalpy </term> <meaning id="meaningfhsst_id341">
+      <para id="id63964">Enthalpy is the heat content of a chemical system for a given pressure, and is given the symbol 'H'. </para>
+      </meaning></definition>
+      <table id="uid18" summary="">
+        <tgroup cols="3">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Type of reaction</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Exothermic</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Endothermic</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">Energy absorbed or released</emphasis>
+              </entry>
+              <entry>Released</entry>
+              <entry>Absorbed</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">Relative energy of reactants and products</emphasis>
+              </entry>
+              <entry>Energy of reactants greater than energy of product</entry>
+              <entry>Energy of reactants less than energy of product</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">Sign of <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H</emphasis>
+              </entry>
+              <entry>Negative</entry>
+              <entry>Positive</entry>
+            </row>
+          </tbody>
+        </tgroup>
+        <caption>A comparison of exothermic and endothermic reactions</caption>
+      </table>
+<note id="notfhsst_id383" type="tip"><emphasis effect="bold">Writing equations using <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H</emphasis>
+      <para id="id64158">There are two ways to write the heat of the reaction in an equation</para>
+      <para id="id64162">For the exothermic reaction <m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>, we can write:</para>
+      <para id="id64220"><m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math><m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H = -393 kJ.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> or</para>
+      <para id="id64304"><m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> + 393 kJ.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></para>
+      <para id="id64375">For the endothermic reaction, <m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mi>C</m:mi><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>, we can write:</para>
+      <para id="id64448"><m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mi>C</m:mi><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math><m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H = +131 kJ.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> or</para>
+      <para id="id64545"><m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> + 131 kJ.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math><m:math overflow="scroll"><m:mrow><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>O</m:mi><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></para>
+      <para id="id64622">The <emphasis effect="bold">units</emphasis> for <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H are kJ.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. In other words, the <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H value gives the amount of energy that is absorbed or released per mole of product that is formed. Units can also be written as kJ, which then gives the total amount of energy that is released or absorbed when the product forms. </para>
+</note>
+<section id="secfhsst_id394"><title> Investigation : Endothermic and exothermic reactions
+      </title>
+      <para id="id64683">
+        <emphasis effect="bold">Apparatus and materials:</emphasis>
+      </para>
+      <para id="id64692"/>
+      <para id="id64700">Approximately 2 g each of calcium chloride (CaCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>), sodium hydroxide (NaOH), potassium nitrate (KNO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>) and barium chloride (BaCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>); concentrated sulfuric acid (H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>) (Be Careful, this can cause serious burns) ; 5 test tubes; thermometer.</para>
+      <para id="id64770">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <para id="id64779"/>
+      <list id="id64786" display="block" list-type="enumerated">
+        <item id="uid19">Dissolve about 1 g of each of the following substances in 5-10 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of water in a test tube: CaCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>, NaOH, KNO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> and BaCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>.
+</item>
+        <item id="uid20">Observe whether the reaction is endothermic or exothermic, either by feeling whether the side of the test tube gets hot or cold, or using a thermometer.
+</item>
+        <item id="uid21">Dilute 3 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of concentrated H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> in 10 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of water in the fifth test tube and observe whether the temperature changes.
+</item>
+        <item id="uid22">Wait a few minutes and then carefully add NaOH to the H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>. Observe any energy changes.
+</item>
+        <item id="uid23">Record which of the above reactions are endothermic and which are exothermic.
+</item>
+      </list>
+      <para id="id64984">
+        <emphasis effect="bold">Results:</emphasis>
+      </para>
+      
+      <list id="id64999" display="block" list-type="bulleted">
+        <item id="uid24">When BaCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> and KNO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> dissolve in water, they take in heat from the surroundings. The dissolution of these salts is <emphasis effect="bold">endothermic</emphasis>.
+</item>
+        <item id="uid25">When CaCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> and NaOH dissolve in water, heat is released. The process is <emphasis effect="bold">exothermic</emphasis>.
+</item>
+        <item id="uid26">The reaction of H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> and NaOH is also <emphasis effect="bold">exothermic</emphasis>.
+</item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid5">
+      <title>Examples of endothermic and exothermic reactions</title>
+      <para id="id65142">There are many examples of endothermic and exothermic reactions that occur around us all the time. The following are just a few examples.</para>
+      <list id="id65147" display="block" list-type="enumerated">
+        <item id="uid27">
+          <emphasis effect="bold">Endothermic reactions</emphasis>
+          <list id="id65166" display="block" list-type="bulleted">
+            <item id="uid28"><emphasis effect="bold">Photosynthesis</emphasis>
+Photosynthesis is the chemical reaction that takes place in plants, which uses energy from the sun to change carbon dioxide and water into food that the plant needs to survive, and which other organisms (such as humans and other animals) can eat so that they too can survive. The equation for this reaction is:
+<m:math overflow="scroll"><m:mrow><m:mn>6</m:mn><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>12</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo><m:mi> energy </m:mi><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>6</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>12</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>6</m:mn></m:msub><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math>
+Photosynthesis is an endothermic reaction because it will not happen without an external source of energy, which in this case is sunlight.
+</item>
+            <item id="uid29"><emphasis effect="bold">The thermal decomposition of limestone</emphasis>
+In industry, the breakdown of limestone into quicklime and carbon dioxide is very important. Quicklime can be used to make steel from iron and also to neutralise soils that are too acid. However, the limestone must be heated in a kiln at a temperature of over <m:math overflow="scroll"><m:mrow><m:msup><m:mn>900</m:mn><m:mn>0</m:mn></m:msup><m:mi>C</m:mi></m:mrow></m:math> before the decomposition reaction will take place. The equation for the reaction is shown below:
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi> CaCO </m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:mi> CaO </m:mi><m:mo>+</m:mo><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item>
+          </list>
+        </item>
+        <item id="uid30">
+          <emphasis effect="bold">Exothermic reactions</emphasis>
+          <list id="id65391" display="block" list-type="bulleted">
+            <item id="uid31"><emphasis effect="bold">Combustion reactions</emphasis> - The burning of fuel is an example of a combustion reaction, and we as humans rely heavily on this process for our energy requirements. The following equations describe the combustion of a hydrocarbon such as <emphasis effect="italics">methane</emphasis> (CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>):
+<m:math overflow="scroll"><m:mrow><m:mi> Fuel </m:mi><m:mo>+</m:mo><m:mi> Oxygen </m:mi><m:mo>→</m:mo><m:mi> Heat </m:mi><m:mo>+</m:mo><m:mi> Water </m:mi><m:mo>+</m:mo><m:mi> Carbon </m:mi><m:mi> Dioxide </m:mi></m:mrow></m:math><m:math overflow="scroll"><m:mrow><m:msub><m:mi> CH </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mi> Heat </m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>
+This is why we burn fuels for energy, because the chemical changes that take place during the reaction release huge amounts of energy, which we then use for things like power and electricity. You should also note that <emphasis effect="italics">carbon dioxide</emphasis> is produced during this reaction. Later we will discuss some of the negative impacts of <m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math> on the environment. The chemical reaction that takes place when fuels burn therefore has both positive and negative consequences.
+</item>
+            <item id="uid32"><emphasis effect="bold">Respiration</emphasis>
+Respiration is the chemical reaction that happens in our bodies to produce energy for our cells. The equation below describes what happens during this reaction:
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>6</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>12</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>6</m:mn></m:msub><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mn>6</m:mn><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo><m:mi> energy </m:mi></m:mrow></m:math>
+In the reaction above, glucose (a type of carbohydrate in the food we eat) reacts with oxygen from the air that we breathe in, to form carbon dioxide (which we breathe out), water and energy. The energy that is produced allows the cell to carry out its functions efficiently. Can you see now why you are always told that you must eat food to get energy? It is not the food itself that provides you with energy, but the exothermic reaction that takes place when compounds within the food react with the oxygen you have breathed in!
+</item>
+          </list>
+        </item>
+      </list>
+<note id="notfhsst_id464"><title> Interesting Fact </title> 
+Lightsticks or glowsticks are used by divers, campers, and for decoration and fun. A lightstick is a plastic tube with a glass vial inside it. To activate a lightstick, you bend the plastic stick, which breaks the glass vial. This allows the chemicals that are inside the glass to mix with the chemicals in the plastic tube. These two chemicals react and release energy. Another part of a lightstick is a fluorescent dye which changes this energy into light, causing the lightstick to glow!
+</note>
+<section id="secfhsst_id467"><title> Endothermic and exothermic reactions </title>
+      <list id="id65698" display="block" list-type="enumerated">
+        <item id="uid33">In each of the following reactions, say whether the reaction is endothermic or exothermic, and give a reason for your answer.
+<list id="id65714" display="block" list-type="enumerated"><item id="uid34"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>I</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>H</m:mi><m:mi>I</m:mi><m:mo>+</m:mo><m:mn>21</m:mn><m:mi>k</m:mi><m:mi>J</m:mi><m:mo>.</m:mo><m:mi>m</m:mi><m:mi>o</m:mi><m:msup><m:mi>l</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></item><item id="uid35"><m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math><m:math overflow="scroll"><m:mi>Δ</m:mi></m:math> H = -802 kJ.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item><item id="uid36">The following reaction takes place in a flask:
+<m:math overflow="scroll"><m:mrow><m:mi>B</m:mi><m:mi>a</m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:mi>O</m:mi><m:mi>H</m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mo>.</m:mo><m:mn>8</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>N</m:mi><m:msub><m:mi>H</m:mi><m:mn>4</m:mn></m:msub><m:mi>N</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:mi>B</m:mi><m:mi>a</m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:mi>N</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>N</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>10</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math>
+Within a few minutes, the temperature of the flask drops by approximately 20C.
+</item><item id="uid37"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>N</m:mi><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>N</m:mi><m:mi>a</m:mi><m:mi>C</m:mi><m:mi>l</m:mi></m:mrow></m:math><m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H = -411 kJ
+</item><item id="uid38"><m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mo>+</m:mo><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item></list></item>
+        <item id="uid39">For each of the following descriptions, say whether the process is endothermic or exothermic and give a reason for your answer.
+<list id="id66127" display="block" list-type="enumerated"><item id="uid40">evaporation
+</item><item id="uid41">the combustion reaction in a car engine
+</item><item id="uid42">bomb explosions
+</item><item id="uid43">melting ice
+</item><item id="uid44">digestion of food
+</item><item id="uid45">condensation
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid6">
+      <title>Spontaneous and non-spontaneous reactions</title>
+<section id="secfhsst_id489"><title> Demonstration : Spontaneous and non-spontaneous reactions </title>
+      <para id="id66232">
+        <emphasis effect="bold">Apparatus and materials:</emphasis>
+      </para>
+      <para id="id66241">A length of magnesium ribbon, thick copper wire and a bunsen burner.</para>
+      <para id="id66245">
+        <figure id="id66246">
+          <media id="id66246_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C7_001.png" id="id66246_onlineimage" width="161"><!-- NOTE: attribute width changes image size online (pixels). original width is 161. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C7_001.eps" id="id66246_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id66253">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <para id="id66260"/>
+      <list id="id66267" display="block" list-type="enumerated">
+        <item id="uid46">Scrape the length of magnesium ribbon and copper wire clean.
+</item>
+        <item id="uid47">Heat each piece of metal over the bunsen burner, in a non-luminous flame. Do Not look directly at the flame. Observe whether any chemical reaction takes place.
+</item>
+        <item id="uid48">Remove the metals from the flame and observe whether the reaction stops. If the reaction stops, return the metal to the bunsen flame and continue to heat it.
+</item>
+      </list>
+      <para id="id66311">
+        <emphasis effect="bold">Results:</emphasis>
+      </para>
+      
+      <list id="id66326" display="block" list-type="bulleted">
+        <item id="uid49">Did any reaction take place before the metals were heated?
+</item>
+        <item id="uid50">Did either of the reactions continue after they were removed from the flame?
+</item>
+        <item id="uid51">Write a balanced equation for each of the chemical reactions that takes place.
+</item>
+      </list>
+      
+</section>
+      <para id="id66377">In the demonstration above, the reaction between magnesium and oxygen, and the reaction between copper and oxygen are both <emphasis effect="bold">non-spontaneous</emphasis>. Before the metals were held over the bunsen burner, no reaction was observed. They need energy to <emphasis effect="italics">initiate</emphasis> the reaction. After the reaction has started, it may then carry on spontaneously. This is what happened when the magnesium reacted with oxygen. Even after the magnesium was removed from the flame, the reaction continued. Other reactions will not carry on unless there is a constant addition of energy. This was the case when copper reacted with oxygen. As soon as the copper was removed from the flame, the reaction stopped.</para>
+      <para id="id66397">Now try carefuly adding a solution of dilute sulfuric acid to a solution of sodium hydroxide. What do you observe? This is an example of a <emphasis effect="bold">spontaneous reaction</emphasis> because the reaction takes place without any energy being added.</para>
+<definition id="fhsst_id530"><term id="termfhsst_id530"> Spontaneous reaction </term> <meaning id="meaningfhsst_id530">
+      <para id="id66417">A spontaneous reaction is a physical or chemical change that occurs without the addition of energy.
+ </para>
+      </meaning></definition>
+    </section>
+    <section id="cid7">
+      <title>Activation energy and the activated complex</title>
+      <para id="id66439">From the demonstrations of spontaneous and non-spontaneous reactions, it should be clear that most reactions will not take place until the system has some minimum amount of energy added to it. This energy is called the <emphasis effect="bold">activation energy</emphasis>. <emphasis effect="bold">Activation energy</emphasis> is the 'threshold energy' or the energy that must be overcome in order for a chemical reaction to occur.</para>
+<definition id="fhsst_id538"><term id="termfhsst_id538"> Activation energy </term> <meaning id="meaningfhsst_id538">
+      <para id="id66464">Activation energy or 'threshold energy' is the energy that must be overcome in order for a chemical reaction to occur. </para>
+      </meaning></definition>
+      <para id="id66476">It is possible to draw an energy diagram to show the energy changes that take place during a particular reaction. Let's consider an example:</para>
+      <equation id="id66481">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>H</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mi>g</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mo>+</m:mo>
+                  <m:msub>
+                    <m:mi>F</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mi>g</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mo>→</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mi>H</m:mi>
+                  <m:mi>F</m:mi>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mi>g</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <figure id="uid52">
+        <media id="uid52_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C7_002.png" id="uid52_onlineimage" width="303"><!-- NOTE: attribute width changes image size online (pixels). original width is 303. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C7_002.eps" id="uid52_printimage"/>
+        </media>
+        <caption>The energy changes that take place during an exothermic reaction</caption>
+      </figure>
+      <para id="id66559">The reaction between <m:math overflow="scroll"><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> (<link target-id="uid52"/>) needs energy in order to proceed, and this is the activation energy. Once the reaction has started, an in-between, temporary state is reached where the two reactants combine to give <m:math overflow="scroll"><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>. This state is sometimes called a <emphasis effect="bold">transition state</emphasis> and the energy that is needed to reach this state is equal to the activation energy for the reaction. The compound that is formed in this transition state is called the <emphasis effect="bold">activated complex</emphasis>. The transition state lasts for only a very short time, after which either the original bonds reform, or the bonds are broken and a new product forms. In this example, the final product is HF and it has a lower energy than the reactants. The reaction is exothermic and <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H is negative.</para>
+<definition id="fhsst_id590"><term id="termfhsst_id590"> Activated complex </term> <meaning id="meaningfhsst_id590">
+      <para id="id66668">The activated complex is a transitional structure in a chemical reaction that results from the effective collisions between reactant molecules, and which remains while old bonds break and new bonds form. </para>
+      </meaning></definition>
+      <para id="id66681">In endothermic reactions, the final products have a higher energy than the reactants. An energy diagram is shown below (<link target-id="uid53"/>) for the endothermic reaction <m:math overflow="scroll"><m:mrow><m:mi>X</m:mi><m:mi>Y</m:mi><m:mo>+</m:mo><m:mi>Z</m:mi><m:mo>→</m:mo><m:mi>X</m:mi><m:mo>+</m:mo><m:mi>Y</m:mi><m:mi>Z</m:mi></m:mrow></m:math>. In this example, the activated complex has the formula XYZ. Notice that the activation energy for the endothermic reaction is much greater than for the exothermic reaction.</para>
+      <figure id="uid53">
+        <media id="uid53_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C7_003.png" id="uid53_onlineimage" width="303"><!-- NOTE: attribute width changes image size online (pixels). original width is 303. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C7_003.eps" id="uid53_printimage"/>
+        </media>
+        <caption>The energy changes that take place during an endothermic reaction</caption>
+      </figure>
+<note id="notfhsst_id601"><title> Interesting Fact </title> 
+The reaction between H and F was considered by NASA (National Aeronautics and Space Administration) as a fuel system for rocket boosters because of the energy that is released during this exothermic reaction.
+</note>
+<note id="notfhsst_id604" type="tip">Enzymes and activation energy
+      <para id="id66746">An enzyme is a catalyst that helps to speed up the rate of a reaction by lowering the activation energy of a reaction. There are many enzymes in the human body, without which lots of important reactions would never take place. Cellular respiration is one example of a reaction that is catalysed by enzymes. You will learn more about catalysts in Grade 12.</para>
+</note>
+<section id="secfhsst_id607"><title> Energy and reactions
+      </title>
+      <list id="id66767" display="block" list-type="enumerated">
+        <item id="uid54">
+Carbon reacts with water according to the following equation:
+<m:math overflow="scroll"><m:mrow><m:mi mathvariant="normal">C</m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>→</m:mo><m:mi> CO </m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math><m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H <m:math overflow="scroll"><m:mo>&gt;</m:mo></m:math> 0
+<list id="id66851" display="block" list-type="enumerated"><item id="uid55">Is this reaction endothermic or exothermic?
+</item><item id="uid56">Give a reason for your answer.
+</item></list></item>
+        <item id="uid57">
+Refer to the graph below and then answer the questions that follow:
+<figure id="id66895"><media id="id66895_media" alt=""><image mime-type="image/png" src="../../media/CG11C7_004.png" id="id66895_onlineimage" width="303"><!-- NOTE: attribute width changes image size online (pixels). original width is 303. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C7_004.eps" id="id66895_printimage"/></media></figure><list id="id66902" display="block" list-type="enumerated"><item id="uid58">What is the energy of the reactants?
+</item><item id="uid59">What is the energy of the products?
+</item><item id="uid60">Calculate <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H.
+</item><item id="uid61">What is the activation energy for this reaction?
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid8">
+      <title>Summary</title>
+      <list id="id66984" display="block" list-type="bulleted">
+        <item id="uid62">When a reaction occurs, some bonds break and new bonds form. These changes involve <emphasis effect="bold">energy</emphasis>.
+</item>
+        <item id="uid63">When bonds break, energy is <emphasis effect="bold">absorbed</emphasis> and when new bonds form, energy is <emphasis effect="bold">released</emphasis>.
+</item>
+        <item id="uid64">The <emphasis effect="bold">bond energy</emphasis> is the amount of energy that is needed to break the chemical bond between two atoms.
+</item>
+        <item id="uid65">If the energy that is needed to <emphasis effect="italics">break</emphasis> the bonds is greater than the energy that is released when new bonds <emphasis effect="italics">form</emphasis>, then the reaction is <emphasis effect="bold">endothermic</emphasis>. The energy of the product is greater than the energy of the reactants.
+</item>
+        <item id="uid66">If the energy that is needed to <emphasis effect="italics">break</emphasis> the bonds is less than the energy that is released when new bonds <emphasis effect="italics">form</emphasis>, then the reaction is <emphasis effect="bold">exothermic</emphasis>. The energy of the product is less than the energy of the reactants.
+</item>
+        <item id="uid67">An endothermic reaction is one that <emphasis effect="bold">absorbs</emphasis> energy in the form of heat, while an exothermic reaction is one that <emphasis effect="bold">releases</emphasis> energy in the form of heat and light.
+</item>
+        <item id="uid68">The difference in energy between the reactants and the product is called the <emphasis effect="bold">heat of reaction</emphasis> and has the symbol <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H.
+</item>
+        <item id="uid69">In an endothermic reaction, <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H is a positive number, and in an exothermic reaction, <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H will be negative.
+</item>
+        <item id="uid70">Photosynthesis, evaporation and the thermal decomposition of limestone, are all examples of endothermic reactions.
+</item>
+        <item id="uid71">Combustion reactions and respiration are both examples of exothermic reactions.
+</item>
+        <item id="uid72">A reaction which proceeds without additional energy being added, is called a <emphasis effect="bold">spontaneous reaction</emphasis>.
+</item>
+        <item id="uid73">Reactions where energy must be <emphasis effect="italics">continuosly supplied</emphasis> for the reaction to contiune, are called <emphasis effect="bold">non-spontaneous</emphasis> reactions.
+</item>
+        <item id="uid74">In any reaction, some minimum energy must be overcome before the reaction will proceed. This is called the <emphasis effect="bold">activation energy</emphasis> of the reaction.
+</item>
+        <item id="uid75">The <emphasis effect="bold">activated complex</emphasis> is the transitional product that is formed during a chemical reaction while old bonds break and new bonds form.
+</item>
+      </list>
+<section id="secfhsst_id659"><title> Summary Exercise
+      </title>
+      <list id="id67313" display="block" list-type="enumerated">
+        <item id="uid76">For each of the following, say whether the statement is <emphasis effect="bold">true</emphasis> or <emphasis effect="bold">false</emphasis>. If it is false, give a reason for your answer.
+<list id="id67341" display="block" list-type="enumerated"><item id="uid77">Energy is released in all chemical reactions.
+</item><item id="uid78">The condensation of water vapour is an example of an endothermic reaction.
+</item><item id="uid79">In an exothermic reaction <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H is less than zero.
+</item><item id="uid80">All non-spontaneous reactions are endothermic.
+</item></list></item>
+        <item id="uid81">For each of the following, choose the one correct answer.
+<list id="id67417" display="block" list-type="enumerated"><item id="uid82">For the following reaction:
+<m:math overflow="scroll"><m:mrow><m:mi mathvariant="normal">A</m:mi><m:mo>+</m:mo><m:mi mathvariant="normal">B</m:mi><m:mo>→</m:mo><m:mi> AB </m:mi></m:mrow></m:math><m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H = -129 kJ.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math><list id="id67485" display="block" list-type="enumerated"><item id="uid83">The energy of the reactants is less than the energy of the product.
+</item><item id="uid84">The energy of the product is less than the energy of the reactants.
+</item><item id="uid85">The reaction is non-spontaneous.
+</item><item id="uid86">The overall energy of the system increases during the reaction.
+</item></list></item><item id="uid87">Consider the following chemical equilibrium:
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi> NO </m:mi><m:mn>2</m:mn></m:msub><m:mo>⇌</m:mo><m:msub><m:mi mathvariant="normal">N</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math><m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H &lt; 0
+Which one of the following graphs best represents the changes in potential energy that take place during the production of N<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>?
+<figure id="id67638"><media id="id67638_media" alt=""><image mime-type="image/png" src="../../media/CG11C7_005.png" id="id67638_onlineimage" width="595"><!-- NOTE: attribute width changes image size online (pixels). original width is 595. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C7_005.eps" id="id67638_printimage"/></media></figure></item></list></item>
+        <item id="uid88">The cellular respiration reaction is catalysed by enzymes. The equation for the reaction is:
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>6</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>12</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>6</m:mn></m:msub><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mn>6</m:mn><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math>
+The change in potential energy during this reaction is shown below:
+<figure id="id67750"><media id="id67750_media" alt=""><image mime-type="image/png" src="../../media/CG11C7_006.png" id="id67750_onlineimage" width="303"><!-- NOTE: attribute width changes image size online (pixels). original width is 303. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C7_006.eps" id="id67750_printimage"/></media></figure><list id="id67757" display="block" list-type="enumerated"><item id="uid89">Will the value of <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H be positive or negative? Give a reason for your answer.
+</item><item id="uid90">Explain what is meant by 'activation energy'.
+</item><item id="uid91">What role do enzymes play in this reaction?
+</item><item id="uid92">Glucose is one of the reactants in cellular respiration. What important chemical reaction produces glucose?
+</item><item id="uid93">Is the reaction in your answer above an endothermic or an exothermic one? Explain your answer.
+</item><item id="uid94">Explain why proper nutrition and regular exercise are important in maintaining a healthy body.
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

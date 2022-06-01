@@ -1,0 +1,1557 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Ideal gas law and general gas equation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39086</md:content-id>
+  <md:title>Ideal gas law and general gas equation</md:title>
+  <md:abstract/>
+  <md:uuid>f284bb5f-53e7-4c49-9e5d-612d6b14cc47</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>The general gas equation</title>
+      <para id="id236292">All the gas laws we have described so far rely on the fact that at least one variable (T, p or V) remains constant. Since this is unlikely to be the case most times, it is useful to combine the relationships into one equation. These relationships are as follows:</para>
+      <para id="id236298">Boyle's law: p <m:math overflow="scroll"><m:mo>∝</m:mo></m:math><m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mi>V</m:mi></m:mfrac></m:math> (constant T)</para>
+      <para id="id236326">Relationship between p and T: p <m:math overflow="scroll"><m:mo>∝</m:mo></m:math> T (constant V)</para>
+      <para id="id236341">If we combine these relationships, we get p <m:math overflow="scroll"><m:mo>∝</m:mo></m:math><m:math overflow="scroll"><m:mfrac><m:mi>T</m:mi><m:mi>V</m:mi></m:mfrac></m:math></para>
+      <para id="id236368">If we introduce the proportionality constant k, we get p = k<m:math overflow="scroll"><m:mfrac><m:mi>T</m:mi><m:mi>V</m:mi></m:mfrac></m:math></para>
+      <para id="id236386">or, rearranging the equation...</para>
+      <equation id="id236391">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>k</m:mi>
+            <m:mi>T</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id236412">We can also rewrite this relationship as follows:</para>
+      <equation id="id236416">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>p</m:mi>
+                <m:mi>V</m:mi>
+              </m:mrow>
+              <m:mi>T</m:mi>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mi>k</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id236439">Provided the mass of the gas stays the same, we can also say that:</para>
+      <equation id="id236443">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>p</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>p</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id236506">In the above equation, the subscripts 1 and 2 refer to two pressure and volume readings for the same mass of gas under different conditions. This is known as the <emphasis effect="bold">general gas equation</emphasis>. Temperature is always in kelvin and the units used for pressure and volume must be the same on both sides of the equation.</para>
+<note id="notfhsst_id1096" type="tip">
+      <para id="id236523">Remember that the general gas equation only applies if the mass of the gas is fixed.</para></note>
+<exercise id="secfhsst_id1098"><title> General Gas Equation 1 </title>
+      <problem id="probfhsst_id1099">
+      <para id="id236540">At the beginning of a journey, a truck tyre has a volume of 30 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> and an internal pressure of 170 kPa. The temperature of the tyre is 16<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C. By the end of the trip, the volume of the tyre has increased to 32 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> and the temperature of the air inside the tyre is 35<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C. What is the tyre pressure at the end of the journey?</para>
+      
+      </problem>
+      <solution id="solfhsst_id1103"> <list id="listfhsst_id1103" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Write down all the information that you know about the gas. </label>
+      <para id="id236639">p<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 170 kPa and p<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = ?</para>
+      <para id="id236669">V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 30 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> and V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = 32 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math></para>
+      <para id="id236723">T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 16<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C and T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = 40<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C</para>
+      </item> <item> <label> Convert the known values to SI units if necessary. </label>
+      <para id="id236782">Here, temperature must be converted into Kelvin, therefore:</para>
+      <para id="id236786">T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 16 + 273 = 289 K</para>
+      <para id="id236802">T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = 40 + 273 = 313 K</para>
+      </item> <item> <label> Choose a relevant gas law equation that will allow you to calculate the unknown variable. </label>
+      <para id="id236823">Use the general gas equation to solve this problem:</para>
+      <equation id="id236827">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>p</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>×</m:mo>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>p</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mo>×</m:mo>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id236894">Therefore,</para>
+      <equation id="id236897">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>p</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>p</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>×</m:mo>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>×</m:mo>
+                <m:msub>
+                  <m:mi>T</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>T</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>×</m:mo>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Substitute the known values into the equation. Calculate the unknown variable. </label>
+      <equation id="id236970">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>p</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>170</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>30</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>313</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>289</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>32</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>173</m:mn>
+            <m:mi>k</m:mi>
+            <m:mi>P</m:mi>
+            <m:mi>a</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id237023">The pressure of the tyre at the end of the journey is 173 kPa.</para>
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1231"><title> General Gas Equation 2 </title>
+      <problem id="probfhsst_id1232">
+      <para id="id237040">A cylinder that contains methane gas is kept at a temperature of 15<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C and exerts a pressure of 7 atm. If the temperature of the cylinder increases to 25<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C, what pressure does the gas now exert? (Refer to <link target-id="uid44"/> to see what an 'atm' is.</para>
+      
+      </problem>
+      <solution id="solfhsst_id1236"> <list id="listfhsst_id1236" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Write down all the information that you know about the gas. </label>
+      <para id="id237117">p<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 7 atm and p<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = ?</para>
+      <para id="id237147">T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 15<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C and T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = 25<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C</para>
+      </item> <item> <label> Convert the known values to SI units if necessary. </label>
+      <para id="id237206">Here, temperature must be converted into Kelvin, therefore:</para>
+      <para id="id237210">T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 15 + 273 = 288 K</para>
+      <para id="id237226">T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = 25 + 273 = 298 K</para>
+      </item> <item> <label> Choose a relevant gas law equation that will allow you to calculate the unknown variable. </label>
+      <para id="id237247">Since the volume of the cylinder is constant, we can write:</para>
+      <equation id="id237251">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id237297">Therefore,</para>
+      <equation id="id237300">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>p</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>p</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>×</m:mo>
+                <m:msub>
+                  <m:mi>T</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Substitute the known values into the equation. Calculate the unknown variable. </label>
+      <equation id="id237352">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>p</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>7</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>298</m:mn>
+              </m:mrow>
+              <m:mn>288</m:mn>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>7</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>24</m:mn>
+            <m:mi>a</m:mi>
+            <m:mi>t</m:mi>
+            <m:mi>m</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id237398">The pressure of the gas is 7.24 atm.</para>
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1333"><title> General Gas Equation 3 </title>
+      <problem id="probfhsst_id1334">
+      <para id="id237415">A gas container can withstand a pressure of 130 kPa before it will start to leak. Assuming that the volume of the gas in the container stays the same, at what temperature will the container start to leak if the gas exerts a pressure of 100 kPa at 15<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C?</para>
+      
+      </problem>
+      <solution id="solfhsst_id1338"> <list id="listfhsst_id1338" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+     
+      <item> <label> Write down all the information that you know about the gas. </label>
+      <para id="id237474">p<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 100 kPa and p<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = 130 kPa</para>
+      <para id="id237504">T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 15<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C and T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = ?</para>
+      </item> <item> <label> Convert the known values to SI units if necessary. </label>
+      <para id="id237551">Here, temperature must be converted into Kelvin, therefore:</para>
+      <para id="id237555">T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 15 + 273 = 288 K</para>
+      </item> <item> <label> Choose a relevant gas law equation that will allow you to calculate the unknown variable. </label>
+      <para id="id237576">Since the volume of the container is constant, we can write:</para>
+      <equation id="id237580">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id237626">Therefore,</para>
+      <equation id="id237629">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>T</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>×</m:mo>
+                <m:msub>
+                  <m:mi>p</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id237680">Therefore,</para>
+      <equation id="id237684">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>T</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>T</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>×</m:mo>
+                <m:msub>
+                  <m:mi>p</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Substitute the known values into the equation. Calculate the unknown variable. </label>
+      <equation id="id237736">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>T</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>288</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>130</m:mn>
+              </m:mrow>
+              <m:mn>100</m:mn>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>374</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>4</m:mn>
+            <m:mi>K</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>101</m:mn>
+            <m:mo>.</m:mo>
+            <m:msup>
+              <m:mn>4</m:mn>
+              <m:mo>∘</m:mo>
+            </m:msup>
+            <m:mi>C</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+ </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id1471"><title> The general gas equation
+      </title>
+      <list id="id237806" display="block" list-type="enumerated">
+        <item id="uid39">A closed gas system initially has a volume of 8 L and a temperature of 100<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C. The pressure of the gas is unknown. If the temperature of the gas decreases to 50<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C, the gas occupies a volume of 5 L. If the pressure of the gas under these conditions is 1.2 atm, what was the initial pressure of the gas?
+</item>
+        <item id="uid40">A balloon is filled with helium gas at 27<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C and a pressure of 1.0 atm. As the balloon rises, the volume of the balloon increases by a factor of 1.6 and the temperature decreases to 15<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C. What is the final pressure of the gas (assuming none has escaped)?
+</item>
+        <item id="uid41">25 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of gas at 1 atm has a temperature of 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C. When the gas is compressed to 20 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>, the temperature of the gas increases to 28<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C. Calculate the final pressure of the gas.
+</item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid7">
+      <title>The ideal gas equation</title>
+      <para id="id237977">In the early 1800's, Amedeo Avogadro hypothesised that if you have samples of different gases, of the same volume, at a fixed temperature and pressure, then the samples must contain the same number of freely moving particles (i.e. atoms or molecules).</para>
+<definition id="fhsst_id1487"><term id="termfhsst_id1487"> Avogadro's Law </term> <meaning id="meaningfhsst_id1487">
+      <para id="id237989">Equal volumes of gases, at the same temperature and pressure, contain the same number of molecules. </para>
+      </meaning></definition>
+      <para id="id238001">You will remember from an earlier section, that we combined different gas law equations to get <emphasis effect="italics">one</emphasis> that included temperature, volume and pressure. In this equation, pV = kT, the value of k is different for different masses of gas. If we were to measure the amount of gas in moles, then k = nR, where n is the number of moles of gas and R is the universal gas constant. The value of R is 8.3143 J.K<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, or for most calculations, 8.3 J.K<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. So, if we replace k in the general gas equation, we get the following <emphasis effect="bold">ideal gas equation</emphasis>.</para>
+      <equation id="id238086">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>n</m:mi>
+            <m:mi>R</m:mi>
+            <m:mi>T</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+<note id="notfhsst_id1503" type="tip">
+      <list id="id238114" display="block" list-type="enumerated">
+        <item id="uid42">The value of R is the same for all gases
+</item>
+        <item id="uid43">All quantities in the equation pV = nRT must be in the same units as the value of R. In other words, SI units must be used throughout the equation.
+</item>
+      </list>
+</note>
+      <para id="id238147">The following table may help you when you convert to SI units.</para>
+      <table id="uid44" summary="">
+        <tgroup cols="6">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Variable</emphasis>
+              </entry>
+              <entry>Pressure (<emphasis effect="bold">p</emphasis>)</entry>
+              <entry>Volume (<emphasis effect="bold">V</emphasis>)</entry>
+              <entry>moles (<emphasis effect="bold">n</emphasis>)</entry>
+              <entry>universal gas constant (<emphasis effect="bold">R</emphasis>)</entry>
+              <entry>temperature (<emphasis effect="bold">K</emphasis>)</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">SI unit</emphasis>
+              </entry>
+              <entry>Pascals (Pa)</entry>
+              <entry>m<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math></entry>
+              <entry>mol</entry>
+              <entry>J.K<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></entry>
+              <entry>Kelvin (K)</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">Other units and conversions</emphasis>
+              </entry>
+              <entry>760 mm Hg = 1 atm = 101325 Pa = 101.325 kPa</entry>
+              <entry>1 m<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> = 1000000 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> = 1000 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> = 1000 litres</entry>
+              <entry/>
+              <entry/>
+              <entry>K = <m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C + 273</entry>
+            </row>
+          </tbody>
+        </tgroup>
+        <caption>Conversion table showing different units of measurement for volume, pressure and temperature.</caption>
+      </table>
+<para id="eip-850"><figure id="gas-law-1" class="khanacademy">
+	  <title>Khan academy video on the ideal gas law - 1</title>
+	  <media id="yt-media1" display="block" alt="video on gas law 1">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/WScwPIPqZa0&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><para id="eip-797"><figure id="gas-law-2" class="khanacademy">
+	  <title>Khan academy video on the ideal gas law - 2</title>
+	  <media id="yt-media2" display="block" alt="video on gas law 2">
+	  <flash id="yt-video2" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/erjMiErRgSQ&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><exercise id="secfhsst_id1549"><title> Ideal gas equation 1 </title>
+      <problem id="probfhsst_id1550">
+      <para id="id238469">Two moles of oxygen (O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) gas occupy a volume of 25 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> at a temperature of 40<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C. Calculate the pressure of the gas under these conditions.</para>
+      
+      </problem>
+      <solution id="solfhsst_id1554"> <list id="listfhsst_id1554" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Write down all the information that you know about the gas. </label>
+      <para id="id238554">p = ?</para>
+      <para id="id238557">V = 25 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math></para>
+      <para id="id238574">n = 2</para>
+      <para id="id238577">T = 40<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C</para>
+      </item> <item> <label> Convert the known values to SI units if necessary. </label>
+      <equation id="id238598">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>25</m:mn>
+              <m:mn>1000</m:mn>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>025</m:mn>
+            <m:msup>
+              <m:mi>m</m:mi>
+              <m:mn>3</m:mn>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <equation id="id238633">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>T</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>40</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>273</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>313</m:mn>
+            <m:mi>K</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Choose a relevant gas law equation that will allow you to calculate the unknown variable. </label>
+      <equation id="id238665">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>n</m:mi>
+            <m:mi>R</m:mi>
+            <m:mi>T</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id238688">Therefore,</para>
+      <equation id="id238691">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>n</m:mi>
+                <m:mi>R</m:mi>
+                <m:mi>T</m:mi>
+              </m:mrow>
+              <m:mi>V</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Substitute the known values into the equation. Calculate the unknown variable. </label>
+      <equation id="id238722">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>8</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>3</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>313</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>0</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>025</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>207832</m:mn>
+            <m:mi>P</m:mi>
+            <m:mi>a</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>207</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>8</m:mn>
+            <m:mi>k</m:mi>
+            <m:mi>P</m:mi>
+            <m:mi>a</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1664"><title> Ideal gas equation 2 </title>
+      <problem id="probfhsst_id1665">
+      <para id="id238798">Carbon dioxide (CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) gas is produced as a result of the reaction between calcium carbonate and hydrochloric acid. The gas that is produced is collected in a 20 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> container. The pressure of the gas is 105 kPa at a temperature of 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C. What mass of carbon dioxide was produced?</para>
+      
+      </problem>
+      <solution id="solfhsst_id1669"> <list id="listfhsst_id1669" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Write down all the information that you know about the gas. </label>
+      <para id="id238884">p = 105 kPa</para>
+      <para id="id238887">V = 20 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math></para>
+      <para id="id238903">T = 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C</para>
+      </item> <item> <label> Convert the known values to SI units if necessary. </label>
+      <equation id="id238924">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>105</m:mn>
+            <m:mo>×</m:mo>
+            <m:mn>1000</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>105000</m:mn>
+            <m:mi>P</m:mi>
+            <m:mi>a</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <equation id="id238953">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>T</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>20</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>273</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>293</m:mn>
+            <m:mi>K</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <equation id="id238980">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>20</m:mn>
+              <m:mn>1000</m:mn>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>02</m:mn>
+            <m:msup>
+              <m:mi>m</m:mi>
+              <m:mn>3</m:mn>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Choose a relevant gas law equation that will allow you to calculate the unknown variable. </label>
+      <equation id="id239022">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>n</m:mi>
+            <m:mi>R</m:mi>
+            <m:mi>T</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id239045">Therefore,</para>
+      <equation id="id239048">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>p</m:mi>
+                <m:mi>V</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>R</m:mi>
+                <m:mi>T</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Substitute the known values into the equation. Calculate the unknown variable. </label>
+      <equation id="id239079">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>105</m:mn>
+                <m:mn>000</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>0</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>02</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>8</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>3</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>293</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>86</m:mn>
+            <m:mi>m</m:mi>
+            <m:mi>o</m:mi>
+            <m:mi>l</m:mi>
+            <m:mi>e</m:mi>
+            <m:mi>s</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Calculate mass from moles </label>
+      <equation id="id239145">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>m</m:mi>
+              <m:mi>M</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id239166">Therefore,</para>
+      <equation id="id239169">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>m</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>n</m:mi>
+            <m:mo>×</m:mo>
+            <m:mi>M</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id239190">The molar mass of CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> is calculated as follows:</para>
+      <equation id="id239207">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>M</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>12</m:mn>
+            <m:mo>+</m:mo>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mn>2</m:mn>
+              <m:mo>×</m:mo>
+              <m:mn>16</m:mn>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mn>44</m:mn>
+            <m:mi>g</m:mi>
+            <m:mo>.</m:mo>
+            <m:mi>m</m:mi>
+            <m:mi>o</m:mi>
+            <m:msup>
+              <m:mi>l</m:mi>
+              <m:mrow>
+                <m:mo>-</m:mo>
+                <m:mn>1</m:mn>
+              </m:mrow>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id239260">Therefore,</para>
+      <equation id="id239263">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>m</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>86</m:mn>
+            <m:mo>×</m:mo>
+            <m:mn>44</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>37</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>84</m:mn>
+            <m:mi>g</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1869"><title> Ideal gas equation 3 </title>
+      <problem id="probfhsst_id1870">
+      <para id="id239312">1 mole of nitrogen (N<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) reacts with hydrogen (H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) according to the following equation:</para>
+      <equation id="id239345">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>N</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>+</m:mo>
+            <m:mn>3</m:mn>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>→</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>N</m:mi>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>3</m:mn>
+            </m:msub>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id239388">The ammonia (NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>) gas is collected in a separate gas cylinder which has a volume of 25 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>. The temperature of the gas is 22<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C. Calculate the pressure of the gas inside the cylinder.</para>
+      
+      </problem>
+      <solution id="solfhsst_id1898"> <list id="listfhsst_id1898" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Write down all the information that you know about the gas. </label>
+      <para id="id239470">V = 25 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math></para>
+      <para id="id239486">n = 2 (Calculate this by looking at the mole ratio of nitrogen to ammonia, which is 1:2)</para>
+      <para id="id239490">T = 22<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C</para>
+      </item> <item> <label> Convert the known values to SI units if necessary. </label>
+      <equation id="id239511">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>25</m:mn>
+              <m:mn>1000</m:mn>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>025</m:mn>
+            <m:msup>
+              <m:mi>m</m:mi>
+              <m:mn>3</m:mn>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <equation id="id239546">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>T</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>22</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>273</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>295</m:mn>
+            <m:mi>K</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Choose a relevant gas law equation that will allow you to calculate the unknown variable. </label>
+      <equation id="id239578">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>n</m:mi>
+            <m:mi>R</m:mi>
+            <m:mi>T</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id239601">Therefore,</para>
+      <equation id="id239604">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>n</m:mi>
+                <m:mi>R</m:mi>
+                <m:mi>T</m:mi>
+              </m:mrow>
+              <m:mi>V</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Substitute the known values into the equation. Calculate the unknown variable. </label>
+      <equation id="id239635">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>8</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>3</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>295</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>0</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>025</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>195880</m:mn>
+            <m:mi>P</m:mi>
+            <m:mi>a</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>195</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>89</m:mn>
+            <m:mi>k</m:mi>
+            <m:mi>P</m:mi>
+            <m:mi>a</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2007"><title> Ideal gas equation 4 </title>
+      <problem id="probfhsst_id2008">
+      <para id="id239711">Calculate the number of moles of air particles in a 10 m by 7 m by 2 m classroom on a day when the temperature is 23<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C and the air pressure is 98 kPa.</para>
+      
+      </problem>
+      <solution id="solfhsst_id2012"> <list id="listfhsst_id2012" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Write down all the information that you know about the gas. </label>
+      <para id="id239770">V = 10 m <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 7 m <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 2m = 140 m<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math></para>
+      <para id="id239805">p = 98 kPa</para>
+      <para id="id239808">T = 23<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C</para>
+      </item> <item> <label> Convert the known values to SI units if necessary. </label>
+      <equation id="id239828">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>98</m:mn>
+            <m:mo>×</m:mo>
+            <m:mn>1000</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>98000</m:mn>
+            <m:mi>P</m:mi>
+            <m:mi>a</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <equation id="id239857">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>T</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>23</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>273</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>296</m:mn>
+            <m:mi>K</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Choose a relevant gas law equation that will allow you to calculate the unknown variable. </label>
+      <equation id="id239889">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>n</m:mi>
+            <m:mi>R</m:mi>
+            <m:mi>T</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id239912">Therefore,</para>
+      <equation id="id239915">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>p</m:mi>
+                <m:mi>V</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>R</m:mi>
+                <m:mi>T</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Substitute the known values into the equation. Calculate the unknown variable. </label>
+      <equation id="id239946">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>98</m:mn>
+                <m:mn>000</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>140</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>8</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>3</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>296</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>5584</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>5</m:mn>
+            <m:mi>m</m:mi>
+            <m:mi>o</m:mi>
+            <m:mi>l</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2113"><title> Applying the gas laws
+      </title>
+      <problem id="probfhsst_id2115">
+      <para id="id240018">Most modern cars are equipped with airbags for both the driver and the passenger. An airbag will completely inflate in 0,05 s. This is important because a typical car collision lasts about 0,125 s. The following reaction of sodium azide (a compound found in airbags) is activated by an electrical signal:</para>
+      <para id="id240026">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mn>2</m:mn>
+            <m:mi>N</m:mi>
+            <m:mi>a</m:mi>
+            <m:msub>
+              <m:mi>N</m:mi>
+              <m:mn>3</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>s</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>→</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>N</m:mi>
+            <m:mi>a</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>s</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:mn>3</m:mn>
+            <m:msub>
+              <m:mi>N</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>g</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+          </m:mrow>
+        </m:math>
+      </para>
+      <list id="id240094" display="block" list-type="enumerated">
+        <item id="uid45">Calculate the mass of <m:math overflow="scroll"><m:mrow><m:msub><m:mi>N</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math> needed to inflate a sample airbag to a volume of 65 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> at 25 <m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C and <m:math overflow="scroll"><m:mrow><m:mn>99</m:mn><m:mo>,</m:mo><m:mn>3</m:mn></m:mrow></m:math> kPa. Assume the gas temperature remains constant during the reaction.
+</item>
+        <item id="uid46">In reality the above reaction is exothermic. Describe, in terms of the kinetic molecular theory, how the pressure in the sample airbag will change, if at all, as the gas temperature returns to 25 <m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C.
+</item>
+      </list>
+      
+      </problem>
+      <solution id="solfhsst_id2163"> <list id="listfhsst_id2163" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Look at the information you have been given, and the information you still need. </label>
+      <para id="id240238">Here you are given the volume, temperature and pressure. You are required to work out the mass of <m:math overflow="scroll"><m:msub><m:mi>N</m:mi><m:mn>2</m:mn></m:msub></m:math>.</para>
+      </item> <item> <label> Check that all the units are S.I. units </label>
+      <para id="id240261">Pressure: <m:math overflow="scroll"><m:mrow><m:mn>93</m:mn><m:mo>.</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup></m:mrow></m:math> Pa</para>
+      <para id="id240288">Volume: <m:math overflow="scroll"><m:mrow><m:mn>65</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:mrow></m:math> m<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math></para>
+      <para id="id240326">Temperature: <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mn>273</m:mn><m:mo>+</m:mo><m:mn>25</m:mn><m:mo>)</m:mo></m:mrow></m:math> K</para>
+      <para id="id240348">Gas Constant: <m:math overflow="scroll"><m:mrow><m:mn>8</m:mn><m:mo>,</m:mo><m:mn>31</m:mn><m:mi>J</m:mi><m:mo>.</m:mo><m:msup><m:mi>K</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo>.</m:mo><m:mi>m</m:mi><m:mi>o</m:mi><m:msup><m:mi>l</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+      </item> <item> <label> Write out the Ideal Gas formula </label>
+      <equation id="id240400">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>n</m:mi>
+            <m:mi>R</m:mi>
+            <m:mi>T</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Solve for the required quantity using symbols </label>
+      <equation id="id240427">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>p</m:mi>
+                <m:mi>V</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>R</m:mi>
+                <m:mi>T</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Solve by substituting numbers into the equation to solve for 'n'. </label>
+      <equation id="id240458">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>99</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>3</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:msup>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mo>×</m:mo>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>65</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>8</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>31</m:mn>
+                <m:mo>×</m:mo>
+                <m:mo>(</m:mo>
+                <m:mn>273</m:mn>
+                <m:mo>+</m:mo>
+                <m:mn>25</m:mn>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Convert the number of moles to number of grams </label>
+      <equation id="id240543">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>m</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>n</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:mi>M</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>m</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>61</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>28</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>m</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>73</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mi>g</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Theory Question </label>
+      <para id="id240628">When the temperature decreases the intensity of collisions with the walls of the airbag and between particles decreases. Therefore pressure decreases.</para>
+</item> </list> </solution>
+</exercise>
+<section id="secfhsst_id2313"><title> The ideal gas equation
+      </title>
+      <list id="id240646" display="block" list-type="enumerated">
+        <item id="uid47">An unknown gas has pressure, volume and temperature of 0.9 atm, 8 L and 120<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C respectively. How many moles of gas are present?
+</item>
+        <item id="uid48">6 g of chlorine (Cl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) occupies a volume of 0.002 m<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> at a temperature of 26<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C. What is the pressure of the gas under these conditions?
+</item>
+        <item id="uid49">An average pair of human lungs contains about 3.5 L of air after inhalation and about 3.0 L after exhalation. Assuming that air in your lungs is at 37<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C and 1.0 atm, determine the number of moles of air in a typical breath.
+</item>
+        <item id="uid50">
+A learner is asked to calculate the answer to the problem below:
+<emphasis effect="italics">Calculate the pressure exerted by 1.5 moles of nitrogen gas in a container with a volume of 20 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> at a temperature of 37<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C.</emphasis>
+The learner writes the solution as follows:
+V = 20 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>
+n = 1.5 mol
+R = 8.3 J.K<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>
+T = 37 + 273 = 310 K
+pT = nRV, therefore
+<equation id="id240869"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mi>p</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mi>n</m:mi><m:mi>R</m:mi><m:mi>V</m:mi></m:mrow><m:mi>T</m:mi></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mn>1</m:mn><m:mo>.</m:mo><m:mn>5</m:mn><m:mo>×</m:mo><m:mn>8</m:mn><m:mo>.</m:mo><m:mn>3</m:mn><m:mo>×</m:mo><m:mn>20</m:mn></m:mrow><m:mn>310</m:mn></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>8</m:mn><m:mi>k</m:mi><m:mi>P</m:mi><m:mi>a</m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation><list id="id240962" display="block" list-type="enumerated"><item id="uid51">Identify 2 mistakes the learner has made in the calculation.
+</item><item id="uid52">Are the units of the final answer correct?
+</item><item id="uid53">Rewrite the solution, correcting the mistakes to arrive at the right answer.
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid8">
+      <title>Molar volume of gases</title>
+      <para id="id241024">It is possible to calculate the volume of a mole of gas at STP using what we now know about gases.</para>
+      <list id="id241028" display="block" list-type="enumerated">
+        <item id="uid54"><emphasis effect="italics">Write down the ideal gas equation</emphasis>
+pV = nRT, therefore V = <m:math overflow="scroll"><m:mfrac><m:mrow><m:mi>n</m:mi><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow><m:mi>p</m:mi></m:mfrac></m:math></item>
+        <item id="uid55"><emphasis effect="italics">Record the values that you know, making sure that they are in SI units</emphasis>
+You know that the gas is under STP conditions. These are as follows:
+p = 101.3 kPa = 101300 Pa
+n = 1 mole
+R = 8.3 J.K<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>
+T = 273 K
+</item>
+        <item id="uid56">
+          <emphasis effect="italics">Substitute these values into the original equation.</emphasis>
+          <equation id="id241150">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>V</m:mi>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>n</m:mi>
+                    <m:mi>R</m:mi>
+                    <m:mi>T</m:mi>
+                  </m:mrow>
+                  <m:mi>p</m:mi>
+                </m:mfrac>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <equation id="id241176">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>V</m:mi>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mi>m</m:mi>
+                    <m:mi>o</m:mi>
+                    <m:mi>l</m:mi>
+                    <m:mo>×</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mi>J</m:mi>
+                    <m:mo>.</m:mo>
+                    <m:msup>
+                      <m:mi>K</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>.</m:mo>
+                    <m:mi>m</m:mi>
+                    <m:mi>o</m:mi>
+                    <m:msup>
+                      <m:mi>l</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>×</m:mo>
+                    <m:mn>273</m:mn>
+                    <m:mi>K</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>101300</m:mn>
+                    <m:mi>P</m:mi>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mrow>
+            </m:math>
+          </equation>
+        </item>
+        <item id="uid57"><emphasis effect="italics">Calculate the volume of 1 mole of gas under these conditions</emphasis>
+The volume of 1 mole of gas at STP is 22.4 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> m<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> = 22.4 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>.
+</item>
+      </list>
+    </section>
+    <section id="cid9">
+      <title>Ideal gases and non-ideal gas behaviour</title>
+      <para id="id241338">In looking at the behaviour of gases to arrive at the Ideal Gas Law, we have limited our examination to a small range of temperature and pressure. Almost all gases will obey these laws most of the time, and are called <emphasis effect="bold">ideal gases</emphasis>. However, there are deviations at <emphasis effect="bold">high pressures</emphasis> and <emphasis effect="bold">low temperatures</emphasis>. So what is happening at these two extremes?</para>
+      <para id="id241361">Earlier when we discussed the kinetic theory of gases, we made a number of assumptions about the behaviour of gases. We now need to look at two of these again because they affect how gases behave either when pressures are high or when temperatures are low.</para>
+      <list id="id241369" display="block" list-type="enumerated">
+        <item id="uid58"><emphasis effect="italics">Molecules do occupy volume</emphasis>
+This means that when pressures are very high and the molecules are compressed, their volume becomes significant. This means that the total volume available for the gas molecules to move is reduced and collisions become more frequent. This causes the pressure of the gas to be <emphasis effect="italics">higher</emphasis> than what would normally have been predicted by Boyle's law (<link target-id="uid59"/>).
+<figure id="uid59"><media id="uid59_media" alt=""><image mime-type="image/png" src="../../media/CG11C5_007.png" id="uid59_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 295. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C5_007.eps" id="uid59_printimage"/></media><caption>Gases deviate from ideal gas behaviour at high pressure.</caption></figure></item>
+        <item id="uid60"><emphasis effect="italics">Forces of attraction do exist between molecules</emphasis>
+At low temperatures, when the speed of the molecules decreases and they move closer together, the intermolecular forces become more apparent. As the attraction between molecules increases, their movement decreases and there are fewer collisions between them. The pressure of the gas at low temperatures is therefore lower than what would have been expected for an ideal gas (<link target-id="uid61"/>). If the temperature is low enough or the pressure high enough, a real gas will <emphasis effect="bold">liquify</emphasis>.
+</item>
+      </list>
+      <figure id="uid61"><media id="uid61_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C5_008.png" id="uid61_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 595. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C5_008.eps" id="uid61_printimage"/>
+        </media>
+        
+      <caption>Gases deviate from ideal gas behaviour at low temperatures</caption></figure>
+    </section>
+    <section id="cid10">
+      <title>Summary</title>
+      <list id="id241473" display="block" list-type="bulleted">
+        <item id="uid62">The <emphasis effect="bold">kinetic theory of matter</emphasis> helps to explain the behaviour of gases under different conditions.
+</item>
+        <item id="uid63">An <emphasis effect="bold">ideal gas</emphasis> is one that obeys all the assumptions of the kinetic theory.
+</item>
+        <item id="uid64">A <emphasis effect="bold">real gas</emphasis> behaves like an ideal gas, except at high pressures and low temperatures. Under these conditions, the forces between molecules become significant and the gas will liquify.
+</item>
+        <item id="uid65"><emphasis effect="bold">Boyle's law</emphasis> states that the pressure of a fixed quantity of gas is inversely proportional to its volume, as long as the temperature stays the same. In other words, pV = k or
+p<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math>V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = p<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>.
+</item>
+        <item id="uid66"><emphasis effect="bold">Charles's law</emphasis> states that the volume of an enclosed sample of gas is directly proportional to its temperature, as long as the pressure stays the same. In other words,
+<equation id="id241625"><m:math overflow="scroll" mode="display"><m:mrow><m:mfrac><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:mfrac><m:mo>=</m:mo><m:mfrac><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>T</m:mi><m:mn>2</m:mn></m:msub></m:mfrac></m:mrow></m:math></equation></item>
+        <item id="uid67">The <emphasis effect="bold">temperature</emphasis> of a fixed mass of gas is directly proportional to its pressure, if the volume is constant. In other words,
+<equation id="id241690"><m:math overflow="scroll" mode="display"><m:mrow><m:mfrac><m:msub><m:mi>p</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:mfrac><m:mo>=</m:mo><m:mfrac><m:msub><m:mi>p</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>T</m:mi><m:mn>2</m:mn></m:msub></m:mfrac></m:mrow></m:math></equation></item>
+        <item id="uid68">In the above equations, temperature must be written in <emphasis effect="bold">Kelvin</emphasis>. Temperature in degrees Celsius (temperature = t) can be converted to temperature in Kelvin (temperature = T) using the following equation:
+<equation id="id241756"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>T</m:mi><m:mo>=</m:mo><m:mi>t</m:mi><m:mo>+</m:mo><m:mn>273</m:mn></m:mrow></m:math></equation></item>
+        <item id="uid69">Combining Boyle's law and the relationship between the temperature and pressure of a gas, gives the <emphasis effect="bold">general gas equation</emphasis>, which applies as long as the amount of gas remains constant. The general gas equation is pV = kT, or
+<equation id="id241796"><m:math overflow="scroll" mode="display"><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>p</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:msub><m:mi>T</m:mi><m:mn>1</m:mn></m:msub></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>p</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:msub><m:mi>T</m:mi><m:mn>2</m:mn></m:msub></m:mfrac></m:mrow></m:math></equation></item>
+        <item id="uid70">Because the mass of gas is not always constant, another equation is needed for these situations. The <emphasis effect="bold">ideal gas equation</emphasis> can be written as
+<equation id="id241878"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>p</m:mi><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>n</m:mi><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow></m:math></equation>
+where n is the number of moles of gas and R is the universal gas constant, which is 8.3 J.K<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. In this equation, <emphasis effect="bold">SI units</emphasis> must be used. Volume (m<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>), pressure (Pa) and temperature (K).
+</item>
+        <item id="uid71">The <emphasis effect="bold">volume</emphasis> of one mole of gas under STP is 22.4 dm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>. This is called the <emphasis effect="bold">molar gas volume</emphasis>.
+</item>
+      </list>
+<section id="secfhsst_id2470"><title> Summary exercise
+      </title>
+      <list id="id242007" display="block" list-type="enumerated">
+        <item id="uid72">For each of the following, say whether the statement is <emphasis effect="bold">true</emphasis> or <emphasis effect="bold">false</emphasis>. If the statement is false, rewrite the statement correctly.
+<list id="id242036" display="block" list-type="enumerated"><item id="uid73">Real gases behave like ideal gases, except at low pressures and low temperatures.
+</item><item id="uid74">The volume of a given mass of gas is inversely proportional to the pressure it exerts.
+</item><item id="uid75">The temperature of a fixed mass of gas is directly proportional to its pressure, regardless of the volume of the gas.
+</item></list></item>
+        <item id="uid76">For each of the following multiple choice questions, choose the <emphasis effect="bold">one correct answer</emphasis>.
+<list id="id242096" display="block" list-type="enumerated"><item id="uid77">Which one of the following properties of a fixed quantity of a gas must be kept constant during an investigation f Boyle's law?
+<list id="id242113" display="block" list-type="enumerated"><item id="uid78">density
+</item><item id="uid79">pressure
+</item><item id="uid80">temperature
+</item><item id="uid81">volume
+</item></list>
+(<emphasis effect="italics">IEB 2003 Paper 2</emphasis>)
+</item><item id="uid82">Three containers of EQUAL VOLUME are filled with EQUAL MASSES of helium, nitrogen and carbon dioxide gas respectively. The gases in the three containers are all at the same TEMPERATURE. Which one of the following statements is correct regarding the pressure of the gases?
+<list id="id242190" display="block" list-type="enumerated"><item id="uid83">All three gases will be at the same pressure
+</item><item id="uid84">The helium will be at the greatest pressure
+</item><item id="uid85">The nitrogen will be at the greatest pressure
+</item><item id="uid86">The carbon dioxide will be at the greatest pressure
+</item></list>
+(<emphasis effect="italics">IEB 2004 Paper 2</emphasis>)
+</item><item id="uid87">One mole of an ideal gas is stored at a temperature T (in Kelvin) in a rigid gas tank. If the average speed of the gas particles is doubled, what is the new Kelvin temperature of the gas?
+<list id="id242267" display="block" list-type="enumerated"><item id="uid88">4T
+</item><item id="uid89">2T
+</item><item id="uid90"><m:math overflow="scroll"><m:mi>√</m:mi></m:math>2T
+</item><item id="uid91">0.5 T
+</item></list>
+(<emphasis effect="italics">IEB 2002 Paper 2</emphasis>)
+</item><item id="uid92">The ideal gas equation is given by <emphasis effect="bold">pV = nRT</emphasis>. Which one of the following conditions is true according to Avogadro's hypothesis?
+<table id="id242356" summary=""><tgroup cols="3"><tbody><row><entry>a</entry><entry>p <m:math overflow="scroll"><m:mo>∝</m:mo></m:math> 1/V</entry><entry>(T = constant)</entry></row><row><entry>b</entry><entry>V <m:math overflow="scroll"><m:mo>∝</m:mo></m:math> T</entry><entry>(p = constant)</entry></row><row><entry>c</entry><entry>V <m:math overflow="scroll"><m:mo>∝</m:mo></m:math> n</entry><entry>(p, T = constant)</entry></row><row><entry>d</entry><entry>p <m:math overflow="scroll"><m:mo>∝</m:mo></m:math> T</entry><entry>(n = constant)</entry></row></tbody></tgroup></table>
+(<emphasis effect="italics">DoE Exemplar paper 2, 2007</emphasis>)
+</item></list></item>
+        <item id="uid93">Use your knowledge of the gas laws to explain the following statements.
+<list id="id242537" display="block" list-type="enumerated"><item id="uid94">It is dangerous to put an aerosol can near heat.
+</item><item id="uid95">A pressure vessel that is poorly designed and made can be a serious safety hazard (a pressure vessel is a closed, rigid container that is used to hold gases at a pressure that is higher than the normal air pressure).
+</item><item id="uid96">The volume of a car tyre increases after a trip on a hot road.
+</item></list></item>
+        <item id="uid97">Copy the following set of labelled axes and answer the questions that follow:
+<figure id="id242597"><media id="id242597_media" alt=""><image mime-type="image/png" src="../../media/CG11C5_009.png" id="id242597_onlineimage" width="179"><!-- NOTE: attribute width changes image size online (pixels). original width is 179. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C5_009.eps" id="id242597_printimage"/></media></figure><list id="id242603" display="block" list-type="enumerated"><item id="uid98">On the axes, <emphasis effect="bold">using a solid line</emphasis>, draw the graph that would be obtained for a fixed mass of an ideal gas if the pressure is kept constant.
+</item><item id="uid99">If the gradient of the above graph is measured to be 0.008 m<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>.K<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, calculate the pressure that 0.3 mol of this gas would exert.
+</item></list>
+(<emphasis effect="bold">IEB 2002 Paper 2</emphasis>)
+</item>
+        <item id="uid100">Two gas cylinders, A and B, have a volume of 0.15 m<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> and 0.20 m<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> respectively. Cylinder A contains 1.25 mol He gas at pressure p and cylinder B contains 2.45 mol He gas at standard pressure. The ratio of the Kelvin temperatures A:B is 1.80:1.00. Calculate the pressure of the gas (in kPa) in cylinder A.
+(<emphasis effect="italics">IEB 2002 Paper 2</emphasis>)
+</item>
+        <item id="uid101">A learner investigates the relationship between the Celsius temperature and the pressure of a fixed amount of helium gas in a 500 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> closed container. From the results of the investigation, she draws the graph below:
+
+<figure id="id242759"><media id="id242759_media" alt=""><image mime-type="image/png" src="../../media/CG11C5_010.png" id="id242759_onlineimage" width="221"><!-- NOTE: attribute width changes image size online (pixels). original width is 221. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C5_010.eps" id="id242759_printimage"/></media></figure><list id="id242766" display="block" list-type="enumerated"><item id="uid102">Under the conditions of this investigation, helium gas behaves like an ideal gas. Explain briefly why this is so.
+</item><item id="uid103">From the shape of the graph, the learner concludes that the pressure of the helium gas is directly proportional to the Celcius temperature. Is her conclusion correct? Briefly explain your answer.
+</item><item id="uid104">Calculate the pressure of the helium gas at 0 <m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C.
+</item><item id="uid105">Calculate the mass of helium gas in the container.
+</item></list>
+(<emphasis effect="italics">IEB 2003 Paper 2</emphasis>)
+</item>
+        <item id="uid106">One of the cylinders of a motor car engine, before compression contains 450 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of a mixture of air and petrol in the gaseous phase, at a temperature of 30<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C and a pressure of 100 kPa. If the volume of the cylinder after compression decreases to one tenth of the original volume, and the temperature of the gas mixture rises to 140<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C, calculate the pressure now exerted by the gas mixture.
+</item>
+        <item id="uid107">In an experiment to determine the relationship between pressure and temperature of a fixed mass of gas, a group of learners obtained the following results:
+<table id="id242911" summary=""><tgroup cols="5"><tbody><row><entry>Pressure (kPa)</entry><entry>101</entry><entry>120</entry><entry>130.5</entry><entry>138</entry></row><row><entry>Temperature (<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C)</entry><entry>0</entry><entry>50</entry><entry>80</entry><entry>100</entry></row><row><entry>Total gas volume (cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>)</entry><entry>250</entry><entry>250</entry><entry>250</entry><entry>250</entry></row></tbody></tgroup></table><list id="id243081" display="block" list-type="enumerated"><item id="uid108">Draw a straight-line graph of pressure (on the dependent, y-axis) versus temperature (on the independent, x-axis) on a piece of graph paper. Plot the points. Give your graph a suitable heading.
+<emphasis effect="italics">A straight-line graph passing through the origin is essential to obtain a mathematical relationship between pressure and temperature.</emphasis></item><item id="uid109">Extrapolate (extend) your graph and determine the temperature (in <m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C) at which the graph will pass through the temperature axis.
+</item><item id="uid110">Write down, in words, the relationship between pressure and Kelvin temperature.
+</item><item id="uid111">From your graph, determine the pressure (in kPa) at 173 K. Indicate on your graph how you obtained this value.
+</item><item id="uid112">How would the gradient of the graph be affected (if at all) if a larger mass of the gas is used? Write down ONLY <emphasis effect="bold">increases</emphasis>, <emphasis effect="bold">decreases</emphasis> or <emphasis effect="bold">stays the same</emphasis>.
+</item></list>
+(<emphasis effect="italics">DoE Exemplar Paper 2, 2007</emphasis>)
+</item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

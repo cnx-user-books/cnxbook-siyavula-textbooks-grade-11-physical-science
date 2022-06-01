@@ -1,0 +1,77 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Metallic bonding</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38901</md:content-id>
+  <md:title>Metallic bonding</md:title>
+  <md:abstract/>
+  <md:uuid>fce35713-9235-4914-af0b-7438c980a08c</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid9">
+      <title>Metallic bonds</title>
+      <section id="uid77">
+        <title>The nature of the metallic bond</title>
+        <para id="id142901">The structure of a metallic bond is quite different from covalent and ionic bonds. In a metal bond, the valence electrons are <emphasis effect="italics">delocalised</emphasis>, meaning that an atom's electrons do not stay around that one nucleus. In a metallic bond, the positive atomic nuclei (sometimes called the 'atomic kernels') are surrounded by a sea of delocalised electrons which are attracted to the nuclei (<link target-id="uid78"/>).</para>
+<definition id="fhsst_id582"><term id="termfhsst_id582"> Metallic bond </term> <meaning id="meaningfhsst_id582">
+        <para id="id142924">Metallic bonding is the electrostatic attraction between the positively charged atomic nuclei of metal atoms and the delocalised electrons in the metal.
+ </para>
+        </meaning></definition>
+        <figure id="uid78">
+          <media id="uid78_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_022.png" id="uid78_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 295. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_022.eps" id="uid78_printimage"/>
+          </media>
+          <caption>Positive atomic nuclei (+) surrounded by delocalised electrons (<m:math overflow="scroll"><m:mo>•</m:mo></m:math>)</caption>
+        </figure>
+      </section>
+      <section id="uid79">
+        <title>The properties of metals</title>
+        <para id="id142969">Metals have several unique properties as a result of this arrangement:</para>
+        <list id="id142972" display="block" list-type="bulleted">
+          <item id="uid80"><emphasis effect="italics">Thermal conductors</emphasis>
+Metals are good conductors of heat and are therefore used in cooking utensils such as pots and pans. Because the electrons are loosely bound and are able to move, they can transport heat energy from one part of the material to another.
+</item>
+          <item id="uid81"><emphasis effect="italics">Electrical conductors</emphasis>
+Metals are good conductors of electricity, and are therefore used in electrical conducting wires. The loosely bound electrons are able to move easily and to transfer charge from one part of the material to another.
+</item>
+          <item id="uid82"><emphasis effect="italics">Shiny metallic lustre</emphasis>
+Metals have a characteristic shiny appearance and are often used to make jewellery. The loosely bound electrons are able to absorb and reflect light at all frequencies, making metals look polished and shiny.
+</item>
+          <item id="uid83"><emphasis effect="italics">Malleable and ductile</emphasis>
+This means that they can be bent into shape without breaking (malleable) and can be stretched into thin wires (ductile) such as copper, which can then be used to conduct electricity. Because the bonds are not fixed in a particular direction, atoms can slide easily over one another, making metals easy to shape, mould or draw into threads.
+</item>
+          <item id="uid84"><emphasis effect="italics">Melting point</emphasis>
+Metals usually have a high melting point and can therefore be used to make cooking pots and other equipment that needs to become very hot, without being damaged. The high melting point is due to the high strength of metallic bonds.
+</item>
+          <item id="uid85"><emphasis effect="italics">Density</emphasis>
+Metals have a high density because their atoms are packed closely together.
+</item>
+        </list>
+<section id="secfhsst_id617"><title> Chemical bonding
+        </title>
+        <list id="id143111" display="block" list-type="enumerated">
+          <item id="uid86">Give two examples of everyday objects that contain..
+<list id="id143127" display="block" list-type="enumerated"><item id="uid87">covalent bonds
+</item><item id="uid88">ionic bonds
+</item><item id="uid89">metallic bonds
+</item></list></item>
+          <item id="uid90">Complete the table which compares the different types of bonding:
+<table id="id143180" summary=""><tgroup cols="4"><tbody><row><entry/><entry><emphasis effect="bold">Covalent</emphasis></entry><entry><emphasis effect="bold">Ionic</emphasis></entry><entry><emphasis effect="bold">Metallic</emphasis></entry></row><row><entry>Types of atoms involved</entry><entry/><entry/><entry/></row><row><entry>Nature of bond between atoms</entry><entry/><entry/><entry/></row><row><entry>Melting Point (high/low)</entry><entry/><entry/><entry/></row><row><entry>Conducts electricity? (yes/no)</entry><entry/><entry/><entry/></row><row><entry>Other properties</entry><entry/><entry/><entry/></row></tbody></tgroup></table></item>
+          <item id="uid91">Complete the table below by identifying the type of bond (covalent, ionic or metallic) in each of the compounds:
+<table id="id143418" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Molecular formula</emphasis></entry><entry><emphasis effect="bold">Type of bond</emphasis></entry></row><row><entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></entry><entry/></row><row><entry>FeS</entry><entry/></row><row><entry>NaI</entry><entry/></row><row><entry>MgCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry><entry/></row><row><entry>Zn</entry><entry/></row></tbody></tgroup></table></item>
+          <item id="uid92">Which of these substances will conduct electricity most effectively? Give a reason for your answer.
+</item>
+          <item id="uid93">Use your knowledge of the different types of bonding to explain the following statements:
+<list id="id143618" display="block" list-type="enumerated"><item id="uid94">Swimming during an electric storm (i.e. where there is lightning) can be very dangerous.
+</item><item id="uid95">Most jewellery items are made from metals.
+</item><item id="uid96">Plastics are good insulators.
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

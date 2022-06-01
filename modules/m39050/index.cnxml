@@ -1,0 +1,433 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Resonance and sound quality</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39050</md:content-id>
+  <md:title>Resonance and sound quality</md:title>
+  <md:abstract/>
+  <md:uuid>bfe3115a-d0dc-4149-82b0-7d79ab401c27</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Resonance</title>
+      <para id="id147025">Resonance is the tendency of a system to vibrate at a maximum amplitude at the natural frequency
+of the system.</para>
+      <para id="id147029">Resonance takes place when a system is made to vibrate at its natural frequency as a result of vibrations
+that are received from another source of the same frequency. In the following investigation you will
+measure the speed of sound using resonance.</para>
+<section id="secfhsst_id913"><title> Experiment : Using resonance to measure the speed of sound </title>
+      <para id="id147042">
+        <emphasis effect="bold">Aim:</emphasis>
+      </para>
+      <para id="id147052"> To measure the speed of sound using resonance</para>
+      <para id="id147058">
+        <emphasis effect="bold">Apparatus:</emphasis>
+      </para>
+      <list id="id147067" display="block" list-type="bulleted">
+        <item id="uid26">one measuring cylinder
+</item>
+        <item id="uid27">a high frequency (512 Hz) tuning fork
+</item>
+        <item id="uid28">some water
+</item>
+        <item id="uid29">a ruler or tape measure
+</item>
+      </list>
+      <para id="id147120">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id147129" display="block" list-type="enumerated">
+        <item id="uid30">Make the tuning fork vibrate by hitting it on the sole of your shoe or something else that has a rubbery texture.
+A hard surface is not ideal as you can more easily damage the tuning fork. Be careful to hold the tuning fork by its handle. Don't touch the fork because it will damp the vibrations.
+</item>
+        <item id="uid31">Hold the vibrating tuning fork about 1 cm above the cylinder mouth and start adding water to the cylinder
+at the same time. Keep doing this until the first resonance occurs. Pour out or add a little water until you find the level
+at which the loudest sound (i.e. the resonance) is made.
+</item>
+        <item id="uid32">When the water is at the resonance level, use a ruler or tape measure to measure the distance (<m:math overflow="scroll"><m:msub><m:mi>L</m:mi><m:mi>A</m:mi></m:msub></m:math>) between the top of the cylinder
+and the water level.
+</item>
+        <item id="uid33">Repeat the steps <link target-id=""/> above, this time adding more water until you find the next resonance.
+Remember to hold the tuning fork at the same height of about 1 cm above the cylinder mouth and adjust the water level
+to get the loudest sound.
+</item>
+        <item id="uid34">Use a ruler or tape measure to find the new distance (<m:math overflow="scroll"><m:msub><m:mi>L</m:mi><m:mi>B</m:mi></m:msub></m:math>) from the top of the cylinder to the new water level.
+</item>
+      </list>
+      <para id="id147233">
+        <emphasis effect="bold">Conclusions:</emphasis>
+      </para>
+      <para id="id147242">
+The difference between the two resonance water levels (i.e. <m:math overflow="scroll"><m:mrow><m:mi>L</m:mi><m:mo>=</m:mo><m:msub><m:mi>L</m:mi><m:mi>A</m:mi></m:msub><m:mo>-</m:mo><m:msub><m:mi>L</m:mi><m:mi>B</m:mi></m:msub></m:mrow></m:math>) is half a wavelength, or the same as
+the distance between a compression and rarefaction. Therefore, since you know the wavelength, and you know the frequency
+of the tuning fork, it is easy to calculate the speed of sound!
+ </para>
+</section>
+      <para id="id147285">
+        <figure id="id147288">
+          <media id="id147288_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C6_038.png" id="id147288_onlineimage" width="236"><!-- NOTE: attribute width changes image size online (pixels). original width is 236. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_038.eps" id="id147288_printimage"/>
+          </media>
+        </figure>
+      </para>
+<note id="notfhsst_id969"><title> Interesting Fact </title> Soldiers march out of time on bridges to avoid stimulating the bridge to vibrate
+at its natural frequency.</note>
+<exercise id="secfhsst_id971"><title> Resonance </title>
+      <problem id="probfhsst_id972">
+      <para id="id147314">A 512 Hz tuning fork can produce a resonance in a cavity where the air column is 18,2 cm long. It can also produce
+a second resonance when the length of the air column is 50,1 cm. What is the speed of sound in the cavity? </para>
+      </problem>
+      <solution id="solfhsst_id976"> <list id="listfhsst_id976" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Identify what is given and what is asked: </label>
+      <equation id="id147340">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>L</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>18</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi> cm </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>L</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>50</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>3</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi> cm </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>f</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>512</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi> Hz </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>v</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mo>?</m:mo>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id147452">Remember that:</para>
+      <equation id="id147458">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>v</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id147491">We have values for <m:math overflow="scroll"><m:mi>f</m:mi></m:math> and so to calculate <m:math overflow="scroll"><m:mi>v</m:mi></m:math>, we need to first find <m:math overflow="scroll"><m:mi>λ</m:mi></m:math>.
+You know that the difference in the length of the air column between two resonances is half a wavelength.</para>
+      </item> <item> <label> Calculate the difference in the length of the air column between the two resonances: </label>
+      <equation id="id147527">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>L</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                  <m:mo>-</m:mo>
+                  <m:msub>
+                    <m:mi>L</m:mi>
+                    <m:mn>1</m:mn>
+                  </m:msub>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>32</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi> cm </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id147580">Therefore 32,1 cm = <m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>×</m:mo><m:mi>λ</m:mi></m:mrow></m:math></para>
+      <para id="id147604">So,</para>
+      <equation id="id147609">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>λ</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>32</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi> cm </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>64</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi> cm </m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>642</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Now you can substitute into the equation for <m:math overflow="scroll"><m:mi>v</m:mi></m:math> to find the speed of sound: </label>
+      <equation id="id147711">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>v</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:mi>λ</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>512</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>642</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>328</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>7</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>.</m:mo>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+      <para id="id147821">From the investigation you will notice that the column of air will make a sound at a certain length.
+This is where resonance takes place.</para>
+      <para id="id147826">
+        <figure id="id147829">
+          <media id="id147829_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C6_039.png" id="id147829_onlineimage" width="104"><!-- NOTE: attribute width changes image size online (pixels). original width is 104. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_039.eps" id="id147829_printimage"/>
+          </media>
+        </figure>
+      </para>
+    </section>
+    <section id="cid6">
+      <title>Music and Sound Quality</title>
+      <para id="id147846">In the sound chapter, we referred to the quality of sound as its
+tone. What makes the tone of a note played on an instrument?
+When you pluck a string or vibrate air in a tube, you hear mostly the fundamental frequency. Higher harmonics are present, but are fainter. These are called <emphasis effect="bold">overtones</emphasis>. The tone of a note depends on its mixture of overtones. Different instruments have different
+mixtures of overtones. This is why the same note sounds
+different on a flute and a piano.</para>
+      <para id="id147859">Let us see how overtones can change the shape of a wave:</para>
+      <figure id="uid35">
+        <media id="uid35_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C6_040.png" id="uid35_onlineimage" width="190"><!-- NOTE: attribute width changes image size online (pixels). original width is 190. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_040.eps" id="uid35_printimage"/>
+        </media>
+        <caption>The quality of a tone depends on its mixture of
+harmonics.</caption>
+      </figure>
+      <para id="id147875">The resultant waveform is very different from the fundamental
+frequency. Even though the two waves have the same main
+frequency, they do not sound the same!</para>
+    </section>
+    <section id="cid7">
+      <title>Summary - The Physics of Music</title>
+      <list id="id147890" display="block" list-type="enumerated">
+        <item id="uid36">Instruments produce sound because they form standing waves in strings or pipes.
+</item>
+        <item id="uid37">The fundamental frequency of a string or a pipe is its natural frequency. The wavelength
+of the fundamental frequency is twice the length of the string or pipe when both ends are fixed or both ends are open. It is four times the length of the pipe when one end is closed and one end is open.
+</item>
+        <item id="uid38">When the string is fixed at both ends, or the pipe is open at both ends the first harmonic is formed when the standing wave forms one whole
+wavelength in the string or pipe. The second harmonic is formed when the
+standing wave forms 1<m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math> wavelengths in the string or pipe.
+</item>
+        <item id="uid39">When a pipe is open at one end and closed at the other, the first harmonic is formed when the standing wave forms <m:math overflow="scroll"><m:mfrac><m:mn>11</m:mn><m:mn>3</m:mn></m:mfrac></m:math> wavelengths in the pipe.
+</item>
+        <item id="uid40">The frequency of a wave can be calculated with the equation <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>v</m:mi><m:mi>λ</m:mi></m:mfrac></m:mrow></m:math>.
+</item>
+        <item id="uid41">The wavelength of a standing wave in a string fixed at both ends can be calculated using
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi>λ</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>L</m:mi></m:mrow><m:mrow><m:mi>n</m:mi><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac></m:mrow></m:math>.
+</item>
+        <item id="uid42">The wavelength of a standing wave in a pipe with both ends open can be calculated using
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi>λ</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>L</m:mi></m:mrow><m:mi>n</m:mi></m:mfrac></m:mrow></m:math>.
+</item>
+        <item id="uid43">The wavelength of a standing wave in a pipe with one end open can be calculated using
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi>λ</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:mi>L</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>n</m:mi><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac></m:mrow></m:math>.
+</item>
+        <item id="uid44">Resonance takes place when a system is made to vibrate at its natural frequency as a
+result of vibrations received from another source of the same frequency.
+</item>
+      </list>
+<section id="secfhsst_id1290"><title>
+      Waveforms </title>
+      <para id="id148163">Below are some examples of the waveforms produced by a flute, clarinet and saxophone for different frequencies (i.e. notes):</para>
+      <para id="id148169">
+        <figure id="id148170">
+          <media id="id148170_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C6_041.png" id="id148170_onlineimage" width="292"><!-- NOTE: attribute width changes image size online (pixels). original width is 292. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_041.eps" id="id148170_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+</section>
+    </section>
+    <section id="cid8">
+      <title>End of Chapter Exercises</title>
+      <list id="id148196" display="block" list-type="enumerated">
+        <item id="uid45">A guitar string with a length of 70 cm is plucked. The speed of a wave in the string is 400 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Calculate the frequency of the first, second, and third harmonics.
+</item>
+        <item id="uid46">A pitch of Middle D (first harmonic = 294 Hz) is sounded out by a vibrating guitar string. The length of the string is 80 cm. Calculate the speed of the standing wave in the guitar string.
+</item>
+        <item id="uid47">The frequency of the first harmonic for a guitar string is 587 Hz (pitch of D5). The speed of the wave is 600 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Find the length of the string.
+</item>
+        <item id="uid48">Two notes which have a frequency ratio of 2:1 are said to be separated by an octave. A note which is separated by an octave from middle C (256 Hz) is
+<list id="id148307" display="block" list-type="enumerated"><item id="uid49">254 Hz
+</item><item id="uid50">128 Hz
+</item><item id="uid51">258 Hz
+</item><item id="uid52">512 Hz
+</item></list></item>
+        <item id="uid53">Playing a middle C on a piano keyboard generates a sound at a frequency of 256 Hz. If the speed of sound in air is 345 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, calculate the wavelength of the sound corresponding to the note of middle C.
+</item>
+        <item id="uid54">What is resonance? Explain how you would demonstrate what resonance is if you have a measuring cylinder, tuning fork and water available.
+</item>
+        <item id="uid55">A tuning fork with a frequency of 256 Hz produced resonance in an air column of length 25,2 cm and at 89,5 cm. Calculate the speed of sound in the air column.
+</item>
+      </list>
+    </section>
+  </content>
+</document>

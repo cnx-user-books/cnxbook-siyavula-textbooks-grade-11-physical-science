@@ -1,0 +1,127 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39077</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>ec6a7b35-3763-4bf4-bc32-b36d25dfc0a0</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id62184">If we were to cut the Earth in half we would see that our planet is made up of a number of layers, namely the <emphasis effect="bold">core</emphasis> at the centre (seperated into the inner and outer core), the <emphasis effect="bold">mantle</emphasis>, the <emphasis effect="bold">upper mantle</emphasis>, the outer <emphasis effect="bold">crust</emphasis> and the <emphasis effect="bold">atmosphere</emphasis> (<link target-id="uid1"/>). The core is made up mostly of iron. The mantle, which lies between the core and the crust, consists of molten rock, called <emphasis effect="bold">magma</emphasis> which moves continuously because of convection currents. The crust is the thin, hard outer layer that 'floats' on the magma of the mantle. It is the upper part of the mantle and the crust that make up the <emphasis effect="bold">lithosphere</emphasis> ('lith' means 'types of stone' and 'sphere' refers to the round shape of the earth). Together, the lithosphere, hydrosphere and atmosphere make up the world as we know it.</para>
+      <figure id="uid1">
+        <media id="uid1_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C9_001.png" id="uid1_onlineimage" width="643"><!-- NOTE: attribute width changes image size online (pixels). original width is 643. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C9_001.eps" id="uid1_printimage"/>
+        </media>
+        <caption>A cross-section through the earth to show its different layers</caption>
+      </figure>
+<definition id="fhsst_id75"><term id="termfhsst_id75"> Lithosphere </term> <meaning id="meaningfhsst_id75">
+      <para id="id62590">The lithosphere is the solid outermost shell of our planet. The lithosphere includes the crust and the upper part of the mantle, and is made up of material from both the continents and the oceans on the Earth's surface. </para>
+      </meaning></definition>
+      <para id="id62602">In grade 10 have focused on the hydrosphere and the atmosphere. The lithosphere is also very important, not only because it is the surface on which we live, but also because humans gain many valuable resources from this part of the planet.</para>
+    </section>
+    <section id="cid3">
+      <title>The chemistry of the earth's crust</title>
+      <para id="id62617">The crust is made up of about 80 elements, which occur in over 2000 different compounds and minerals. However, most of the mass of the material in the crust is made up of only 8 of these elements. These are oxygen (O), silica (Si), aluminium (Al), iron (Fe), calcium (Ca), sodium (Na), potassium (K) and magnesium (Mg). These metal elements are seldom found in their pure form, but are usually part of other more complex <emphasis effect="bold">minerals</emphasis>. A mineral is a compound that is formed through geological processes, which give it a particular structure. A mineral could be a pure element, but more often minerals are made up of many different elements combined. <emphasis effect="italics">Quartz</emphasis> is just one example. It is a mineral that is made up of silicon and oxygen. Some more examples are shown in <link target-id="uid2"/>.</para>
+<definition id="fhsst_id83"><term id="termfhsst_id83"> Mineral </term> <meaning id="meaningfhsst_id83">
+      <para id="id62647">Minerals are natural compounds formed through geological processes. The term 'mineral' includes both the material's chemical composition and its structure. Minerals range in composition from pure elements to complex compounds. </para>
+      </meaning></definition>
+      <table id="uid2" summary="">
+        <tgroup cols="3">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Mineral</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Chemistry</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Comments</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Quartz</entry>
+              <entry>SiO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> (silicon dioxide)</entry>
+              <entry>Quartz is used for glass, in electrical components, optical lenses and in building stone</entry>
+            </row>
+            <row>
+              <entry>Gold</entry>
+              <entry>Au (pure element) or AuTe<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> (Calaverite, a gold mineral)</entry>
+              <entry>Gold is often found in a group of minerals called the <emphasis effect="italics">tellurides</emphasis>. Calaverite is a mineral that belongs to this group, and is the most common gold-bearing mineral. Gold has an affinity for tellurium (Te).</entry>
+            </row>
+            <row>
+              <entry>Hematite</entry>
+              <entry>Fe<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> (iron oxide)</entry>
+              <entry>Iron usually occurs in iron oxide minerals or as an alloy of iron and nickel.</entry>
+            </row>
+            <row>
+              <entry>Orthoclase</entry>
+              <entry>KAlSi<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>8</m:mn></m:msub></m:math> (potassium aluminium silicate)</entry>
+              <entry>Orthoclase belongs to the <emphasis effect="italics">feldspar</emphasis> group of minerals.</entry>
+            </row>
+            <row>
+              <entry>Copper</entry>
+              <entry>Cu (pure element) or Cu<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>(CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)(OH)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> (malachite or copper carbonate hydroxide)</entry>
+              <entry>copper can be mined as a pure element or as a mineral such as malachite.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+        <caption>Table showing examples of minerals and their chemistry</caption>
+      </table>
+      <para id="id62968">A <emphasis effect="bold">rock</emphasis> is a combination of one or more minerals. <emphasis effect="italics">Granite</emphasis> for example, is a rock that is made up of minerals such as SiO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>, Al<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>, CaO, K<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O, Na<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O and others. There are three different types of rocks, <emphasis effect="bold">igneous</emphasis>, <emphasis effect="bold">sedimentary</emphasis> and <emphasis effect="bold">metamorphic</emphasis>. Igneous rocks (e.g. granite, basalt) are formed when magma is brought to the earth's surface as lava, and then solidifies. Sedimentary rocks (e.g. sandstone, limestone) form when rock fragments, organic matter or other sediment particles are deposited and then compacted over time until they solidify. Metamorphic rock is formed when any other rock types are subjected to intense heat and pressure over a period of time. Examples include slate and marble.</para>
+      <para id="id63067">Many of the elements that are of interest to us (e.g. gold, iron, copper), are unevenly distributed in the lithosphere. In places where these elements are abundant, it is profitable to extract them (e.g. through mining) for economic purposes. If their concentration is very low, then the cost of extraction becomes more than the money that would be made if they were sold. Rocks that contain valuable minerals are called <emphasis effect="bold">ores</emphasis>. As humans, we are particularly interested in the ores that contain metal elements, and also in those minerals that can be used to produce energy.</para>
+<definition id="fhsst_id131"><term id="termfhsst_id131"> Ore </term> <meaning id="meaningfhsst_id131">
+      <para id="id63088">An ore is a volume of rock that contains minerals which make it valuable for mining. </para>
+      </meaning></definition>
+<note id="notfhsst_id134"><title> Interesting Fact </title> 
+A <emphasis effect="bold">gemstone</emphasis> (also sometimes called a <emphasis effect="bold">gem</emphasis> or <emphasis effect="bold">semi-precious stone</emphasis>), is a highly attractive and valuable piece of mineral which, when cut and polished, is used in jewelry and other adornments. Examples of gemstones are amethyst, diamond, cat's eye and sapphire.
+</note>
+<section id="secfhsst_id137"><title> Rocks and minerals
+      </title>
+      <list id="id63135" display="block" list-type="enumerated">
+        <item id="uid3">Where are most of the earth's minerals concentrated?
+</item>
+        <item id="uid4">Explain the difference between a <emphasis effect="italics">mineral</emphasis>, a <emphasis effect="italics">rock</emphasis> and an <emphasis effect="italics">ore</emphasis>.
+</item>
+        <item id="uid5">Carry out your own research to find out which elements are found in the following minerals:
+<list id="id63189" display="block" list-type="enumerated"><item id="uid6">gypsum
+</item><item id="uid7">calcite
+</item><item id="uid8">topaz
+</item></list></item>
+        <item id="uid9">Which minerals are found in the following rocks?
+<list id="id63239" display="block" list-type="enumerated"><item id="uid10">basalt
+</item><item id="uid11">sandstone
+</item><item id="uid12">marble
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid4">
+      <title>A brief history of mineral use</title>
+      <para id="id63296">Many of the minerals that are important to humans are <emphasis effect="bold">metals</emphasis> such as gold, aluminium, copper and iron. Throughout history, metals have played a very important role in making jewelery, tools, weapons and later machinery and other forms of technology. We have become so used to having metals around us that we seldom stop to think what life might have been like before metals were discovered. During the <emphasis effect="bold">Stone Age</emphasis> for example, <emphasis effect="bold">stones</emphasis> were used to make tools. Slivers of stone were cut from a rock and then sharpened. In Africa, some of the stone tools that have been found date back to 2.5 million years ago!</para>
+      <para id="id63320">It was the discovery of <emphasis effect="italics">metals</emphasis> that led to some huge advances in agriculture, warfare, transport and even cookery. One of the first metals to be discovered was <emphasis effect="bold">gold</emphasis>, probably because of its beautiful shiny appearance. Gold was used mostly to make jewelery because it was too soft to make harder tools. Later, <emphasis effect="bold">copper</emphasis> became an important metal because it could be hammered into shape, and it also lasted a lot longer than the stone that had previously been used in knives, cooking utensils and weapons. Copper can also be melted and then put into a mould to re-shape it. This is known as <emphasis effect="bold">casting</emphasis>.</para>
+      <para id="id63353">At about the time that copper was in widespread use, it was discovered that if certain kinds of stones are heated to high enough temperatures, liquid metals flow from them. These rocks are <emphasis effect="bold">ores</emphasis>, and contain the metal minerals inside them. The process of heating mineral ores in this way is called <emphasis effect="bold">smelting</emphasis>. It was also found that ores do not only occur at the earth's surface, but also deep <emphasis effect="italics">below</emphasis> it. This discovery led to the beginning of <emphasis effect="bold">mining</emphasis>.</para>
+      <para id="id63384">But humans' explorations into the world of metals did not end here! In some areas, the ores of <emphasis effect="italics">iron</emphasis> and <emphasis effect="italics">tin</emphasis> were found close together. The cast alloy of these two metals is <emphasis effect="bold">bronze</emphasis>. Bronze is a very useful metal because it produces a sharper edge than copper. Another important discovery was that of <emphasis effect="bold">iron</emphasis>. Iron is the most abundant metal at the earth's surface but it is more difficult to work with than copper or tin. It is very difficult to extract iron from its ore because it has an extremely high melting point, and only specially designed furnaces are able to produce the temperatures that are needed. An important discovery was that if iron is heated in a furnace with <emphasis effect="italics">charcoal</emphasis>, some of the carbon in the charcoal is transferred to the iron, making the metal even harder. If this hot metal has its temperature reduced very suddenly, it becomes even harder and produces <emphasis effect="bold">steel</emphasis>. Today, steel is a very important part of industry and construction.</para>
+<note id="notfhsst_id164"><title> Interesting Fact </title> 
+Originally it was believed that much of Africa's knowledge of metals and their uses was from the Middle East. But this may not be the case. More recent studies have shown that iron was used far earlier than it would have been if knowledge of this metal had started in the Middle East. Many metal technologies may in fact have developed independently in Africa and in many African countries, metals have an extremely important place in society. In Nigeria's Yoruba country for example, iron has divine status because it is used to make instruments for survival. 'Ogun', the God of Iron, is seen as the protector of the kingdom.
+</note>
+    </section>
+    <section id="cid5">
+      <title>Energy resources and their uses</title>
+      <para id="id63449">Apart from minerals and ores, the products of the lithosphere are also important in meeting our energy needs.</para>
+      <para id="id63453"><emphasis effect="bold">Coal</emphasis> is one of the most important fuels that is used in the production of electricity. Coal is formed from organic material when plants and animals decompose, leaving behind organic remains that accumulate and become compacted over millions of years under sedimentary rock. The layers of compact organic material that can be found between sedimentary layers, are coal. When coal is burned, a large amount of heat energy is released, which is used to produce electricity. South Africa is the world's sixth largest coal producer, with Mpumalanga contributing about 83% of our total production. Other areas in which coal is produced, include the Free State, Limpopo and KwaZulu-Natal. One of the problems with coal however, is that it is a non-renewable resource, meaning that once all resources have been used up, it cannot simply be produced again. Burning coal also produces large quantities of greenhouse gases, which may play a role in global warming. At present, ESKOM, the South African government's electric power producer, is the coal industry's main customer.</para>
+      <para id="id63471">Another element that is found in the crust, and which helps to meet our energy needs, is <emphasis effect="bold">uranium</emphasis>. Uranium produces energy through the process of <emphasis effect="italics">nuclear fission</emphasis>. Neutrons are aimed at the nucleii of the uranium atoms in order to split them. When the nucleus of a uranium atom is split, a large amount of energy is released as heat. This heat is used to produce steam, which turns turbines to generate electricity. Uranium is produced as a by-product of gold in some mines in the Witwatersrand, and as a by-product in some copper mines, for example in Phalaborwa. This type of nuclear power is relatively environmentally friendly since it produces low gas emissions. However, the process does produce small amounts of radioactive wastes , which must be carefully disposed of in order to prevent contamination.</para>
+      <para id="id63494"><emphasis effect="bold">Oil</emphasis> is another product of the lithosphere which is critical in meeting our fuel needs. While most of South Africa's oil is imported and then processed at a refinery in either Durban, Cape Town or Sasolburg, some is extracted from coal. The technology behind this type of extraction has largely been developed by SASOL (South African Coal, Oil and Gas Corporation). Oil, like coal, is organic in origin and normally forms from organic deposits on the ocean floor. Oil requires unique geological and geochemical conditions in order to be produced. Part of this process involves the burial of organic-rich sediments under extremely high temperatures and pressures. The oil that is produced is then pushed out into nearby sedimentary layers. Oil will then move upwards until it is trapped by an impermeable rock layer. It accumulates here, and can then be accessed by oil rigs and other advanced equipment.</para>
+<section id="secfhsst_id174"><title> Research : Mining Areas </title>
+      <para id="id63518">Using any reference resources you have available, try to find a map of the mining regions of South Africa. </para>
+</section>
+    </section>
+
+  </content>
+</document>

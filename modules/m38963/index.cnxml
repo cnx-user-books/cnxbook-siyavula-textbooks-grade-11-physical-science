@@ -1,0 +1,1231 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Newton's second law</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38963</md:content-id>
+  <md:title>Newton's second law</md:title>
+  <md:abstract/>
+  <md:uuid>edec1111-c3bb-4191-87a8-4f27c8fc4c05</md:uuid>
+</metadata>
+
+<content>
+      <section id="uid76">
+        <title>Newton's Second Law of Motion</title>
+        <para id="id64569">According to Newton I, things 'like to keep on doing what they are doing'. In other words, if an object is moving, it tends to continue moving (in a straight line and at the same speed) and if an object is stationary, it tends to remain stationary. So how do objects start moving?</para>
+        <para id="id64575">Let us look at the example of a 10 kg box on a rough table. If we push lightly on the box as indicated in the diagram, the box won't move. Let's say we applied a force of 100 N, yet the box remains stationary. At this point a frictional force of 100 N is acting on the box, preventing the box from moving. If we increase the force, let's say to 150 N and the box almost starts to move, the frictional force is 150 N. To be able to move the box, we need to push hard enough to overcome the friction and then move the box. If we therefore apply a force of 200 N remembering that a frictional force of 150 N is present, the 'first' 150 N will be used to overcome or 'cancel' the friction and the other 50 N will be used to move (accelerate) the block. In order to accelerate an object we must have a resultant force acting on the block.</para>
+        <para id="id64585">
+          <figure id="id64588">
+            <media id="id64588_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_019.png" id="id64588_onlineimage" width="277"><!-- NOTE: attribute width changes image size online (pixels). original width is 277. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_019.eps" id="id64588_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id64595">Now, what do you think will happen if we pushed harder, lets say 300 N? Or, what do you think will happen if the mass of the block was more, say 20 kg, or what if it was less? Let us investigate how the motion of an object is affected by mass and force.</para>
+<section id="secfhsst_id526"><title> Investigation : Newton's Second Law of Motion </title>
+        <para id="id64608">
+          <emphasis effect="bold">Aim:</emphasis>
+        </para>
+        <para id="id64617">To investigate the relation between the acceleration of objects and the application of a constant resultant force.</para>
+        <para id="id64623">
+          <emphasis effect="bold">Method:</emphasis>
+        </para>
+        <figure id="uid77">
+          <media id="uid77_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_020.png" id="uid77_onlineimage" width="126"><!-- NOTE: attribute width changes image size online (pixels). original width is 126. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_020.eps" id="uid77_printimage"/>
+          </media>
+        </figure>
+        <list id="id64641" display="block" list-type="enumerated">
+          <item id="uid78">A constant force of 20 N, acting at an angle of 60<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the horizontal, is applied to a dynamics trolley.
+</item>
+          <item id="uid79">Ticker tape attached to the trolley runs through a ticker timer of frequency 20 Hz as the trolley is moving on the frictionless surface.
+</item>
+          <item id="uid80">The above procedure is repeated 4 times, each time using the same force, but varying the mass of the trolley as follows:
+<list id="id64697" display="block" list-type="bulleted"><item id="uid81">Case 1: 6,25 kg
+</item><item id="uid82">Case 2: 3,57 kg
+</item><item id="uid83">Case 3: 2,27 kg
+</item><item id="uid84">Case 4: 1,67 kg
+</item></list></item>
+          <item id="uid85">Shown below are sections of the four ticker tapes obtained. The tapes are marked with the letters A, B, C, D, etc. A is the first dot, B is the second dot and so on. The distance between each dot is also shown.
+</item>
+        </list>
+        <figure id="uid86">
+          <media id="uid86_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_021.png" id="uid86_onlineimage" width="349"><!-- NOTE: attribute width changes image size online (pixels). original width is 349. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_021.eps" id="uid86_printimage"/>
+          </media>
+        </figure>
+        <para id="id64774">Instructions:</para>
+        <list id="id64777" display="block" list-type="enumerated">
+          <item id="uid87">Use each tape to calculate the instantaneous velocity (in m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>) of the trolley at points B and F (remember to convert the distances to m first!). Use these velocities to calculate the trolley's acceleration in each case.
+</item>
+          <item id="uid88">Tabulate the mass and corresponding acceleration values as calculated in each case. Ensure that each column and row in your table is appropriately labeled.
+</item>
+          <item id="uid89">Draw a graph of acceleration vs. mass, using a scale of 1 cm = 1 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>on the y-axis and 1 cm = 1 kg on the x-axis.
+</item>
+          <item id="uid90">Use your graph to read off the acceleration of the trolley if its mass is 5 kg.
+</item>
+          <item id="uid91">Write down a conclusion for the experiment.
+</item>
+        </list>
+        
+</section>
+        <para id="id64906">You will have noted in the investigation above that the heavier the trolley is, the slower it moved. The acceleration is <emphasis effect="italics">inversely</emphasis> proportional to the mass. In mathematical terms:</para>
+        <equation id="id64916"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>a</m:mi>
+              <m:mo>∝</m:mo>
+              <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mi>m</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id64944">In a similar investigation where the mass is kept constant, but the applied force is varied, you will find that the bigger the force is, the faster the object will move. The acceleration of the trolley is therefore <emphasis effect="italics">directly</emphasis> proportional to the resultant force. In mathematical terms:</para>
+        <equation id="id64955"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>a</m:mi>
+              <m:mo>∝</m:mo>
+              <m:mi>F</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id64974">Rearranging the above equations, we get <m:math overflow="scroll"><m:mi>a</m:mi></m:math><m:math overflow="scroll"><m:mo>∝</m:mo></m:math><m:math overflow="scroll"><m:mfrac><m:mi>F</m:mi><m:mi>m</m:mi></m:mfrac></m:math> OR <m:math overflow="scroll"><m:mrow><m:mi>F</m:mi><m:mspace width="3.33333pt"/><m:mo>=</m:mo><m:mspace width="3.33333pt"/><m:mi>m</m:mi><m:mi>a</m:mi></m:mrow></m:math></para>
+        <para id="id65030">Newton formulated his second law as follows:</para>
+<definition id="fhsst_id603"><term id="termfhsst_id603"> Newton's Second Law of Motion </term> <meaning id="meaningfhsst_id603">
+        <para id="id65042">If a resultant force acts on a body, it will cause the body to accelerate in the direction of the resultant force. The acceleration of the body will be directly proportional to the resultant force and inversely proportional to the mass of the body. The mathematical representation is:</para>
+        <equation id="id65050">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>F</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>m</m:mi>
+              <m:mi>a</m:mi>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        
+        </meaning></definition>
+        <para id="eip-869"><figure id="newton-2" class="khanacademy">
+	  <title>Khan academy video on newtons laws - 2</title>
+	  <media id="yt-media2" display="block" alt="video on newton 2">
+	  <flash id="yt-video2" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/ou9YMWlJgkE&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><section id="uid92">
+          <title>Applying Newton's Second Law</title>
+          <para id="id65091">Newton's Second Law can be applied to a variety of situations. We will look at the main types of examples that you need to study.</para>
+<exercise id="secfhsst_id621"><title> Newton II - Box on a surface 1 </title>
+          <problem id="probfhsst_id622">
+          <para id="id65109">A 10 kg box is placed on a table. A horizontal force of 32 N is applied to the box. A frictional force of 7 N is present between the surface and the box.</para>
+          <list id="id65116" display="block" list-type="enumerated">
+            <item id="uid93">Draw a force diagram indicating all the horizontal forces acting on the box.
+</item>
+            <item id="uid94">Calculate the acceleration of the box.
+</item>
+          </list>
+          <figure id="uid95">
+            <media id="uid95_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_022.png" id="uid95_onlineimage" width="177"><!-- NOTE: attribute width changes image size online (pixels). original width is 177. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_022.eps" id="uid95_printimage"/>
+            </media>
+          </figure>
+          
+          </problem>
+          <solution id="solfhsst_id638"> <list id="listfhsst_id638" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Identify the horizontal forces and draw a force diagram </label>
+          <para id="id65175">We only look at the forces acting in a horizontal direction (left-right) and not vertical (up-down) forces. The applied force and the force of friction will be included. The force of gravity, which is a vertical force, will not be included.</para>
+          <figure id="uid96">
+            <media id="uid96_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_023.png" id="uid96_onlineimage" width="274"><!-- NOTE: attribute width changes image size online (pixels). original width is 274. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_023.eps" id="uid96_printimage"/>
+            </media>
+          </figure>
+          </item> <item> <label> Calculate the acceleration of the box </label>
+          <para id="id65193">We have been given:</para>
+          <para id="id65196">Applied force F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 32 N</para>
+          <para id="id65216">Frictional force F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>f</m:mi></m:msub></m:math> = - 7 N</para>
+          <para id="id65235">Mass m = 10 kg</para>
+          <para id="id65240">To calculate the acceleration of the box we will be using the equation <m:math overflow="scroll"><m:mrow><m:msub><m:mi>F</m:mi><m:mi>R</m:mi></m:msub><m:mo>=</m:mo><m:mi>m</m:mi><m:mi>a</m:mi></m:mrow></m:math>.
+Therefore:</para>
+          <equation id="id65268"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>R</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>10</m:mn>
+                      <m:mo>)</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mi>a</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mn>32</m:mn>
+                      <m:mo>-</m:mo>
+                      <m:mn>7</m:mn>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>10</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mn>25</m:mn>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>10</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>a</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup><m:mspace width="3pt"/>
+                      <m:mrow>
+                        <m:mi> towards the left</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id772"><title> Newton II - box on surface 2 </title>
+          <problem id="probfhsst_id773">
+          <para id="id65478">Two crates, 10 kg and 15 kg respectively, are connected with a thick rope according to the diagram. A force of 500 N is applied. The boxes move with an acceleration of 2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>. One third of the total frictional force is acting on the 10 kg block and two thirds on the 15 kg block. Calculate:</para>
+          <list id="id65512" display="block" list-type="enumerated">
+            <item id="uid97">the magnitude and direction of the frictional force present.
+</item>
+            <item id="uid98">the magnitude of the tension in the rope at T.
+</item>
+          </list>
+          <figure id="uid99">
+            <media id="uid99_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_024.png" id="uid99_onlineimage" width="200"><!-- NOTE: attribute width changes image size online (pixels). original width is 200. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_024.eps" id="uid99_printimage"/>
+            </media>
+            <caption>Two crates on a surface</caption>
+          </figure>
+          
+          </problem>
+          <solution id="solfhsst_id790"> <list id="listfhsst_id790" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Draw a force diagram </label>
+          <para id="id65573">Always draw a force diagram although the question might not ask for it. The acceleration of the whole system is given, therefore a force diagram of the whole system will be drawn. Because the two crates are seen as a unit, the force diagram will look like this:</para>
+          <figure id="uid100">
+            <media id="uid100_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_025.png" id="uid100_onlineimage" width="248"><!-- NOTE: attribute width changes image size online (pixels). original width is 248. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_025.eps" id="uid100_printimage"/>
+            </media>
+            <caption>Force diagram for two crates on a surface</caption>
+          </figure>
+          </item> <item> <label> Calculate the frictional force </label>
+          <para id="id65595">To find the frictional force we will apply Newton's Second Law. We are given the mass (10 + 15 kg) and the acceleration (2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>). Choose the direction of motion to be the positive direction (to the right is positive).</para>
+          <equation id="id65626">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>R</m:mi>
+                      </m:msub>
+                      <m:mo>=</m:mo>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi> applied </m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>=</m:mo>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mn>500</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>=</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>10</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>15</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>=</m:mo>
+                      <m:mn>50</m:mn>
+                      <m:mo>-</m:mo>
+                      <m:mn>500</m:mn>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>=</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>450</m:mn>
+                      <m:mi>N</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id65768">The frictional force is 450 N opposite to the direction of motion (to the left).</para>
+          </item> <item> <label> Find the tension in the rope </label>
+          <para id="id65780">To find the tension in the rope we need to look at one of the two crates on their own. Let's choose the 10 kg crate. Firstly, we need to draw a force diagram:</para>
+          <figure id="uid101">
+            <media id="uid101_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_026.png" id="uid101_onlineimage" width="214"><!-- NOTE: attribute width changes image size online (pixels). original width is 214. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_026.eps" id="uid101_printimage"/>
+            </media>
+            <caption>Force diagram of 10 kg crate</caption>
+          </figure>
+          <para id="id65797">The frictional force on the 10 kg block is one third of the total, therefore:</para>
+          <para id="id65801"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>F</m:mi><m:mi>f</m:mi></m:msub><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>×</m:mo></m:mrow></m:math> 450</para>
+          <para id="id65832">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:msub>
+                  <m:mi>F</m:mi>
+                  <m:mi>f</m:mi>
+                </m:msub>
+                <m:mo>=</m:mo>
+                <m:mn>150</m:mn>
+                <m:mspace width="4pt"/>
+                <m:mi mathvariant="normal">N</m:mi>
+              </m:mrow>
+            </m:math>
+          </para>
+          <para id="id65863">If we apply Newton's Second Law:</para>
+          <equation id="id65868">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>R</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>T</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>10</m:mn>
+                      <m:mo>)</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>T</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>150</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mn>20</m:mn>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>T</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>170</m:mn>
+                      <m:mspace width="4pt"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id65992">Note: If we had used the same principle and applied it to 15 kg crate, our calculations would have been the following:</para>
+          <equation id="id65996">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>R</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi> applied </m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:mi>T</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>15</m:mn>
+                      <m:mo>)</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mn>500</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mi>T</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>300</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mn>30</m:mn>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>T</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>170</m:mn>
+                      <m:mspace width="4pt"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id66137">The negative answer here means that the force is in the direction opposite to the motion, in other words to the left, which is correct. However, the question asks for the magnitude of the force and your answer will be quoted as 170 N.
+ </para>
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1094"><title> Newton II - Man pulling a box </title>
+          <problem id="probfhsst_id1095">
+          <para id="id66169">A man is pulling a 20 kg box with a rope that makes an angle of 60<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> with the horizontal. If he applies a force of 150 N and a frictional force of 15 N is present, calculate the acceleration of the box.</para>
+          <figure id="uid102">
+            <media id="uid102_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_027.png" id="uid102_onlineimage" width="171"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_027.eps" id="uid102_printimage"/>
+            </media>
+            <caption>Man pulling a box</caption>
+          </figure>
+          
+          </problem>
+          <solution id="solfhsst_id1106"> <list id="listfhsst_id1106" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Draw a force diagram </label>
+          <para id="id66223">The motion is horizontal and therefore we will only consider the forces in a horizontal direction. Remember that vertical forces do not influence horizontal motion and vice versa.</para>
+          <figure id="uid103">
+            <media id="uid103_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_028.png" id="uid103_onlineimage" width="127"><!-- NOTE: attribute width changes image size online (pixels). original width is 127. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_028.eps" id="uid103_printimage"/>
+            </media>
+            <caption>Force diagram</caption>
+          </figure>
+          </item> <item> <label> Calculate the horizontal component of the applied force </label>
+          <para id="id66244">The applied force is acting at an angle of 60 <m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the horizontal. We can only consider forces that are parallel to the motion. The horizontal component of the applied force needs to be calculated before we can continue:</para>
+          <equation id="id66263">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>150</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> cos </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:msup>
+                        <m:mn>60</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mn>75</m:mn>
+                      <m:mi mathvariant="normal">N</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Calculate the acceleration </label>
+          <para id="id66346">To find the acceleration we apply Newton's Second Law:</para>
+          <equation id="id66350"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>R</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>x</m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>20</m:mn>
+                      <m:mo>)</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mi>a</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mn>75</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>15</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>20</m:mn>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>a</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msup><m:mspace width="3pt"/>
+                      <m:mrow>
+                        <m:mi> to the right</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1270"><title> Newton II - Truck and trailor </title>
+          <problem id="probfhsst_id1271">
+          <para id="id66537">A 2000 kg truck pulls a 500 kg trailer with a constant acceleration. The engine of the truck produces a thrust of 10 000 N. Ignore the effect of friction.</para>
+          <list id="id66544" display="block" list-type="enumerated">
+            <item id="uid104">Calculate the acceleration of the truck.
+</item>
+            <item id="uid105">Calculate the tension in the tow bar T between the truck and the trailer, if the tow bar makes an angle of 25<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> with the horizontal.
+</item>
+          </list>
+          <figure id="uid106">
+            <media id="uid106_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_029.png" id="uid106_onlineimage" width="191"><!-- NOTE: attribute width changes image size online (pixels). original width is 191. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_029.eps" id="uid106_printimage"/>
+            </media>
+            <caption>Truck pulling a trailer</caption>
+          </figure>
+          
+          </problem>
+          <solution id="solfhsst_id1288"> <list id="listfhsst_id1288" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Draw a force diagram </label>
+          <para id="id66620">Draw a force diagram indicating all the horizontal forces on the system as a whole:</para>
+          <figure id="uid107">
+            <media id="uid107_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_030.png" id="uid107_onlineimage" width="194"><!-- NOTE: attribute width changes image size online (pixels). original width is 194. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_030.eps" id="uid107_printimage"/>
+            </media>
+            <caption>Force diagram for truck pulling a trailer</caption>
+          </figure>
+          </item> <item> <label> Find the acceleration of the system </label>
+          <para id="id66641">In the absence of friction, the only force that causes the system to accelerate is the thrust of the engine. If we now apply Newton's Second Law:</para>
+          <equation id="id66645">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>R</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mn>10</m:mn>
+                      <m:mn>000</m:mn>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>500</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mn>2000</m:mn>
+                      <m:mo>)</m:mo>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>a</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mspace width="4pt"/>
+                      <m:mrow>
+                        <m:mi> to </m:mi>
+                        <m:mspace width="3.33333pt"/>
+                        <m:mi> the </m:mi>
+                        <m:mspace width="3.33333pt"/>
+                        <m:mi> right </m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Find the horizontal component of T </label>
+          <para id="id66773">We are asked to find the tension in the tow bar, but because the tow bar is acting at an angle, we need to find the horizontal component first. We will find the horizontal component in terms of T and then use it in the next step to find T.</para>
+          <para id="id66778">
+            <figure id="id66779">
+              <media id="id66779_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C11_031.png" id="id66779_onlineimage" width="67"><!-- NOTE: attribute width changes image size online (pixels). original width is 67. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_031.eps" id="id66779_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id66786">The horizontal component is T cos 25<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>.</para>
+          </item> <item> <label> Find the tension in the tow bar </label>
+          <para id="id66810">To find T, we will apply Newton's Second Law:</para>
+          <equation id="id66814">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>R</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>F</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mi>T</m:mi>
+                      <m:mspace width="4pt"/>
+                      <m:mi> cos </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:msup>
+                        <m:mn>25</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mn>10</m:mn>
+                      <m:mn>000</m:mn>
+                      <m:mo>-</m:mo>
+                      <m:mi>T</m:mi>
+                      <m:mspace width="4pt"/>
+                      <m:mi> cos </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:msup>
+                        <m:mn>25</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>2000</m:mn>
+                      <m:mo>)</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mn>4</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>T</m:mi>
+                      <m:mspace width="4pt"/>
+                      <m:mi> cos </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:msup>
+                        <m:mn>25</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mn>2000</m:mn>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>T</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>2206</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>76</m:mn>
+                      <m:mi mathvariant="normal">N</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          
+          </item> </list> </solution>
+</exercise>
+        </section>
+        <section id="uid108">
+          <title>Object on an inclined plane</title>
+          <para id="id67026">When we place an object on a slope the force of gravity (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>g</m:mi></m:msub></m:math>) acts straight down and not perpendicular to the slope. Due to gravity pulling straight down, the object will tend to slide down the slope with a force equal to the horizontal component of the force of gravity (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>g</m:mi></m:msub></m:math> sin <m:math overflow="scroll"><m:mi>θ</m:mi></m:math>). The object will 'stick' to the slope due to the frictional force between the object and the surface. As you increase the angle of the slope, the horizontal component will also increase until the frictional force is overcome and the object starts to slide down the slope.</para>
+          <para id="id67070">The force of gravity will also tend to push an object 'into' the slope. The vertical component of this force is equal to the vertical component of the force of gravity (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>g</m:mi></m:msub></m:math> cos <m:math overflow="scroll"><m:mi>θ</m:mi></m:math>). There is no movement in this direction as this force is balanced by the slope pushing up against the object. This “pushing force” is called the normal force (N) and is equal to the force required to make the component of the resultant force perpendicularly into the plane zero, F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>g</m:mi></m:msub></m:math> cos <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> in this case, but opposite in direction.</para>
+<note id="notfhsst_id1510" type="tip">Do not use the abbreviation W for weight as it is used to abbreviate 'work'. Rather use the force of gravity F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>g</m:mi></m:msub></m:math> for weight.</note>
+          <figure id="uid109">
+            <media id="uid109_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_032.png" id="uid109_onlineimage" width="238"><!-- NOTE: attribute width changes image size online (pixels). original width is 238. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_032.eps" id="uid109_printimage"/>
+            </media>
+          </figure>
+<para id="eip-668"><figure id="id6358">
+            <media id="id6358_media" alt="">
+            <image mime-type="image/png" src="../../media/ramp-forces-and-motion-screenshot.png" id="id6358_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/ramp-forces-and-motion-screenshot.eps" id="id6358_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/motion-series/ramp-forces-and-motion_en.jnlp">run demo</link></para><exercise id="secfhsst_id1517"><title> Newton II - Box on inclined plane </title>
+          <problem id="probfhsst_id1518">
+          <para id="id67165">A body of mass M is at rest on an inclined plane.</para>
+          <para id="id67171">
+            <figure id="id67174">
+              <media id="id67174_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C11_033.png" id="id67174_onlineimage" width="75"><!-- NOTE: attribute width changes image size online (pixels). original width is 75. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_033.eps" id="id67174_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id67181">What is the magnitude of the frictional force acting on the body?</para>
+          <list id="id67184" display="block" list-type="enumerated" number-style="upper-alpha"><item id="uid110">Mg
+</item>
+            <item id="uid111">Mg cos <m:math overflow="scroll"><m:mi>θ</m:mi></m:math></item>
+            <item id="uid112">Mg sin <m:math overflow="scroll"><m:mi>θ</m:mi></m:math></item>
+            <item id="uid113">Mg tan <m:math overflow="scroll"><m:mi>θ</m:mi></m:math></item>
+          </list>
+          
+          </problem>
+          <solution id="solfhsst_id1538"> <list id="listfhsst_id1538" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Analyse the situation </label>
+          <para id="id67291">The question asks us to identify the frictional force. The body is said to be at rest on the plane, which means that it is not moving and therefore there is no resultant force. The frictional force must therefore be balanced by the force F up the inclined plane.</para>
+          </item> <item> <label> Choose the correct answer </label>
+          <para id="id67300">The frictional force is equal to the component of the weight (Mg) parallel to the surface, which is equal to Mg sin <m:math overflow="scroll"><m:mi>θ</m:mi></m:math>.
+ </para>
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1546"><title> Newton II - Object on a slope </title>
+          <problem id="probfhsst_id1547">
+          <para id="id67339">A force T = 312 N is required to keep a body at rest on a frictionless inclined plane which makes an angle of 35<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> with the horizontal. The forces acting on the body are shown. Calculate the magnitudes of forces P and R, giving your answers to three significant figures.</para>
+          <figure id="uid114">
+            <media id="uid114_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_034.png" id="uid114_onlineimage" width="129"><!-- NOTE: attribute width changes image size online (pixels). original width is 129. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_034.eps" id="uid114_printimage"/>
+            </media>
+          </figure>
+          
+          </problem>
+          <solution id="solfhsst_id1557"> <list id="listfhsst_id1557" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Find the magnitude of P </label>
+          <para id="id67390">We are usually asked to find the magnitude of T, but in this case T is given and we are asked to find P. We can use the same equation. T is the force that balances the component of P parallel to the plane (P<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>x</m:mi></m:msub></m:math>) and therefore it has the same magnitude.</para>
+          <equation id="id67410">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>T</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>P</m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> sin </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mn>312</m:mn>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>P</m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> sin </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:msup>
+                        <m:mn>35</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>P</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>544</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Find the magnitude of R </label>
+          <para id="id67513">R can also be determined with the use of trigonometric ratios. The tan or cos ratio can be used. We recommend that you use the tan ratio because it does not involve using the value for P (for in case you made a mistake in calculating P).</para>
+          <equation id="id67518">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi> tan </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:msup>
+                        <m:mn>55</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mi>R</m:mi>
+                      <m:mi>T</m:mi>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi> tan </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:msup>
+                        <m:mn>55</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mi>R</m:mi>
+                      <m:mn>312</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>R</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi> tan </m:mi>
+                      <m:mspace width="3.33333pt"/>
+                      <m:msup>
+                        <m:mn>55</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>×</m:mo>
+                      <m:mn>312</m:mn>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>R</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>445</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>6</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>R</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>446</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">N</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id67685">Note that the question asks that the answers be given to 3 significant figures. We therefore round 445,6 N up to 446 N.
+ </para>
+          </item> </list> </solution>
+</exercise>
+        </section>
+ </section>
+     </content>
+</document>

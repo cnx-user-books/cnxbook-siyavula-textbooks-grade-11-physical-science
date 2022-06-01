@@ -1,0 +1,125 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Sound waves, seismic waves and graphs of motion</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39033</md:content-id>
+  <md:title>Sound waves, seismic waves and graphs of motion</md:title>
+  <md:abstract/>
+  <md:uuid>75b58c67-6671-4d17-bd9e-2d9290987ad9</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Graphs of Particle Position, Displacement, Velocity and Acceleration</title>
+      <para id="id293320">When a longitudinal wave moves through the medium, the particles in the medium <emphasis effect="bold">only</emphasis> move back and forth relative to the direction of motion of the wave. We can see this in <link target-id="uid14"/> which shows the motion of the particles in a medium as a longitudinal wave moves through the medium.</para>
+      <figure id="uid14">
+        <media id="uid14_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C4_006.png" id="uid14_onlineimage" width="352"><!-- NOTE: attribute width changes image size online (pixels). original width is 352. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C4_006.eps" id="uid14_printimage"/>
+        </media>
+        <caption>Positions of particles in a medium at different times as a longitudinal wave moves through it. The wave moves to the right. The dashed line shows the equilibrium position of particle 0.</caption>
+      </figure>
+<note id="notfhsst_id371" type="tip">A particle in the medium <emphasis effect="bold">only</emphasis> moves back and forth when a longitudinal wave moves through the medium.</note>
+      <para id="id293361">We can draw a graph of the particle's change in position from its starting point as a function of time. For the wave shown in <link target-id="uid14"/>, we can draw the graph shown in <link target-id="uid15"/> for particle 0. The graph for each of the other particles will be identical.</para>
+      <figure id="uid15">
+        <media id="uid15_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C4_007.png" id="uid15_onlineimage" width="197"><!-- NOTE: attribute width changes image size online (pixels). original width is 197. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C4_007.eps" id="uid15_printimage"/>
+        </media>
+        <caption>Graph of particle displacement as a function of time for the longitudinal wave shown in <link target-id="uid14"/>.</caption>
+      </figure>
+      <para id="id293393">The graph of the particle's velocity as a function of time is obtained by taking the gradient of the position vs. time graph. The graph of velocity vs. time for the position vs. time graph shown in <link target-id="uid15"/> is shown is <link target-id="uid16"/>.</para>
+      <figure id="uid16">
+        <media id="uid16_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C4_008.png" id="uid16_onlineimage" width="197"><!-- NOTE: attribute width changes image size online (pixels). original width is 197. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C4_008.eps" id="uid16_printimage"/>
+        </media>
+        <caption>Graph of velocity as a function of time.</caption>
+      </figure>
+      <para id="id293421">The graph of the particle's acceleration as a function of time is obtained by taking the gradient of the velocity vs. time graph. The graph of acceleration vs. time for the position vs. time graph shown in <link target-id="uid15"/> is shown is <link target-id="uid17"/>.</para>
+      <figure id="uid17">
+        <media id="uid17_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C4_009.png" id="uid17_onlineimage" width="197"><!-- NOTE: attribute width changes image size online (pixels). original width is 197. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C4_009.eps" id="uid17_printimage"/>
+        </media>
+        <caption>Graph of acceleration as a function of time.</caption>
+      </figure>
+    </section>
+    <section id="cid6">
+      <title>Sound Waves</title>
+      <para id="id293458">Sound waves coming from a tuning fork are caused by the vibrations of the tuning fork which push against the air particles in front of it. As the air particles are pushed together a compression is formed. The particles behind the compression move further apart causing a rarefaction. As the particles continue to push against each other,
+the sound wave travels through the air. Due to this motion of the particles, there is a constant variation in the pressure in the air. Sound waves are therefore pressure waves. This means that in media where the particles are closer together, sound waves will travel quicker.</para>
+      <para id="id293466">Sound waves travel faster through liquids, like water, than through the air because water is denser than air (the particles are closer together). Sound waves travel faster in solids than in liquids.</para>
+      <figure id="uid18">
+        <media id="uid18_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C4_010.png" id="uid18_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 295. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C4_010.eps" id="uid18_printimage"/>
+        </media>
+        <caption>Sound waves are pressure waves and need a medium through which to travel.</caption>
+      </figure>
+<note id="notfhsst_id409" type="tip">A sound wave is different from a light wave.
+      <list id="id293489" display="block" list-type="bulleted">
+        <item id="uid19">A sound wave is produced by an oscillating object while a light wave is not.
+</item>
+      </list>
+      <para id="id293505">Also, because a sound wave is a mechanical wave (i.e. that it needs a medium) it is not capable of traveling through a vacuum, whereas a light wave can travel through a vacuum.</para></note>
+<note id="notfhsst_id415" type="tip">A sound wave is a pressure wave. This means that regions of high pressure (compressions) and low pressure (rarefactions) are created as the sound source vibrates. These compressions and rarefactions arise because the source vibrates longitudinally and the longitudinal motion of air produces pressure fluctuations.</note>
+      <para id="id293519">Sound will be studied in more detail in Chapter <link target-id=""/>.</para>
+    </section>
+    <section id="cid7">
+      <title>Seismic Waves</title>
+      <para id="id293534">Seismic waves are waves from vibrations in the Earth (core, mantle, oceans). Seismic waves also occur on other planets, for example the moon and can be natural (due to earthquakes, volcanic eruptions or meteor strikes) or man-made (due to explosions or anything that hits the earth hard). Seismic P-waves (P for pressure) are longitudinal waves which can travel through solid and liquid.</para>
+    </section>
+    <section id="cid8">
+      <title>Summary - Longitudinal Waves</title>
+      <list id="id293550" display="block" list-type="enumerated">
+        <item id="uid20">A longitudinal wave is a wave where the particles in the medium move parallel to the direction in which the wave is travelling.
+</item>
+        <item id="uid21">Longitudinal waves consist of areas of higher pressure, where the particles in the medium are closest together (compressions) and areas of lower pressure, where the particles in the medium are furthest apart (rarefactions).
+</item>
+        <item id="uid22">The wavelength of a longitudinal wave is the distance between two consecutive compressions, or two consecutive rarefactions.
+</item>
+        <item id="uid23">The relationship between the period (<m:math overflow="scroll"><m:mi>T</m:mi></m:math>) and frequency (<m:math overflow="scroll"><m:mi>f</m:mi></m:math>) is given by
+<equation id="id293619"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>T</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>f</m:mi></m:mfrac><m:mi>o</m:mi><m:mi>r</m:mi><m:mi>f</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>T</m:mi></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation></item>
+        <item id="uid24">The relationship between wave speed (<m:math overflow="scroll"><m:mi>v</m:mi></m:math>), frequency (<m:math overflow="scroll"><m:mi>f</m:mi></m:math>) and wavelength (<m:math overflow="scroll"><m:mi>λ</m:mi></m:math>) is given by
+<equation id="id293694"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mi>λ</m:mi><m:mo>.</m:mo></m:mrow></m:math></equation></item>
+        <item id="uid25">Graphs of position vs time, velocity vs time and acceleration vs time can be drawn and are summarised in figures
+</item>
+        <item id="uid26">Sound waves are examples of longitudinal waves. The speed of sound depends on the medium, temperature and pressure. Sound waves travel faster in solids than in liquids, and faster in liquids than in gases. Sound waves also travel faster at higher temperatures and higher pressures.
+</item>
+      </list>
+    </section>
+    <section id="cid9">
+      <title>Exercises - Longitudinal Waves</title>
+      <list id="id293753" display="block" list-type="enumerated">
+        <item id="uid27">Which of the following is not a longitudinal wave?
+<list id="id293768" display="block" list-type="enumerated"><item id="uid28">seismic P-wave
+</item><item id="uid29">light
+</item><item id="uid30">sound
+</item><item id="uid31">ultrasound
+</item></list></item>
+        <item id="uid32">Which of the following media can sound not travel through?
+<list id="id293834" display="block" list-type="enumerated"><item id="uid33">solid
+</item><item id="uid34">liquid
+</item><item id="uid35">gas
+</item><item id="uid36">vacuum
+</item></list></item>
+        <item id="uid37">Select a word from Column B that best fits the description in Column A:
+<table id="id293899" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Column A</emphasis></entry><entry><emphasis effect="bold">Column B</emphasis></entry></row><row><entry>waves in the air caused by vibrations</entry><entry>longitudinal waves</entry></row><row><entry>waves that move in one direction, but medium moves in another</entry><entry>frequency</entry></row><row><entry>waves and medium that move in the same direction</entry><entry>white noise</entry></row><row><entry>the distance between consecutive points of a wave which are in phase</entry><entry>amplitude</entry></row><row><entry>how often a single wavelength goes by</entry><entry>sound waves</entry></row><row><entry>half the difference between high points and low points of waves</entry><entry>standing waves</entry></row><row><entry>the distance a wave covers per time interval</entry><entry>transverse waves</entry></row><row><entry>the time taken for one wavelength to pass a point</entry><entry>wavelength</entry></row><row><entry/><entry>music</entry></row><row><entry/><entry>sounds</entry></row><row><entry/><entry>wave speed</entry></row></tbody></tgroup></table></item>
+        <item id="uid38">A longitudinal wave has a crest to crest distance of 10 m. It takes the wave 5 s to pass a point.
+<list id="id294078" display="block" list-type="enumerated"><item id="uid39">What is the wavelength of the longitudinal wave?
+</item><item id="uid40">What is the speed of the wave?
+</item></list></item>
+        <item id="uid41">A flute produces a musical sound travelling at a speed of 320 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. The frequency of the note is 256 Hz. Calculate:
+<list id="id294137" display="block" list-type="enumerated"><item id="uid42">the period of the note
+</item><item id="uid43">the wavelength of the note
+</item></list></item>
+        <item id="uid44">A person shouts at a cliff and hears an echo from the cliff 1 s later. If the speed of sound is 344 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, how far away is the cliff?
+</item>
+        <item id="uid45">A wave travels from one medium to another and the speed of the wave decreases. What will the effect be on the ... (write only <emphasis effect="italics">increases, decreases</emphasis> or <emphasis effect="italics">remains the same</emphasis>)
+<list id="id294228" display="block" list-type="enumerated"><item id="uid46">wavelength?
+</item><item id="uid47">period?
+</item></list></item>
+      </list>
+    </section>
+  </content>
+</document>

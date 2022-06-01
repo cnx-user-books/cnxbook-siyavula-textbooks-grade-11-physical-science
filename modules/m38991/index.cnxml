@@ -1,0 +1,515 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Summary and exercises</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38991</md:content-id>
+  <md:title>Summary and exercises</md:title>
+  <md:abstract/>
+  <md:uuid>53eeaca3-933b-49b4-b6e9-856f97ac1f28</md:uuid>
+</metadata>
+
+<content>
+<section id="cid8">
+      <title>Summary</title>
+      <list id="id95861" display="block" list-type="labeled-item">
+        <item id="uid475"><label>Newton's First Law</label>Every object will remain at rest or in
+uniform motion in a straight line unless it is made to change its
+state by the action of an <emphasis effect="italics">unbalanced force</emphasis>.
+</item>
+        <item id="uid476"><label>Newton's Second Law</label>The resultant force acting on a body
+will cause the body to accelerate in the direction of the
+resultant force The acceleration of the body is directly proportional to the magnitude of
+the resultant force and inversely proportional to the mass of the object.
+</item>
+        <item id="uid477"><label>Newton's Third Law</label>If body A exerts a force on body B then body B
+will exert an equal but opposite force on body A.
+</item>
+        <item id="uid478"><label>Newton's Law of Universal Gravitation</label>Every body in the universe exerts a force on every other body. The force is directly proportional to the product of the masses of the bodies and inversely proportional to the square of the distance between them.
+</item>
+        <item id="uid479"><label>Equilibrium</label>Objects at rest or moving with constant velocity
+are in <emphasis effect="italics">equilibrium</emphasis> and have a <emphasis effect="italics">zero</emphasis><emphasis effect="italics">resultant force</emphasis>.
+</item>
+        <item id="uid480"><label>Equilibrant</label>The <emphasis effect="italics">equilibrant</emphasis> of any number of forces is
+the single force required to produce equilibrium.
+</item>
+        <item id="uid481"><label>Triangle Law for Forces in Equilibrium</label>Three forces in
+equilibrium can be represented in magnitude and direction by the
+three sides of a triangle taken in order.
+</item>
+        <item id="uid482"><label>Momentum</label>The <emphasis effect="italics">momentum</emphasis> of an object is defined as its
+mass multiplied by its velocity.
+</item>
+        <item id="uid483"><label>Momentum of a System</label>The <emphasis effect="italics">total momentum of a system</emphasis>
+is the sum of the momenta of each of the objects in the system.
+</item>
+        <item id="uid484"><label>Principle of Conservation of Linear Momentum:</label>`The total linear
+momentum of an isolated system is constant' or `In an isolated
+system the total momentum before a collision (or explosion) is equal
+to the total momentum after the collision (or explosion)'.
+</item>
+        <item id="uid485"><label>Law of Momentum:</label>The applied resultant force acting on an
+object is equal to the rate of change of the object's momentum and
+this force is in the direction of the change in momentum.
+</item>
+      </list><para id="eip-678"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on forces">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=forces-100510081023-phpapp01&amp;stripped_title=forces-4037441&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para>
+    </section>
+    <section id="cid9">
+      <title>End of Chapter exercises</title>
+      <section id="uid486">
+        <title>Forces and Newton's Laws</title>
+        <list id="id96097" display="block" list-type="enumerated">
+          <item id="uid487">[SC 2003/11] A constant, resultant force acts on a body which can move freely in a straight line. Which physical quantity will remain constant?
+<list id="id96114" display="block" list-type="enumerated"><item id="uid488">acceleration
+</item><item id="uid489">velocity
+</item><item id="uid490">momentum
+</item><item id="uid491">kinetic energy
+</item></list></item>
+          <item id="uid492">[SC 2005/11 SG1] Two forces, 10 N and 15 N, act at an angle at the same point.
+<figure id="id96183"><media id="id96183_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_088.png" id="id96183_onlineimage" width="151"><!-- NOTE: attribute width changes image size online (pixels). original width is 151. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_088.eps" id="id96183_printimage"/></media></figure>
+Which of the following <emphasis effect="bold">cannot</emphasis> be the resultant of these two forces?
+<list id="id96200" display="block" list-type="enumerated"><item id="uid493"><label>A</label>2 N
+</item><item id="uid494"><label>B</label>5 N
+</item><item id="uid495"><label>C</label>8 N
+</item><item id="uid496"><label>D</label>20 N
+</item></list></item>
+          <item id="uid497">A concrete block weighing 250 N is at rest on an inclined surface at an angle of 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. The magnitude of the normal force, in newtons, is
+<list id="id96287" display="block" list-type="bulleted"><item id="uid498"><label>A</label>250
+</item><item id="uid499"><label>B</label>250 cos 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></item><item id="uid500"><label>C</label>250 sin 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></item><item id="uid501"><label>D</label>2500 cos 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></item></list></item>
+          <item id="uid502">A 30 kg box sits on a flat frictionless surface. Two forces of 200 N each are applied to the box as shown in the diagram. Which statement best describes the motion of the box?
+<list id="id96397" display="block" list-type="enumerated"><item id="uid503"><label>A</label>The box is lifted off the surface.
+</item><item id="uid504"><label>B</label>The box moves to the right.
+</item><item id="uid505"><label>C</label>The box does not move.
+</item><item id="uid506"><label>D</label>The box moves to the left.
+</item></list><figure id="id96462"><media id="id96462_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_089.png" id="id96462_onlineimage" width="239"><!-- NOTE: attribute width changes image size online (pixels). original width is 239. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_089.eps" id="id96462_printimage"/></media></figure></item>
+          <item id="uid507">A concrete block weighing 200 N is at rest on an inclined surface at an angle of 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. The normal reaction, in newtons, is
+<list id="id96496" display="block" list-type="bulleted"><item id="uid508"><label>A</label>200
+</item><item id="uid509"><label>B</label>200 cos 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></item><item id="uid510"><label>C</label>200 sin 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></item><item id="uid511"><label>D</label>2000 cos 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math></item></list></item>
+          <item id="uid512">[SC 2003/11]A box, mass <m:math overflow="scroll"><m:mi>m</m:mi></m:math>, is at rest on a rough horizontal surface. A force of constant magnitude <m:math overflow="scroll"><m:mi>F</m:mi></m:math> is then applied on the box at an angle of 60<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>to the horizontal, as shown.
+<figure id="id96640"><media id="id96640_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_090.png" id="id96640_onlineimage" width="172"><!-- NOTE: attribute width changes image size online (pixels). original width is 172. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_090.eps" id="id96640_printimage"/></media></figure>
+If the box has a uniform horizontal acceleration of magnitude, <m:math overflow="scroll"><m:mi>a</m:mi></m:math>, the frictional force acting on the box is <m:math overflow="scroll"><m:mo>...</m:mo></m:math><list id="id96667" display="block" list-type="enumerated"><item id="uid513"><label>A</label><m:math overflow="scroll"><m:mrow><m:mi>F</m:mi><m:mo form="prefix">cos</m:mo><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>m</m:mi><m:mi>a</m:mi></m:mrow></m:math> in the direction of A
+</item><item id="uid514"><label>B</label><m:math overflow="scroll"><m:mrow><m:mi>F</m:mi><m:mo form="prefix">cos</m:mo><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>m</m:mi><m:mi>a</m:mi></m:mrow></m:math> in the direction of B
+</item><item id="uid515"><label>C</label><m:math overflow="scroll"><m:mrow><m:mi>F</m:mi><m:mo form="prefix">sin</m:mo><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>m</m:mi><m:mi>a</m:mi></m:mrow></m:math> in the direction of A
+</item><item id="uid516"><label>D</label><m:math overflow="scroll"><m:mrow><m:mi>F</m:mi><m:mo form="prefix">sin</m:mo><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>m</m:mi><m:mi>a</m:mi></m:mrow></m:math> in the direction of B
+</item></list></item>
+          <item id="uid517">[SC 2002/11 SG] Thabo stands in a train carriage which is moving eastwards. The train suddenly brakes. Thabo continues to move eastwards due to the effect of
+<list id="id96850" display="block" list-type="enumerated"><item id="uid518"><label>A</label>his inertia.
+</item><item id="uid519"><label>B</label>the inertia of the train.
+</item><item id="uid520"><label>C</label>the braking force on him.
+</item><item id="uid521"><label>D</label>a resultant force acting on him.
+</item></list></item>
+          <item id="uid522">[SC 2002/11 HG1] A body slides down a frictionless inclined plane. Which one of the following physical quantities will remain constant throughout the motion?
+<list id="id96925" display="block" list-type="enumerated"><item id="uid523"><label>A</label>velocity
+</item><item id="uid524"><label>B</label>momentum
+</item><item id="uid525"><label>C</label>acceleration
+</item><item id="uid526"><label>D</label>kinetic energy
+</item></list></item>
+          <item id="uid527">[SC 2002/11 HG1] A body moving at a <emphasis effect="italics">CONSTANT VELOCITY</emphasis> on a horizontal plane, has a number of unequal forces acting on it. Which one of the following statements is TRUE?
+<list id="id97006" display="block" list-type="enumerated"><item id="uid528"><label>A</label>At least two of the forces must be acting in the same direction.
+</item><item id="uid529"><label>B</label>The resultant of the forces is zero.
+</item><item id="uid530"><label>C</label>Friction between the body and the plane causes a resultant force.
+</item><item id="uid531"><label>D</label>The vector sum of the forces causes a resultant force which acts in the direction of motion.
+</item></list></item>
+          <item id="uid532">[IEB 2005/11 HG] Two masses of <m:math overflow="scroll"><m:mi>m</m:mi></m:math> and <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>m</m:mi></m:mrow></m:math> respectively are connected by an elastic band on a frictionless surface. The masses are pulled in opposite directions by two forces each of magnitude <m:math overflow="scroll"><m:mi>F</m:mi></m:math>, stretching the elastic band and holding the masses stationary.
+<figure id="id97116"><media id="id97116_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_091.png" id="id97116_onlineimage" width="585"><!-- NOTE: attribute width changes image size online (pixels). original width is 585. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_091.eps" id="id97116_printimage"/></media></figure>
+Which of the following gives the magnitude of the tension in the elastic band?
+<list id="id97126" display="block" list-type="enumerated"><item id="uid533"><label>A</label>zero
+</item><item id="uid534"><label>B</label><m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>F</m:mi></m:mrow></m:math></item><item id="uid535"><label>C</label><m:math overflow="scroll"><m:mi>F</m:mi></m:math></item><item id="uid536"><label>D</label><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>F</m:mi></m:mrow></m:math></item></list></item>
+          <item id="uid537">[IEB 2005/11 HG] A rocket takes off from its launching pad, accelerating up into the air.
+<figure id="id97233"><media id="id97233_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_092.png" id="id97233_onlineimage" width="162"><!-- NOTE: attribute width changes image size online (pixels). original width is 162. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_092.eps" id="id97233_printimage"/></media></figure>
+The rocket accelerates because the magnitude of the upward force, <m:math overflow="scroll"><m:mi>F</m:mi></m:math> is greater than the magnitude of the rocket's weight, <m:math overflow="scroll"><m:mi>W</m:mi></m:math>. Which of the following statements <emphasis effect="bold">best</emphasis> describes how force <m:math overflow="scroll"><m:mi>F</m:mi></m:math> arises?
+<list id="id97277" display="block" list-type="enumerated"><item id="uid538"><label>A</label><m:math overflow="scroll"><m:mi>F</m:mi></m:math> is the force of the air acting on the base of the rocket.
+</item><item id="uid539"><label>B</label><m:math overflow="scroll"><m:mi>F</m:mi></m:math> is the force of the rocket's gas jet <emphasis effect="italics">pushing down</emphasis> on the air.
+</item><item id="uid540"><label>C</label><m:math overflow="scroll"><m:mi>F</m:mi></m:math> is the force of the rocket's gas jet <emphasis effect="italics">pushing down</emphasis> on the ground.
+</item><item id="uid541"><label>D</label><m:math overflow="scroll"><m:mi>F</m:mi></m:math> is the reaction to the force that the rocket exerts on the gases which escape out through the tail nozzle.
+</item></list></item>
+          <item id="uid542">[SC 2001/11 HG1]
+A box of mass 20 kg rests on a smooth horizontal surface. What will happen to the box if two forces each of magnitude 200 N are applied simultaneously to the box as shown in the diagram.
+<figure id="id97399"><media id="id97399_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_093.png" id="id97399_onlineimage" width="142"><!-- NOTE: attribute width changes image size online (pixels). original width is 142. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_093.eps" id="id97399_printimage"/></media></figure>
+The box will ...
+<list id="id97409" display="block" list-type="enumerated"><item id="uid543"><label>A</label>be lifted off the surface.
+</item><item id="uid544"><label>B</label>move to the left.
+</item><item id="uid545"><label>C</label>move to the right.
+</item><item id="uid546"><label>D</label>remain at rest.
+</item></list></item>
+          <item id="uid547">[SC 2001/11 HG1]
+A 2 kg mass is suspended from spring balance X, while a 3 kg mass is suspended from spring balance Y. Balance X is in turn suspended from the 3 kg mass. Ignore the weights of the two spring balances.
+<figure id="id97491"><media id="id97491_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_094.png" id="id97491_onlineimage" width="117"><!-- NOTE: attribute width changes image size online (pixels). original width is 117. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_094.eps" id="id97491_printimage"/></media></figure>
+The readings (in N) on balances X and Y are as follows:
+<table id="id97501" summary=""><tgroup cols="3"><tbody><row><entry/><entry><emphasis effect="bold">X</emphasis></entry><entry><emphasis effect="bold">Y</emphasis></entry></row><row><entry>(A)</entry><entry>20</entry><entry>30</entry></row><row><entry>(B)</entry><entry>20</entry><entry>50</entry></row><row><entry>(C)</entry><entry>25</entry><entry>25</entry></row><row><entry>(D)</entry><entry>50</entry><entry>50</entry></row></tbody></tgroup></table></item>
+          <item id="uid548">[SC 2002/03 HG1]
+<m:math overflow="scroll"><m:mi>P</m:mi></m:math> and <m:math overflow="scroll"><m:mi>Q</m:mi></m:math> are two forces of equal magnitude applied simultaneously to a body at X.
+<figure id="id97696"><media id="id97696_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_095.png" id="id97696_onlineimage" width="200"><!-- NOTE: attribute width changes image size online (pixels). original width is 200. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_095.eps" id="id97696_printimage"/></media></figure>
+As the angle <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> between the forces is <emphasis effect="bold">decreased</emphasis> from 180<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to 0<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>, the magnitude of the resultant of the two forces will
+<list id="id97749" display="block" list-type="enumerated"><item id="uid549"><label>A</label>initially increase and then decrease.
+</item><item id="uid550"><label>B</label>initially decrease and then increase.
+</item><item id="uid551"><label>C</label>increase only.
+</item><item id="uid552"><label>D</label>decrease only.
+</item></list></item>
+          <item id="uid553">[SC 2002/03 HG1]
+The graph below shows the velocity-time graph for a moving object:
+<figure id="id97827"><media id="id97827_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_096.png" id="id97827_onlineimage" width="181"><!-- NOTE: attribute width changes image size online (pixels). original width is 181. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_096.eps" id="id97827_printimage"/></media></figure>
+Which of the following graphs could best represent the relationship between the resultant force applied to the object and time?
+<table id="id97838" summary=""><tgroup cols="4"><tbody><row><entry><figure id="id97846"><media id="id97846_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_097.png" id="id97846_onlineimage" width="540"><!-- NOTE: attribute width changes image size online (pixels). original width is 540. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_097.eps" id="id97846_printimage"/></media></figure></entry><entry><figure id="id97856"><media id="id97856_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_098.png" id="id97856_onlineimage" width="186"><!-- NOTE: attribute width changes image size online (pixels). original width is 186. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_098.eps" id="id97856_printimage"/></media></figure></entry><entry><figure id="id97866"><media id="id97866_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_099.png" id="id97866_onlineimage" width="244"><!-- NOTE: attribute width changes image size online (pixels). original width is 244. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_099.eps" id="id97866_printimage"/></media></figure></entry><entry><figure id="id97876"><media id="id97876_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_100.png" id="id97876_onlineimage" width="416"><!-- NOTE: attribute width changes image size online (pixels). original width is 416. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_100.eps" id="id97876_printimage"/></media></figure></entry></row><row><entry>(a)</entry><entry>(b)</entry><entry>(c)</entry><entry>(d)</entry></row></tbody></tgroup></table></item>
+          <item id="uid554">[SC 2002/03 HG1]
+Two blocks each of mass 8 kg are in contact with each other and are accelerated along a frictionless surface by a force of 80 N as shown in the diagram. The force which block Q will exert on block P is equal to ...
+<figure id="id97929"><media id="id97929_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_101.png" id="id97929_onlineimage" width="174"><!-- NOTE: attribute width changes image size online (pixels). original width is 174. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_101.eps" id="id97929_printimage"/></media></figure><list id="id97935" display="block" list-type="enumerated"><item id="uid555"><label>A</label>0 N
+</item><item id="uid556"><label>B</label>40 N
+</item><item id="uid557"><label>C</label>60 N
+</item><item id="uid558"><label>D</label>80 N
+</item></list></item>
+          <item id="uid559">[SC 2002/03 HG1]
+Three 1 kg mass pieces are placed on top of a 2 kg trolley. When a force of magnitude <m:math overflow="scroll"><m:mi>F</m:mi></m:math> is applied to the trolley, it experiences an acceleration <m:math overflow="scroll"><m:mi>a</m:mi></m:math>.
+<figure id="id98032"><media id="id98032_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_101.png" id="id98032_onlineimage" width="174"><!-- NOTE: attribute width changes image size online (pixels). original width is 174. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_101.eps" id="id98032_printimage"/></media></figure>
+If one of the 1 kg mass pieces falls off while <m:math overflow="scroll"><m:mi>F</m:mi></m:math> is still being applied, the trolley will accelerate at ...
+<list id="id98053" display="block" list-type="enumerated"><item id="uid560"><label>A</label><m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac><m:mi>a</m:mi></m:mrow></m:math></item><item id="uid561"><label>B</label><m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac><m:mi>a</m:mi></m:mrow></m:math></item><item id="uid562"><label>C</label><m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac><m:mi>a</m:mi></m:mrow></m:math></item><item id="uid563"><label>D</label><m:math overflow="scroll"><m:mrow><m:mn>5</m:mn><m:mi>a</m:mi></m:mrow></m:math></item></list></item>
+          <item id="uid564">[IEB 2004/11 HG1] A car moves along a horizontal road at constant velocity. Which of the following statements is true?
+<list id="id98177" display="block" list-type="enumerated"><item id="uid565"><label>A</label>The car is not in equilibrium.
+</item><item id="uid566"><label>B</label>There are no forces acting on the car.
+</item><item id="uid567"><label>C</label>There is zero resultant force.
+</item><item id="uid568"><label>D</label>There is no frictional force.
+</item></list></item>
+          <item id="uid569">[IEB 2004/11 HG1] A crane lifts a load vertically upwards at constant speed. The upward force exerted on the load is <m:math overflow="scroll"><m:mi>F</m:mi></m:math>. Which of the following statements is correct?
+<list id="id98263" display="block" list-type="enumerated"><item id="uid570"><label>A</label>The acceleration of the load is 9,8 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math> downwards.
+</item><item id="uid571"><label>B</label>The resultant force on the load is F.
+</item><item id="uid572"><label>C</label>The load has a weight equal in magnitude to F.
+</item><item id="uid573"><label>D</label>The forces of the crane on the load, and the weight of the load, are an example of a Newton's third law 'action-reaction' pair.
+</item></list></item>
+          <item id="uid574">[IEB 2004/11 HG1] A body of mass <m:math overflow="scroll"><m:mi>M</m:mi></m:math> is at rest on a smooth horizontal surface with two forces applied to it as in the diagram below. Force <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> is equal to <m:math overflow="scroll"><m:mrow><m:mi>M</m:mi><m:mi>g</m:mi></m:mrow></m:math>. The force <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> is applied to the right at an angle <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> to the horizontal, and a force of <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math> is applied horizontally to the left.
+<figure id="uid575"><media id="uid575_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_102.png" id="uid575_onlineimage" width="248"><!-- NOTE: attribute width changes image size online (pixels). original width is 248. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_102.eps" id="uid575_printimage"/></media></figure>
+How is the body affected when the angle <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> is increased?
+<list id="id98450" display="block" list-type="enumerated"><item id="uid576"><label>A</label>It remains at rest.
+</item><item id="uid577"><label>B</label>It lifts up off the surface, and accelerates towards the right.
+</item><item id="uid578"><label>C</label>It lifts up off the surface, and accelerates towards the left.
+</item><item id="uid579"><label>D</label>It accelerates to the left, moving along the smooth horizontal surface.
+</item></list></item>
+          <item id="uid580">[IEB 2003/11 HG1] Which of the following statements correctly explains why a passenger in a car, who is not restrained by the seat belt, continues to move forward when the brakes are applied suddenly?
+<list id="id98525" display="block" list-type="enumerated"><item id="uid581"><label>A</label>The braking force applied to the car exerts an equal and opposite force on the passenger.
+</item><item id="uid582"><label>B</label>A forward force (called inertia) acts on the passenger.
+</item><item id="uid583"><label>C</label>A resultant forward force acts on the passenger.
+</item><item id="uid584"><label>D</label>A zero resultant force acts on the passenger.
+</item></list></item>
+          <item id="uid585">[IEB 2004/11 HG1]
+A rocket (mass 20 000 kg) accelerates from rest to 40 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>in the first 1,6 seconds of its journey upwards into space.
+The rocket's propulsion system consists of exhaust gases, which are pushed out of an outlet at its base.
+<list id="id98638" display="block" list-type="enumerated"><item id="uid586">Explain, with reference to the appropriate law of Newton, how the escaping exhaust gases exert an upwards force (thrust) on the rocket.
+</item><item id="uid587">What is the magnitude of the total thrust exerted on the rocket during the first 1,6 s?
+</item><item id="uid588">An astronaut of mass 80 kg is carried in the space capsule. Determine the resultant force acting on him during the first 1,6 s.
+</item><item id="uid589">Explain why the astronaut, seated in his chair, feels “heavier” while the rocket is launched.
+</item></list></item>
+          <item id="uid590">[IEB 2003/11 HG1 - Sports Car]
+<list id="id98707" display="block" list-type="enumerated"><item id="uid591">State Newton's Second Law of Motion.
+</item><item id="uid592">A sports car (mass 1 000 kg) is able to accelerate uniformly from rest to 30 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>in a minimum time of 6 s.
+<list id="id98762" display="block" list-type="enumerated"><item id="uid593">Calculate the magnitude of the acceleration of the car.
+</item><item id="uid594">What is the magnitude of the resultant force acting on the car during these 6 s?
+</item></list></item><item id="uid595">The magnitude of the force that the wheels of the vehicle exert on the road surface as it accelerates is 7500 N. What is the magnitude of the retarding forces acting on this car?
+</item><item id="uid596">By reference to a suitable Law of Motion, explain why a headrest is important in a car with such a rapid acceleration.
+</item></list></item>
+          <item id="uid597">[IEB 2005/11 HG1]
+A child (mass 18 kg) is strapped in his car seat as the car moves to the right at constant velocity along a straight level road. A tool box rests on the seat beside him.
+<figure id="uid598"><media id="uid598_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_103.png" id="uid598_onlineimage" width="297"><!-- NOTE: attribute width changes image size online (pixels). original width is 297. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_103.eps" id="uid598_printimage"/></media></figure>
+The driver brakes suddenly, bringing the car rapidly to a halt. There is negligible friction between the car seat and the box.
+<list id="id98846" display="block" list-type="enumerated"><item id="uid599">Draw a labelled free-body diagram of <emphasis effect="bold">the forces acting on the child</emphasis> during the time that the car is being braked.
+</item><item id="uid600">Draw a labelled free-body diagram of <emphasis effect="bold">the forces acting on the box</emphasis> during the time that the car is being braked.
+</item><item id="uid601">What is the rate of change of the child's momentum as the car is braked to a standstill from a speed of 72 km.h<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> in 4 s.
+<emphasis effect="italics">Modern cars are designed with safety features (besides seat belts) to protect drivers and passengers during collisions e.g. the crumple zones on the car's body. Rather than remaining rigid during a collision, the crumple zones allow the car's body to collapse steadily.</emphasis></item><item id="uid602">State Newton's second law of motion.
+</item><item id="uid603">Explain how the crumple zone on a car reduces the force of impact on it during a collision.
+</item></list></item>
+          <item id="uid604">[SC 2003/11 HG1]The total mass of a lift together with its load is 1 200 kg. It is moving downwards at a constant velocity of 9 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+<figure id="id98996"><media id="id98996_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_104.png" id="id98996_onlineimage" width="168"><!-- NOTE: attribute width changes image size online (pixels). original width is 168. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_104.eps" id="id98996_printimage"/></media></figure><list id="id99002" display="block" list-type="enumerated"><item id="uid605">What will be the magnitude of the force exerted by the cable on the lift while it is moving downwards at constant velocity? Give an explanation for your answer.
+<emphasis effect="italics">The lift is now uniformly brought to rest over a distance of 18 m.</emphasis></item><item id="uid606">Calculate the magnitude of the acceleration of the lift.
+</item><item id="uid607">Calculate the magnitude of the force exerted by the cable while the lift is being brought to rest.
+</item></list></item>
+          <item id="uid608">A driving force of 800 N acts on a car of mass 600 kg.
+<list id="id99068" display="block" list-type="enumerated"><item id="uid609">Calculate the car's acceleration.
+</item><item id="uid610">Calculate the car's speed after 20 s.
+</item><item id="uid611">Calculate the new acceleration if a frictional force of 50 N starts to act on the car after 20 s.
+</item><item id="uid612">Calculate the speed of the car after another 20 s (i.e. a total of 40 s after the start).
+</item></list></item>
+          <item id="uid613">[IEB 2002/11 HG1 - A Crate on an Inclined Plane]
+Elephants are being moved from the Kruger National Park to the Eastern Cape. They are loaded into crates that are pulled up a ramp (an inclined plane) on frictionless rollers.
+The diagram shows a crate being held stationary on the ramp by means of a rope parallel to the ramp. The tension in the rope is 5 000 N.
+<figure id="uid614"><media id="uid614_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_105.png" id="uid614_onlineimage" width="216"><!-- NOTE: attribute width changes image size online (pixels). original width is 216. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_105.eps" id="uid614_printimage"/></media></figure><list id="id99156" display="block" list-type="enumerated"><item id="uid615">Explain how one can deduce the following: “The forces acting on the crate are in equilibrium”.
+</item><item id="uid616">Draw a labelled free-body diagram of the forces acting on the crane and elephant. (Regard the crate and elephant as one object, and represent them as a dot. Also show the relevant angles between the forces.)
+</item><item id="uid617">The crate has a mass of 800 kg. Determine the mass of the elephant.
+</item><item id="uid618">The crate is now pulled up the ramp at a constant speed. How does the crate being pulled up the ramp at a constant speed affect the forces acting on the crate and elephant? Justify your answer, mentioning any law or principle that applies to this situation.
+</item></list></item>
+          <item id="uid619">[IEB 2002/11 HG1 - Car in Tow]
+Car A is towing Car B with a light tow rope. The cars move along a straight, horizontal road.
+<list id="id99232" display="block" list-type="enumerated"><item id="uid620">Write down a statement of Newton's Second Law of Motion (in words).
+</item><item id="uid621">As they start off, Car A exerts a forwards force of 600 N at its end of the tow rope. The force of friction on Car B when it starts to move is 200 N. The mass of Car B is 1 200 kg. Calculate the acceleration of Car B.
+</item><item id="uid622">After a while, the cars travel at constant velocity. The force exerted on the tow rope is now 300 N while the force of friction on Car B increases. What is the magnitude and direction of the force of friction on Car B now?
+</item><item id="uid623">Towing with a rope is very dangerous. A solid bar should be used in preference to a tow rope. This is especially true should Car A suddenly apply brakes. What would be the advantage of the solid bar over the tow rope in such a situation?
+</item><item id="uid624">The mass of Car A is also 1 200 kg. Car A and Car B are now joined by a solid tow bar and the total braking force is 9 600 N. Over what distance could the cars stop from a velocity of 20 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>?
+</item></list></item>
+          <item id="uid625">[IEB 2001/11 HG1] - <emphasis effect="bold">Testing the Brakes of a Car</emphasis>
+A braking test is carried out on a car travelling at 20 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. A braking distance of 30 m is measured when a braking force of 6 000 N is applied to stop the car.
+<list id="id99380" display="block" list-type="enumerated"><item id="uid626">Calculate the acceleration of the car when a braking force of 6 000 N is applied.
+</item><item id="uid627"><emphasis effect="bold">Show</emphasis> that the mass of this car is 900 kg.
+</item><item id="uid628">How long (in s) does it take for this car to stop from 20 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>under the braking action described above?
+</item><item id="uid629"> A trailer of mass 600 kg is attached to the car and the braking test is repeated from 20 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>using the same braking force of 6 000 N. How much longer will it take to stop the car with the trailer in tow?
+</item></list></item>
+          <item id="uid630">[IEB 2001/11 HG1] A rocket takes off from its launching pad, accelerating up into the air. Which of the following statements best describes the reason for the upward acceleration of the rocket?
+<list id="id99505" display="block" list-type="enumerated"><item id="uid631"><label>A</label>The force that the atmosphere (air) exerts underneath the rocket is greater than the weight of the rocket.
+</item><item id="uid632"><label>B</label>The force that the ground exerts on the rocket is greater than the weight of the rocket.
+</item><item id="uid633"><label>C</label>The force that the rocket exerts on the escaping gases is less than the weight of the rocket.
+</item><item id="uid634"><label>D</label>The force that the escaping gases exerts on the rocket is greater than the weight of the rocket.
+</item></list></item>
+          <item id="uid635">[IEB 2005/11 HG] A box is held stationary on a smooth plane that is inclined at angle <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> to the horizontal.
+<figure id="id99595"><media id="id99595_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_106.png" id="id99595_onlineimage" width="251"><!-- NOTE: attribute width changes image size online (pixels). original width is 251. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_106.eps" id="id99595_printimage"/></media></figure><m:math overflow="scroll"><m:mi>F</m:mi></m:math> is the force exerted by a rope on the box. <m:math overflow="scroll"><m:mi>w</m:mi></m:math> is the weight of the box and <m:math overflow="scroll"><m:mi>N</m:mi></m:math> is the normal force of the plane on the box. Which of the following statements is correct?
+<list id="id99632" display="block" list-type="enumerated"><item id="uid636"><label>A</label><m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>F</m:mi><m:mi>w</m:mi></m:mfrac></m:mrow></m:math></item><item id="uid637"><label>B</label><m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>F</m:mi><m:mi>N</m:mi></m:mfrac></m:mrow></m:math></item><item id="uid638"><label>C</label><m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>F</m:mi><m:mi>w</m:mi></m:mfrac></m:mrow></m:math></item><item id="uid639"><label>D</label><m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>N</m:mi><m:mi>w</m:mi></m:mfrac></m:mrow></m:math></item></list></item>
+          <item id="uid640">[SC 2001/11 HG1]
+As a result of three forces <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>3</m:mn></m:msub></m:math> acting on it, an object at point P is in equilibrium.
+<figure id="id99834"><media id="id99834_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_107.png" id="id99834_onlineimage" width="541"><!-- NOTE: attribute width changes image size online (pixels). original width is 541. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_107.eps" id="id99834_printimage"/></media></figure>
+Which of the following statements is <emphasis effect="bold">not true</emphasis> with reference to the three forces?
+<list id="id99850" display="block" list-type="enumerated"><item id="uid641">The resultant of forces <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>3</m:mn></m:msub></m:math> is zero.
+</item><item id="uid642">Forces <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>3</m:mn></m:msub></m:math> lie in the same plane.
+</item><item id="uid643">Forces <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>3</m:mn></m:msub></m:math> is the resultant of forces <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math>.
+</item><item id="uid644">The sum of the components of all the forces in any chosen direction is zero.
+</item></list></item>
+          <item id="uid645">A block of mass M is held stationary by a rope of negligible mass. The block rests on a frictionless plane which is inclined at <m:math overflow="scroll"><m:msup><m:mn>30</m:mn><m:mo>∘</m:mo></m:msup></m:math> to the horizontal.
+<figure id="id100062"><media id="id100062_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_108.png" id="id100062_onlineimage" width="747"><!-- NOTE: attribute width changes image size online (pixels). original width is 747. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_108.eps" id="id100062_printimage"/></media></figure><list id="id100068" display="block" list-type="enumerated"><item id="uid646">Draw a labelled force diagram which shows all the forces acting on the block.
+</item><item id="uid647">Resolve the force due to gravity into components that are parallel and perpendicular to the plane.
+</item><item id="uid648">Calculate the weight of the block when the force in the rope is 8N.
+</item></list></item>
+          <item id="uid649">[SC 2003/11] A heavy box, mass <m:math overflow="scroll"><m:mi>m</m:mi></m:math>, is lifted by means of a rope R which passes over a pulley fixed to a pole. A second rope S, tied to rope R at point P, exerts a horizontal force and pulls the box to the right. After lifting the box to a certain height, the box is held stationary as shown in the sketch below. Ignore the masses of the ropes. The tension in rope R is 5 850 N.
+<figure id="id100139"><media id="id100139_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_109.png" id="id100139_onlineimage" width="355"><!-- NOTE: attribute width changes image size online (pixels). original width is 355. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_109.eps" id="id100139_printimage"/></media></figure><list id="id100146" display="block" list-type="enumerated"><item id="uid650">Draw a diagram (with labels) of all the forces acting at the point P, when P is in equilibrium.
+</item><item id="uid651">By resolving the force exerted by rope R into components, calculate the <m:math overflow="scroll"><m:mo>...</m:mo></m:math><list id="id100183" display="block" list-type="enumerated"><item id="uid652">magnitude of the force exerted by rope S.
+</item><item id="uid653">mass, m, of the box.
+</item></list></item><item id="uid654">Will the tension in rope R, increase, decrease or remain the same if rope S is pulled further to the right (the length of rope R remains the same)? Give a reason for your choice.
+</item></list></item>
+          <item id="uid655">A tow truck attempts to tow a broken down car of mass 400 kg. The coefficient of static friction is 0,60 and the coefficient of kinetic (dynamic) friction is 0,4. A rope connects the tow truck to the car. Calculate the force required:
+<list id="id100240" display="block" list-type="enumerated"><item id="uid656">to just move the car if the rope is parallel to the road.
+</item><item id="uid657">to keep the car moving at constant speed if the rope is parallel to the road.
+</item><item id="uid658">to just move the car if the rope makes an angle of 30<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the road.
+</item><item id="uid659">to keep the car moving at constant speed if the rope makes an angle of 30<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the road.
+</item></list></item>
+          <item id="uid660">A crate weighing 2000 N is to be lowered at constant speed down skids 4 m long, from a truck 2 m high.
+<list id="id100335" display="block" list-type="enumerated"><item id="uid661">If the coefficient of sliding friction between the crate and the skids is 0,30, will the crate need to be pulled down or held back?
+</item><item id="uid662">How great is the force needed parallel to the skids?
+</item></list></item>
+          <item id="uid663">Block A in the figures below weighs 4 N and block B weighs 8 N. The coefficient of kinetic friction between all surfaces is 0,25. Find the force P necessary to drag block B to the left at constant speed if
+<list id="id100379" display="block" list-type="enumerated"><item id="uid664">A rests on B and moves with it
+</item><item id="uid665">A is held at rest
+</item><item id="uid666">A and B are connected by a light flexible cord passing around a fixed frictionless pulley
+</item></list><figure id="uid667"><media id="uid667_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_110.png" id="uid667_onlineimage" width="475"><!-- NOTE: attribute width changes image size online (pixels). original width is 475. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_110.eps" id="uid667_printimage"/></media></figure></item>
+        </list>
+      </section>
+      <section id="uid668">
+        <title>Gravitation</title>
+        <list id="id100441" display="block" list-type="enumerated">
+          <item id="uid669">[SC 2003/11]An object attracts another with a gravitational force <m:math overflow="scroll"><m:mi>F</m:mi></m:math>. If the distance between the centres of the two objects is now decreased to a third (<m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:math>) of the original distance, the force of attraction that the one object would exert on the other would become<m:math overflow="scroll"><m:mo>...</m:mo></m:math><list id="id100489" display="block" list-type="enumerated"><item id="uid670"><label>A</label><m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>9</m:mn></m:mfrac><m:mi>F</m:mi></m:mrow></m:math></item><item id="uid671"><label>B</label><m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mi>F</m:mi></m:mrow></m:math></item><item id="uid672"><label>C</label><m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mi>F</m:mi></m:mrow></m:math></item><item id="uid673"><label>D</label><m:math overflow="scroll"><m:mrow><m:mn>9</m:mn><m:mi>F</m:mi></m:mrow></m:math></item></list></item>
+          <item id="uid674">[SC 2003/11] An object is dropped from a height of 1 km above the Earth. If air resistance is ignored, the acceleration of the object is dependent on the <m:math overflow="scroll"><m:mo>⋯</m:mo></m:math><list id="id100617" display="block" list-type="enumerated"><item id="uid675"><label>A</label>mass of the object
+</item><item id="uid676"><label>B</label>radius of the earth
+</item><item id="uid677"><label>C</label>mass of the earth
+</item><item id="uid678"><label>D</label>weight of the object
+</item></list></item>
+          <item id="uid679">A man has a mass of 70 kg on Earth. He is walking on a new planet that has a mass four times that of the Earth and the radius is the same as that of the Earth ( M<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>E</m:mi></m:msub></m:math> = 6 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>24</m:mn></m:msup></m:math> kg, r<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>E</m:mi></m:msub></m:math> = 6 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>6</m:mn></m:msup></m:math> m )
+<list id="id100744" display="block" list-type="enumerated"><item id="uid680">Calculate the force between the man and the Earth.
+</item><item id="uid681">What is the man's mass on the new planet?
+</item><item id="uid682">Would his weight be bigger or smaller on the new planet? Explain how you arrived at your answer.
+</item></list></item>
+          <item id="uid683">Calculate the distance between two objects, 5000 kg and 6 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>12</m:mn></m:msup></m:math> kg respectively, if the magnitude of the force between them is 3 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>?</m:mo><m:mn>8</m:mn></m:mrow></m:msup></m:math> N.
+</item>
+          <item id="uid684">Calculate the mass of the Moon given that an object weighing 80 N on the Moon has a weight of 480 N on Earth and the radius of the Moon is 1,6 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>16</m:mn></m:msup></m:math> m.
+</item>
+          <item id="uid685">The following information was obtained from a free-fall experiment to determine the value of <m:math overflow="scroll"><m:mi>g</m:mi></m:math> with a pendulum.
+Average falling distance between marks = 920 mm
+Time taken for 40 swings = 70 s
+Use the data to calculate the value of <m:math overflow="scroll"><m:mi>g</m:mi></m:math>.
+</item>
+          <item id="uid686">An astronaut in a satellite 1600 km above the Earth experiences gravitational force of the magnitude of 700 N on Earth. The Earth's radius is 6400 km. Calculate
+<list id="id100915" display="block" list-type="enumerated"><item id="uid687">The magnitude of the gravitational force which the astronaut experiences in the satellite.
+</item><item id="uid688">The magnitude of the gravitational force on an object in the satellite which weighs 300 N on Earth.
+</item></list></item>
+          <item id="uid689">An astronaut of mass 70 kg on Earth lands on a planet which has half the Earth's radius and twice its mass. Calculate the magnitude of the force of gravity which is exerted on him on the planet.
+</item>
+          <item id="uid690">Calculate the magnitude of the gravitational force of attraction between two spheres of lead with a mass of 10 kg and 6 kg respectively if they are placed 50 mm apart.
+</item>
+          <item id="uid691">The gravitational force between two objects is 1200 N. What is the gravitational force between the objects if the mass of each is doubled and the distance between them halved?
+</item>
+          <item id="uid692">Calculate the gravitational force between the Sun with a mass of 2 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>30</m:mn></m:msup></m:math> kg and the Earth with a mass of 6 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>24</m:mn></m:msup></m:math> kg if the distance between them is 1,4 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>8</m:mn></m:msup></m:math> km.
+</item>
+          <item id="uid693">How does the gravitational force of attraction between two objects change when
+<list id="id101050" display="block" list-type="enumerated"><item id="uid694">the mass of each object is doubled.
+</item><item id="uid695">the distance between the centres of the objects is doubled.
+</item><item id="uid696">the mass of one object is halved, and the distance between the centres of the objects is halved.
+</item></list></item>
+          <item id="uid697">Read each of the following statements and say whether you agree or not. Give reasons for your answer and rewrite the statement if necessary:
+<list id="id101105" display="block" list-type="enumerated"><item id="uid698">The gravitational acceleration g is constant.
+</item><item id="uid699">The weight of an object is independent of its mass.
+</item><item id="uid700">G is dependent on the mass of the object that is being accelerated.
+</item></list></item>
+          <item id="uid701">An astronaut weighs 750 N on the surface of the Earth.
+<list id="id101159" display="block" list-type="enumerated"><item id="uid702">What will his weight be on the surface of Saturn, which has a mass 100 times greater than the Earth, and a radius 5 times greater than the Earth?
+</item><item id="uid703">What is his mass on Saturn?
+</item></list></item>
+          <item id="uid704">A piece of space garbage is at rest at a height 3 times the Earth's radius above the Earth's surface. Determine its acceleration due to gravity. Assume the Earth's mass is 6,0 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>24</m:mn></m:msup></m:math> kg and the Earth's radius is 6400 km.
+</item>
+          <item id="uid705">Your mass is 60 kg in Paris at ground level. How much less would you weigh after taking a lift to the top of the Eiffel Tower, which is 405 m high? Assume the Earth's mass is 6,0 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>24</m:mn></m:msup></m:math> kg and the Earth's radius is 6400 km.
+</item>
+          <item id="uid706">
+            <list id="id101252" display="block" list-type="enumerated">
+              <item id="uid707">State Newton's Law of Universal Gravitation.
+</item>
+              <item id="uid708">Use Newton's Law of Universal Gravitation to determine the magnitude of the acceleration due to gravity on the Moon.
+The mass of the Moon is 7,40 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>22</m:mn></m:msup></m:math> kg.
+The radius of the Moon is 1,74 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>6</m:mn></m:msup></m:math> m.
+</item>
+              <item id="uid709">Will an astronaut, kitted out in his space suit, jump higher on the Moon or on the Earth? Give a reason for your answer.
+</item>
+            </list>
+          </item>
+        </list>
+      </section>
+      <section id="uid710">
+        <title>Momentum</title>
+        <list id="id101360" display="block" list-type="enumerated">
+          <item id="uid711">[SC 2003/11]A projectile is fired vertically upwards from the ground. At the highest point of its motion, the projectile explodes and separates into two pieces of equal mass. If one of the pieces is projected vertically upwards after the explosion, the second piece will <m:math overflow="scroll"><m:mo>...</m:mo></m:math><list id="id101386" display="block" list-type="enumerated"><item id="uid712"><label>A</label>drop to the ground at zero initial speed.
+</item><item id="uid713"><label>B</label>be projected downwards at the same initial speed at the first piece.
+</item><item id="uid714"><label>C</label>be projected upwards at the same initial speed as the first piece.
+</item><item id="uid715"><label>D</label>be projected downwards at twice the initial speed as the first piece.
+</item></list></item>
+          <item id="uid716">[IEB 2004/11 HG1] A ball hits a wall horizontally with a speed of 15 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. It rebounds horizontally with a speed of 8 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Which of the following statements about the system of the ball and the wall is <emphasis effect="bold">true</emphasis>?
+<list id="id101518" display="block" list-type="enumerated"><item id="uid717"><label>A</label>The total linear momentum of the system is not conserved during this collision.
+</item><item id="uid718"><label>B</label>The law of conservation of energy does not apply to this system.
+</item><item id="uid719"><label>C</label>The change in momentum of the wall is equal to the change in momentum of the ball.
+</item><item id="uid720"><label>D</label>Energy is transferred from the ball to the wall.
+</item></list></item>
+          <item id="uid721">[IEB 2001/11 HG1] A block of mass M collides with a stationary block of mass 2M. The two blocks move off together with a velocity of v. What is the velocity of the block of mass M immediately <emphasis effect="bold">before</emphasis> it collides with the block of mass 2M?
+<list id="id101600" display="block" list-type="enumerated"><item id="uid722"><label>A</label>v
+</item><item id="uid723"><label>B</label>2v
+</item><item id="uid724"><label>C</label>3v
+</item><item id="uid725"><label>D</label>4v
+</item></list></item>
+          <item id="uid726">[IEB 2003/11 HG1] A cricket ball and a tennis ball move horizontally towards you with the <emphasis effect="underline">same momentum</emphasis>. A cricket ball has greater mass than a tennis ball. You apply the same force in stopping each ball.
+How does the time taken to stop each ball compare?
+<list id="id101687" display="block" list-type="enumerated"><item id="uid727"><label>A</label>It will take longer to stop the cricket ball.
+</item><item id="uid728"><label>B</label>It will take longer to stop the tennis ball.
+</item><item id="uid729"><label>C</label>It will take the same time to stop each of the balls.
+</item><item id="uid730"><label>D</label>One cannot say how long without knowing the kind of collision the ball has when stopping.
+</item></list></item>
+          <item id="uid731">[IEB 2004/11 HG1] Two identical billiard balls collide head-on with each other. The first ball hits the second ball with a speed of V, and the second ball hits the first ball with a speed of 2V. After the collision, the first ball moves off in the opposite direction with a speed of 2V. Which expression correctly gives the speed of the second ball after the collision?
+<list id="id101765" display="block" list-type="enumerated"><item id="uid732"><label>A</label>V
+</item><item id="uid733"><label>B</label>2V
+</item><item id="uid734"><label>C</label>3V
+</item><item id="uid735"><label>D</label>4V
+</item></list></item>
+          <item id="uid736">[SC 2002/11 HG1] Which one of the following physical quantities is the same as the rate of change of momentum?
+<list id="id101839" display="block" list-type="enumerated"><item id="uid737"><label>A</label>resultant force
+</item><item id="uid738"><label>B</label>work
+</item><item id="uid739"><label>C</label>power
+</item><item id="uid740"><label>D</label>impulse
+</item></list></item>
+          <item id="uid741">[IEB 2005/11 HG] Cart X moves along a smooth track with momentum <m:math overflow="scroll"><m:mi>p</m:mi></m:math>. A resultant force <m:math overflow="scroll"><m:mi>F</m:mi></m:math> applied to the cart stops it in time <m:math overflow="scroll"><m:mi>t</m:mi></m:math>. Another cart Y has only half the mass of X, but it has the same momentum <m:math overflow="scroll"><m:mi>p</m:mi></m:math>.
+<figure id="id101953"><media id="id101953_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_111.png" id="id101953_onlineimage" width="282"><!-- NOTE: attribute width changes image size online (pixels). original width is 282. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_111.eps" id="id101953_printimage"/></media></figure>
+In what time will cart Y be brought to rest when the same resultant force <m:math overflow="scroll"><m:mi>F</m:mi></m:math> acts on it?
+<list id="id101972" display="block" list-type="enumerated"><item id="uid742"><label>A</label><m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>t</m:mi></m:mrow></m:math></item><item id="uid743"><label>B</label><m:math overflow="scroll"><m:mi>t</m:mi></m:math></item><item id="uid744"><label>C</label><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>t</m:mi></m:mrow></m:math></item><item id="uid745"><label>D</label><m:math overflow="scroll"><m:mrow><m:mn>4</m:mn><m:mi>t</m:mi></m:mrow></m:math></item></list></item>
+          <item id="uid746">[SC 2002/03 HG1]
+A ball with mass <m:math overflow="scroll"><m:mi>m</m:mi></m:math> strikes a wall perpendicularly with a speed, <m:math overflow="scroll"><m:mi>v</m:mi></m:math>. If it rebounds in the opposite direction with the same speed, <m:math overflow="scroll"><m:mi>v</m:mi></m:math>, the magnitude of the change in momentum will be ...
+<list id="id102111" display="block" list-type="enumerated"><item id="uid747"><label>A</label><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>m</m:mi><m:mi>v</m:mi></m:mrow></m:math></item><item id="uid748"><label>B</label><m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mi>v</m:mi></m:mrow></m:math></item><item id="uid749"><label>C</label><m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>m</m:mi><m:mi>v</m:mi></m:mrow></m:math></item><item id="uid750"><label>D</label><m:math overflow="scroll"><m:mrow><m:mn>0</m:mn><m:mspace width="3.33333pt"/><m:mi>m</m:mi><m:mi>v</m:mi></m:mrow></m:math></item></list></item>
+          <item id="uid751">Show that impulse and momentum have the same units.
+</item>
+          <item id="uid752">A golf club exerts an average force of 3 kN on a ball of mass 0,06 kg. If the golf club is in contact with the golf ball for 5 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>4</m:mn></m:mrow></m:msup></m:math> seconds, calculate
+<list id="id102266" display="block" list-type="enumerated"><item id="uid753">the change in the momentum of the golf ball.
+</item><item id="uid754">the velocity of the golf ball as it leaves the club.
+</item></list></item>
+          <item id="uid755">During a game of hockey, a player strikes a stationary ball of mass 150 g. The graph below shows how the force of the ball varies with the time.
+<figure id="uid756"><media id="uid756_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_112.png" id="uid756_onlineimage" width="244"><!-- NOTE: attribute width changes image size online (pixels). original width is 244. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_112.eps" id="uid756_printimage"/></media></figure><list id="id102317" display="block" list-type="enumerated"><item id="uid757">What does the area under this graph represent?
+</item><item id="uid758">Calculate the speed at which the ball leaves the hockey stick.
+</item><item id="uid759">The same player hits a practice ball of the same mass, but which is made from a softer material. The hit is such that the ball moves off with the same speed as before. How will the <emphasis effect="bold">area</emphasis>, the <emphasis effect="bold">height</emphasis> and the <emphasis effect="bold">base</emphasis> of the triangle that forms the graph, compare with that of the original ball?
+</item></list></item>
+          <item id="uid760">The fronts of modern cars are deliberately designed in such a way that in case of a head-on collision, the front would crumple. Why is it desirable that the front of the car should crumple?
+</item>
+          <item id="uid761">A ball of mass 100 g strikes a wall horizontally at 10 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>and rebounds at 8 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. It is in contact with the wall for 0,01 s.
+<list id="id102456" display="block" list-type="enumerated"><item id="uid762">Calculate the average force exerted by the wall on the ball.
+</item><item id="uid763">Consider a lump of putty also of mass 100 g which strikes the wall at 10 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>and comes to rest in 0,01 s against the surface. Explain qualitatively (no numbers) whether the force exerted on the putty will be less than, greater than of the same as the force exerted on the ball by the wall. Do not do any calculations.
+</item></list></item>
+          <item id="uid764">Shaun swings his cricket bat and hits a stationary cricket ball vertically upwards so that it rises to a height of 11,25 m above the ground. The ball has a mass of 125 g. Determine
+<list id="id102525" display="block" list-type="enumerated"><item id="uid765">the speed with which the ball left the bat.
+</item><item id="uid766">the impulse exerted by the bat on the ball.
+</item><item id="uid767">the impulse exerted by the ball on the bat.
+</item><item id="uid768">for how long the ball is in the air.
+</item></list></item>
+          <item id="uid769">A glass plate is mounted horizontally 1,05 m above the ground. An iron ball of mass 0,4 kg is released from rest and falls a distance of 1,25 m before striking the glass plate and breaking it. The total time taken from release to hitting the ground is recorded as 0,80 s. Assume that the time taken to break the plate is negligible.
+<figure id="uid770"><media id="uid770_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_113.png" id="uid770_onlineimage" width="479"><!-- NOTE: attribute width changes image size online (pixels). original width is 479. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_113.eps" id="uid770_printimage"/></media></figure><list id="id102602" display="block" list-type="enumerated"><item id="uid771">Calculate the speed at which the ball strikes the glass plate.
+</item><item id="uid772">Show that the speed of the ball immediately after breaking the plate is 2,0 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+</item><item id="uid773">Calculate the magnitude and give the direction of the change of momentum which the ball experiences during its contact with the glass plate.
+</item><item id="uid774">Give the magnitude and direction of the impulse which the glass plate experiences when the ball hits it.
+</item></list></item>
+          <item id="uid775">[SC 2004/11 HG1]A cricket ball, mass 175 g is thrown directly towards a player at a velocity of 12 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. It is hit back in the opposite direction with a velocity of 30 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. The ball is in contact with the bat for a period of 0,05 s.
+<list id="id102749" display="block" list-type="enumerated"><item id="uid776">Calculate the impulse of the ball.
+</item><item id="uid777">Calculate the magnitude of the force exerted by the bat on the ball.
+</item></list></item>
+          <item id="uid778">[IEB 2005/11 HG1] A ball bounces to a vertical height of 0,9 m when it is dropped from a height of 1,8 m. It rebounds immediately after it strikes the ground, and the effects of air resistance are negligible.
+<figure id="id102794"><media id="id102794_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_114.png" id="id102794_onlineimage" width="469"><!-- NOTE: attribute width changes image size online (pixels). original width is 469. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_114.eps" id="id102794_printimage"/></media></figure><list id="id102800" display="block" list-type="enumerated"><item id="uid779">How long (in s) does it take for the ball to hit the ground after it has been dropped?
+</item><item id="uid780">At what speed does the ball strike the ground?
+</item><item id="uid781">At what speed does the ball rebound from the ground?
+</item><item id="uid782">How long (in s) does the ball take to reach its maximum height after the bounce?
+</item><item id="uid783">Draw a velocity-time graph for the motion of the ball from the time it is dropped to the time when it rebounds to 0,9 m. Clearly, show the following on the graph:
+<list id="id102868" display="block" list-type="enumerated"><item id="uid784">the time when the ball hits the ground
+</item><item id="uid785">the time when it reaches 0,9 m
+</item><item id="uid786">the velocity of the ball when it hits the ground, and
+</item><item id="uid787">the velocity of the ball when it rebounds from the ground.
+</item></list></item></list></item>
+          <item id="uid788">[SC 2002/11 HG1] In a railway shunting yard, a locomotive of mass 4 000 kg, travelling due east at a velocity of 1,5 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, collides with a stationary goods wagon of mass 3 000 kg in an attempt to couple with it. The coupling fails and instead the goods wagon moves due east with a velocity of 2,8 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+<list id="id102991" display="block" list-type="enumerated"><item id="uid789"> Calculate the magnitude and direction of the velocity of the locomotive immediately after collision.
+</item><item id="uid790">Name and state in words the law you used to answer question <link target-id="uid789"/>
+</item></list></item>
+          <item id="uid791">[SC 2005/11 SG1] A combination of trolley A (fitted with a spring) of mass 1 kg, and trolley B of mass 2 kg, moves to the right at 3 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> along a frictionless, horizontal surface. The spring is kept compressed between the two trolleys.
+<figure id="id103068"><media id="id103068_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_115.png" id="id103068_onlineimage" width="451"><!-- NOTE: attribute width changes image size online (pixels). original width is 451. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_115.eps" id="id103068_printimage"/></media></figure>
+While the combination of the two trolleys is moving at 3 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> , the spring is released and when it has expanded completely, the 2 kg trolley is then moving to the right at 4,7 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> as shown below.
+<figure id="id103134"><media id="id103134_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_115.png" id="id103134_onlineimage" width="451"><!-- NOTE: attribute width changes image size online (pixels). original width is 451. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_115.eps" id="id103134_printimage"/></media></figure><list id="id103140" display="block" list-type="enumerated"><item id="uid792">State, in words, the principle of <emphasis effect="italics">conservation of linear momentum</emphasis>.
+</item><item id="uid793">Calculate the magnitude and direction of the velocity of the 1 kg trolley immediately after the spring has expanded completely.
+</item></list></item>
+          <item id="uid794">[IEB 2002/11 HG1] A ball bounces back from the ground. Which of the following statements is true of this event?
+<list id="id103190" display="block" list-type="enumerated"><item id="uid795">The magnitude of the change in momentum of the ball is equal to the magnitude of the change in momentum of the Earth.
+</item><item id="uid796">The magnitude of the impulse experienced by the ball is greater than the magnitude of the impulse experienced by the Earth.
+</item><item id="uid797">The speed of the ball before the collision will always be equal to the speed of the ball after the collision.
+</item><item id="uid798">Only the ball experiences a change in momentum during this event.
+</item></list></item>
+          <item id="uid799">[SC 2002/11 SG] A boy is standing in a small stationary boat. He throws his schoolbag, mass 2 kg, horizontally towards the jetty with a velocity of 5 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. The <emphasis effect="italics">combined mass</emphasis> of the boy and the boat is 50 kg.
+<list id="id103292" display="block" list-type="enumerated"><item id="uid800">Calculate the magnitude of the horizontal momentum of the bag immediately after the boy has thrown it.
+</item><item id="uid801">Calculate the velocity (magnitude and direction) of the <emphasis effect="italics">boat-and-boy</emphasis> immediately after the bag is thrown.
+</item></list></item>
+        </list>
+      </section>
+      <section id="uid802">
+        <title>Torque and levers</title>
+        <list id="id103338" display="block" list-type="enumerated">
+          <item id="uid803">State whether each of the following statements are true or false. If the statement is false, rewrite the statement correcting it.
+<list id="id103354" display="block" list-type="enumerated"><item id="uid804">The torque tells us what the turning effect of a force is.
+</item><item id="uid805">To increase the mechanical advantage of a spanner you need to move the effort closer to the load.
+</item><item id="uid806">A class 2 lever has the effort between the fulcrum and the load.
+</item><item id="uid807">An object will be in equilibrium if the clockwise moment and the anticlockwise moments are equal.
+</item><item id="uid808">Mechanical advantage is a measure of the difference between the load and the effort.
+</item><item id="uid809">The force times the perpendicular distance is called the mechanical advantage.
+</item></list></item>
+          <item id="uid810">Study the diagram below and determine whether the seesaw is balanced. Show all your calculations.
+<figure id="uid811"><media id="uid811_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_116.png" id="uid811_onlineimage" width="255"><!-- NOTE: attribute width changes image size online (pixels). original width is 255. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_116.eps" id="uid811_printimage"/></media></figure></item>
+          <item id="uid812">Two children are playing on a seesaw. Tumi has a weight of 200 N and Thandi weighs 240 N. Tumi is sitting at a distance of 1,2 m from the pivot.
+<list id="id103469" display="block" list-type="enumerated"><item id="uid813">What type of lever is a seesaw?
+</item><item id="uid814">Calculate the moment of the force that Tumi exerts on the seesaw.
+</item><item id="uid815">At what distance from the pivot should Thandi sit to balance the seesaw?
+</item></list></item>
+          <item id="uid816">An applied force of 25 N is needed to open the cap of a glass bottle using a bottle opener. The distance between the applied force and the fulcrum is 10 cm and the distance between the load and the fulcrum is 1 cm.
+<list id="id103525" display="block" list-type="enumerated"><item id="uid817">What type of lever is a bottle opener? Give a reason for your answer.
+</item><item id="uid818">Calculate the mechanical advantage of the bottle opener.
+</item><item id="uid819">Calculate the force that the bottle cap is exerting.
+</item></list></item>
+          <item id="uid820">Determine the force needed to lift the 20 kg load in the wheelbarrow in the diagram below.
+<figure id="uid821"><media id="uid821_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_116.png" id="uid821_onlineimage" width="255"><!-- NOTE: attribute width changes image size online (pixels). original width is 255. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_116.eps" id="uid821_printimage"/></media></figure></item>
+          <item id="uid822">A body builder picks up a weight of 50 N using his right hand. The distance between the body builder's hand and his elbow is 45 cm. The distance between his elbow and where his muscles are attached to his forearm is 5 cm.
+<list id="id103602" display="block" list-type="enumerated"><item id="uid823">What type of lever is the human arm? Explain your answer using a diagram.
+</item><item id="uid824">Determine the force his muscles need to apply to hold the weight steady.
+</item></list></item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

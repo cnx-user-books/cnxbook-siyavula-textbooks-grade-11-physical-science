@@ -1,0 +1,342 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Solubility</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39073</md:content-id>
+  <md:title>Solubility</md:title>
+  <md:abstract/>
+  <md:uuid>0cc254fc-567d-4635-be6c-49bc7d393ea7</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Solubility</title>
+      <para id="id95947">You may have noticed sometimes that, if you try to dissolve salt (or some other solute) in a small amount of water, it will initially dissolve, but then appears not to be able to dissolve any further when you keep adding more solute to the solvent. This is called the <emphasis effect="bold">solubility</emphasis> of the solution. Solubility refers to the maximum amount of solute that will dissolve in a solvent under certain conditions.</para>
+<definition id="fhsst_id171"><term id="termfhsst_id171"> Solubility </term> <meaning id="meaningfhsst_id171">
+      <para id="id95965">Solubility is the ability of a given substance, the solute, to dissolve in a solvent. If a substance has a high solubility, it means that lots of the solute is able to dissolve in the solvent.
+ </para>
+      </meaning></definition>
+      <para id="id95977">So what factors affect solubility? Below are some of the factors that affect solubility:</para>
+      <list id="id95981" display="block" list-type="bulleted">
+        <item id="uid12">the quantity of solute and solvent in the solution
+</item>
+        <item id="uid13">the temperature of the solution
+</item>
+        <item id="uid14">other compounds in the solvent affect solubility because they take up some of the spaces between molecules of the solvent, that could otherwise be taken by the solute itself
+</item>
+        <item id="uid15">the strength of the forces between particles of the solute, and the strength of forces between particles of the solvent
+</item>
+      </list>
+<para id="eip-783"><figure id="solubility" class="khanacademy">
+	  <title>Khan academy video on solubility</title>
+	  <media id="yt-media1" display="block" alt="video on solubility">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/zjIVJh4JLNo&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><section id="secfhsst_id186"><title> Experiment : Factors affecting solubility
+      </title>
+      <para id="id96046">
+        <emphasis effect="bold">Aim:</emphasis>
+      </para>
+      <para id="id96054">To determine the effect of temperature on solubility</para>
+      <para id="id96060">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id96068" display="block" list-type="enumerated">
+        <item id="uid16">Measure 100cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of water into a beaker
+</item>
+        <item id="uid17">Measure 100 g of salt and place into another beaker
+</item>
+        <item id="uid18">Slowly pour the salt into the beaker with the water, stirring it as you add. Keep adding salt until you notice that the salt is not dissolving anymore.
+</item>
+        <item id="uid19">Record the amount of salt that has been added to the water and the temperature of the solution.
+</item>
+        <item id="uid20">Now increase the temperature of the water by heating it over a bunsen burner.
+</item>
+        <item id="uid21">Repeat the steps above so that you obtain the solubility limit of salt at this higher temperature. You will need to start again with new salt and water!
+</item>
+        <item id="uid22">Continue to increase the temperature as many times as possible and record your results.
+</item>
+      </list>
+      <para id="id96170">
+        <emphasis effect="bold">Results:</emphasis>
+      </para>
+      <para id="id96178">Record your results in the table below:</para>
+      <table id="id96181" summary="">
+        <tgroup cols="2">
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Temp</emphasis> (<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C)</entry>
+              <entry><emphasis effect="bold">Amount of solute that dissolves in 100 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of water</emphasis> (g)</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <!--empty paragraphs get left behind.-->
+      <para id="id96338">As you increase the temperature of the water, are you able to dissolve <emphasis effect="italics">more</emphasis> or <emphasis effect="italics">less</emphasis> salt?</para>
+      <para id="id96353">
+        <emphasis effect="bold">Conclusions:</emphasis>
+      </para>
+      <para id="id96362">As the temperature of the solution increases, so does the amount of salt that will dissolve. The solubility of sodium chloride increases as the temperature increases.</para>
+      
+</section>
+<para id="eip-513"><figure id="id63458">
+            <media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/soluble-salts-screenshot.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/soluble-salts-screenshot.eps" id="id63458_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/soluble-salts/soluble-salts_en.jnlp">run demo</link></para><section id="secfhsst_id253"><title> Investigating the solubility of salts
+      </title>
+      <para id="id96389">The data table below gives the solubility (measured in grams of salt per 100 g water) of a number of different salts at various temperatures. Look at the data and then answer the questions that follow.</para>
+      <table id="id96396" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c4">Solubility (g salt per 100 g H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O)</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">Temp (<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">KNO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">K<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">NaCl</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>0</entry>
+              <entry>13.9</entry>
+              <entry>7.4</entry>
+              <entry>35.7</entry>
+            </row>
+            <row>
+              <entry>10</entry>
+              <entry>21.2</entry>
+              <entry>9.3</entry>
+              <entry>35.8</entry>
+            </row>
+            <row>
+              <entry>20</entry>
+              <entry>31.6</entry>
+              <entry>11.1</entry>
+              <entry>36.0</entry>
+            </row>
+            <row>
+              <entry>30</entry>
+              <entry>45.3</entry>
+              <entry>13.0</entry>
+              <entry>36.2</entry>
+            </row>
+            <row>
+              <entry>40</entry>
+              <entry>61.4</entry>
+              <entry>14.8</entry>
+              <entry>36.5</entry>
+            </row>
+            <row>
+              <entry>50</entry>
+              <entry>83.5</entry>
+              <entry>16.5</entry>
+              <entry>36.8</entry>
+            </row>
+            <row>
+              <entry>60</entry>
+              <entry>106.0</entry>
+              <entry>18.2</entry>
+              <entry>37.3</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <!--empty paragraphs get left behind.-->
+      <list id="id96805" display="block" list-type="enumerated">
+        <item id="uid23">On the same set of axes, draw line graphs to show how the solubility of the three salts changes with an increase in temperature.
+</item>
+        <item id="uid24">Describe what happens to salt solubility as temperature increases. Suggest a reason why this happens.
+</item>
+        <item id="uid25">Write an equation to show how each of the following salts ionises in water:
+<list id="id96847" display="block" list-type="enumerated"><item id="uid26">KNO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></item><item id="uid27">K<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></item></list></item>
+        <item id="uid28">You are given three beakers, each containing the same amount of water. 5 g KNO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> is added to beaker 1, 5 g K<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> is added to beaker 2 and 5 g NaCl is added to beaker 3. The beakers are heated over a bunsen burner until the temperature of their solutions is 60<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C.
+<list id="id96979" display="block" list-type="enumerated"><item id="uid29">Which salt solution will have the highest conductivity under these conditions? (Hint: Think of the number of solute ions in solution)
+</item><item id="uid30">Explain your answer.
+</item></list></item>
+      </list>
+      
+</section>
+<section id="secfhsst_id341"><title> Experiments and solubility
+      </title>
+      <para id="id97032">Two grade 10 learners, Siphiwe and Ann, wish to separately investigate the solubility of potassium chloride at room temperature. They follow the list of instructions shown below, using the apparatus that has been given to them:</para>
+      <para id="id97040">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id97049" display="block" list-type="enumerated">
+        <item id="uid31">Determine the mass of an empty, dry evaporating basin using an electronic balance and record the mass.
+</item>
+        <item id="uid32">Pour 50 ml water into a 250 ml beaker.
+</item>
+        <item id="uid33">Add potassium chloride crystals to the water in the beaker in small portions.
+</item>
+        <item id="uid34">Stir the solution until the salt dissolves.
+</item>
+        <item id="uid35">Repeat the addition of potassium chloride (steps a and b) until no more salt dissolves and some salt remains undissolved.
+</item>
+        <item id="uid36">Record the temperature of the potassium chloride solution.
+</item>
+        <item id="uid37">Filter the solution into the evaporating basin.
+</item>
+        <item id="uid38">Determine the mass of the evaporating basin containing the solution that has passed through the filter (the filtrate) on the electronic balance and record the mass.
+</item>
+        <item id="uid39">Ignite the Bunsen burner.
+</item>
+        <item id="uid40">Carefully heat the filtrate in the evaporating basin until the salt is dry.
+</item>
+        <item id="uid41">Place the evaporating basin in the desiccator (a large glass container in which there is a dehydrating agent like calcium sulphate that absorbs water) until it reaches room temperature.
+</item>
+        <item id="uid42">Determine the mass of the evaporating basin containing the dry cool salt on the electronic balance and record the mass.
+</item>
+      </list>
+      <para id="id97207">On completion of the experiment, their results were as follows:</para>
+      <table id="id97210" summary="">
+        <tgroup cols="3">
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Siphiwe's results</entry>
+              <entry>Ann's results</entry>
+            </row>
+            <row>
+              <entry>Temperature (<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C)</entry>
+              <entry>15</entry>
+              <entry>26</entry>
+            </row>
+            <row>
+              <entry>Mass of evaporating basin (g)</entry>
+              <entry>65.32</entry>
+              <entry>67.55</entry>
+            </row>
+            <row>
+              <entry>Mass of evaporating basin + salt solution (g)</entry>
+              <entry>125.32</entry>
+              <entry>137.55</entry>
+            </row>
+            <row>
+              <entry>Mass of evaporating basin + salt (g)</entry>
+              <entry>81.32</entry>
+              <entry>85.75</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id97377" display="block" list-type="enumerated">
+        <item id="uid43">Calculate the solubility of potassium chloride, using the data recorded by
+<list id="id97393" display="block" list-type="enumerated"><item id="uid44">Siphiwe
+</item><item id="uid45">Ann
+A reference book lists the solubility of potassium chloride as 35.0 g per 100 ml of water at 25<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C.
+</item><item id="uid46">Give a reason why you think Ann and Siphiwe each obtained results different from each other and the value in the reference book.
+</item></list></item>
+        <item id="uid47">Siphiwe and Ann now expand their investigation and work together. They now investigate the solubility of potassium chloride at different temperatures and in addition they examine the solubility of copper (II) sulfate at these same temperatures. They collect and write up their results as follows:
+<emphasis effect="italics">In each experiment we used 50 ml of water in the beaker. We found the following masses of substance dissolved in the 50 ml of water. At 0<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C, mass of potassium chloride is 14.0 g and copper sulphate is 14.3 g. At 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C, 15.6 g and 17.4 g respectively. At 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C, 17.3 g and 20.7 g respectively. At 40<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C, potassium chloride mass is 20.2 g and copper sulphate is 28.5 g, at 60<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C, 23.1 g and 40.0 g and lastly at 80<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C, the masses were 26.4 g and 55.0 g respectively.</emphasis><list id="id97623" display="block" list-type="enumerated"><item id="uid48">From the record of data provided above, draw up a neat table to record Siphiwe and Ann's results.
+</item><item id="uid49">Identify the dependent and independent variables in their investigation.
+</item><item id="uid50">Choose an appropriate scale and plot a graph of these results.
+</item><item id="uid51">From the graph, determine:
+<list id="id97676" display="block" list-type="enumerated"><item id="uid52">the temperature at which the solubility of copper sulphate is 50 g per 50 ml of water.
+</item><item id="uid53">the maximum number of grams of potassium chloride which will dissolve in 100 ml of water at 70<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C.
+</item></list>
+(IEB Exemplar Paper 2, 2006)
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+    <para id="eip-985"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=solutions-100512073831-phpapp01&amp;stripped_title=solutions-4068244&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid5">
+      <title>Summary</title>
+      <list id="id97744" display="block" list-type="bulleted">
+        <item id="uid54">In chemistry, a <emphasis effect="bold">solution</emphasis> is a homogenous mixture of a solute in a solvent.
+</item>
+        <item id="uid55">A <emphasis effect="bold">solute</emphasis> is a substance that dissolves in a solvent. A solute can be a solid, liquid or gas.
+</item>
+        <item id="uid56">A <emphasis effect="bold">solvent</emphasis> is a substance in which a solute dissolves. A solvent can also be a solid, liquid or gas.
+</item>
+        <item id="uid57">Examples of solutions include salt solutions, metal alloys, the air we breathe and gases such as oxygen and carbon dioxide dissolved in water.
+</item>
+        <item id="uid58">Not all solutes will dissolve in all solvents. A general rule is: <emphasis effect="bold">like dissolves like</emphasis>. Solutes and solvents that have similar intermolecular forces are more likely to dissolve.
+</item>
+        <item id="uid59">Polar and ionic solutes will be more likely to dissolve in polar solvents, while non-polar solutes will be more likely to dissolve in polar solvents.
+</item>
+        <item id="uid60"><emphasis effect="bold">Solubility</emphasis> is the extent to which a solute is able to dissolve in a solvent under certain conditions.
+</item>
+        <item id="uid61">Factors that affect solubility are the <emphasis effect="bold">quantity of solute and solvent</emphasis>, <emphasis effect="bold">temperature</emphasis>, the <emphasis effect="bold">intermolecular forces</emphasis> in the solute and solvent and <emphasis effect="bold">other substances</emphasis> that may be in the solvent.
+</item>
+      </list>
+<section id="secfhsst_id446"><title> Summary Exercise
+      </title>
+      <list id="id97916" display="block" list-type="enumerated">
+        <item id="uid62">Give one word or term for each of the following descriptions:
+<list id="id97932" display="block" list-type="enumerated"><item id="uid63">A type of mixture where the solute has completely dissolved in the solvent.
+</item><item id="uid64">A measure of how much solute is dissolved in a solution.
+</item><item id="uid65">Forces between the molecules in a substance.
+</item></list></item>
+        <item id="uid66">For each of the following questions, choose the one correct answer from the list provided.
+<list id="id97987" display="block" list-type="enumerated"><item id="uid67">Which one of the following will readily dissolve in water?
+<list id="id98003" display="block" list-type="enumerated"><item id="uid68">I<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>(s)
+</item><item id="uid69">NaI(s)
+</item><item id="uid70">CCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>(l)
+</item><item id="uid71">BaSO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>(s)
+</item></list>
+(IEB Paper 2, 2005)
+</item><item id="uid72">In which of the following pairs of substances will the dissolving process happen most readily?
+<table id="id98112" summary=""><tgroup cols="3"><tbody><row><entry/><entry><emphasis effect="bold">Solute</emphasis></entry><entry><emphasis effect="bold">Solvent</emphasis></entry></row><row><entry>A</entry><entry>S<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>8</m:mn></m:msub></m:math></entry><entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O</entry></row><row><entry>B</entry><entry>KCl</entry><entry>CCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></entry></row><row><entry>C</entry><entry>KNO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></entry><entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O</entry></row><row><entry>D</entry><entry>NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>Cl</entry><entry>CCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></entry></row></tbody></tgroup></table>
+(IEB Paper 2, 2004)
+</item></list></item>
+        <item id="uid73">Which one of the following three substances is the most soluble in pure water at room temperature?
+Hydrogen sulfide, ammonia and hydrogen fluoride
+</item>
+        <item id="uid74">Briefly explain in terms of intermolecular forces why solid iodine does not dissolve in pure water, yet it dissolves in xylene (a non-polar, organic liquid) at room temperature.
+(IEB Paper 2, 2002)
+</item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

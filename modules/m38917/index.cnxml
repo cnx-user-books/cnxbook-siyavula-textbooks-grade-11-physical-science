@@ -1,0 +1,376 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Current induced by a changing magnetic field</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38917</md:content-id>
+  <md:title>Current induced by a changing magnetic field</md:title>
+  <md:abstract/>
+  <md:uuid>b17f0a91-edc2-49f4-8399-00f0c1280a7d</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Current induced by a changing magnetic field</title>
+      <para id="id69838">While Oersted's surprising discovery of electromagnetism paved the
+way for more practical applications of electricity, it was Michael
+Faraday who gave us the key to the practical generation of
+electricity: <emphasis effect="bold">electromagnetic induction</emphasis>.</para>
+      <para id="id69848">Faraday discovered that a voltage was generated across a length of
+wire while moving a magnet nearby, such that the distance between
+the two changed. This meant that the wire was exposed to a
+magnetic field flux of changing intensity. Furthermore, the
+voltage also depended on the orientation of the magnet; this is
+easily understood again in terms of the magnetic flux. The flux
+will be at its maximum as the magnet is aligned perpendicular to
+the wire. The magnitude of the changing
+flux and the voltage are linked. In fact, if the lines of flux are
+parallel to the wire, there will be no induced voltage.</para>
+<definition id="fhsst_id464"><term id="termfhsst_id464"> Faraday's Law </term> <meaning id="meaningfhsst_id464">
+      <para id="id68726">The emf,
+<m:math overflow="scroll"><m:mi>ϵ</m:mi></m:math>, produced around a loop of conductor is proportional to
+the rate of change of the magnetic flux, <m:math overflow="scroll"><m:mi>φ</m:mi></m:math>, through the area,
+<m:math overflow="scroll"><m:mi>A</m:mi></m:math>, of the loop. This can be stated mathematically as:</para>
+      <equation id="id68760">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>ϵ</m:mi>
+            <m:mo>=</m:mo>
+            <m:mo>-</m:mo>
+            <m:mi>N</m:mi>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mi>φ</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mi>t</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id69997">where <m:math overflow="scroll"><m:mrow><m:mi>φ</m:mi><m:mo>=</m:mo><m:mi>B</m:mi><m:mo>·</m:mo><m:mi>A</m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mi>B</m:mi></m:math> is the strength of the magnetic field. </para>
+      </meaning></definition>
+      <para id="id70033">Faraday's Law relates induced emf to the rate of change of flux,
+which is the product of the magnetic field and the cross-sectional
+area the field lines pass through.</para>
+      <para id="id70038">
+        <figure id="id70041">
+          <media id="id70041_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C8_026.png" id="id70041_onlineimage" width="345"><!-- NOTE: attribute width changes image size online (pixels). original width is 345. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_026.eps" id="id70041_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id70047">When the north pole of a magnet is pushed into a solenoid, the
+flux in the solenoid increases so the induced current will have an
+associated magnetic field pointing out of the solenoid (opposite
+to the magnet's field). When the north pole is pulled out, the
+flux decreases, so the induced current will have an associated
+magnetic field pointing into the solenoid (same direction as the
+magnet's field) to try to oppose the change. The directions of
+currents and associated magnetic fields can all be found using
+only the Right Hand Rule. When the fingers of the right hand are
+pointed in the direction of the magnetic field, the thumb points in the
+direction of the current. When the thumb is pointed in the
+direction of the magnetic field, the fingers point in the
+direction of the current.</para>
+<note id="notfhsst_id515" type="tip">An easy way to create a magnetic field of changing
+intensity is to move a permanent magnet next to a wire or coil of
+wire. The magnetic field must increase or decrease in intensity
+<emphasis effect="italics">perpendicular</emphasis> to the wire (so that the magnetic field lines "cut
+across" the conductor), or else no voltage will be induced.</note>
+<note id="notfhsst_id520" type="tip">Finding the direction of the induced current</note>
+      <para id="id70077">The induced
+current generates a magnetic field. The induced magnetic field is
+in a direction that tends to cancel out the change in the magnetic field in the loop of wire. So, you can use the Right Hand Rule to find
+the direction of the induced current by remembering that the
+induced magnetic field is opposite in direction to the change in the magnetic
+field.</para>
+      <para id="id70083">Electromagnetic induction is put into practical use in the
+construction of electrical generators, which use mechanical power
+to move a magnetic field past coils of wire to generate voltage.
+However, this is by no means the only practical use for this
+principle.</para>
+      <para id="id70088">If we recall that the magnetic field produced by a
+current-carrying wire is always perpendicular to the wire, and
+that the flux intensity of this magnetic field varies with the
+amount of current which passes through it, we can see that a wire is capable of
+inducing a voltage <emphasis effect="italics">along its own length</emphasis> if the current is changing. This effect is called
+<emphasis effect="italics">self-induction</emphasis>. Self-induction is when a changing magnetic field is produced by
+changes in current through a wire, inducing a voltage along the
+length of that same wire.</para>
+      <para id="id70107">If the magnetic flux is enhanced
+by bending the wire into the shape of a coil, and/or wrapping that
+coil around a material of high permeability, this effect of
+self-induced voltage will be more intense. A device constructed to
+take advantage of this effect is called an <emphasis effect="italics">inductor</emphasis>, and
+will be discussed in greater detail in the next chapter.</para>
+<section id="secfhsst_id546"><title>
+      Lenz's Law </title>
+      <para id="id70130">The induced current will create a magnetic
+field that opposes the change in the magnetic flux. </para>
+</section>
+<exercise id="secfhsst_id551"><title> Faraday's Law </title>
+      <problem id="probfhsst_id552">
+      <para id="id70156">Consider a flat square coil with 5 turns. The
+coil is 0,50 m on each side, and has a magnetic field of 0,5 T
+passing through it. The plane of the coil is perpendicular to the
+magnetic field: the field points out of the page. Use Faraday's
+Law to calculate the induced emf, if the magnetic field is
+increases uniformly from 0,5 T to 1 T in 10 s. Determine the
+direction of the induced current.</para>
+      
+      </problem>
+      <solution id="solfhsst_id562"> <list id="listfhsst_id562" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Identify what is required </label>
+      <para id="id70188">We are required to use
+Faraday's Law to calculate the induced emf.</para>
+      </item> <item> <label> Write Faraday's Law </label>
+      <equation id="id70196">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>ϵ</m:mi>
+            <m:mo>=</m:mo>
+            <m:mo>-</m:mo>
+            <m:mi>N</m:mi>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mi>φ</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mi>t</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Solve Problem </label>
+      <equation id="id70232">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>ϵ</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mi>N</m:mi>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>φ</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mi>N</m:mi>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>φ</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>φ</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mi>N</m:mi>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>B</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>·</m:mo>
+                      <m:mi>A</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>B</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                      <m:mo>·</m:mo>
+                      <m:mi>A</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mi>N</m:mi>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>B</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>B</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>0</m:mn>
+                          <m:mo>,</m:mo>
+                          <m:mn>5</m:mn>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>-</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mn>10</m:mn>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>0625</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi mathvariant="normal">V</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id70674">The induced current is anti-clockwise as viewed from the direction of the increasing magnetic field.
+ </para>
+      </item> </list> </solution>
+</exercise>
+      <section id="uid36">
+        <title>Real-life applications</title>
+        <para id="id70699">The following devices use Faraday's Law in their operation.</para>
+        <list id="id70703" display="block" list-type="bulleted">
+          <item id="uid37">induction stoves
+</item>
+          <item id="uid38">tape players
+</item>
+          <item id="uid39">metal detectors
+</item>
+          <item id="uid40">transformers
+</item>
+        </list>
+<section id="secfhsst_id785"><title> Research Project : Real-life applications of Faraday's Law </title>
+        <para id="id70763">Choose one of the following devices and do some research on the internet or in a library how your device works. You will need to refer to Faraday's Law in your explanation.</para>
+        <list id="id70770" display="block" list-type="bulleted">
+          <item id="uid41">induction stoves
+</item>
+          <item id="uid42">tape players
+</item>
+          <item id="uid43">metal detectors
+</item>
+          <item id="uid44">transformers
+</item>
+        </list>
+        
+</section>
+<section id="secfhsst_id799"><title> Faraday's Law </title>
+        <list id="id70840" display="block" list-type="enumerated">
+          <item id="uid45">State Faraday's Law in words and write down a mathematical relationship.
+</item>
+          <item id="uid46">Describe what happens when a bar magnet is pushed into or pulled out of a solenoid connected to an ammeter. Draw pictures to support your description.
+</item>
+          <item id="uid47">Use the Right Hand Rule to determine the direction of the induced current in the solenoid below.
+<figure id="id70885"><media id="id70885_media" alt=""><image mime-type="image/png" src="../../media/PG11C8_027.png" id="id70885_onlineimage" width="283"><!-- NOTE: attribute width changes image size online (pixels). original width is 283. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_027.eps" id="id70885_printimage"/></media></figure></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,66 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38892</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>f4778d19-aeb2-411e-accd-b4ee0278a30b</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1">
+      <title>Atomic Combinations</title>
+      <para id="id138190">When you look at the matter, or physical substances, around you, you will realise that atoms seldom exist on their own. More often, the things around us are made up of different atoms that have been joined together. This is called <emphasis effect="bold">chemical bonding</emphasis>. Chemical bonding is one of the most important processes in chemistry because it allows all sorts of different molecules and combinations of atoms to form, which then make up the objects in the complex world around us. There are, however, some atoms that <emphasis effect="italics">do</emphasis> exist on their own, and which do not bond with others. The <emphasis effect="bold">noble gases</emphasis> in Group 8 of the Periodic Table behave in this way. They include elements like neon (Ne), helium (He) and argon (Ar). The important question then is, why do some atoms bond but others do not?</para>
+    </section>
+    <section id="cid2">
+      <title>Why do atoms bond?</title>
+      <para id="id138562">As we begin this section, it's important to remember that what we will go on to discuss is a <emphasis effect="italics">model</emphasis> of bonding, that is based on a particular <emphasis effect="italics">model</emphasis> of the atom. You will remember from the discussion on atoms
+that a model is a <emphasis effect="italics">representation</emphasis> of what is happening in reality. In the model of the atom that you are familiar with, the atom is made up of a central nucleus, surrounded by electrons that are arranged in fixed energy levels (sometimes called <emphasis effect="italics">shells</emphasis>). Within each energy level, electrons move in <emphasis effect="italics">orbitals</emphasis> of different shapes. The electrons in the outermost energy level of an atom are called the <emphasis effect="bold">valence electrons</emphasis>. This model of the atom is useful in trying to understand how different types of bonding take place between atoms.</para>
+      <para id="id138603">You will remember from these earlier discussions of electrons and energy levels in the atom, that electrons always try to occupy the <emphasis effect="italics">lowest</emphasis> possible energy level. In the same way, an atom also prefers to exist in the lowest possible energy state so that it is most <emphasis effect="italics">stable</emphasis>. An atom is most stable when all its valence electron orbitals are <emphasis effect="italics">full</emphasis>. In other words, the outer energy level of the atom contains the maximum number of electrons that it can. A stable atom is also an <emphasis effect="italics">unreactive</emphasis> one, and is unlikely to bond with other atoms. This explains why the noble gases are unreactive and why they exist as atoms, rather than as molecules. Look for example at the electron configuration of neon (1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>6</m:mn></m:msup></m:math>). Neon has eight valence electrons in its valence energy shell. This is the maximum that it can hold and so neon is very stable and unreactive, and will not form new bonds. Other atoms, whose valence energy levels are not full, are more likely to bond in order to become more stable. We are going to look a bit more closely at some of the energy changes that take place when atoms bond.</para>
+    </section>
+    <section id="cid3">
+      <title>Energy and bonding</title>
+      <para id="id138685">Let's start by imagining that there are two hydrogen atoms approaching one another. As they move closer together, there are three forces that act on the atoms at the same time. These forces are shown in <link target-id="uid1"/> and are described below:</para>
+      <figure id="uid1">
+        <media id="uid1_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C1_001.png" id="uid1_onlineimage" width="273"><!-- NOTE: attribute width changes image size online (pixels). original width is 273. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_001.eps" id="uid1_printimage"/>
+        </media>
+        <caption>Forces acting on two approaching atoms: (1) repulsion between electrons, (2) attraction between protons and electrons and (3) repulsion between protons.</caption>
+      </figure>
+      <list id="id138707" display="block" list-type="enumerated">
+        <item id="uid2"><emphasis effect="bold">repulsive force</emphasis> between the electrons of the atoms, since like charges repel
+</item>
+        <item id="uid3"><emphasis effect="bold">attractive force</emphasis> between the nucleus of one atom and the electrons of another
+</item>
+        <item id="uid4"><emphasis effect="bold">repulsive force</emphasis> between the two positively-charged nuclei
+</item>
+      </list>
+      <para id="id138759">Now look at <link target-id="uid5"/> to understand the energy changes that take place when the two atoms move towards each other.</para>
+      <figure id="uid5">
+        <media id="uid5_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C1_002.png" id="uid5_onlineimage" width="319"><!-- NOTE: attribute width changes image size online (pixels). original width is 319. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_002.eps" id="uid5_printimage"/>
+        </media>
+        <caption>Graph showing the change in energy that takes place as atoms move closer together</caption>
+      </figure>
+      <para id="id138780">In the example of the two hydrogen atoms, where the resultant force between them is attraction, the energy of the system is zero when the atoms are far apart (point A), because there is no interaction between the atoms. When the atoms move closer together, attractive forces dominate and the atoms are pulled towards each other. As this happens, the <emphasis effect="italics">potential energy</emphasis> of the system decreases because energy would now need to be <emphasis effect="italics">supplied</emphasis> to the system in order to move the atoms apart. However, as the atoms continue to move closer together (i.e. <emphasis effect="italics">left</emphasis> along the horizontal axis of the graph), repulsive forces start to dominate and this causes the potential energy of the system to rise again. At some point, the attractive and repulsive effects are balanced, and the energy of the system is at its minimum (point X). It is at this point, when the energy is at a minimum, that bonding takes place.</para>
+      <para id="id138806">The distance marked 'P' is the <emphasis effect="bold">bond length</emphasis>, i.e. the distance between the nuclei of the atoms when they bond. 'Q' represents the <emphasis effect="bold">bond energy</emphasis> i.e. the amount of energy that must be added to the system to break the bonds that have formed. <emphasis effect="bold">Bond strength</emphasis> means how strongly one atom attracts and is held to another. The strength of a bond is related to the bond length, the size of the bonded atoms and the number of bonds between the atoms. In general, the shorter the bond length, the stronger the bond between the atoms, and the smaller the atoms involved, the stronger the bond. The greater the number of bonds between the atoms, the greater the bond strength.</para><para id="eip-66"><figure id="id63458"><media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/atomic-interactions-screenshot.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/atomic-interactions-screenshot.eps" id="id63458_printimage"/>
+            </media>
+            </figure>
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/states-of-matter/atomic-interactions_en.jnlp">run demo</link></para>
+    </section>
+    <section id="cid4">
+      <title>What happens when atoms bond?</title>
+      <para id="id138842">A <emphasis effect="bold">chemical bond</emphasis> is formed when atoms are held together by attractive forces. This attraction occurs when electrons are <emphasis effect="italics">shared</emphasis> between atoms, or when electrons are <emphasis effect="italics">exchanged</emphasis> between the atoms that are involved in the bond. The sharing or exchange of electrons takes place so that the outer energy levels of the atoms involved are filled and the atoms are more stable. If an electron is <emphasis effect="bold">shared</emphasis>, it means that it will spend its time moving in the electron orbitals around <emphasis effect="italics">both</emphasis> atoms. If an electron is <emphasis effect="bold">exchanged</emphasis> it means that it is transferred from one atom to another, in other words one atom <emphasis effect="italics">gains</emphasis> an electron while the other <emphasis effect="italics">loses</emphasis> an electron.</para>
+<definition id="fhsst_id83"><term id="termfhsst_id83"> Chemical bond </term> <meaning id="meaningfhsst_id83">
+      <para id="id138897">A chemical bond is the physical process that causes atoms and molecules to be attracted to each other, and held together in more stable chemical compounds. </para>
+      </meaning></definition>
+      <para id="id138909">The type of bond that is formed depends on the elements that are involved. In this section, we will be looking at three types of chemical bonding: <emphasis effect="bold">covalent</emphasis>, <emphasis effect="bold">ionic</emphasis> and <emphasis effect="bold">metallic bonding</emphasis>.</para>
+      <para id="id138929">You need to remember that it is the <emphasis effect="italics">valence electrons</emphasis> that are involved in bonding and that atoms will try to fill their outer energy levels so that they are more stable.</para>
+    </section>
+
+  </content>
+</document>

@@ -1,0 +1,787 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Electric fields around charges</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39005</md:content-id>
+  <md:title>Electric fields around charges</md:title>
+  <md:abstract/>
+  <md:uuid>14823cd2-c580-4f60-b7f3-1f79b973a549</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Electric field around charges</title>
+      <para id="id281786">We have learnt that objects that carry charge feel forces from all
+other charged objects. It is useful to determine what the effect
+from a charge would be at every point surrounding it. To do this we
+need some sort of reference. We know that the force that one
+charge feels due to another depends on both charges (<m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub></m:math> and
+<m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math>). How then can we talk about forces if we only have one
+charge? The solution to this dilemma is to introduce a <emphasis effect="italics">test
+charge</emphasis>. We then determine the force that would be exerted on it
+if we placed it at a certain location. If we do this for every
+point surrounding a charge we know what would happen if we put a
+test charge at any location.</para>
+      <para id="id281829">This map of what would happen at any point is called an electric field map. It
+is a map of the electric field <emphasis effect="italics">due to</emphasis> a charge. It tells us, at each point in space,
+how large the force on a test charge would be and in what
+direction the force would be. Our map consists of the vectors that
+describe the force on the test charge if it were placed there.</para>
+<definition id="fhsst_id1696"><term id="termfhsst_id1696"> Electric field </term> <meaning id="meaningfhsst_id1696">
+      <para id="id281849">A collection of electric charges gives rise to a 'field of vectors' in the surrounding region of space, called an <emphasis effect="bold">electric field</emphasis>. The direction of
+the electric field at a point is the direction that a positive
+test charge would move if placed at that point. </para>
+      </meaning></definition>
+      <section id="uid15">
+        <title>Electric field lines</title>
+        <para id="id281877">The electric field maps depend very much on the charge or charges that the map is
+being made for. We will start off with the simplest possible case.
+Take a single positive charge with no other charges around it.
+First, we will look at what effects it would have on a test charge
+at a number of points.</para>
+        <para id="id277377">Electric field lines, like the magnetic field lines that were
+studied in Grade 10, are a way of representing the electric field
+at a point.</para>
+        <list id="id277384" display="block" list-type="bulleted">
+          <item id="uid16">Arrows on the field lines indicate the direction of
+the field, i.e. the direction a positive test charge would move.
+</item>
+          <item id="uid17">Electric field lines therefore point away from positive charges
+and towards negative charges.
+</item>
+          <item id="uid18">Field lines are drawn closer
+together where the field is stronger.
+</item>
+        </list>
+      </section>
+      <section id="uid19">
+        <title>Positive charge acting on a test charge</title>
+        <para id="id277437">At each point we calculate the force on a test charge, <m:math overflow="scroll"><m:mi>q</m:mi></m:math>, and
+represent this force by a vector.</para>
+        <para id="id282025">
+          <figure id="id282028">
+            <media id="id282028_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C7_006.png" id="id282028_onlineimage" width="187"><!-- NOTE: attribute width changes image size online (pixels). original width is 187. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_006.eps" id="id282028_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id282034">We can see that at every point the positive test charge, <m:math overflow="scroll"><m:mi>q</m:mi></m:math>,
+would experience a force pushing it away from the charge, <m:math overflow="scroll"><m:mi>Q</m:mi></m:math>.
+This is because both charges are positive and so they repel. Also
+notice that at points further away the vectors are shorter. That
+is because the force is smaller if you are further away.</para>
+        <section id="uid20">
+          <title>Negative charge acting on a test charge</title>
+          <para id="id282067">If the charge, Q, were negative we would have the following result.</para>
+          <para id="id282071">
+            <figure id="id282074">
+              <media id="id282074_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C7_007.png" id="id282074_onlineimage" width="187"><!-- NOTE: attribute width changes image size online (pixels). original width is 187. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_007.eps" id="id282074_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id282080">Notice that it is <emphasis effect="bold">almost</emphasis> identical to the positive charge
+case. This is important – the arrows are the same length because
+the magnitude of the charge is the same and so is the magnitude of
+the test charge. Thus the <emphasis effect="bold">magnitude</emphasis> (size) of the force is the
+same. The arrows point in the opposite direction because the
+charges now have opposite sign and so the positive test charge is
+<emphasis effect="bold">attracted</emphasis> to the charge. Now, to make things simpler, we
+draw continuous lines showing the path that the test charge would
+travel. This means we don't have to work out the magnitude of the
+force at many different points.</para>
+        </section>
+        <section id="uid21">
+          <title>Electric field map due to a positive charge</title>
+          <para id="id282118">
+            <figure id="id282121">
+              <media id="id282121_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C7_008.png" id="id282121_onlineimage" width="147"><!-- NOTE: attribute width changes image size online (pixels). original width is 147. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_008.eps" id="id282121_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id282128">
+            <emphasis effect="bold">Some important points to remember about electric fields:</emphasis>
+          </para>
+          <list id="id282135" display="block" list-type="bulleted">
+            <item id="uid22">There is an electric field at <emphasis effect="bold">every point</emphasis> in space
+surrounding a charge.
+</item>
+            <item id="uid23">Field lines are merely a <emphasis effect="bold">representation</emphasis> – they are not
+real. When we draw them, we just pick convenient places to
+indicate the field in space.
+</item>
+            <item id="uid24">Field lines usually start at a <emphasis effect="bold">right-angle</emphasis> (90<sup>o</sup>) to the
+charged object causing the field.
+</item>
+            <item id="uid25">Field lines <emphasis effect="bold">never</emphasis> cross.
+</item>
+          </list>
+        </section>
+      </section>
+      <section id="uid26">
+        <title>Combined charge distributions</title>
+        <para id="id282230">We will now look at the field of a positive charge and a negative charge
+placed next to each other. The net resulting field would be the
+addition of the fields from each of the charges. To start off with
+let us sketch the field maps for each of the charges separately.</para>
+        <section id="uid27">
+          <title>Electric field of a negative and a positive charge in isolation</title>
+          <para id="id282245">
+            <figure id="id282248">
+              <media id="id282248_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C7_009.png" id="id282248_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 295. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_009.eps" id="id282248_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id282255">Notice that a test charge starting off directly between the two
+would be pushed away from the positive charge and pulled towards
+the negative charge in a straight line. The path it would follow
+would be a straight line between the charges.</para>
+          <para id="id282260">
+            <figure id="id282264">
+              <media id="id282264_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C7_010.png" id="id282264_onlineimage" width="205"><!-- NOTE: attribute width changes image size online (pixels). original width is 205. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_010.eps" id="id282264_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id282270">Now let's consider a test charge starting off a bit higher than
+directly between the charges. If it starts closer to the positive
+charge the force it feels from the positive charge is greater, but
+the negative charge also attracts it, so it would experience a force away from
+the positive charge with a tiny force attracting it towards the
+negative charge. If it were a bit further from the positive charge the
+force from the negative and positive charges change and in fact they would be
+equal in magnitude if the forces were at equal distances from the charges. After that
+point the negative charge starts to exert a stronger force on the
+test charge. This means that the test charge would move towards the
+negative charge with only a small force away from the positive
+charge.</para>
+          <para id="id282280">
+            <figure id="id282284">
+              <media id="id282284_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C7_011.png" id="id282284_onlineimage" width="205"><!-- NOTE: attribute width changes image size online (pixels). original width is 205. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_011.eps" id="id282284_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id282290">Now we can fill in the other lines quite easily using the same
+ideas. The resulting field map is:</para>
+          <para id="id282294">
+            <figure id="id282298">
+              <media id="id282298_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C7_012.png" id="id282298_onlineimage" width="318"><!-- NOTE: attribute width changes image size online (pixels). original width is 318. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_012.eps" id="id282298_printimage"/>
+              </media>
+            </figure>
+          </para>
+        </section>
+        <section id="uid28">
+          <title>Two like charges : both positive</title>
+          <para id="id282315">For the case of two positive charges things look a little
+different. We can't just turn the arrows around the way we did
+before. In this case the test charge is repelled by both charges.
+This tells us that a test charge will never cross half way because
+the force of repulsion from both charges will be equal in
+magnitude.</para>
+          <para id="id282321">
+            <figure id="id282324">
+              <media id="id282324_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C7_013.png" id="id282324_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 295. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_013.eps" id="id282324_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id282331">The field directly between the charges cancels out in the middle.
+The force has equal magnitude and opposite direction. Interesting
+things happen when we look at test charges that are not on a line
+directly between the two.</para>
+          <para id="id282336">
+            <figure id="id282339">
+              <media id="id282339_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C7_014.png" id="id282339_onlineimage" width="205"><!-- NOTE: attribute width changes image size online (pixels). original width is 205. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_014.eps" id="id282339_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id282346">We know that a charge the same distance below the middle will
+experience a force along a reflected line, because the problem is
+symmetric (i.e. if we flipped vertically it would look the same).
+This is also true in the horizontal direction. So we use this fact
+to easily draw in the next four lines.</para>
+          <para id="id282352">
+            <figure id="id282355">
+              <media id="id282355_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C7_015.png" id="id282355_onlineimage" width="205"><!-- NOTE: attribute width changes image size online (pixels). original width is 205. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_015.eps" id="id282355_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id282362">Working through a number of possible starting points for the test
+charge we can show the electric field map to be:</para>
+          <para id="id282366">
+            <figure id="id282369">
+              <media id="id282369_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C7_016.png" id="id282369_onlineimage" width="318"><!-- NOTE: attribute width changes image size online (pixels). original width is 318. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_016.eps" id="id282369_printimage"/>
+              </media>
+            </figure>
+          </para>
+        </section>
+        <section id="uid29">
+          <title>Two like charges : both negative</title>
+          <para id="id282386">We can use the fact that the direction of the force is reversed
+for a test charge if you change the sign of the charge that is
+influencing it. If we change to the case where both charges are
+negative we get the following result:</para>
+          <para id="id282392">
+            <figure id="id282395">
+              <media id="id282395_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C7_017.png" id="id282395_onlineimage" width="318"><!-- NOTE: attribute width changes image size online (pixels). original width is 318. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_017.eps" id="id282395_printimage"/>
+              </media>
+            </figure>
+          </para>
+        </section>
+      </section>
+      <section id="uid30">
+        <title>Parallel plates</title>
+        <para id="id282411">One very important example of electric fields which is used
+extensively is the electric field between two charged parallel
+plates. In this situation the electric field is constant. This is
+used for many practical purposes and later we will explain how
+Millikan used it to measure the charge on the electron.</para>
+        <section id="uid31">
+          <title>Field map for oppositely charged parallel plates</title>
+          <para id="id282427">
+            <figure id="id282430">
+              <media id="id282430_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C7_018.png" id="id282430_onlineimage" width="195"><!-- NOTE: attribute width changes image size online (pixels). original width is 195. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_018.eps" id="id282430_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id282437">This means that the force that a test charge would feel at any
+point between the plates would be identical in magnitude and
+direction. The fields on the edges exhibit fringe effects,
+<emphasis effect="italics">i.e. they bulge outwards</emphasis>. This is because a test charge
+placed here would feel the effects of charges only on one side
+(either left or right depending on which side it is placed). Test
+charges placed in the middle experience the effects of charges on
+both sides so they balance the components in the horizontal
+direction. This is clearly not the case on the edges.</para>
+        </section>
+        <section id="uid32">
+          <title>Strength of an electric field</title>
+          <para id="id282460">When we started making field maps we drew arrows to indicate the
+strength of the field and the direction. When we moved to lines
+you might have asked “Did we forget about the field strength?”.
+We did not. Consider the case for a single positive charge again:</para>
+          <para id="id282468">
+            <figure id="id282471">
+              <media id="id282471_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C7_019.png" id="id282471_onlineimage" width="147"><!-- NOTE: attribute width changes image size online (pixels). original width is 147. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_019.eps" id="id282471_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id282478">Notice that as you move further away from the charge the field
+lines become more spread out. In field map diagrams, the closer together
+field lines are, the stronger the field. Therefore, the electric field is stronger closer to the charge (the electric field lines are closer together) and weaker further from the charge (the electric field lines are further apart).</para>
+          <para id="id282484">The magnitude of the electric field at a point as the force per
+unit charge. Therefore,</para>
+          <equation id="id282491">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>E</m:mi>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:mi>F</m:mi>
+                  <m:mi>q</m:mi>
+                </m:mfrac>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id282512">E and F are vectors. From this we see that the force on a charge
+<m:math overflow="scroll"><m:mi>q</m:mi></m:math> is simply:</para>
+          <equation id="id282527">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>F</m:mi>
+                <m:mo>=</m:mo>
+                <m:mi>E</m:mi>
+                <m:mo>·</m:mo>
+                <m:mi>q</m:mi>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id282547">The force between two electric charges is given by:</para>
+          <equation id="id282551">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>F</m:mi>
+                <m:mo>=</m:mo>
+                <m:mi>k</m:mi>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>Q</m:mi>
+                    <m:mi>q</m:mi>
+                  </m:mrow>
+                  <m:msup>
+                    <m:mi>r</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mfrac>
+                <m:mo>.</m:mo>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id282584">(if we make the one charge <m:math overflow="scroll"><m:mi>Q</m:mi></m:math> and the other <m:math overflow="scroll"><m:mi>q</m:mi></m:math>.)
+Therefore, the electric field can be written as:</para>
+          <equation id="id282608">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>E</m:mi>
+                <m:mo>=</m:mo>
+                <m:mi>k</m:mi>
+                <m:mfrac>
+                  <m:mi>Q</m:mi>
+                  <m:msup>
+                    <m:mi>r</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mfrac>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id282636">The electric field is the force per unit of charge and hence has
+units of newtons per coulomb.</para>
+          <para id="id282642">As with Coulomb's law calculations, do not substitute the sign of
+the charge into the equation for electric field. Instead, choose a
+positive direction, and then either add or subtract the
+contribution to the electric field due to each charge depending
+upon whether it points in the positive or negative direction,
+respectively.</para>
+<para id="eip-86"><figure id="electrostatics-2" class="khanacademy">
+	  <title>Khan academy video on electrostatics - 2</title>
+	  <media id="yt-media2" display="block" alt="video on electrostatics 2">
+	  <flash id="yt-video2" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/0YOGrTNgGhE&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><para id="eip-592"><figure id="Electric-fields" class="phetsim">
+	  <title>Phet simulation for Electric Fields</title>
+	  <media id="phet_sim" display="block" alt="electric fields phet simulation">
+	  <flash id="phet-simulation" mime-type="application/x-shockwave-flash" src="charges-and-fields.swf" width="425" height="344">
+	  </flash>
+	  </media>
+	  </figure></para><exercise id="secfhsst_id2036"><title> Electric field 1 </title>
+          <problem id="probfhsst_id2037">
+          <para id="id282661">Calculate the electric field strength <m:math overflow="scroll"><m:mrow><m:mn>30</m:mn><m:mi> cm </m:mi></m:mrow></m:math> from a <m:math overflow="scroll"><m:mrow><m:mn>5</m:mn><m:mi> nC </m:mi></m:mrow></m:math> charge.</para>
+          <para id="id282692">
+            <figure id="id282693">
+              <media id="id282693_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C7_020.png" id="id282693_onlineimage" width="100"><!-- NOTE: attribute width changes image size online (pixels). original width is 100. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_020.eps" id="id282693_printimage"/>
+              </media>
+            </figure>
+          </para>
+          
+          </problem>
+          <solution id="solfhsst_id2049"> <list id="listfhsst_id2049" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Determine what is required </label>
+          <para id="id282720">We need to calculate the electric field a distance from a given charge.</para>
+          </item> <item> <label> Determine what is
+given </label>
+          <para id="id282728">We are given the magnitude of the charge and the distance from the charge.</para>
+          </item> <item> <label> Determine how to approach the problem </label>
+          <para id="id282736">We will use the equation:</para>
+          <equation id="id282739">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>E</m:mi>
+                <m:mo>=</m:mo>
+                <m:mi>k</m:mi>
+                <m:mfrac>
+                  <m:mi>Q</m:mi>
+                  <m:msup>
+                    <m:mi>r</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mfrac>
+                <m:mo>.</m:mo>
+              </m:mrow>
+            </m:math>
+          </equation>
+          </item> <item> <label> Solve the problem </label>
+          <equation id="id282774">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>E</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>k</m:mi>
+                      <m:mfrac>
+                        <m:mi>Q</m:mi>
+                        <m:msup>
+                          <m:mi>r</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>8</m:mn>
+                          <m:mo>.</m:mo>
+                          <m:mn>99</m:mn>
+                          <m:mo>×</m:mo>
+                          <m:msup>
+                            <m:mn>10</m:mn>
+                            <m:mn>9</m:mn>
+                          </m:msup>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>5</m:mn>
+                          <m:mo>×</m:mo>
+                          <m:msup>
+                            <m:mn>10</m:mn>
+                            <m:mrow>
+                              <m:mo>-</m:mo>
+                              <m:mn>9</m:mn>
+                            </m:mrow>
+                          </m:msup>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>0</m:mn>
+                          <m:mo>,</m:mo>
+                          <m:mn>3</m:mn>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>99</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">N</m:mi>
+                        <m:mo>.</m:mo>
+                        <m:msup>
+                          <m:mi mathvariant="normal">C</m:mi>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2180"><title> Electric field 2 </title>
+          <problem id="probfhsst_id2181">
+          <para id="id282961">Two charges of <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub></m:math> = <m:math overflow="scroll"><m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:mi> nC </m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math> =
+<m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>4</m:mn><m:mi> nC </m:mi></m:mrow></m:math> are separated by a distance of <m:math overflow="scroll"><m:mrow><m:mn>50</m:mn><m:mi> cm </m:mi></m:mrow></m:math>. What is the electric
+field strength at a point that is <m:math overflow="scroll"><m:mrow><m:mn>20</m:mn><m:mi> cm </m:mi></m:mrow></m:math> from <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:mrow><m:mn>50</m:mn><m:mi> cm </m:mi></m:mrow></m:math>
+from <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math>? The point lies beween <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math>.</para>
+          <para id="id283118">
+            <figure id="id283119">
+              <media id="id283119_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C7_021.png" id="id283119_onlineimage" width="363"><!-- NOTE: attribute width changes image size online (pixels). original width is 363. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C7_021.eps" id="id283119_printimage"/>
+              </media>
+            </figure>
+          </para>
+          
+          </problem>
+          <solution id="solfhsst_id2196"> <list id="listfhsst_id2196" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Determine what is required </label>
+          <para id="id283146">We need to calculate the electric field a distance from two given charges.</para>
+          </item> <item> <label> Determine what is given </label>
+          <para id="id283154">We are given the magnitude of the charges and
+the distances from the charges.</para>
+          </item> <item> <label> Determine how to approach the problem </label>
+          <para id="id283162">We will use the equation:</para>
+          <equation id="id283166">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>E</m:mi>
+                <m:mo>=</m:mo>
+                <m:mi>k</m:mi>
+                <m:mfrac>
+                  <m:mi>Q</m:mi>
+                  <m:msup>
+                    <m:mi>r</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mfrac>
+                <m:mo>.</m:mo>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id283197">We need to work out the electric field for each charge separately and then add them to get the resultant field.</para>
+          </item> <item> <label> Solve the problem </label>
+          <para id="id283207">We first solve for <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub></m:math>:</para>
+          <equation id="id283225">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>E</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>k</m:mi>
+                      <m:mfrac>
+                        <m:mi>Q</m:mi>
+                        <m:msup>
+                          <m:mi>r</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>8</m:mn>
+                          <m:mo>.</m:mo>
+                          <m:mn>99</m:mn>
+                          <m:mo>×</m:mo>
+                          <m:msup>
+                            <m:mn>10</m:mn>
+                            <m:mn>9</m:mn>
+                          </m:msup>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>3</m:mn>
+                          <m:mo>×</m:mo>
+                          <m:msup>
+                            <m:mn>10</m:mn>
+                            <m:mrow>
+                              <m:mo>-</m:mo>
+                              <m:mn>9</m:mn>
+                            </m:mrow>
+                          </m:msup>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>0</m:mn>
+                          <m:mo>,</m:mo>
+                          <m:mn>2</m:mn>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>6</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>74</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">N</m:mi>
+                        <m:mo>.</m:mo>
+                        <m:msup>
+                          <m:mi mathvariant="normal">C</m:mi>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id283381">Then for <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math>:</para>
+          <equation id="id283402">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>E</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>k</m:mi>
+                      <m:mfrac>
+                        <m:mi>Q</m:mi>
+                        <m:msup>
+                          <m:mi>r</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>8</m:mn>
+                          <m:mo>.</m:mo>
+                          <m:mn>99</m:mn>
+                          <m:mo>×</m:mo>
+                          <m:msup>
+                            <m:mn>10</m:mn>
+                            <m:mn>9</m:mn>
+                          </m:msup>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>4</m:mn>
+                          <m:mo>×</m:mo>
+                          <m:msup>
+                            <m:mn>10</m:mn>
+                            <m:mrow>
+                              <m:mo>-</m:mo>
+                              <m:mn>9</m:mn>
+                            </m:mrow>
+                          </m:msup>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>0</m:mn>
+                          <m:mo>,</m:mo>
+                          <m:mn>3</m:mn>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>70</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">N</m:mi>
+                        <m:mo>.</m:mo>
+                        <m:msup>
+                          <m:mi mathvariant="normal">C</m:mi>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id283558">We need to add the two electric fields beacuse both are in the same direction. The field is away from <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>1</m:mn></m:msub></m:math> and towards <m:math overflow="scroll"><m:msub><m:mi>Q</m:mi><m:mn>2</m:mn></m:msub></m:math>.
+Therefore,</para>
+          <para id="id283594"><m:math overflow="scroll"><m:mrow><m:msub><m:mi>E</m:mi><m:mrow><m:mi>t</m:mi><m:mi>o</m:mi><m:mi>t</m:mi><m:mi>a</m:mi><m:mi>l</m:mi></m:mrow></m:msub><m:mo>=</m:mo><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>74</m:mn><m:mo>×</m:mo><m:mn>10</m:mn><m:mn>2</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>70</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>44</m:mn><m:mo>×</m:mo><m:mn>10</m:mn><m:mn>2</m:mn><m:mrow><m:mi mathvariant="normal">N</m:mi><m:mo>.</m:mo><m:msup><m:mi mathvariant="normal">C</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:mrow></m:math>
+ </para>
+          </item> </list> </solution>
+</exercise>
+        </section>
+      </section>
+    </section>
+
+  </content>
+</document>

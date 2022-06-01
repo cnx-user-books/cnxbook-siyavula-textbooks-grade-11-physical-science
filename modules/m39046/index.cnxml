@@ -1,0 +1,263 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Standing waves in string instruments</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39046</md:content-id>
+  <md:title>Standing waves in string instruments</md:title>
+  <md:abstract/>
+  <md:uuid>51b24e7e-c6f2-4770-b69d-e615643fabf8</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id143046">What is your favorite musical instrument? How do you play it? Do you pluck a string, like a guitar?
+Do you blow through it, like a flute? Do you hit it, like a drum?
+All musical instruments work by making standing waves. Each instrument has a unique sound because of the special waves made in it.
+These waves could be in the strings of a guitar or violin.
+They could also be in the skin of a drum or a tube of air in a trumpet.
+These waves are picked up by the air and later reach your ear as sound.</para>
+      <para id="id143054">In Grade 10, you learned about standing waves and boundary conditions. We saw a rope that was:</para>
+      <list id="id143058" display="block" list-type="bulleted">
+        <item id="uid1">fixed at both ends
+</item>
+        <item id="uid2">fixed at one end and free at the other
+</item>
+      </list>
+      <para id="id143423">We also saw a pipe that was:</para>
+      <list id="id143426" display="block" list-type="bulleted">
+        <item id="uid3">closed at both ends
+</item>
+        <item id="uid4">open at both ends
+</item>
+        <item id="uid5">open at one end, closed at the other
+</item>
+      </list>
+      <para id="id143464">String and wind instruments are good examples of standing waves on strings and pipes.</para>
+      <para id="id143468">One way to describe standing waves is to count nodes.
+Recall that a node is a point on a string that does not move as the wave changes.
+The anti-nodes are the highest and lowest points on the wave. There is a node at each end of a fixed string.
+There is also a node at the closed end of a pipe.
+But an open end of a pipe has an anti-node.</para>
+      <para id="id143474">What causes a standing wave? There are incident and reflected waves traveling back and forth on our string or pipe.
+For some frequencies, these waves combine in just the right way so that the whole wave appears to be standing still.
+These special cases are called harmonic frequencies, or <emphasis effect="bold">harmonics</emphasis>.
+They depend on the length and material of the medium.</para>
+<definition id="fhsst_id101"><term id="termfhsst_id101"> Harmonic </term> <meaning id="meaningfhsst_id101">
+      <para id="id143491">A <emphasis effect="bold">harmonic</emphasis> frequency is a frequency at which standing waves can be made in a particular object or on a particular instrument. </para>
+      </meaning></definition>
+    </section>
+    <section id="cid3">
+      <title>Standing Waves in String Instruments</title>
+      <para id="id143517">Let us look at a basic "instrument": a string pulled tight and fixed at both ends.
+When you pluck the string, you hear a certain pitch. This pitch is made by a certain frequency.
+What causes the string to emit sounds at this pitch?</para>
+      <para id="id143522">You have learned that the frequency of a standing wave depends on the length of the wave.
+The wavelength depends on the nodes and anti-nodes.
+The longest wave that can "fit" on the string is shown in <link target-id="uid6"/>.
+This is called the <emphasis effect="bold">fundamental</emphasis> or <emphasis effect="bold">natural frequency</emphasis> of the string.
+The string has nodes at both ends. The wavelength of the fundamental is twice the length of the string.</para>
+      <para id="id143545">Now put your finger on the center of the string. Hold it down gently and pluck it.
+The standing wave now has a node in the middle of the string. There are three nodes.
+We can fit a whole wave between the ends of the string.
+This means the wavelength is equal to the length of the string.
+This wave is called the first harmonic.
+As we add more nodes, we find the second harmonic, third harmonic, and so on.
+We must keep the nodes equally spaced or we will lose our standing wave.</para>
+      <figure id="uid6">
+        <media id="uid6_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C6_001.png" id="uid6_onlineimage" width="188"><!-- NOTE: attribute width changes image size online (pixels). original width is 188. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_001.eps" id="uid6_printimage"/>
+        </media>
+        <caption>Harmonics on a string fixed at both ends.</caption>
+      </figure>
+<section id="secfhsst_id129"><title> Investigation : Waves on a String Fixed at Both Ends </title>
+      <para id="id143571">This chart shows various waves on a string. The string length <m:math overflow="scroll"><m:mi>L</m:mi></m:math> is the dashed line.</para>
+      <list id="id143585" display="block" list-type="enumerated">
+        <item id="uid7">Fill in the:
+<list id="id143600" display="block" list-type="bulleted"><item id="uid8">number of nodes
+</item><item id="uid9">number of anti-nodes
+</item><item id="uid10">wavelength in terms of <m:math overflow="scroll"><m:mi>L</m:mi></m:math></item></list>
+The first and last waves are done for you.
+<table id="id143649" summary=""><tgroup cols="4"><tbody><row><entry>Wave</entry><entry>Nodes</entry><entry>Antinodes</entry><entry>Wavelength</entry></row><row><entry><figure id="id143698"><media id="id143698_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_002.png" id="id143698_onlineimage" width="57"><!-- NOTE: attribute width changes image size online (pixels). original width is 57. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_002.eps" id="id143698_printimage"/></media></figure></entry><entry><figure id="id143709"><media id="id143709_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_003.png" id="id143709_onlineimage" width="4"><!-- NOTE: attribute width changes image size online (pixels). original width is 4. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_003.eps" id="id143709_printimage"/></media></figure></entry><entry><figure id="id143721"><media id="id143721_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_004.png" id="id143721_onlineimage" width="3"><!-- NOTE: attribute width changes image size online (pixels). original width is 3. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_004.eps" id="id143721_printimage"/></media></figure></entry><entry><figure id="id143732"><media id="id143732_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_005.png" id="id143732_onlineimage" width="11"><!-- NOTE: attribute width changes image size online (pixels). original width is 11. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_005.eps" id="id143732_printimage"/></media></figure></entry></row><row><entry><figure id="id143748"><media id="id143748_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_006.png" id="id143748_onlineimage" width="57"><!-- NOTE: attribute width changes image size online (pixels). original width is 57. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_006.eps" id="id143748_printimage"/></media></figure></entry><entry/><entry/><entry/></row><row><entry><figure id="id143783"><media id="id143783_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_007.png" id="id143783_onlineimage" width="57"><!-- NOTE: attribute width changes image size online (pixels). original width is 57. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_007.eps" id="id143783_printimage"/></media></figure></entry><entry/><entry/><entry/></row><row><entry><figure id="id143817"><media id="id143817_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_008.png" id="id143817_onlineimage" width="57"><!-- NOTE: attribute width changes image size online (pixels). original width is 57. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_008.eps" id="id143817_printimage"/></media></figure></entry><entry><figure id="id143829"><media id="id143829_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_009.png" id="id143829_onlineimage" width="4"><!-- NOTE: attribute width changes image size online (pixels). original width is 4. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_009.eps" id="id143829_printimage"/></media></figure></entry><entry><figure id="id143840"><media id="id143840_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_010.png" id="id143840_onlineimage" width="5"><!-- NOTE: attribute width changes image size online (pixels). original width is 5. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_010.eps" id="id143840_printimage"/></media></figure></entry><entry><figure id="id143851"><media id="id143851_media" alt=""><image mime-type="image/png" src="../../media/PG11C6_011.png" id="id143851_onlineimage" width="6"><!-- NOTE: attribute width changes image size online (pixels). original width is 6. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_011.eps" id="id143851_printimage"/></media></figure></entry></row></tbody></tgroup></table></item>
+        <item id="uid11">Use the chart to find a formula for the wavelength in terms of the number of nodes.
+</item>
+      </list>
+      
+</section>
+      <para id="id143883">You should have found this formula:</para>
+      <equation id="id143886">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>λ</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mi>L</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>n</m:mi>
+                <m:mo>-</m:mo>
+                <m:mn>1</m:mn>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id143914">Here, <m:math overflow="scroll"><m:mi>n</m:mi></m:math> is the number of nodes. <m:math overflow="scroll"><m:mi>L</m:mi></m:math> is the length of the
+string. The frequency <m:math overflow="scroll"><m:mi>f</m:mi></m:math> is:</para>
+      <equation id="id143943">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>f</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>v</m:mi>
+              <m:mi>λ</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id143963">Here, <m:math overflow="scroll"><m:mi>v</m:mi></m:math> is the velocity of the wave. This may seem confusing.
+The wave is a <emphasis effect="italics">standing</emphasis> wave, so how can it have a velocity?
+But one standing wave is made up of many waves that travel back and forth on the string.
+Each of these waves has the same velocity. This speed depends on the mass and tension of the string.</para>
+<exercise id="secfhsst_id181"><title> Harmonics on a String </title>
+      <problem id="probfhsst_id182">
+      <para id="id143996">We have a standing wave on a string that is 65 cm long. The wave has a velocity of 143 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+Find the frequencies of the fundamental, first, second, and third harmonics. </para>
+      </problem>
+      <solution id="solfhsst_id186"> <list id="listfhsst_id186" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Identify what is given and what is asked: </label>
+      <equation id="id144035">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi mathvariant="normal">L</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>65</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi> cm </m:mi>
+                  <m:mo>=</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>.</m:mo>
+                  <m:mn>65</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>v</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>143</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>.</m:mo>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>f</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mo>?</m:mo>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id144319">To find the frequency we will use <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>v</m:mi><m:mi>λ</m:mi></m:mfrac></m:mrow></m:math></para>
+      </item> <item> <label> Find the wavelength for each harmonic: </label>
+      <para id="id144346">To find <m:math overflow="scroll"><m:mi>f</m:mi></m:math> we need the wavelength of each harmonic (<m:math overflow="scroll"><m:mrow><m:mi>λ</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>L</m:mi></m:mrow><m:mrow><m:mi>n</m:mi><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac></m:mrow></m:math>).
+The wavelength is then substituted into <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>v</m:mi><m:mi>λ</m:mi></m:mfrac></m:mrow></m:math> to find the harmonics.
+The table below shows the calculations.</para>
+      <!--Table that contain tables are not converted.-->
+      <!--empty paragraphs get left behind.-->
+      <para id="id144943">110 Hz is the natural frequency of the A string on a guitar.
+The third harmonic, at 440 Hz, is the note that orchestras use for tuning. </para>
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id262"><title>
+      Guitar </title>
+      <para id="id144970">Guitars use strings with high tension.
+The length, tension and mass of the strings affect the pitches you hear.
+High tension and short strings make high frequencies; low tension and long strings make low frequencies.
+When a string is first plucked, it vibrates at many frequencies.
+All of these except the harmonics are quickly filtered out. The harmonics make up the tone we hear.</para>
+      <para id="id143336">The body of a guitar acts as a large wooden soundboard. Here is how a soundboard works:
+the body picks up the vibrations of the strings. It then passes these vibrations to the air.
+A sound hole allows the soundboard of the guitar to vibrate more freely.
+It also helps sound waves to get out of the body.</para>
+      <para id="id143341">The neck of the guitar has thin metal bumps on it called frets.
+Pressing a string against a fret shortens the length of that string.
+This raises the natural frequency and the pitch of that string.</para>
+      <para id="id143346">Most guitars use an "equal tempered" tuning of 12 notes per octave.
+A 6 string guitar has a range of 4 <m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math> octaves with pitches from 82.407 Hz (low E)
+to 2093 kHz (high C). Harmonics may reach over 20 kHz, in the inaudible range.</para>
+      <para id="id143366">
+        <figure id="id143369">
+          <media id="id143369_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C6_012.png" id="id143369_onlineimage" width="264"><!-- NOTE: attribute width changes image size online (pixels). original width is 264. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_012.eps" id="id143369_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+</section>
+<section id="secfhsst_id289"><title>
+      Piano </title>
+      <para id="id143396">Let us look at another stringed instrument: the piano.
+The piano has strings that you cannot see. When a key is pressed, a felt-tipped hammer hits a
+string inside the piano. The pitch depends on the length, tension and mass of the string.
+But there are many more strings than keys on a piano. This is because the short and thin
+strings are not as loud as the long and heavy strings. To make up for this, the higher
+keys have groups of two to four strings each.</para>
+      <para id="id143402">The soundboard in a piano is a large cast iron plate. It picks up vibrations
+from the strings. This heavy plate can withstand over 200 tons of pressure from string tension!
+Its mass also allows the piano to sustain notes for long periods
+of time.</para>
+      <para id="id145122">The piano has a wide frequency range, from 27,5 Hz (low A) to 4186,0 Hz
+(upper C). But these are just the fundamental frequencies. A piano plays complex,
+rich tones with over 20 harmonics per note. Some of these are out of the range of human hearing.
+Very low piano notes can be heard mostly because of their higher harmonics.</para>
+      <para id="id145128">
+        <figure id="id145132">
+          <media id="id145132_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C6_013.png" id="id145132_onlineimage" width="280"><!-- NOTE: attribute width changes image size online (pixels). original width is 280. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C6_013.eps" id="id145132_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+</section>
+    </section>
+
+  </content>
+</document>

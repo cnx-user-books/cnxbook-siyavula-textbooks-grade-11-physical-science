@@ -1,0 +1,998 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Boyle's law and Charle's law</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39083</md:content-id>
+  <md:title>Boyle's law and Charle's law</md:title>
+  <md:abstract/>
+  <md:uuid>db9dbd0c-ab07-4252-9b96-250ccd4df2bd</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1">
+      <title>Introduction</title>
+      <para id="id231067">We are surrounded by gases in our atmosphere which support and protect life on this planet. In this chapter, we are going to try to understand more about gases, and learn how to predict how they will behave under different conditions. The kinetic theory of matter was discussed in Grade 10. This theory is very important in understanding how gases behave.</para>
+    </section>
+    <section id="cid2">
+      <title>A review of the kinetic theory of matter</title>
+      <para id="id231083">The main assumptions of the kinetic theory of matter are as follows:</para>
+      <list id="id231086" display="block" list-type="bulleted">
+        <item id="uid1">Matter is made up of <emphasis effect="bold">particles</emphasis> (e.g. atoms or molecules)
+</item>
+        <item id="uid2">These particles are constantly moving because they have kinetic energy. The space in which the particles move is the <emphasis effect="bold">volume</emphasis> of the gas.
+</item>
+        <item id="uid3">There are <emphasis effect="bold">spaces</emphasis> between the particles
+</item>
+        <item id="uid4">There are <emphasis effect="bold">attractive forces</emphasis> between particles and these become stronger as the particles move closer together.
+</item>
+        <item id="uid5">All particles have <emphasis effect="bold">energy</emphasis>. The <emphasis effect="bold">temperature</emphasis> of a substance is a measure of the <emphasis effect="bold">average kinetic energy</emphasis> of the particles.
+</item>
+        <item id="uid6">A change in <emphasis effect="bold">phase</emphasis> may occur when the energy of the particles is changed.
+</item>
+      </list>
+      <para id="id231540">The kinetic theory applies to all matter, including gases. In a gas, the particles are far apart and have a high kinetic energy. They move around freely, colliding with each other or with the sides of the container if the gas is enclosed. The <emphasis effect="bold">pressure</emphasis> of a gas is a measure of the frequency of collisions of the gas particles with each other and with the sides of the container that they are in. If the gas is heated, the average kinetic energy of the gas particles will increase and if the temperature is decreased, so does their energy. If the energy of the particles decreases significantly, the gas liquifies. An <emphasis effect="bold">ideal gas</emphasis> is one that obeys all the assumptions of the kinetic theory of matter. A <emphasis effect="bold">real gas</emphasis> behaves like an ideal gas, except at high pressures and low temperatures. This will be discussed in more detail later in this chapter.</para>
+<definition id="fhsst_id63"><term id="termfhsst_id63"> Ideal gas </term> <meaning id="meaningfhsst_id63">
+      <para id="id231572">An ideal gas or perfect gas is a hypothetical gas that obeys all the assumptions of the kinetic theory of matter. In other words, an ideal gas would have identical particles of zero volume, with no intermolecular forces between them. The atoms or molecules in an ideal gas would also undergo elastic collisions with the walls of their container.
+ </para>
+      </meaning></definition>
+<definition id="fhsst_id67"><term id="termfhsst_id67"> Real gas </term> <meaning id="meaningfhsst_id67">
+      <para id="id231592">Real gases behave more or less like ideal gases except under certain conditions e.g. high pressures and low temperatures. </para>
+      </meaning></definition>
+      <para id="id231603">There are a number of laws that describe how gases behave. It will be easy to make sense of these laws if you understand the kinetic theory of gases that was discussed above.</para>
+    </section>
+    <section id="cid3">
+      <title>Boyle's Law: Pressure and volume of an enclosed gas</title>
+<section id="secfhsst_id74"><title> Demonstration : Boyle's Law
+      </title>
+      <para id="id231630">If you have ever tried to force in the plunger of a syringe or a bicycle pump while sealing the opening with a finger, you will have seen Boyle's Law in action! This will now be demonstrated using a 10 ml syringe.</para>
+      <para id="id231637">
+        <emphasis effect="bold">Aim:</emphasis>
+      </para>
+      
+      <para id="id231653">To demonstrate Boyle's law.</para>
+      <para id="id231656">
+        <emphasis effect="bold">Apparatus:</emphasis>
+      </para>
+      
+      <para id="id231671">You will only need a syringe for this demonstration.</para>
+      <para id="id231675">
+        <figure id="id231678">
+          <media id="id231678_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C5_001.png" id="id231678_onlineimage" width="145"><!-- NOTE: attribute width changes image size online (pixels). original width is 145. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C5_001.eps" id="id231678_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id231684">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id231691" display="block" list-type="enumerated">
+        <item id="uid7">Hold the syringe in one hand, and with the other pull the plunger out towards you so that the syringe is now full of air.
+</item>
+        <item id="uid8">Seal the opening of the syringe with your finger so that no air can escape the syringe.
+</item>
+        <item id="uid9">Slowly push the plunger in, and notice whether it becomes <emphasis effect="italics">more</emphasis> or <emphasis effect="italics">less</emphasis> difficult to push the plunger in.
+</item>
+      </list>
+      <para id="id231742">
+        <emphasis effect="bold">Results:</emphasis>
+      </para>
+      <para id="id231748">What did you notice when you pushed the plunger in? What happens to the <emphasis effect="bold">volume</emphasis> of air inside the syringe? Did it become <emphasis effect="italics">more</emphasis> or <emphasis effect="italics">less</emphasis> difficult to push the plunger in as the volume of the air in the syringe decreased? In other words, did you have to apply more or less <emphasis effect="bold">force</emphasis> to the plunger as the volume of air in the syringe decreased?</para>
+      <para id="id231777">As the volume of air in the syringe decreases, you have to apply more force to the plunger to keep pressing it down. The pressure of the gas inside the syringe pushing back on the plunger is greater. Another way of saying this is that as the volume of the gas in the syringe <emphasis effect="italics">decreases</emphasis>, the pressure of that gas <emphasis effect="italics">increases</emphasis>.</para>
+      <para id="id231795">
+        <emphasis effect="bold">Conclusion:</emphasis>
+      </para>
+      
+      <para id="id231811">If the volume of the gas decreases, the pressure of the gas increases. If the volume of the gas increases, the pressure decreases. These results support Boyle's law.
+ </para>
+</section>
+      <para id="id231821">In the previous demonstration, the volume of the gas decreased when the pressure increased, and the volume increased when the pressure decreased. This is called an <emphasis effect="bold">inverse relationship</emphasis>. The inverse relationship between pressure and volume is shown in <link target-id="uid10"/>.</para>
+      <figure id="uid10"><media id="uid10_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C5_002.png" id="uid10_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 595. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C5_002.eps" id="uid10_printimage"/>
+        </media>
+        
+      <caption>Graph showing the inverse relationship between pressure and volume</caption></figure>
+      <para id="id231848">Can you use the kinetic theory of gases to explain this inverse relationship between the pressure and volume of a gas? Let's think about it. If you decrease the volume of a gas, this means that the same number of gas particles are now going to come into contact with each other and with the sides of the container much more often. You may remember from earlier that we said that <emphasis effect="italics">pressure</emphasis> is a measure of the <emphasis effect="italics">frequency of collisions</emphasis> of gas particles with each other and with the sides of the container they are in. So, if the volume decreases, the pressure will naturally increase. The opposite is true if the volume of the gas is increased. Now, the gas particles collide less frequently and the pressure will decrease.</para>
+      <para id="id231867">It was an Englishman named Robert Boyle who was able to take very accurate measurements of gas pressures and volumes using high-quality vacuum pumps. He discovered the startlingly simple fact that the pressure and volume of a gas are not just vaguely inversely related, but are <emphasis effect="italics">exactly</emphasis><emphasis effect="bold">inversely proportional</emphasis>. This can be seen when a graph of pressure against the inverse of volume is plotted. When the values are plotted, the graph is a straight line. This relationship is shown in <link target-id="uid11"/>.</para>
+      <figure id="uid11"><media id="uid11_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C5_003.png" id="uid11_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 595. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C5_003.eps" id="uid11_printimage"/>
+        </media>
+        
+      <caption>The graph of pressure plotted against the inverse of volume, produces a straight line. This shows that pressure and volume are exactly inversely proportional.</caption></figure>
+<definition id="fhsst_id135"><term id="termfhsst_id135"> Boyle's Law </term> <meaning id="meaningfhsst_id135">
+      <para id="id231910">The pressure of a fixed quantity of gas is inversely proportional to the volume it occupies so long as the temperature remains constant. </para>
+      </meaning></definition>
+<note id="notfhsst_id138" type="tip"><emphasis effect="bold">Proportionality</emphasis>
+      
+      <para id="id231938">During this chapter, the terms <emphasis effect="bold">directly proportional</emphasis> and <emphasis effect="bold">inversely proportional</emphasis> will be used a lot, and it is important that you understand their meaning. Two quantities are said to be <emphasis effect="bold">proportional</emphasis> if they vary in such a way that one of the quantities is a constant multiple of the other, or if they have a constant ratio. We will look at two examples to show the difference between <emphasis effect="italics">directly proportional</emphasis> and <emphasis effect="italics">inversely proportional</emphasis>.</para>
+      <list id="id231970" display="block" list-type="enumerated">
+        <item id="uid12"><emphasis effect="italics">Directly proportional</emphasis>
+
+
+A car travels at a constant speed of 120 km/h. The time and the distance covered are shown in the table below.
+<table id="id231997" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Time</emphasis> (mins)</entry><entry><emphasis effect="bold">Distance</emphasis> (km)</entry></row><row><entry>10</entry><entry>20</entry></row><row><entry>20</entry><entry>40</entry></row><row><entry>30</entry><entry>60</entry></row><row><entry>40</entry><entry>80</entry></row></tbody></tgroup></table>
+What you will notice is that the two quantities shown are constant multiples of each other. If you divide each distance value by the time the car has been driving, you will always get 2. This shows that the values are proportional to each other. They are <emphasis effect="bold">directly proportional</emphasis> because both values are increasing. In other words, as the driving time increases, so does the distance covered. The same is true if the values decrease. The shorter the driving time, the smaller the distance covered. This relationship can be described mathematically as:
+<equation id="id232125"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>k</m:mi><m:mi>x</m:mi></m:mrow></m:math></equation>
+where y is distance, x is time and k is the <emphasis effect="italics">proportionality constant</emphasis>, which in this case is 2. Note that this is the equation for a straight line graph! The symbol <m:math overflow="scroll"><m:mo>∝</m:mo></m:math> is also used to show a directly proportional relationship.
+</item>
+        <item id="uid13"><emphasis effect="italics">Inversely proportional</emphasis>
+
+
+Two variables are inversely proportional if one of the variables is directly proportional to the multiplicative inverse of the other. In other words,
+<equation id="id232185"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>y</m:mi><m:mo>∝</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>x</m:mi></m:mfrac></m:mrow></m:math></equation>
+or
+<equation id="id232208"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>k</m:mi><m:mi>x</m:mi></m:mfrac></m:mrow></m:math></equation>
+This means that as one value gets bigger, the other value will get smaller. For example, the time taken for a journey is inversely proportional to the speed of travel. Look at the table below to check this for yourself. For this example, assume that the distance of the journey is 100 km.
+<table id="id232233" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Speed</emphasis> (km/h)</entry><entry><emphasis effect="bold">Time</emphasis> (mins)</entry></row><row><entry>100</entry><entry>60</entry></row><row><entry>80</entry><entry>75</entry></row><row><entry>60</entry><entry>100</entry></row><row><entry>40</entry><entry>150</entry></row></tbody></tgroup></table>
+According to our definition, the two variables are inversely proportional if one variable is <emphasis effect="italics">directly</emphasis> proportional to the <emphasis effect="italics">inverse</emphasis> of the other. In other words, if we divide one of the variables by the inverse of the other, we should always get the same number. For example,
+<equation id="id232364"><m:math overflow="scroll" mode="display"><m:mrow><m:mfrac><m:mn>100</m:mn><m:mrow><m:mn>1</m:mn><m:mo>/</m:mo><m:mn>60</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>6000</m:mn></m:mrow></m:math></equation>
+If you repeat this using the other values, you will find that the answer is always 6000. The variables are inversely proportional to each other.
+</item>
+      </list>
+</note>
+      <para id="id232398">We know now that the pressure of a gas is <emphasis effect="italics">inversely proportional</emphasis> to the volume of the gas, provided the temperature stays the same. We can write this relationship symbolically as</para>
+      <equation id="id232408">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mo>∝</m:mo>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mi>V</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id232428">This equation can also be written as follows:</para>
+      <equation id="id232432">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>k</m:mi>
+              <m:mi>V</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id232453">where <m:math overflow="scroll"><m:mi>k</m:mi></m:math> is a proportionality constant. If we rearrange this equation, we can say that:</para>
+      <equation id="id232466">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>p</m:mi>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>k</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id232483">This equation means that, assuming the temperature is constant, multiplying any pressure and volume values for a fixed amount of gas will always give the same value. So, for example, p<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math>V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = k and p<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = k, where the subscripts 1 and 2 refer to two pairs of pressure and volume readings for the same mass of gas at the same temperature.</para>
+      <para id="id232539">From this, we can then say that:</para>
+      <equation id="id232543">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>p</m:mi>
+              <m:mn>1</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>V</m:mi>
+              <m:mn>1</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:msub>
+              <m:mi>p</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>V</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+          </m:mrow>
+        </m:math>
+      </equation>
+<note id="notfhsst_id228" type="tip">In the gas equations, <m:math overflow="scroll"><m:mi>k</m:mi></m:math> is a "variable constant". This means that k is constant in a particular set of situations, but in two different sets of situations it has different constant values.
+</note>
+<note id="notfhsst_id230" type="tip">Remember that Boyle's Law requires two conditions. First, the amount of gas must stay constant. Clearly, if you let a little of the air escape from the container in which it is enclosed, the pressure of the gas will decrease along with the volume, and the inverse proportion relationship is broken. Second, the temperature must stay constant. Cooling or heating matter generally causes it to contract or expand, or the pressure to decrease or increase. In our original syringe demonstration, if you were to heat up the gas in the syringe, it would expand and require you to apply a greater force to keep the plunger at a given position. Again, the proportionality would be broken.</note>
+<section id="secfhsst_id231"><title> Investigation : Boyle's Law
+      </title>
+      <para id="id232624">Shown below are some of Boyle's original data. Note that pressure would originally have been measured using a <emphasis effect="italics">mercury manometer</emphasis> and the units for pressure would have been <emphasis effect="italics">millimetres mercury</emphasis> or mm Hg. However, to make things a bit easier for you, the pressure data have been converted to a unit that is more familiar. Note that the volume is given in terms of arbitrary marks (evenly made).</para>
+      <table id="id232644" summary="">
+        <tgroup cols="4">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Volume</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Pressure</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Volume</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Pressure</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>(graduation</entry>
+              <entry>(kPa)</entry>
+              <entry>(graduation</entry>
+              <entry>(kPa)</entry>
+            </row>
+            <row>
+              <entry>mark)</entry>
+              <entry/>
+              <entry>mark)</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>12</entry>
+              <entry>398</entry>
+              <entry>28</entry>
+              <entry>170</entry>
+            </row>
+            <row>
+              <entry>14</entry>
+              <entry>340</entry>
+              <entry>30</entry>
+              <entry>159</entry>
+            </row>
+            <row>
+              <entry>16</entry>
+              <entry>298</entry>
+              <entry>32</entry>
+              <entry>150</entry>
+            </row>
+            <row>
+              <entry>18</entry>
+              <entry>264</entry>
+              <entry>34</entry>
+              <entry>141</entry>
+            </row>
+            <row>
+              <entry>20</entry>
+              <entry>239</entry>
+              <entry>36</entry>
+              <entry>133</entry>
+            </row>
+            <row>
+              <entry>22</entry>
+              <entry>217</entry>
+              <entry>38</entry>
+              <entry>125</entry>
+            </row>
+            <row>
+              <entry>24</entry>
+              <entry>199</entry>
+              <entry>40</entry>
+              <entry>120</entry>
+            </row>
+            <row>
+              <entry>26</entry>
+              <entry>184</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <!--empty paragraphs get left behind.-->
+      <list id="id233068" display="block" list-type="enumerated">
+        <item id="uid14">Plot a graph of pressure (p) against volume (V). Volume will be on the x-axis and pressure on the y-axis. Describe the relationship that you see.
+</item>
+        <item id="uid15">Plot a graph of <m:math overflow="scroll"><m:mi>p</m:mi></m:math> against <m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>/</m:mo><m:mi>V</m:mi></m:mrow></m:math>. Describe the relationship that you see.
+</item>
+        <item id="uid16">Do your results support Boyle's Law? Explain your answer.
+</item>
+      </list>
+      
+</section>
+<note id="notfhsst_id325"><title> Interesting Fact </title> 
+Did you know that the mechanisms involved in <emphasis effect="italics">breathing</emphasis> also relate to Boyle's Law? Just below the lungs is a muscle called the <emphasis effect="bold">diaphragm</emphasis>. When a person breathes in, the diaphragm moves down and becomes more 'flattened' so that the volume of the lungs can increase. When the lung volume <emphasis effect="italics">increases</emphasis>, the pressure in the lungs <emphasis effect="italics">decreases</emphasis> (Boyle's law). Since air always moves from areas of high pressure to areas of lower pressure, air will now be drawn into the lungs because the air pressure <emphasis effect="italics">outside</emphasis> the body is higher than the pressure <emphasis effect="italics">in</emphasis> the lungs. The opposite process happens when a person breathes out. Now, the diaphragm moves upwards and causes the volume of the lungs to <emphasis effect="italics">decrease</emphasis>. The pressure in the lungs will <emphasis effect="italics">increase</emphasis>, and the air that was in the lungs will be forced out towards the lower air pressure outside the body.
+</note>
+<para id="eip-442"><figure id="id63458">
+            <media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/gas-properties-screenshot.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/gas-properties-screenshot.eps" id="id63458_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/ideal-gas/gas-properties_en.jnlp">run demo</link></para><exercise id="secfhsst_id328"><title> Boyle's Law 1 </title>
+      <problem id="probfhsst_id329">
+      <para id="id233213">A sample of helium occupies a volume of 160 <m:math overflow="scroll"><m:msup><m:mi> cm </m:mi><m:mn>3</m:mn></m:msup></m:math> at 100 kPa and 25 <m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C. What volume will it occupy if the pressure is adjusted to 80 kPa and if the temperature remains unchanged?</para>
+      
+      </problem>
+      <solution id="solfhsst_id333"> <list id="listfhsst_id333" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Write down all the information that you know about the gas. </label>
+      <para id="id233274">V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 160 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> and V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = ?</para>
+      <para id="id233317">p<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 100 kPa and p<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = 80 kPa</para>
+      </item>
+      
+      <item> <label> Use an appropriate gas law equation to calculate the unknown variable. </label>
+      <para id="id233367">Because the temperature of the gas stays the same, the following equation can be used:</para>
+      <equation id="id233371">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>p</m:mi>
+              <m:mn>1</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>V</m:mi>
+              <m:mn>1</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:msub>
+              <m:mi>p</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>V</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id233414">If the equation is rearranged, then</para>
+      <equation id="id233417">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>V</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>p</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Substitute the known values into the equation, making sure that the units for each variable are the <emphasis effect="italics">same</emphasis>. Calculate the unknown variable. </label>
+      <equation id="id233472">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>V</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>100</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>160</m:mn>
+              </m:mrow>
+              <m:mn>80</m:mn>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>200</m:mn>
+            <m:mi>c</m:mi>
+            <m:msup>
+              <m:mi>m</m:mi>
+              <m:mn>3</m:mn>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id233518">The volume occupied by the gas at a pressure of 80kPa, is 200 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math></para>
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id421"><title> Boyle's Law 2 </title>
+      <problem id="probfhsst_id422">
+      <para id="id233546">The pressure on a 2.5 l volume of gas is increased from 695 Pa to 755 Pa while a constant temperature is maintained. What is the volume of the gas under these pressure conditions?</para>
+      
+      </problem>
+      <solution id="solfhsst_id426"> <list id="listfhsst_id426" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Write down all the information that you know about the gas. </label>
+      <para id="id233592">V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 2.5 l and V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = ?</para>
+      <para id="id233622">p<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 695 Pa and p<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = 755 Pa</para>
+      </item> <item> <label> Choose a relevant gas law equation to calculate the unknown variable. </label>
+      <para id="id233656">At constant temperature,</para>
+      <equation id="id233660">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>p</m:mi>
+              <m:mn>1</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>V</m:mi>
+              <m:mn>1</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:msub>
+              <m:mi>p</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi>V</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id233701">Therefore,</para>
+      <equation id="id233705">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>V</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>p</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Substitute the known values into the equation, making sure that the units for each variable are the <emphasis effect="italics">same</emphasis>. Calculate the unknown variable. </label>
+      <equation id="id233760">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>V</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>695</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>2</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>5</m:mn>
+              </m:mrow>
+              <m:mn>755</m:mn>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>2</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>3</m:mn>
+            <m:mi>l</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+</item> </list> </solution>
+</exercise>
+<note id="notfhsst_id513" type="tip">
+      <para id="id233812">It is not necessary to convert to Standard International (SI) units in the examples we have used above. Changing pressure and volume into different units involves <emphasis effect="italics">multiplication</emphasis>. If you were to change the units in the above equation, this would involve multiplication on both sides of the equation, and so the conversions cancel each other out. However, although <emphasis effect="italics">SI</emphasis> units don't have to be used, you must make sure that for each variable you use the <emphasis effect="italics">same</emphasis> units throughout the equation. This is not true for some of the calculations we will do at a later stage, where SI units <emphasis effect="italics">must</emphasis> be used.</para></note>
+<section id="secfhsst_id515"><title> Boyle's Law
+      </title>
+      <list id="id233855" display="block" list-type="enumerated">
+        <item id="uid17">An unknown gas has an initial pressure of 150 kPa and a volume of 1 L. If the volume is increased to 1.5 L, what will the pressure now be?
+</item>
+        <item id="uid18">A bicycle pump contains 250 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> of air at a pressure of 90 kPa. If the air is compressed, the volume is reduced to 200 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>. What is the pressure of the air inside the pump?
+</item>
+        <item id="uid19">The air inside a syringe occupies a volume of 10 cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> and exerts a pressure of 100 kPa. If the end of the syringe is sealed and the plunger is pushed down, the pressure increases to 120 kPa. What is the volume of the air in the syringe?
+</item>
+        <item id="uid20">During an investigation to find the relationship between the pressure and volume of an enclosed gas at constant temperature, the following results were obtained.
+<table id="id233951" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Volume (cm<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>)</emphasis></entry><entry><emphasis effect="bold">Pressure (kPa)</emphasis></entry></row><row><entry>40</entry><entry>125.0</entry></row><row><entry>30</entry><entry>166.7</entry></row><row><entry>25</entry><entry>200.0</entry></row></tbody></tgroup></table><list id="id234241" display="block" list-type="enumerated"><item id="uid21">For the results given in the above table, plot a graph of <emphasis effect="bold">pressure</emphasis> (y-axis) against the <emphasis effect="bold">inverse of volume</emphasis> (x-axis).
+</item><item id="uid22">From the graph, deduce the relationship between the pressure and volume of an enclosed gas at constant temperature.
+</item><item id="uid23">Use the graph to predict what the volume of the gas would be at a pressure of 40 kPa. Show on your graph how you arrived at your answer.
+</item></list>
+(<emphasis effect="italics">IEB 2004 Paper 2</emphasis>)
+</item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid4">
+      <title>Charles' Law: Volume and Temperature of an enclosed gas</title>
+      <para id="id234326">Charles' law describes the relationship between the <emphasis effect="bold">volume</emphasis> and <emphasis effect="bold">temperature</emphasis> of a gas. The law was first published by Joseph Louis Gay-Lussac in 1802, but he referenced unpublished work by Jacques Charles from around 1787. This law states that at constant pressure, the volume of a given mass of an ideal gas increases or decreases by the same factor as its temperature (in kelvin) increases or decreases. Another way of saying this is that temperature and volume are <emphasis effect="bold">directly proportional</emphasis>.</para>
+<definition id="fhsst_id538"><term id="termfhsst_id538"> Charles' Law </term> <meaning id="meaningfhsst_id538">
+      <para id="id234356">The volume of an enclosed sample of gas is directly proportional to its absolute temperature provided the pressure is kept constant. </para>
+      </meaning></definition>
+<note id="notfhsst_id541"><title> Interesting Fact </title> Charles's Law is also known as Gay-Lussac's Law. Charles did not publish his work. Gay-Lussac later rediscovered this law and referenced Charles's work, but said that it was only by great luck that he knew of it and that his experiment was different.</note>
+<section id="secfhsst_id542"><title> Demonstration : Charles's Law
+      </title>
+      <para id="id234390">
+        <emphasis effect="bold">Aim:</emphasis>
+      </para>
+      
+      <para id="id234407">To demonstrate Charles's Law using simple materials.</para>
+      <para id="id234411">
+        <emphasis effect="bold">Apparatus:</emphasis>
+      </para>
+      <para id="id234420">glass bottle (e.g. empty glass coke bottle), balloon, bunsen burner, retort stand</para>
+      <para id="id234426">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id234435" display="block" list-type="enumerated">
+        <item id="uid24">Place the balloon over the opening of the empty bottle.
+</item>
+        <item id="uid25">Place the bottle on the retort stand over the bunsen burner and allow it to heat up. Observe what happens to the balloon. WARNING: Be careful when handling the heated bottle. You may need to wear gloves for protection.
+</item>
+      </list>
+      <para id="id234466">
+        <emphasis effect="bold">Results:</emphasis>
+      </para>
+      
+      <para id="id234480">You should see that the balloon starts to expand. As the air inside the bottle is heated, the pressure also increases, causing the volume to increase. Since the volume of the glass bottle can't increase, the air moves into the balloon, causing it to expand.</para>
+      <para id="id234486">
+        <emphasis effect="bold">Conclusion:</emphasis>
+      </para>
+      
+      <para id="id234502">The temperature and volume of the gas are directly related to each other. As one increases, so does the other.
+ </para>
+</section>
+      <para id="id234512">Mathematically, the relationship between temperature and pressure can be represented as follows:</para>
+      <equation id="id234517">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>V</m:mi>
+            <m:mo>∝</m:mo>
+            <m:mi>T</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id234533">or</para>
+      <equation id="id234538">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>k</m:mi>
+            <m:mi>T</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id234557">If the equation is rearranged, then...</para>
+      <equation id="id234560">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mi>V</m:mi>
+              <m:mi>T</m:mi>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mi>k</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id234580">and, following the same logic that was used for Boyle's law:</para>
+      <equation id="id234584">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id234630">The equation relating volume and temperature produces a straight line graph (refer back to the notes on proportionality if this is unclear). This relationship is shown in <link target-id="uid26"/>.</para>
+      <figure id="uid26"><media id="uid26_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C5_004.png" id="uid26_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 595. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C5_004.eps" id="uid26_printimage"/>
+        </media>
+        
+      <caption>The volume of a gas is directly proportional to its temperature, provided the pressure of the gas is constant.</caption></figure>
+      <para id="id234651">However, if this graph is plotted on a <emphasis effect="bold">celsius</emphasis> temperature scale, the zero point of temperature doesn't correspond to the zero point of volume. When the volume is zero, the temperature is actually -273.15<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C (<link target-id="uid27"/>).</para>
+      <figure id="uid27"><media id="uid27_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C5_005.png" id="uid27_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 595. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C5_005.eps" id="uid27_printimage"/>
+        </media>
+        
+      <caption>The relationship between volume and temperature, shown on a Celsius temperature scale.</caption></figure>
+      <para id="id234691">A new temperature scale, the <emphasis effect="bold">Kelvin scale</emphasis> must be used instead. Since zero on the Celsius scale corresponds with a Kelvin temperature of -273.15<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>∘</m:mo></m:mrow></m:msup></m:math>C, it can be said that:</para>
+      <para id="id234722">Kelvin temperature (T) = Celsius temperature (t) + 273.15</para>
+      <para id="id234728">At school level, you can simplify this slightly and convert between the two temperature scales as follows:</para>
+      <para id="id234732">T = t + 273</para>
+      <para id="id234738">or</para>
+      <para id="id234744">t = T - 273</para>
+      <para id="id234749">Can you explain Charles' law in terms of the kinetic theory of gases? When the temperature of a gas increases, so does the average speed of its molecules. The molecules collide with the walls of the container more often and with greater impact. These collisions will push back the walls, so that the gas occupies a greater volume than it did at the start. We saw this in the first demonstration. Because the glass bottle couldn't expand, the gas pushed out the balloon instead.</para>
+<section id="secfhsst_id659"><title> Charles's law
+      </title>
+      <para id="id234769">The table below gives the temperature (in <m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>∘</m:mo></m:mrow></m:msup></m:math>C) of a number of gases under different volumes at a constant pressure.</para>
+      <table id="id234797" summary="">
+        <tgroup cols="4">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Volume (l)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">He</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">N<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>0</entry>
+              <entry>-272.4</entry>
+              <entry>-271.8</entry>
+              <entry>-275.0</entry>
+            </row>
+            <row>
+              <entry>0.25</entry>
+              <entry>-245.5</entry>
+              <entry>-192.4</entry>
+              <entry>-123.5</entry>
+            </row>
+            <row>
+              <entry>0.5</entry>
+              <entry>-218.6</entry>
+              <entry>-113.1</entry>
+              <entry>28.1</entry>
+            </row>
+            <row>
+              <entry>0.75</entry>
+              <entry>-191.8</entry>
+              <entry>-33.7</entry>
+              <entry>179.6</entry>
+            </row>
+            <row>
+              <entry>1.0</entry>
+              <entry>-164.9</entry>
+              <entry>45.7</entry>
+              <entry>331.1</entry>
+            </row>
+            <row>
+              <entry>1.5</entry>
+              <entry>-111.1</entry>
+              <entry>204.4</entry>
+              <entry>634.1</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>-57.4</entry>
+              <entry>363.1</entry>
+              <entry>937.2</entry>
+            </row>
+            <row>
+              <entry>2.5</entry>
+              <entry>-3.6</entry>
+              <entry>521.8</entry>
+              <entry>1240.2</entry>
+            </row>
+            <row>
+              <entry>3.0</entry>
+              <entry>50.2</entry>
+              <entry>680.6</entry>
+              <entry>1543.2</entry>
+            </row>
+            <row>
+              <entry>3.5</entry>
+              <entry>103.9</entry>
+              <entry>839.3</entry>
+              <entry>1846.2</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <!--empty paragraphs get left behind.-->
+      <list id="id235255" display="block" list-type="enumerated">
+        <item id="uid28">On the same set of axes, draw graphs to show the relationship between temperature and volume for each of the gases.
+</item>
+        <item id="uid29">Describe the relationship you observe.
+</item>
+        <item id="uid30">If you extrapolate the graphs (in other words, extend the graph line even though you may not have the exact data points), at what temperature do they intersect?
+</item>
+        <item id="uid31">What is significant about this temperature?
+</item>
+      </list>
+      
+</section>
+<para id="eip-734">In the <link class="phetsim" window="new" url="http://phet.colorado.edu/sims/ideal-gas/gas-properties_en.jnlp">simulation</link> you can verify Charle's law by holding the pressure constant and seeing what happens as you vary the volume and temperature.</para><exercise id="secfhsst_id755"><title> Charles's Law 1 </title>
+      <problem id="probfhsst_id756">
+      <para id="id235332">Ammonium chloride and calcium hydroxide are allowed to react. The ammonia that is released in the reaction is collected in a gas syringe and sealed in. This gas is allowed to come to room temperature which is 32<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C. The volume of the ammonia is found to be 122 ml. It is now placed in a water bath set at 7<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C. What will be the volume reading after the syringe has been left in the bath for a some time (e.g. 1 hour) (assume the plunger moves completely freely)?</para>
+      
+      </problem>
+      <solution id="solfhsst_id760"> <list id="listfhsst_id760" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Write down all the information that you know about the gas. </label>
+      <para id="id235408">V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 122 ml and V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = ?</para>
+      <para id="id235438">T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 32<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C and T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = 7<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C</para>
+      </item> <item> <label> Convert the known values to SI units if necessary. </label>
+      <para id="id235498">Here, temperature must be converted into Kelvin, therefore:</para>
+      <para id="id235502">T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 32 + 273 = 305 K</para>
+      <para id="id235518">T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = 7 + 273 = 280 K</para>
+      </item> <item> <label> Choose a relevant gas law equation that will allow you to calculate the unknown variable. </label>
+      <equation id="id235539">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id235585">Therefore,</para>
+      <equation id="id235588">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>V</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>×</m:mo>
+                <m:msub>
+                  <m:mi>T</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Substitute the known values into the equation. Calculate the unknown variable. </label>
+      <equation id="id235640">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>V</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>122</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>280</m:mn>
+              </m:mrow>
+              <m:mn>305</m:mn>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>112</m:mn>
+            <m:mi>m</m:mi>
+            <m:mi>l</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+</item> </list> </solution>
+</exercise>
+<note id="notfhsst_id852" type="tip">
+      <para id="id235685">Note that here the temperature must be converted to Kelvin (SI) since the change from degrees Celcius involves addition, not multiplication by a fixed conversion ratio (as is the case with pressure and volume.)</para></note>
+<exercise id="secfhsst_id854"><title> Charles's Law 2 </title>
+      <problem id="probfhsst_id855">
+      <para id="id235703">At a temperature of 298 K, a certain amount of CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> gas occupies a volume of 6 l. What volume will the gas occupy if its temperature is reduced to 273 K?</para>
+      
+      </problem>
+      <solution id="solfhsst_id859"> <list id="listfhsst_id859" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Write down all the information that you know about the gas. </label>
+      <para id="id235762">V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 6 l and V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = ?</para>
+      <para id="id235792">T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> = 298 K and T<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> = 273 K</para>
+      </item> <item> <label> Convert the known values to SI units if necessary. </label>
+      <para id="id235826">Temperature data is already in Kelvin, and so no conversions are necessary.</para>
+      </item> <item> <label> Choose a relevant gas law equation that will allow you to calculate the unknown variable. </label>
+      <equation id="id235834">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id235880">Therefore,</para>
+      <equation id="id235884">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>V</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>×</m:mo>
+                <m:msub>
+                  <m:mi>T</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mrow>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Substitute the known values into the equation. Calculate the unknown variable. </label>
+      <equation id="id235935">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>V</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>6</m:mn>
+                <m:mo>×</m:mo>
+                <m:mn>273</m:mn>
+              </m:mrow>
+              <m:mn>298</m:mn>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>5</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>5</m:mn>
+            <m:mi>l</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+</item> </list> </solution>
+</exercise>
+    </section>
+    <section id="cid5">
+      <title>The relationship between temperature and pressure</title>
+      <para id="id235987">The pressure of a gas is directly proportional to its temperature, if the volume is kept constant (<link target-id="uid32"/>). When the temperature of a gas increases, so does the energy of the particles. This causes them to move more rapidly and to collide with each other and with the side of the container more often. Since pressure is a measure of these collisions, the pressure of the gas increases with an increase in temperature. The pressure of the gas will decrease if its temperature decreases.</para>
+      <figure id="uid32"><media id="uid32_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C5_006.png" id="uid32_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 595. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C5_006.eps" id="uid32_printimage"/>
+        </media>
+        
+      <caption>The relationship between the temperature and pressure of a gas</caption></figure>
+      <para id="id236012">In the same way that we have done for the other gas laws, we can describe the relationship between temperature and pressure using symbols, as follows:</para>
+      <para id="id236016">T <m:math overflow="scroll"><m:mo>∝</m:mo></m:math> p, therefore p = kT</para>
+      <para id="id236032">We can also say that:</para>
+      <equation id="id236035">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mi>p</m:mi>
+              <m:mi>T</m:mi>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mi>k</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id236056">and that, provided the <emphasis effect="italics">amount</emphasis> of gas stays the same...</para>
+      <equation id="id236064">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>p</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>T</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+<section id="secfhsst_id1004"><title> More gas laws
+      </title>
+      <list id="id236123" display="block" list-type="enumerated">
+        <item id="uid33">A gas of unknown volume has a temperature of 14<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C. When the temperature of the gas is increased to 100<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C, the volume is found to be 5.5 L. What was the initial volume of the gas?
+</item>
+        <item id="uid34">A gas has an initial volume of 2600 mL and a temperature of 350 K.
+<list id="id236179" display="block" list-type="enumerated"><item id="uid35">If the volume is reduced to 1500 mL, what will the temperature of the gas be in Kelvin?
+</item><item id="uid36">Has the temperature <emphasis effect="italics">increased</emphasis> or <emphasis effect="italics">decreased</emphasis>?
+</item><item id="uid37">Explain this change, using the kinetic theory of matter.
+</item></list></item>
+        <item id="uid38">A cylinder of propane gas at a temperature of 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C exerts a pressure of 8 atm. When a cylinder has been placed in sunlight, its temperature increases to 25<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C. What is the pressure of the gas inside the cylinder at this temperature?
+</item>
+      </list>
+      
+</section>
+    </section>
+
+  </content>
+</document>

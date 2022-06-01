@@ -1,0 +1,218 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Half-life</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38943</md:content-id>
+  <md:title>Half-life</md:title>
+  <md:abstract/>
+  <md:uuid>7c1ff533-9cf1-4e02-8ba3-b586b3c69b73</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>The 'half-life' of an element</title>
+<definition id="fhsst_id347"><term id="termfhsst_id347"> Half-life </term> <meaning id="meaningfhsst_id347">
+      <para id="id62504">The half-life of an element is the time it takes for half the atoms of a radioisotope to decay into other atoms. </para>
+      </meaning></definition>
+      <para id="id62516"><link target-id="uid28"/> gives some examples of the half-lives of different elements.</para>
+      <table id="uid28" summary="">
+        <tgroup cols="3">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Radioisotope</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Chemical symbol</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Half-life</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Polonium-212</entry>
+              <entry>Po-212</entry>
+              <entry>0.16 seconds</entry>
+            </row>
+            <row>
+              <entry>Sodium-24</entry>
+              <entry>Na-24</entry>
+              <entry>15 hours</entry>
+            </row>
+            <row>
+              <entry>Strontium-90</entry>
+              <entry>Sr-90</entry>
+              <entry>28 days</entry>
+            </row>
+            <row>
+              <entry>Cobalt-60</entry>
+              <entry>Co-60</entry>
+              <entry>5.3 years</entry>
+            </row>
+            <row>
+              <entry>Caesium-137</entry>
+              <entry>Cs-137</entry>
+              <entry>30 years</entry>
+            </row>
+            <row>
+              <entry>Carbon-14</entry>
+              <entry>C-14</entry>
+              <entry>5 760 years</entry>
+            </row>
+            <row>
+              <entry>Calcium-41</entry>
+              <entry>Ca-41</entry>
+              <entry>100 000 years</entry>
+            </row>
+            <row>
+              <entry>Beryllium-10</entry>
+              <entry>Be-10</entry>
+              <entry>2 700 000 years</entry>
+            </row>
+            <row>
+              <entry>Uranium-235</entry>
+              <entry>U-235</entry>
+              <entry>7.1 billion years</entry>
+            </row>
+          </tbody>
+        </tgroup>
+        <caption>Table showing the half-life of a number of elements</caption>
+      </table>
+      <para id="id64793">So, in the case of Sr-90, it will take 28 days for half of the atoms to decay into other atoms. It will take another 28 days for half of the remaining atoms to decay. Let's assume that we have a sample of strontium that weighs 8g. After the first 28 days there will be:</para>
+      <para id="id64799">1/2 x 8 = 4 g Sr-90 left</para>
+      <para id="id64805">After 56 days, there will be:</para>
+      <para id="id64808">1/2 x 4 g = 2 g Sr-90 left</para>
+      <para id="id64814">After 84 days, there will be:</para>
+      <para id="id64818">1/2 x 2 g = 1 g Sr-90 left</para>
+      <para id="id64824">If we convert these amounts to a <emphasis effect="italics">fraction</emphasis> of the original sample, then after 28 days 1/2 of the sample remains undecayed. After 56 days 1/4 is undecayed and after 84 days, 1/8 and so on.</para>
+<para id="eip-130"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://www.youtube.com/v/9REPnibO4IQ&amp;rel=0">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="secfhsst_id421"><title> Group work : Understanding half-life
+      </title>
+      <para id="id64847">
+        <emphasis effect="italics">Work in groups of 4-5</emphasis>
+      </para>
+      <para id="id64856">
+        <emphasis effect="bold">You will need:</emphasis>
+      </para>
+      <para id="id64863">16 sheets of A4 paper per group, scissors, 2 boxes per group, a marking pen and timer/stopwatch.</para>
+      <para id="id64867">
+        <emphasis effect="bold">What to do:</emphasis>
+      </para>
+      <para id="id64876"/>
+      <list id="id64884" display="block" list-type="bulleted">
+        <item id="uid29">Your group should have two boxes. Label one 'decayed' and the other 'radioactive'.
+</item>
+        <item id="uid30">Take the A4 pages and cut each into 4 pieces of the same size. You should now have 64 pieces of paper. Stack these neatly and place them in the 'radioactive' box. The paper is going to represent some radioactive material.
+</item>
+        <item id="uid31">Set the timer for one minute. After one minute, remove half the sheets of paper from the radioactive box and put them in the 'decayed' box.
+</item>
+        <item id="uid32">Set the timer for another minute and repeat the previous step, again removing half the pieces of paper that are left in the radioactive box and putting them in the decayed box.
+</item>
+        <item id="uid33">Repeat this process until 8 minutes have passed. You may need to start cutting your pieces of paper into even smaller pieces as you progress.
+</item>
+      </list>
+      <para id="id64954">
+        <emphasis effect="bold">Questions:</emphasis>
+      </para>
+      <list id="id64961" display="block" list-type="enumerated">
+        <item id="uid34">How many pages were left in the radioactive box after...
+<list id="id64977" display="block" list-type="enumerated"><item id="uid35">1 minute
+</item><item id="uid36">3 minutes
+</item><item id="uid37">5 minutes
+</item></list></item>
+        <item id="uid38">What percentage (%) of the pages were left in the radioactive box after...
+<list id="id65030" display="block" list-type="enumerated"><item id="uid39">2 minutes
+</item><item id="uid40">4 minutes
+</item></list></item>
+        <item id="uid41">After how many minutes is there 1/128 of radioactive material remaining?
+</item>
+        <item id="uid42">What is the half-life of the 'radioactive' material in this exercise?
+</item>
+      </list>
+      
+</section>
+<exercise id="secfhsst_id466"><title> Half-life 1
+      </title>
+      <problem id="probfhsst_id468">
+      <para id="id65113">A 100 g sample of Cs-137 is allowed to decay. Calculate the mass of Cs-137 that will be left after 90 years</para>
+      
+      </problem>
+      <solution id="solfhsst_id472"> <list id="listfhsst_id472" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+    
+      <item> <label> You need to know the half-life of Cs-137 </label>
+      <para id="id65159">The half-life of Cs-137 is 30 years.</para>
+      </item> <item> <label> Determine how many times the quantity of sample will be halved in 90 years. </label>
+      <para id="id65167">If the half-life of Cs-137 is 30 years, and the sample is left to decay for 90 years, then the number of times the quantity of sample will be halved is 90/30 = 3.</para>
+      </item> <item> <label> Calculate the quantity that will be left by halving the mass of Cs-137 three times </label>
+      <para id="id65176">1. After 30 years, the mass left is 100 g <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 1/2 = 50 g</para>
+      <para id="id65189">2. After 60 years, the mass left is 50 g <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 1/2 = 25 g</para>
+      <para id="id65202">3. After 90 years, the mass left is 25 g <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 1/2 = 12.5 g</para>
+      <para id="id65215">Note that a quicker way to do this calculation is as follows:</para>
+      <para id="id65220">Mass left after 90 years = (1/2)<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math><m:math overflow="scroll"><m:mo>×</m:mo></m:math> 100 g = 12.5 g (The exponent is the number of times the quantity is halved)</para>
+  </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id486"><title> Half-life 2
+      </title>
+      <problem id="probfhsst_id488">
+      <para id="id65265">An 80 g sample of Po-212 decays until only 10 g is left. How long did it take for this decay to take place?</para>
+      
+      </problem>
+      <solution id="solfhsst_id492"> <list id="listfhsst_id492" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Calculate the fraction of the original sample that is left after decay </label>
+      <para id="id65310">Fraction remaining = 10 g/80 g = 1/8</para>
+      </item> <item> <label> Calculate how many half-life periods of decay (x) must have taken place for 1/8 of the original sample to be left </label>
+      <equation id="id65319">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mfrac>
+                  <m:mn>1</m:mn>
+                  <m:mn>2</m:mn>
+                </m:mfrac>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mi>x</m:mi>
+            </m:msup>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mn>8</m:mn>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id65355">Therefore, x = 3</para>
+      </item> <item> <label> Use the half-life of Po-212 to calculate how long the sample was left to decay </label>
+      <para id="id65362">The half-life of Po-212 is 0.16 seconds. Therefore if there were three periods of decay, then the total time is 0.16 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 3. The time that the sample was left to decay is 0.48 seconds.</para>
+</item> </list> </solution>
+</exercise>
+<section id="secfhsst_id524"><title> Looking at half life
+      </title>
+      <list id="id65389" display="block" list-type="enumerated">
+        <item id="uid43">Imagine that you have 100 g of Na-24.
+<list id="id65405" display="block" list-type="enumerated"><item id="uid44">What is the half life of Na-24?
+</item><item id="uid45">How much of this isotope will be left after 45 hours?
+</item><item id="uid46">What percentage of the original sample will be left after 60 hours?
+</item></list></item>
+        <item id="uid47">A sample of Sr-90 is allowed to decay. After 84 days, 10 g of the sample remains.
+<list id="id65459" display="block" list-type="enumerated"><item id="uid48">What is the half life of Sr-90?
+</item><item id="uid49">How much Sr-90 was in the original sample?
+</item><item id="uid50">How much Sr-90 will be left after 112 days?
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+
+  </content>
+</document>

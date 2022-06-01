@@ -1,0 +1,206 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Telescopes and microscopes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39029</md:content-id>
+  <md:title>Telescopes and microscopes</md:title>
+  <md:abstract/>
+  <md:uuid>19822cd1-3cfa-44a0-96d7-3a9dc4fe0466</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Telescopes</title>
+      <para id="id347737">We have seen how a simple lens can be used to correct eyesight. Lenses and mirrors are also combined to magnify (or make bigger) objects that are far away.</para>
+      <para id="id347741">Telescopes use combinations of lenses to gather and focus light. Telescopes collect light from objects that are large but far away, like planets and galaxies. For this reason, telescopes are the tools of astronomers. <emphasis effect="bold">Astronomy</emphasis> is the study of objects outside the Earth, like stars, planets, galaxies, comets, and asteroids.</para>
+      <para id="id347753">Usually the object viewed with a telescope is very far away. Objects closer to Earth, such as the moon, appear larger, and with a powerful enough telescope, we are able to see craters on the Moon's surface. Objects which are much further, such as stars, appear as points of light. Even with the most powerful telescopes currently built, we are unable to see details on the surfaces of stars.</para>
+      <para id="id347760">There are many kinds of telescopes, but we will look at two basic types: reflecting and refracting.</para>
+      <section id="uid126">
+        <title>Refracting Telescopes</title>
+        <para id="id347773">A <emphasis effect="bold">refracting telescope</emphasis> like the one pictured in <link target-id="uid127"/> uses two convex lenses to enlarge an image. The refracting telescope has a large primary lens with a long focal length to gather a lot of light. The lenses of a refracting telescope share a focal point. This ensures that parallel rays entering the telescope are again parallel when they reach your eye.</para>
+        <figure id="uid127">
+          <media id="uid127_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C3_037.png" id="uid127_onlineimage" width="763"><!-- NOTE: attribute width changes image size online (pixels). original width is 763. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_037.eps" id="uid127_printimage"/>
+          </media>
+          <caption>Layout of lenses in a refracting telescope</caption>
+        </figure>
+      </section>
+      <section id="uid128">
+        <title>Reflecting Telescopes</title>
+        <para id="id347812">Some telescopes use mirrors as well as lenses and are called reflecting telescopes. Specifically, a <emphasis effect="bold">reflecting telescope</emphasis> uses a convex lens and two mirrors to make an object appear larger. (<link target-id="uid129"/>.)</para>
+        <para id="id347828">Light is collected by the primary mirror, which is large and concave. Parallel rays traveling toward this mirror are reflected and focused to a point. The secondary plane mirror is placed within the focal length of the primary mirror. This changes the direction of the light. A final eyepiece lens diverges the rays so that they are parallel when they reach your eye.</para>
+        <figure id="uid129">
+          <media id="uid129_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C3_038.png" id="uid129_onlineimage" width="757"><!-- NOTE: attribute width changes image size online (pixels). original width is 757. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_038.eps" id="uid129_printimage"/>
+          </media>
+          <caption>Lenses and mirrors in a reflecting telescope.</caption>
+        </figure>
+      </section>
+      <section id="uid130">
+        <title>Southern African Large Telescope</title>
+        <para id="id347856">The Southern African Large Telescope (SALT) is the largest single optical telescope in the southern hemisphere, with a hexagonal mirror array 11 metres across. SALT is located in Sutherland in the Northern Cape. SALT is able to record images of distant stars, galaxies and quasars a billion times too faint to be seen with the unaided eye. This is equivalent to a person being able to see a candle flame on the moon.</para>
+        <para id="id347866">SALT was completed in 2005 and is a truly international initiative, because the money to build it came from South Africa, the United States, Germany, Poland, the United Kingdom and New Zealand.</para>
+<section id="secfhsst_id1559"><title> SALT : Investigate what the South African Astronomical Observatory (SAAO) does.</title> <para id="uid7983274">SALT is part of SAAO. Write your investigation as a short 5-page report. Include images of the instrumentation used. </para>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid6">
+      <title>Microscopes</title>
+      <para id="id347907">We have seen how lenses and mirrors are combined to magnify objects that are far away using a telescope. Lenses can also be used to make very small objects appear bigger.</para>
+      <para id="id347914"><link target-id="uid43"/> shows that when an object is placed at a distance less than <m:math overflow="scroll"><m:mi>f</m:mi></m:math> from the lens, the image formed is virtual, upright and is larger than the object. This set-up is a simple magnifier.</para>
+      <para id="id347936">If you want to look at something very small, two lenses may work better than one. Microscopes and telescopes often use two lenses to make an image large enough to see.</para>
+      <para id="id347943">A <emphasis effect="bold">compound microscope</emphasis> uses two lenses to achieve high magnification (<link target-id="uid131"/>). Both lenses are convex, or converging. Light from the object first passes through the <emphasis effect="bold">objective lens</emphasis>. The lens that you look through is called the <emphasis effect="bold">eyepiece</emphasis>. The focus of the system can be adjusted by changing the length of the tube between the lenses.</para>
+      <figure id="uid131">
+        <media id="uid131_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C3_039.png" id="uid131_onlineimage" width="608"><!-- NOTE: attribute width changes image size online (pixels). original width is 608. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_039.eps" id="uid131_printimage"/>
+        </media>
+        <caption>Compound microscope</caption>
+      </figure>
+      <para id="id347984">
+        <emphasis effect="bold">Drawing a Ray Diagram for a Two-Lens System</emphasis>
+      </para>
+      <para id="id347993">You already have all the tools to analyze a two-lens system. Just consider one lens at a time.</para>
+      <list id="id348002" display="block" list-type="enumerated">
+        <item id="uid132">Use ray tracing or the lens equation to find the image for the first lens.
+</item>
+        <item id="uid133">Use the image of the first lens as the object of the second lens.
+</item>
+        <item id="uid134">To find the magnification, multiply: <m:math overflow="scroll"><m:mrow><m:msub><m:mi>m</m:mi><m:mrow><m:mi>t</m:mi><m:mi>o</m:mi><m:mi>t</m:mi><m:mi>a</m:mi><m:mi>l</m:mi></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mi>m</m:mi><m:mn>1</m:mn></m:msub><m:mo>×</m:mo><m:msub><m:mi>m</m:mi><m:mn>2</m:mn></m:msub><m:mo>×</m:mo><m:msub><m:mi>m</m:mi><m:mn>3</m:mn></m:msub><m:mo>×</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo></m:mrow></m:math></item>
+      </list>
+<exercise id="secfhsst_id1588"><title> The Compound Microscope </title>
+      <problem id="probfhsst_id1589">
+      <para id="id348130">A compound microscope consists of two convex lenses. The eyepiece has a focal length of 10 cm. The objective lens has a focal length of 6 cm. The two lenses are 30 cm apart. A 2 cm-tall object is placed 8 cm from the objective lens.</para>
+      <list id="id348140" display="block" list-type="enumerated">
+        <item id="uid135">Where is the final image?
+</item>
+        <item id="uid136">Is the final image real or virtual?
+</item>
+      </list>
+      
+      </problem>
+      <solution id="solfhsst_id1599"> 
+ <para id="id348195">We can use ray tracing to follow light rays through the microscope, one lens at a time.</para>
+<list id="listfhsst_id1599" list-type="enumerated" number-style="arabic" class="stepwise">
+     
+      <item> <label> Set up the system </label>
+      <para id="id348210">To prepare to trace the light rays, make a diagram. In the diagram here, we place the image on the left side of the microscope. Since the light will pass through the objective lens first, we'll call this Lens 1. The eyepiece will be called Lens 2. Be sure to include the focal points of both lenses in your diagram.</para>
+      <figure id="uid137">
+        <media id="uid137_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C3_040.png" id="uid137_onlineimage" width="711"><!-- NOTE: attribute width changes image size online (pixels). original width is 711. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_040.eps" id="uid137_printimage"/>
+        </media>
+      </figure>
+      </item> <item> <label> Find the image for the objective lens. </label>
+      <figure id="uid138">
+        <media id="uid138_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C3_041.png" id="uid138_onlineimage" width="290"><!-- NOTE: attribute width changes image size online (pixels). original width is 290. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_041.eps" id="uid138_printimage"/>
+        </media>
+      </figure>
+      </item> <item> <label> Find the image for the eyepiece. </label>
+      <para id="id348248">The image we just found becomes the object for the second lens.</para>
+      <para id="id348254">
+        <figure id="id348258">
+          <media id="id348258_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C3_042.png" id="id348258_onlineimage" width="290"><!-- NOTE: attribute width changes image size online (pixels). original width is 290. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_042.eps" id="id348258_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+      </item> </list> </solution>
+</exercise>
+    </section>
+    <para id="eip-177"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=lenses-100512053246-phpapp02&amp;stripped_title=lenses-4065280&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid7">
+      <title>Summary</title>
+      <list id="id348296" display="block" list-type="enumerated">
+        <item id="uid139">A lens is any transparent material that is shaped in such a way that it will converge parallel incident rays to a point or diverge incident rays from a point.
+</item>
+        <item id="uid140">Converging lenses are thicker in the middle than on the edge and will bend incoming light rays towards the principal axis.
+</item>
+        <item id="uid141">Diverging lenses are thinner in the middle than on the edge and will bend incoming light rays away from the principal axis.
+</item>
+        <item id="uid142">The principal axis of a lens is the horizontal line through the centre of the lens.
+</item>
+        <item id="uid143">The centre of the lens is called the optical centre.
+</item>
+        <item id="uid144">The focus or focal point is a point on the principal axis where parallel rays converge through or diverge from.
+</item>
+        <item id="uid145">The focal length is the distance between the focus and the optical centre.
+</item>
+        <item id="uid146">Ray diagrams are used to determine the position and height of an image formed by a lens. The properties of images formed by converging and diverging lenses are summarised in <link target-id="uid87"/>.
+</item>
+        <item id="uid147">The human eye consists of a lens system that focuses images on the retina where the optic nerve transfers the messages to the brain.
+</item>
+        <item id="uid148">Defects of vision include short-sightedness, long-sightedness and astigmatism.
+</item>
+        <item id="uid149">Massive astronomical bodies, such as galaxies, act as gravitational lenses that can change the apparent positions of the images of stars.
+</item>
+        <item id="uid150">Microscopes and telescopes use systems of lenses to create magnified images of very small or very distant objects.
+</item>
+      </list>
+    </section>
+    <section id="cid8">
+      <title>Exercises</title>
+      <list id="id348499" display="block" list-type="enumerated">
+        <item id="uid151">Select the correct answer from the options given:
+<list id="id348517" display="block" list-type="enumerated"><item id="uid152">A <m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> (<emphasis effect="italics">convex/concave</emphasis>) lens is thicker in the center than on the edges.
+</item><item id="uid153">When used individually, a (<emphasis effect="italics">diverging/converging</emphasis>) lens usually forms real images.
+</item><item id="uid154">When formed by a single lens, a <m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> (<emphasis effect="italics">real/virtual</emphasis>) image is always inverted.
+</item><item id="uid155">When formed by a single lens, a <m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> (<emphasis effect="italics">real/virtual</emphasis>) image is always upright.
+</item><item id="uid156">Virtual images formed by converging lenses are <m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> (<emphasis effect="italics">bigger/the same size/smaller</emphasis>) compared to the object.
+</item><item id="uid157">A <m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> (<emphasis effect="italics">real/virtual</emphasis>) image can be projected onto a screen.
+</item><item id="uid158">A <m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> (<emphasis effect="italics">real/virtual</emphasis>) image is said to be "trapped" in the lens.
+</item><item id="uid159">A ray that starts from the top of an object and runs parallel to the axis of the lens, would then pass through the <m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> (<emphasis effect="italics">principal focus of the lens/center of the lens/secondary focus of the lens</emphasis>).
+</item><item id="uid160">A ray that starts from the top of an object and passes through the <m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> (<emphasis effect="italics">principal focus of the lens/center of the lens/secondary focus of the lens</emphasis>) would leave the lens running parallel to its axis.
+</item><item id="uid161">For a converging lens, its <m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> (<emphasis effect="italics">principal focus/center/secondary focus</emphasis>) is located on the same side of the lens as the object.
+</item><item id="uid162">After passing through a lens, rays of light traveling parallel to a lens' axis are refracted to the lens' <m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> (<emphasis effect="italics">principal focus/center/secondary focus</emphasis>).
+</item><item id="uid163">Real images are formed by <m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> (<emphasis effect="italics">converging/parallel/diverging</emphasis>) rays of light that have passed through a lens.
+</item><item id="uid164">Virtual images are formed by <m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> (<emphasis effect="italics">converging/parallel/diverging</emphasis>) rays of light that have passed through a lens.
+</item><item id="uid165">Images which are closer to the lens than the object are <m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> (<emphasis effect="italics">bigger/the same size/smaller</emphasis>) than the object.
+</item><item id="uid166"><m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> (<emphasis effect="italics">Real/Virtual</emphasis>) images are located on the same side of the lens as the object - that is, by looking in one direction, the observer can see both the image and the object.
+</item><item id="uid167"><m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> (<emphasis effect="italics">Real/Virtual</emphasis>) images are located on the opposite side of the lens as the object.
+</item><item id="uid168">When an object is located greater than two focal lengths in front of a converging lens, the image it produces will be <m:math overflow="scroll"><m:mrow><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo><m:mo>...</m:mo></m:mrow></m:math> (<emphasis effect="italics">real and enlarged/virtual and enlarged/real and reduced/virtual and reduced</emphasis>).
+</item></list></item>
+        <item id="uid169">An object 1 cm high is placed 1,8 cm in front of a converging lens with a focal length of 0,5 cm. Draw a ray diagram to show where the image is formed. Is the final image real or virtual?
+</item>
+        <item id="uid170">An object 1 cm high is placed 2,10 cm in front of a diverging lens with a focal length of 1,5 cm. Draw a ray diagram to show where the image is formed. Is the final image real or virtual?
+</item>
+        <item id="uid171">An object 1 cm high is placed 0,5 cm in front of a converging lens with a focal length of 0,5 cm. Draw a ray diagram to show where the image is formed. Is the final image real or virtual?
+</item>
+        <item id="uid172">An object is at right angles to the principal axis of a convex lens. The object is 2 cm high and is 5 cm from the centre of the lens, which has a focal length of 10 cm. Find the distance of the image from the centre of the lens, and its height. Is it real or virtual?
+</item>
+        <item id="uid173">A convex lens of focal length 15 cm produces a real image of height 4 cm at 45 cm from the centre of the lens. Find the distance of the object from the lens and its height.
+</item>
+        <item id="uid174">An object is 20 cm from a concave lens. The virtual image formed is three times smaller than the object. Find the focal length of the lens.
+</item>
+        <item id="uid175">A convex lens produces a virtual image which is four times larger than the object. The image is 15 cm from the lens. What is the focal length of the lens?
+</item>
+        <item id="uid176">A convex lens is used to project an image of a light source onto a screen. The screen is 30 cm from the light source, and the image is twice the size of the object. What focal length is required, and how far from the source must it be placed?
+</item>
+        <item id="uid177">An object 6 cm high is place 20 cm from a converging lens of focal length 8 cm. Find by scale drawing the position, size and nature of the image produced. (Advanced: check your answer by calculation).
+</item>
+        <item id="uid178">An object is placed in front of a converging lens of focal length 12 cm. By scale diagram, find the nature, position and magnification of the image when the object distance is
+<list id="id349301" display="block" list-type="enumerated"><item id="uid179">16 cm
+</item><item id="uid180">8 cm
+</item></list></item>
+        <item id="uid181">A concave lens produces an image three times smaller than the object. If the object is 18 cm away from the lens, determine the focal length of the lens by means of a scale diagram. (Advanced: check your answer by calculation).
+</item>
+        <item id="uid182">You have seen how the human eye works, how telescopes work and how microscopes work. Using what you have learnt, describe how you think a camera works.
+</item>
+        <item id="uid183">Describe 3 common defects of vision and discuss the various methods that are used to correct them.
+</item>
+      </list>
+    </section>
+  </content>
+</document>

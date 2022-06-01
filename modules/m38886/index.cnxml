@@ -1,0 +1,768 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Parallel and series networks</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38886</md:content-id>
+  <md:title>Parallel and series networks</md:title>
+  <md:abstract/>
+  <md:uuid>318ab5f1-5fee-462e-b926-3e7a3e7b9a2e</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Series and parallel networks of resistors</title>
+      <para id="id68648">Now that you know how to handle simple series and parallel circuits, you are ready to tackle problems like this:</para>
+      <figure id="uid42">
+        <media id="uid42_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C9_016.png" id="uid42_onlineimage" width="346"><!-- NOTE: attribute width changes image size online (pixels). original width is 346. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_016.eps" id="uid42_printimage"/>
+        </media>
+        <caption>An example of a series-parallel network. The dashed boxes indicate parallel sections of the circuit.</caption>
+      </figure>
+      <para id="id68665">It is relatively easy to work out these kind of circuits because you use everything you have already learnt about series and parallel circuits. The only difference is that you do it in stages. In <link target-id="uid42"/>, the circuit consists of 2 parallel portions that are then in series with 1 resistor. So, in order to work out the equivalent resistance, you start by calculating the total resistance of the parallel portions and then add up all the resistances in series. If all the resistors in <link target-id="uid42"/> had resistances of 10 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math>, we can calculate the equivalent resistance of the entire circuit.</para>
+      <para id="id68697">We start by calculating the total resistance of <emphasis effect="italics">Parallel Circuit 1</emphasis>.</para>
+      <para id="id68706">
+        <figure id="id68709">
+          <media id="id68709_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C9_017.png" id="id68709_onlineimage" width="340"><!-- NOTE: attribute width changes image size online (pixels). original width is 340. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_017.eps" id="id68709_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id68715">The value of <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mrow><m:mi>p</m:mi><m:mn>1</m:mn></m:mrow></m:msub></m:math> is:</para>
+      <equation id="id68737">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mfrac>
+                  <m:mn>1</m:mn>
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mrow>
+                      <m:mi>p</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mfrac>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:msub>
+                      <m:mi>R</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mfrac>
+                  <m:mo>+</m:mo>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:msub>
+                      <m:mi>R</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mfrac>
+                  <m:mo>+</m:mo>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:msub>
+                      <m:mi>R</m:mi>
+                      <m:mn>3</m:mn>
+                    </m:msub>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mrow>
+                    <m:mi>p</m:mi>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:msup>
+                  <m:mfenced separators="" open="(" close=")">
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>10</m:mn>
+                    </m:mfrac>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>10</m:mn>
+                    </m:mfrac>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>10</m:mn>
+                    </m:mfrac>
+                  </m:mfenced>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:msup>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:msup>
+                  <m:mfenced separators="" open="(" close=")">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                      <m:mn>10</m:mn>
+                    </m:mfrac>
+                  </m:mfenced>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:msup>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:msup>
+                  <m:mfenced separators="" open="(" close=")">
+                    <m:mfrac>
+                      <m:mn>3</m:mn>
+                      <m:mn>10</m:mn>
+                    </m:mfrac>
+                  </m:mfenced>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:msup>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>33</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi>Ω</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id68968">We can similarly calculate the total resistance of <emphasis effect="italics">Parallel Circuit 2</emphasis>:</para>
+      <equation id="id68977">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mfrac>
+                  <m:mn>1</m:mn>
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mrow>
+                      <m:mi>p</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mfrac>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:msub>
+                      <m:mi>R</m:mi>
+                      <m:mn>5</m:mn>
+                    </m:msub>
+                  </m:mfrac>
+                  <m:mo>+</m:mo>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:msub>
+                      <m:mi>R</m:mi>
+                      <m:mn>6</m:mn>
+                    </m:msub>
+                  </m:mfrac>
+                  <m:mo>+</m:mo>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:msub>
+                      <m:mi>R</m:mi>
+                      <m:mn>7</m:mn>
+                    </m:msub>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mrow>
+                    <m:mi>p</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:msup>
+                  <m:mfenced separators="" open="(" close=")">
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>10</m:mn>
+                    </m:mfrac>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>10</m:mn>
+                    </m:mfrac>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>10</m:mn>
+                    </m:mfrac>
+                  </m:mfenced>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:msup>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:msup>
+                  <m:mfenced separators="" open="(" close=")">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                      <m:mn>10</m:mn>
+                    </m:mfrac>
+                  </m:mfenced>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:msup>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:msup>
+                  <m:mfenced separators="" open="(" close=")">
+                    <m:mfrac>
+                      <m:mn>3</m:mn>
+                      <m:mn>10</m:mn>
+                    </m:mfrac>
+                  </m:mfenced>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:msup>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>33</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi>Ω</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id69209">
+        <figure id="id69212">
+          <media id="id69212_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C9_018.png" id="id69212_onlineimage" width="355"><!-- NOTE: attribute width changes image size online (pixels). original width is 355. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_018.eps" id="id69212_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id69219">This has now being simplified to a simple series circuit and the equivalent resistance is:</para>
+      <equation id="id69223">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>R</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mrow>
+                      <m:mi>p</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                  <m:mo>+</m:mo>
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mn>4</m:mn>
+                  </m:msub>
+                  <m:mo>+</m:mo>
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mrow>
+                      <m:mi>p</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msub>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>10</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mfrac>
+                  <m:mo>+</m:mo>
+                  <m:mn>10</m:mn>
+                  <m:mo>+</m:mo>
+                  <m:mfrac>
+                    <m:mn>10</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>100</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mn>30</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mn>100</m:mn>
+                  </m:mrow>
+                  <m:mn>30</m:mn>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mn>230</m:mn>
+                  <m:mn>30</m:mn>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>7</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>66</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi>Ω</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id69373">The equivalent resistance of the circuit in <link target-id="uid42"/> is 7,66<m:math overflow="scroll"><m:mrow><m:mspace width="0.166667em"/><m:mi>Ω</m:mi></m:mrow></m:math>.</para>
+<section id="secfhsst_id3017"><title> Series and parallel networks </title>
+      <para id="id69403">Determine the equivalent resistance of the following circuits:</para>
+      <list id="id69409" display="block" list-type="enumerated">
+        <item id="uid43">
+          <figure id="id69420">
+            <media id="id69420_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C9_019.png" id="id69420_onlineimage" width="315"><!-- NOTE: attribute width changes image size online (pixels). original width is 315. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_019.eps" id="id69420_printimage"/>
+            </media>
+          </figure>
+        </item>
+        <item id="uid44">
+          <figure id="id69436">
+            <media id="id69436_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C9_020.png" id="id69436_onlineimage" width="204"><!-- NOTE: attribute width changes image size online (pixels). original width is 204. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_020.eps" id="id69436_printimage"/>
+            </media>
+          </figure>
+        </item>
+        <item id="uid45">
+          <figure id="id69451">
+            <media id="id69451_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C9_021.png" id="id69451_onlineimage" width="276"><!-- NOTE: attribute width changes image size online (pixels). original width is 276. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_021.eps" id="id69451_printimage"/>
+            </media>
+          </figure>
+        </item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid6">
+      <title>Wheatstone bridge</title>
+      <para id="id69478">Another method of finding an unknown resistance is to use a <emphasis effect="italics">Wheatstone bridge</emphasis>. A Wheatstone bridge is a measuring instrument that is used to measure an unknown electrical resistance by balancing two legs of a bridge circuit, one leg of which includes the unknown component. Its operation is similar to the original potentiometer except that in potentiometer circuits the meter used is a sensitive galvanometer.</para>
+<note id="notfhsst_id3051"><title> Interesting Fact </title> The Wheatstone bridge was invented by Samuel Hunter Christie in 1833 and improved and popularized by Sir Charles Wheatstone in 1843.</note>
+      <para id="id69497">
+        <figure id="id69501">
+          <media id="id69501_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C9_022.png" id="id69501_onlineimage" width="327"><!-- NOTE: attribute width changes image size online (pixels). original width is 327. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_022.eps" id="id69501_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id69507">In the circuit of the Wheatstone bridge, <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mi>x</m:mi></m:msub></m:math> is the unknown resistance. <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math>, <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math> are resistors of known resistance and the resistance of <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> is adjustable. If the ratio of <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math>:<m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math> is equal to the ratio of <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mi>x</m:mi></m:msub></m:math>:<m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math>, then the voltage between the two midpoints will be zero and no current will flow between the midpoints. In order to determine the unknown resistance, <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> is varied until this condition is reached. That is when the voltmeter reads 0 V.</para>
+<exercise id="secfhsst_id3061"><title> Wheatstone bridge </title>
+      <problem id="probfhsst_id3062">
+      
+      
+      <para id="id69685">What is the resistance of the unknown resistor <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mi>x</m:mi></m:msub></m:math> in the diagram below if <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math>=4<m:math overflow="scroll"><m:mi>Ω</m:mi></m:math>  <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math>=8<m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> and <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math>=6<m:math overflow="scroll"><m:mi>Ω</m:mi></m:math>. </para>
+      
+      <para id="id69786">
+        <figure id="id69789">
+          <media id="id69789_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C9_023.png" id="id69789_onlineimage" width="327"><!-- NOTE: attribute width changes image size online (pixels). original width is 327. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_023.eps" id="id69789_printimage"/>
+          </media>
+        </figure>
+      </para>
+</problem>
+      <solution id="solfhsst_id3065"> <list id="listfhsst_id3065" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Determine how to approach the problem </label>
+      <para id="id69800">The arrangement is a Wheatstone bridge. So we use the equation:</para>
+      <equation id="id69804">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:msub>
+                  <m:mo>:</m:mo>
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mn>3</m:mn>
+                  </m:msub>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                  <m:mo>:</m:mo>
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mn>1</m:mn>
+                  </m:msub>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Solve the problem </label>
+      <equation id="id69867">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:msub>
+                  <m:mo>:</m:mo>
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mn>3</m:mn>
+                  </m:msub>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                  <m:mo>:</m:mo>
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mn>1</m:mn>
+                  </m:msub>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>R</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:msub>
+                  <m:mo>:</m:mo>
+                  <m:mn>6</m:mn>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>8</m:mn>
+                  <m:mo>:</m:mo>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mi>x</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>12</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi>Ω</m:mi>
+                  <m:mspace width="4pt"/>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Write the final answer </label>
+      <para id="id69992">The resistance of the unknown resistor is 12 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math>.</para>
+</item> </list> </solution>
+</exercise>
+<section id="secfhsst_id3197"><title>
+      Power in electric circuits </title>
+      <para id="id70017">In addition to voltage and current, there is another measure of free electron activity in a circuit: <emphasis effect="italics">power</emphasis>. Power is a measure of how rapidly a standard amount of <emphasis effect="italics">work</emphasis> is done. In electric circuits, power is a function of both voltage and current:</para>
+<definition id="fhsst_id3200"><term id="termfhsst_id3200"> Electrical Power </term> <meaning id="meaningfhsst_id3200">
+      <para id="id70042">Electrical power is calculated as:</para>
+      <equation id="id70048">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>P</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>I</m:mi>
+            <m:mo>·</m:mo>
+            <m:mi>V</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      
+      </meaning></definition>
+      <para id="id70080">Power (<m:math overflow="scroll"><m:mi>P</m:mi></m:math>) is exactly equal to current (<m:math overflow="scroll"><m:mi>I</m:mi></m:math>) multiplied by voltage
+(<m:math overflow="scroll"><m:mi>V</m:mi></m:math>) and there is no extra constant of proportionality. The unit of
+measurement for power is the <emphasis effect="italics">Watt</emphasis> (abbreviated W).</para>
+<note id="notfhsst_id3218"><title> Interesting Fact </title> It was James Prescott Joule, not Georg Simon Ohm, who first discovered the mathematical relationship between power dissipation and current through a resistance. This discovery, published in 1841, followed the form of the equation:
+      <equation id="id70125">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>P</m:mi>
+            <m:mo>=</m:mo>
+            <m:msup>
+              <m:mi>I</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mi>R</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      and is properly known as Joule's Law. However, these power equations are so commonly associated with the Ohm's Law equations relating voltage, current, and resistance that they are frequently credited to Ohm.</note>
+<section id="secfhsst_id3233"><title> Investigation : Equivalence </title>
+      <para id="id70163">Use Ohm's Law to show that:</para>
+      <equation id="id70169">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>P</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>V</m:mi>
+            <m:mi>I</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id70188">is identical to</para>
+      <equation id="id70193">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>P</m:mi>
+            <m:mo>=</m:mo>
+            <m:msup>
+              <m:mi>I</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mi>R</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id70217">and</para>
+      <equation id="id70223">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>P</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:msup>
+                <m:mi>V</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mi>R</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      
+</section>
+      
+</section>
+    </section>
+    <section id="cid7">
+      <title>Summary</title>
+      <list id="id70278" display="block" list-type="enumerated">
+        <item id="uid46">Ohm's Law states that the amount of current through a conductor, at constant temperature, is proportional to the voltage across the resistor. Mathematically we write <m:math overflow="scroll"><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>I</m:mi><m:mo>·</m:mo><m:mi>R</m:mi></m:mrow></m:math></item>
+        <item id="uid47">Conductors that obey Ohm's Law are called ohmic conductors; those that do not are called non-ohmic conductors.
+</item>
+        <item id="uid48">We use Ohm's Law to calculate the resistance of a resistor. <m:math overflow="scroll"><m:mrow><m:mi>R</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>V</m:mi><m:mi>I</m:mi></m:mfrac></m:mrow></m:math></item>
+        <item id="uid49">The equivalent resistance of resistors in series (<m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mi>s</m:mi></m:msub></m:math>) can be calculated as follows: <m:math overflow="scroll"><m:mrow><m:msub><m:mi>R</m:mi><m:mi>s</m:mi></m:msub><m:mo>=</m:mo><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>+</m:mo><m:msub><m:mi>R</m:mi><m:mi>n</m:mi></m:msub></m:mrow></m:math></item>
+        <item id="uid50">The equivalent resistance of resistors in parallel (<m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mi>p</m:mi></m:msub></m:math>) can be calculated as follows: <m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>R</m:mi><m:mi>p</m:mi></m:msub></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:mfrac><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:mfrac><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:mfrac><m:mo>+</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>R</m:mi><m:mi>n</m:mi></m:msub></m:mfrac></m:mrow></m:math></item>
+        <item id="uid51">Real batteries have an internal resistance.
+</item>
+        <item id="uid52">Wheatstone bridges can be used to accurately determine the resistance of an unknown resistor.
+</item>
+      </list>
+    </section>
+    <section id="cid8">
+      <title>End of chapter exercise</title>
+      <list id="id70587" display="block" list-type="enumerated">
+        <item id="uid53">Calculate the current in the following circuit and then use the current to calculate the voltage drops across each resistor.
+<figure id="id70607"><media id="id70607_media" alt=""><image mime-type="image/png" src="../../media/PG11C9_024.png" id="id70607_onlineimage" width="124"><!-- NOTE: attribute width changes image size online (pixels). original width is 124. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_024.eps" id="id70607_printimage"/></media></figure></item>
+        <item id="uid54">Explain why a voltmeter is placed in parallel with a resistor.
+</item>
+        <item id="uid55">Explain why an ammeter is placed in series with a resistor.
+</item>
+        <item id="uid56">[IEB 2001/11 HG1] - <emphasis effect="bold">Emf</emphasis><list id="id70655" display="block" list-type="enumerated"><item id="uid57">Explain the meaning of each of these two statements:
+<list id="id70671" display="block" list-type="enumerated"><item id="uid58">“The current through the battery is 50 mA.”
+</item><item id="uid59">“The emf of the battery is 6 V.”
+</item></list></item><item id="uid60">A battery tester measures the current supplied when the battery is connected to a resistor of 100 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math>. If the current is less than 50 mA, the battery is “flat” (it needs to be replaced). Calculate the maximum internal resistance of a 6 V battery that will pass the test.
+</item></list></item>
+        <item id="uid61">[IEB 2005/11 HG] The electric circuit of a torch consists of a cell, a switch and a small light bulb, as shown in the diagram below.
+<figure id="id70743"><media id="id70743_media" alt=""><image mime-type="image/png" src="../../media/PG11C9_025.png" id="id70743_onlineimage" width="311"><!-- NOTE: attribute width changes image size online (pixels). original width is 311. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_025.eps" id="id70743_printimage"/></media></figure>
+The electric torch is designed to use a D-type cell, but the only cell that is available for use is an AA-type cell. The specifications of these two types of cells are shown in the table below:
+<table id="id70754" summary=""><tgroup cols="4"><tbody><row><entry><emphasis effect="bold">Cell</emphasis></entry><entry><emphasis effect="bold">emf</emphasis></entry><entry><emphasis effect="bold">Appliance for which it is designed</emphasis></entry><entry><emphasis effect="bold">Current drawn from cell when connected to the appliance for which it is designed</emphasis></entry></row><row><entry>D</entry><entry>1,5 V</entry><entry>torch</entry><entry>300 mA</entry></row><row><entry>AA</entry><entry>1,5 V</entry><entry>TV remote control</entry><entry>30 mA</entry></row></tbody></tgroup></table>
+What is likely to happen and why does it happen when the AA-type cell replaces the D-type cell in the electric torch circuit?
+<table id="id70895" summary=""><tgroup cols="3"><tbody><row><entry/><entry><emphasis effect="bold">What happens</emphasis></entry><entry><emphasis effect="bold">Why it happens</emphasis></entry></row><row><entry>(a)</entry><entry>the bulb is dimmer</entry><entry>the AA-type cell has greater internal resistance</entry></row><row><entry>(b)</entry><entry>the bulb is dimmer</entry><entry>the AA-type cell has less internal resistance</entry></row><row><entry>(c)</entry><entry>the brightness of the bulb is the same</entry><entry>the AA-type cell has the same internal resistance</entry></row><row><entry>(d)</entry><entry>the bulb is brighter</entry><entry>the AA-type cell has less internal resistance</entry></row></tbody></tgroup></table></item>
+        <item id="uid62">[IEB 2005/11 HG1]
+A battery of emf <m:math overflow="scroll"><m:mi>ε</m:mi></m:math> and internal resistance r = 25 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> is connected to this arrangement of resistors.
+<figure id="id71093"><media id="id71093_media" alt=""><image mime-type="image/png" src="../../media/PG11C9_026.png" id="id71093_onlineimage" width="418"><!-- NOTE: attribute width changes image size online (pixels). original width is 418. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_026.eps" id="id71093_printimage"/></media></figure>
+The resistances of voltmeters V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math> and V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> are so high that they do not affect the current in the circuit.
+<list id="id71130" display="block" list-type="enumerated"><item id="uid63">Explain what is meant by “the emf of a battery”.
+The power dissipated in the 100 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> resistor is 0,81 W.
+</item><item id="uid64">Calculate the current in the 100 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> resistor.
+</item><item id="uid65">Calculate the reading on voltmeter V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>.
+</item><item id="uid66">Calculate the reading on voltmeter V<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math>.
+</item><item id="uid67">Calculate the emf of the battery.
+</item></list></item>
+        <item id="uid68">[SC 2003/11] A kettle is marked 240 V; 1 500 W.
+<list id="id71256" display="block" list-type="enumerated"><item id="uid69">Calculate the resistance of the kettle when operating according to the above specifications.
+</item><item id="uid70">If the kettle takes 3 minutes to boil some water, calculate the amount of electrical energy transferred to the kettle.
+</item></list></item>
+        <item id="uid71">[IEB 2001/11 HG1] - <emphasis effect="bold">Electric Eels</emphasis>
+Electric eels have a series of cells from head to tail. When the cells are activated by a nerve impulse, a potential difference is created from head to tail. A healthy electric eel can produce a potential difference of 600 V.
+<list id="id71308" display="block" list-type="enumerated"><item id="uid72">What is meant by “a potential difference of 600 V”?
+</item><item id="uid73">How much energy is transferred when an electron is moved through a potential difference of 600 V?
+</item></list></item>
+      </list>
+    </section>
+  </content>
+</document>

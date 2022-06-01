@@ -1,0 +1,395 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Magnetic field associated with a current</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38910</md:content-id>
+  <md:title>Magnetic field associated with a current</md:title>
+  <md:abstract/>
+  <md:uuid>8d6824f1-687f-48e8-8ebd-f942ea9b2741</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id68431">Electromagnetism describes between charges, currents and the electric and magnetic fields which they give rise to. An electric current creates a magnetic field and a changing magnetic field will create a flow of charge. This relationship between electricity and magnetism has resulted in the invention of many devices which are useful to humans.</para>
+    </section>
+    <section id="cid3">
+      <title>Magnetic field associated with a current</title>
+      <para id="id68446">If you hold a compass near a wire through which current is
+flowing, the needle on the compass will be deflected.</para>
+      <para id="id68790">Since compasses work by pointing along magnetic field lines, this means that there must be a magnetic field near the wire through which the current is flowing.</para>
+<note id="notfhsst_id76"><title> Interesting Fact </title> The discovery of the relationship between magnetism and electricity was, like so many other scientific discoveries, stumbled upon almost by accident. The Danish physicist Hans Christian Oersted was lecturing one day in 1820 on the possibility of electricity and magnetism being related to one another, and in the process demonstrated it conclusively by experiment in front of his whole class. By passing an electric current through a metal wire suspended above a magnetic compass, Oersted was able to produce a definite motion of the compass needle in response to the current. What began as a guess at the start of the class session was confirmed as fact at the end. Needless to say, Oersted had to revise his lecture notes for future classes. His discovery paved the way for a whole new branch of science - electromagnetism.</note>
+      <para id="id68806">The magnetic field produced by an electric current is always
+oriented perpendicular to the direction of the current flow. When
+we are drawing directions of magnetic fields and currents, we use
+the symbols <m:math overflow="scroll"><m:mo>⊙</m:mo></m:math> and <m:math overflow="scroll"><m:mo>⊗</m:mo></m:math>.
+The symbol</para>
+      <equation id="id68828">
+        <m:math overflow="scroll" mode="display">
+          <m:mo>⊙</m:mo>
+        </m:math>
+      </equation>
+      <para id="id68838">represents an
+arrow that is coming out of the page and the symbol</para>
+      <equation id="id68843">
+        <m:math overflow="scroll" mode="display">
+          <m:mo>⊗</m:mo>
+        </m:math>
+      </equation>
+      <para id="id68853">represents an arrow that is going into the page.</para>
+      <para id="id68858">It is easy to remember the meanings of the symbols if you think of
+an arrow with a head and a tail.</para>
+      <para id="id68863">
+        <figure id="id68866">
+          <media id="id68866_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C8_003.png" id="id68866_onlineimage" width="85"><!-- NOTE: attribute width changes image size online (pixels). original width is 85. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_003.eps" id="id68866_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id68872">When the arrow is coming out of the page, you see the point of the
+arrow (<m:math overflow="scroll"><m:mo>⊙</m:mo></m:math>). When the arrow is going into the page, you see
+the tail of the arrow (<m:math overflow="scroll"><m:mo>⊗</m:mo></m:math>).</para>
+      <para id="id68892">The direction of the magnetic field around the current carrying
+conductor is shown in <link target-id="uid1"/>.</para>
+      <figure id="uid1">
+        <media id="uid1_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C8_004.png" id="uid1_onlineimage" width="181"><!-- NOTE: attribute width changes image size online (pixels). original width is 181. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_004.eps" id="uid1_printimage"/>
+        </media>
+        <caption>Magnetic field around a conductor when you look at the
+conductor from one end. (a) Current flows out of the page and the
+magnetic field is counter clockwise. (b) Current flows into the
+page and the magnetic field is clockwise.</caption>
+      </figure>
+      <figure id="uid2">
+        <media id="uid2_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C8_005.png" id="uid2_onlineimage" width="246"><!-- NOTE: attribute width changes image size online (pixels). original width is 246. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_005.eps" id="uid2_printimage"/>
+        </media>
+        <caption>Magnetic fields around a conductor looking down on the
+conductor. (a) Current flows clockwise. (b) current flows counter clockwise.</caption>
+      </figure>
+<section id="secfhsst_id128"><title> Case Study : Direction of a magnetic field </title>
+      <para id="id68934">Using the directions given
+in <link target-id="uid1"/> and <link target-id="uid2"/> try to find a rule that easily tells you the direction of the
+magnetic field.</para>
+      <para id="id68950">Hint: Use your fingers. Hold the wire in your hands and try to
+find a link between the direction of your thumb and the direction
+in which your fingers curl. </para>
+</section>
+      <para id="id68959">
+        <figure id="id68962">
+          <media id="id68962_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C8_006.png" id="id68962_onlineimage" width="189"><!-- NOTE: attribute width changes image size online (pixels). original width is 189. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_006.eps" id="id68962_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id68969">There is a simple method of finding the relationship between the
+direction of the current flowing in a conductor and the direction
+of the magnetic field around the same conductor. The method is
+called the <emphasis effect="italics">Right Hand Rule</emphasis>. Simply stated, the right
+hand rule says that the magnetic field lines produced by a
+current-carrying wire will be oriented in the same direction as the
+curled fingers of a person's right hand (in the "hitchhiking"
+position), with the thumb pointing in the direction of the current
+flow.</para>
+      <figure id="uid3">
+        <media id="uid3_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C8_007.png" id="uid3_onlineimage" width="85"><!-- NOTE: attribute width changes image size online (pixels). original width is 85. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_007.eps" id="uid3_printimage"/>
+        </media>
+        <caption>The Right Hand Rule.</caption>
+      </figure>
+<section id="secfhsst_id160"><title> Case Study : The Right Hand Rule </title>
+      <para id="id69000">Use the Right Hand Rule to draw in
+the directions of the magnetic fields for the following conductors
+with the currents flowing in the directions shown by the arrows.
+The first problem has been completed for you.</para>
+      <table id="id69007" summary="">
+        <tgroup cols="8">
+          <tbody>
+            <row>
+              <entry>1.</entry>
+              <entry>
+                <figure id="id69019">
+                  <media id="id69019_media" alt="">
+                    <image mime-type="image/png" src="../../media/PG11C8_008.png" id="id69019_onlineimage" width="57"><!-- NOTE: attribute width changes image size online (pixels). original width is 57. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_008.eps" id="id69019_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>2.</entry>
+              <entry>
+                <figure id="id69034">
+                  <media id="id69034_media" alt="">
+                    <image mime-type="image/png" src="../../media/PG11C8_009.png" id="id69034_onlineimage" width="49"><!-- NOTE: attribute width changes image size online (pixels). original width is 49. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_009.eps" id="id69034_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>3.</entry>
+              <entry>
+                <figure id="id69048">
+                  <media id="id69048_media" alt="">
+                    <image mime-type="image/png" src="../../media/PG11C8_010.png" id="id69048_onlineimage" width="29"><!-- NOTE: attribute width changes image size online (pixels). original width is 29. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_010.eps" id="id69048_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>4.</entry>
+              <entry>
+                <figure id="id69062">
+                  <media id="id69062_media" alt="">
+                    <image mime-type="image/png" src="../../media/PG11C8_011.png" id="id69062_onlineimage" width="3"><!-- NOTE: attribute width changes image size online (pixels). original width is 3. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_011.eps" id="id69062_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+            </row>
+            <row>
+              <entry>5.</entry>
+              <entry>
+                <figure id="id69078">
+                  <media id="id69078_media" alt="">
+                    <image mime-type="image/png" src="../../media/PG11C8_012.png" id="id69078_onlineimage" width="29"><!-- NOTE: attribute width changes image size online (pixels). original width is 29. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_012.eps" id="id69078_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>6.</entry>
+              <entry>
+                <figure id="id69092">
+                  <media id="id69092_media" alt="">
+                    <image mime-type="image/png" src="../../media/PG11C8_013.png" id="id69092_onlineimage" width="49"><!-- NOTE: attribute width changes image size online (pixels). original width is 49. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_013.eps" id="id69092_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>7.</entry>
+              <entry>
+                <figure id="id69107">
+                  <media id="id69107_media" alt="">
+                    <image mime-type="image/png" src="../../media/PG11C8_014.png" id="id69107_onlineimage" width="57"><!-- NOTE: attribute width changes image size online (pixels). original width is 57. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_014.eps" id="id69107_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>8.</entry>
+              <entry>
+                <figure id="id69121">
+                  <media id="id69121_media" alt="">
+                    <image mime-type="image/png" src="../../media/PG11C8_015.png" id="id69121_onlineimage" width="49"><!-- NOTE: attribute width changes image size online (pixels). original width is 49. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_015.eps" id="id69121_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+            </row>
+            <row>
+              <entry>9.</entry>
+              <entry>
+                <figure id="id69137">
+                  <media id="id69137_media" alt="">
+                    <image mime-type="image/png" src="../../media/PG11C8_016.png" id="id69137_onlineimage" width="29"><!-- NOTE: attribute width changes image size online (pixels). original width is 29. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_016.eps" id="id69137_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>10.</entry>
+              <entry>
+                <figure id="id69151">
+                  <media id="id69151_media" alt="">
+                    <image mime-type="image/png" src="../../media/PG11C8_017.png" id="id69151_onlineimage" width="3"><!-- NOTE: attribute width changes image size online (pixels). original width is 3. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_017.eps" id="id69151_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>11.</entry>
+              <entry>
+                <figure id="id69165">
+                  <media id="id69165_media" alt="">
+                    <image mime-type="image/png" src="../../media/PG11C8_018.png" id="id69165_onlineimage" width="29"><!-- NOTE: attribute width changes image size online (pixels). original width is 29. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_018.eps" id="id69165_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+              <entry>12.</entry>
+              <entry>
+                <figure id="id69180">
+                  <media id="id69180_media" alt="">
+                    <image mime-type="image/png" src="../../media/PG11C8_019.png" id="id69180_onlineimage" width="49"><!-- NOTE: attribute width changes image size online (pixels). original width is 49. --></image>
+                    <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_019.eps" id="id69180_printimage"/>
+                  </media>
+                </figure>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <!--empty paragraphs get left behind.-->
+      
+</section>
+<section id="secfhsst_id288"><title> Experiment : Magnetic field around a current carrying conductor </title>
+      <para id="id69206">
+        <emphasis effect="bold">Apparatus:</emphasis>
+      </para>
+      <list id="id69214" display="block" list-type="enumerated">
+        <item id="uid4">one 9V battery with holder
+</item>
+        <item id="uid5">two hookup wires with alligator clips
+</item>
+        <item id="uid6">compass
+</item>
+        <item id="uid7">stop watch
+</item>
+      </list>
+      <para id="id69264">
+        <emphasis effect="bold">Method:</emphasis>
+      </para>
+      <list id="id69272" display="block" list-type="enumerated">
+        <item id="uid8">Connect your wires to the battery leaving one end of each wire unconnected so that the circuit is not closed.
+</item>
+        <item id="uid9">One student should be in charge of limiting the current flow to 10 seconds. This is to preserve battery life as well as to prevent overheating of the wires and battery contacts.
+</item>
+        <item id="uid10">Place the compass close to the wire.
+</item>
+        <item id="uid11">Close the circuit and observe what happens to the compass.
+</item>
+        <item id="uid12">Reverse the polarity of the battery and close the circuit. Observe what happens to the compass.
+</item>
+      </list>
+      <para id="id69337">
+        <emphasis effect="bold">Conclusions:</emphasis>
+      </para>
+      <para id="id69345">
+Use your observations to answer the following questions:</para>
+      <list id="id69351" display="block" list-type="enumerated">
+        <item id="uid13">Does a current flowing in a wire generate a magnetic field?
+</item>
+        <item id="uid14">Is the magnetic field present when the current is not flowing?
+</item>
+        <item id="uid15">Does the direction of the magnetic field produced by a current in a wire depend on the direction of the current flow?
+</item>
+        <item id="uid16">How does the direction of the current affect the magnetic field?
+</item>
+      </list>
+      
+</section>
+<section id="secfhsst_id334"><title> Case Study : Magnetic field around a loop of conductor </title>
+      <para id="id69419">Consider two
+loops made from a conducting material, which carry currents (in opposite directions) and are placed in the plane
+of the page. By using the Right Hand Rule, draw what you think the magnetic field would look
+like at different points around each of the two
+loops. Loop 1 has the current flowing in a counter-clockwise
+direction, while loop 2 has the current flowing in a clockwise
+direction.</para>
+      <para id="id69428">
+        <figure id="id69431">
+          <media id="id69431_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C8_020.png" id="id69431_onlineimage" width="233"><!-- NOTE: attribute width changes image size online (pixels). original width is 233. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_020.eps" id="id69431_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+</section>
+      <para id="id69446">If you make a loop of current carrying conductor, then the
+direction of the magnetic field is obtained by applying the Right
+Hand Rule to different points in the loop.</para>
+      <para id="id69450">
+        <figure id="id69453">
+          <media id="id69453_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C8_021.png" id="id69453_onlineimage" width="253"><!-- NOTE: attribute width changes image size online (pixels). original width is 253. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_021.eps" id="id69453_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id69459">If we now add another loop with the current in the same direction, then the magnetic field around each
+loop can be added together to create a stronger magnetic field. A coil of many such loops is called a <emphasis effect="italics">solenoid</emphasis>. The magnetic field pattern around a solenoid is similar to the magnetic field pattern around the bar magnet that you studied in Grade 10, which had a definite north and south pole.</para>
+      <figure id="uid17">
+        <media id="uid17_media" alt="">
+          <image mime-type="image/png" src="../../media/PG11C8_022.png" id="uid17_onlineimage" width="192"><!-- NOTE: attribute width changes image size online (pixels). original width is 192. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_022.eps" id="uid17_printimage"/>
+        </media>
+        <caption>Magnetic field around a solenoid.</caption>
+      </figure>
+      <section id="uid18">
+        <title>Real-world applications</title>
+        <section id="uid19">
+          <title>Electromagnets</title>
+          <para id="id69499">An <emphasis effect="italics">electromagnet</emphasis> is a piece of wire intended to generate
+a magnetic field with the passage of electric current through it.
+Though all current-carrying conductors produce magnetic fields, an
+electromagnet is usually constructed in such a way as to maximize
+the strength of the magnetic field it produces for a special
+purpose. Electromagnets are commonly used in research,
+industry, medical, and consumer products. An example of a commonly used electromagnet is in security doors, e.g. on shop doors which open automatically.</para>
+          <para id="id69512">As an electrically-controllable magnet, electromagnets form part of a wide variety of "electromechanical" devices:
+machines that produce a mechanical force or motion through electrical
+power. Perhaps the most obvious example of such a machine is the
+<emphasis effect="italics">electric motor</emphasis> which will be described in detail in Grade
+12. Other examples of the use of electromagnets are electric bells, relays, loudspeakers and scrapyard cranes.</para>
+<section id="secfhsst_id388"><title> Experiment : Electromagnets </title>
+          <para id="id69531">
+            <emphasis effect="bold">Aim:</emphasis>
+          </para>
+          <para id="id69539">A magnetic field is created when an electric current flows through
+a wire. A single wire does not produce a strong magnetic field,
+but a wire coiled around an iron core does. We will investigate this behaviour.</para>
+          <para id="id69546">
+            <emphasis effect="bold">Apparatus:</emphasis>
+          </para>
+          <list id="id69555" display="block" list-type="enumerated">
+            <item id="uid20">a battery and holder
+</item>
+            <item id="uid21">a length of wire
+</item>
+            <item id="uid22">a compass
+</item>
+            <item id="uid23">a few nails
+</item>
+          </list>
+          <para id="id69604">
+            <emphasis effect="bold">Method:</emphasis>
+          </para>
+          <list id="id69612" display="block" list-type="enumerated">
+            <item id="uid24">If you have not done the previous experiment in this chapter do it now.
+</item>
+            <item id="uid25">Bend the wire into a series of coils before attaching it to the battery. Observe what happens to the deflection of the needle on the compass. Has the deflection of the compass grown stronger?
+</item>
+            <item id="uid26">Repeat the experiment by changing the number and size of the coils in the wire. Observe what happens to the deflection on the compass.
+</item>
+            <item id="uid27">Coil the wire around an iron nail and then attach the coil to the battery. Observe what happens to the deflection of the compass needle.
+</item>
+          </list>
+          <para id="id69667">
+            <emphasis effect="bold">Conclusions:</emphasis>
+          </para>
+          <list id="id69675" display="block" list-type="enumerated">
+            <item id="uid28">Does the number of coils affect the strength of the magnetic field?
+</item>
+            <item id="uid29">Does the iron nail increase or decrease the strength of the magnetic field?
+</item>
+          </list>
+          
+</section>
+<section id="secfhsst_id432"><title> Magnetic Fields </title>
+          <list id="id69719" display="block" list-type="enumerated">
+            <item id="uid30">Give evidence for the existence of a magnetic field near a current carrying wire.
+</item>
+            <item id="uid31">Describe how you would use your right hand to determine the direction of a magnetic field around a current carrying conductor.
+</item>
+            <item id="uid32">Use the Right Hand Rule to determine the direction of the magnetic field for the following situations:
+<list id="id69759" display="block" list-type="enumerated"><item id="uid33"><figure id="id69773"><media id="id69773_media" alt=""><image mime-type="image/png" src="../../media/PG11C8_023.png" id="id69773_onlineimage" width="192"><!-- NOTE: attribute width changes image size online (pixels). original width is 192. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_023.eps" id="id69773_printimage"/></media></figure></item><item id="uid34"><figure id="id69789"><media id="id69789_media" alt=""><image mime-type="image/png" src="../../media/PG11C8_024.png" id="id69789_onlineimage" width="192"><!-- NOTE: attribute width changes image size online (pixels). original width is 192. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_024.eps" id="id69789_printimage"/></media></figure></item></list></item>
+            <item id="uid35">Use the Right Hand Rule to find the direction of the magnetic fields at each of the points labelled A - H in the following diagrams.
+<figure id="id69812"><media id="id69812_media" alt=""><image mime-type="image/png" src="../../media/PG11C8_025.png" id="id69812_onlineimage" width="256"><!-- NOTE: attribute width changes image size online (pixels). original width is 256. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C8_025.eps" id="id69812_printimage"/></media></figure></item>
+          </list>
+          
+</section>
+        </section>
+      </section>
+    </section>
+
+  </content>
+</document>

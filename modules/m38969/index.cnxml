@@ -1,0 +1,771 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Lifts and rockets</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38969</md:content-id>
+  <md:title>Lifts and rockets</md:title>
+  <md:abstract/>
+  <md:uuid>d410af6b-1054-451f-9cd4-66f2162d5af9</md:uuid>
+</metadata>
+
+<content>
+        <section id="uid115">
+          <title>Lifts and rockets</title>
+          <para id="id67714">So far we have looked at objects being pulled or pushed across a surface, in other words motion parallel to the surface the object rests on. Here we only considered forces parallel to the surface, but we can also lift objects up or let them fall. This is vertical motion where only vertical forces are being considered.</para>
+          <para id="id67720">Let us consider a 500 kg lift, with no passengers, hanging on a cable. The purpose of the cable is to pull the lift upwards so that it can reach the next floor or to let go a little so that it can move downwards to the floor below. We will look at five possible stages during the motion of the lift.</para>
+          <para id="id67728">
+            <emphasis effect="bold">Stage 1:</emphasis>
+          </para>
+          <para id="id67737">The 500 kg lift is stationary at the second floor of a tall building.</para>
+          <para id="id67743">Because the lift is stationary (not moving) there is no resultant force acting on the lift. This means that the upward forces must be balanced by the downward forces. The only force acting down is the force of gravity which is equal to (500 x 9,8 = 4900 N) in this case. The cable must therefore pull upwards with a force of 4900 N to keep the lift stationary at this point.</para>
+          <para id="id67752">
+            <emphasis effect="bold">Stage 2:</emphasis>
+          </para>
+          <para id="id67761">The lift moves upwards at an acceleration of 1 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>.</para>
+          <para id="id67793">If the lift is accelerating, it means that there is a resultant force in the direction of the motion. This means that the force acting upwards is now greater than the force of gravity F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>g</m:mi></m:msub></m:math> (down). To find the magnitude of the force applied by the cable (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math>) we can do the following calculation: (Remember to choose a direction as positive. We have chosen upwards as positive.)</para>
+          <equation id="id67827">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>R</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>g</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mn>4900</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>500</m:mn>
+                      <m:mo>)</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>c</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>5400</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">N</m:mi>
+                        <m:mspace width="3.33333pt"/>
+                        <m:mi> upwards </m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id67978">The answer makes sense as we need a bigger force upwards to cancel the effect of gravity as well as make the lift go faster.</para>
+          <para id="id67985">
+            <emphasis effect="bold">Stage 3:</emphasis>
+          </para>
+          <para id="id67994">The lift moves at a constant velocity.</para>
+          <para id="id68000">When the lift moves at a constant velocity, it means that all the forces are balanced and that there is no resultant force. The acceleration is zero, therefore F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>R</m:mi></m:msub></m:math> = 0. The force acting upwards is equal to the force acting downwards, therefore F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math> = 4900 N.</para>
+          <para id="id68034">
+            <emphasis effect="bold">Stage 4:</emphasis>
+          </para>
+          <para id="id68042">The lift slows down at a rate of 2m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>.</para>
+          <para id="id68074">As the lift is now slowing down there is a resultant force downwards. This means that the force acting downwards is greater than the force acting upwards. To find the magnitude of the force applied by the cable (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>c</m:mi></m:msub></m:math>) we can do the following calculation: Again we have chosen upwards as positive, which means that the acceleration will be a negative number.</para>
+          <equation id="id68096">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>R</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>g</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mn>4900</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>500</m:mn>
+                      <m:mo>)</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>c</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>3900</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">N</m:mi>
+                        <m:mspace width="3.33333pt"/>
+                        <m:mi> upwards </m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id68249">This makes sense as we need a smaller force upwards to ensure that the resultant force is downward. The force of gravity is now greater than the upward pull of the cable and the lift will slow down.</para>
+          <para id="id68256">
+            <emphasis effect="bold">Stage 5:</emphasis>
+          </para>
+          <para id="id68265">The cable snaps.</para>
+          <para id="id68271">When the cable snaps, the force that used to be acting upwards is no longer present. The only force that is present would be the force of gravity. The lift will freefall and its acceleration can be calculated as follows:</para>
+          <equation id="id68278">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>R</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>g</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>4900</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>500</m:mn>
+                      <m:mo>)</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mi>a</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>a</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>9</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>a</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>9</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mi> downwards </m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+        </section>
+        <section id="uid116">
+          <title>Rockets</title>
+          <para id="id68489">As with lifts, rockets are also examples of objects in vertical motion. The force of gravity pulls the rocket down while the thrust of the engine pushes the rocket upwards. The force that the engine exerts must overcome the force of gravity so that the rocket can accelerate upwards. The worked example below looks at the application of Newton's Second Law in launching a rocket.</para>
+<exercise id="secfhsst_id2086"><title> Newton II - rocket </title>
+          <problem id="probfhsst_id2087">
+          <para id="id68509">A rocket is launched vertically upwards into the sky at an acceleration of 20 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>. If the mass of the rocket is 5000 kg, calculate the magnitude and direction of the thrust of the rocket's engines.
+ </para>
+          </problem>
+          <solution id="solfhsst_id2091"> <list id="listfhsst_id2091" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Analyse what is given and what is asked </label>
+          <para id="id68559">We have the following:</para>
+          <para id="id68562">m = 5000 kg</para>
+          <para id="id68568">a = 20 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math></para>
+          <para id="id68599">F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>g</m:mi></m:msub></m:math> = 5000 x 9,8 = 49000 N</para>
+          <para id="id68617">We are asked to find the thrust of the rocket engine F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>1</m:mn></m:msub></m:math>.</para>
+          </item> <item> <label> Find the thrust of the engine </label>
+          <para id="id68642">We will apply Newton's Second Law:</para>
+          <equation id="id68646">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mi>R</m:mi>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>g</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>+</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mn>49000</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>5000</m:mn>
+                      <m:mo>)</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mn>20</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>149</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mn>000</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">N</m:mi>
+                        <m:mspace width="3.33333pt"/>
+                        <m:mi> upwards </m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2204"><title> Rockets </title>
+          <problem id="probfhsst_id2205">
+          <para id="id68832">How do rockets accelerate in space?</para>
+          <para id="id68838">
+            <figure id="id68842">
+              <media id="id68842_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C11_035.png" id="id68842_onlineimage" width="162"><!-- NOTE: attribute width changes image size online (pixels). original width is 162. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_035.eps" id="id68842_printimage"/>
+              </media>
+            </figure>
+          </para>
+          
+          </problem>
+          <solution id="solfhsst_id2217"> <list id="listfhsst_id2217" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> What happens to the rocket fuel? </label>
+          <para id="id68870">Gas explodes inside the rocket.</para>
+          </item> <item> <label> What effect does this have? </label>
+          <para id="id68877">This exploding gas exerts a force on each side of the rocket
+(as shown in the picture below of the explosion chamber inside the
+rocket).</para>
+          <para id="id68882">
+            <figure id="id68885">
+              <media id="id68885_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C11_036.png" id="id68885_onlineimage" width="296"><!-- NOTE: attribute width changes image size online (pixels). original width is 296. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_036.eps" id="id68885_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> What are the forces? </label>
+          <para id="id68896">Due to the symmetry of the situation, all the forces exerted
+on the rocket are balanced by forces on the opposite side, except for the force
+opposite the open side. This force on the upper surface is unbalanced.</para>
+          </item> <item> <label> Think about the resultant force </label>
+          <para id="id68905">This is therefore the resultant force acting on the rocket and it
+makes the rocket accelerate forwards.
+ </para>
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2242"><title> Newton II - lifts </title>
+          <problem id="probfhsst_id2243">
+          <para id="id68934">A lift, mass 250 kg, is initially at rest on the ground floor of a tall building. Passengers with an unknown total mass, m, climb into the lift. The lift accelerates upwards at 1,6 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>. The cable supporting the lift exerts a constant upward force of 7700 N. Use g = 10 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>.</para>
+          <list id="id68992" display="block" list-type="enumerated">
+            <item id="uid117">Draw a labeled force diagram indicating all the forces acting on the lift while it accelerates upwards.
+</item>
+            <item id="uid118">What is the maximum mass, m, of the passengers the lift can carry in order to achieve a constant upward acceleration of 1,6 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>.
+</item>
+          </list>
+          
+          </problem>
+          <solution id="solfhsst_id2253"> <list id="listfhsst_id2253" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Draw a force diagram. </label>
+          <figure id="uid119">
+            <media id="uid119_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_037.png" id="uid119_onlineimage" width="227"><!-- NOTE: attribute width changes image size online (pixels). original width is 227. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_037.eps" id="uid119_printimage"/>
+            </media>
+          </figure>
+          </item> <item> <label> Find the mass, m. </label>
+          <para id="id69080">Let us look at the lift with its passengers as a unit. The mass of this unit will be (250 + m) kg and the force of the Earth pulling downwards (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>g</m:mi></m:msub></m:math>) will be (250 + m) x 10 m.s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>. If we apply Newton's Second Law to the situation we get:</para>
+          <equation id="id69116">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>F</m:mi>
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                        <m:mi>e</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>C</m:mi>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>F</m:mi>
+                        <m:mi>g</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>m</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mn>7700</m:mn>
+                      <m:mo>-</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mn>250</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mi>m</m:mi>
+                      <m:mo>)</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mn>10</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>250</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mi>m</m:mi>
+                      <m:mo>)</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>6</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mn>7700</m:mn>
+                      <m:mo>-</m:mo>
+                      <m:mn>2500</m:mn>
+                      <m:mo>-</m:mo>
+                      <m:mn>10</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi>m</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>400</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>6</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi>m</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mn>4800</m:mn>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>11</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>6</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi>m</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>m</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>413</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>79</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi> kg </m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          
+          </item> </list> </solution>
+</exercise>
+        </section>
+     
+      <section id="uid120">
+        <title>Exercise</title>
+        <list id="id69371" display="block" list-type="enumerated">
+          <item id="uid121">A tug is capable of pulling a ship with a force of 100 kN. If two such tugs are pulling on one ship, they can produce any force ranging from a minimum of 0 N to a maximum of 200 kN. Give a detailed explanation of how this is possible. Use diagrams to support your result.
+</item>
+          <item id="uid122">A car of mass 850 kg accelerates at 2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>. Calculate the magnitude of the resultant force that is causing the acceleration.
+</item>
+          <item id="uid123">Find the force needed to accelerate a 3 kg object at 4 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>.
+</item>
+          <item id="uid124">Calculate the acceleration of an object of mass 1000 kg accelerated by a force of 100 N.
+</item>
+          <item id="uid125">An object of mass 7 kg is accelerating at 2,5 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>. What resultant force acts on it?
+</item>
+          <item id="uid126">Find the mass of an object if a force of 40 N gives it an acceleration of 2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>.
+</item>
+          <item id="uid127">Find the acceleration of a body of mass 1 000 kg that has a 150 N force acting on it.
+</item>
+          <item id="uid128">Find the mass of an object which is accelerated at 2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math> by a force of 40 N.
+</item>
+          <item id="uid129">Determine the acceleration of a mass of 24 kg when a force of 6 N acts on it. What is the acceleration if the force were doubled and the mass was halved?
+</item>
+          <item id="uid130">A mass of 8 kg is accelerating at 5 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>.
+<list id="id69660" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid131">Determine the resultant force that is causing the acceleration.
+</item><item id="uid132">What acceleration would be produced if we doubled the force and reduced the mass by half?
+</item></list></item>
+          <item id="uid133">A motorcycle of mass 100 kg is accelerated by a resultant force of 500  N. If the motorcycle starts from rest:
+<list id="id69702" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid134">What is its acceleration?
+</item><item id="uid135">How fast will it be travelling after 20 s?
+</item><item id="uid136">How long will it take to reach a speed of 35 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>?
+</item><item id="uid137">How far will it travel from its starting point in 15 s?
+</item></list></item>
+          <item id="uid138">A force acting on a trolley on a frictionless horizontal plane causes an acceleration of magnitude 6 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>. Determine the mass of the trolley.
+</item>
+          <item id="uid139">A force of 200 N, acting at 60<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the horizontal, accelerates a block of mass 50 kg along a horizontal plane as shown.
+<figure id="uid140"><media id="uid140_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_038.png" id="uid140_onlineimage" width="172"><!-- NOTE: attribute width changes image size online (pixels). original width is 172. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_038.eps" id="uid140_printimage"/></media></figure><list id="id69856" display="block" list-type="enumerated"><item id="uid141">Calculate the component of the 200 N force that accelerates the block horizontally.
+</item><item id="uid142">If the acceleration of the block is 1,5 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>, calculate the magnitude of the frictional force on the block.
+</item><item id="uid143">Calculate the vertical force exerted by the block on the plane.
+</item></list></item>
+          <item id="uid144">A toy rocket of mass 0,5 kg is supported vertically by placing it in a bottle. The rocket is then ignited. Calculate the force that is required to accelerate the rocket vertically upwards at 8 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>.
+</item>
+          <item id="uid145">A constant force of 70 N is applied vertically to a block of mass 5 kg as shown. Calculate the acceleration of the block.
+<figure id="uid146"><media id="uid146_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_039.png" id="uid146_onlineimage" width="48"><!-- NOTE: attribute width changes image size online (pixels). original width is 48. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_039.eps" id="uid146_printimage"/></media></figure></item>
+          <item id="uid147">A stationary block of mass 3kg is on top of a plane inclined at 35<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> to the horizontal.
+<figure id="id70014"><media id="id70014_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_040.png" id="id70014_onlineimage" width="115"><!-- NOTE: attribute width changes image size online (pixels). original width is 115. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_040.eps" id="id70014_printimage"/></media></figure><list id="id70020" display="block" list-type="enumerated"><item id="uid148">Draw a force diagram (not to scale). Include the weight (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>g</m:mi></m:msub></m:math>) of the block as well as the components of the weight that are perpendicular and parallel to the inclined plane.
+</item><item id="uid149">Determine the values of the weight's perpendicular and parallel components (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mrow><m:mi>g</m:mi><m:mi>x</m:mi></m:mrow></m:msub></m:math> and F<m:math overflow="scroll"><m:msub><m:mrow/><m:mrow><m:mi>g</m:mi><m:mi>y</m:mi></m:mrow></m:msub></m:math>).
+</item><item id="uid150">Determine the magnitude and direction of the frictional force between the block and plane.
+</item></list></item>
+          <item id="uid151">A student of mass 70 kg investigates the motion of a lift. While he stands in the lift on a bathroom scale (calibrated in newton), he notes three stages of his journey.
+<list id="id70122" display="block" list-type="enumerated"><item id="uid152">For 2 s immediately after the lift starts, the scale reads 574 N.
+</item><item id="uid153">For a further 6 s it reads 700 N.
+</item><item id="uid154">For the final 2 s it reads 854 N.
+</item></list>
+Answer the following questions:
+<list id="id70168" display="block" list-type="enumerated"><item id="uid155">Is the motion of the lift upward or downward? Give a reason for your answer.
+</item><item id="uid156">Write down the magnitude and the direction of the resultant force acting on the student for each of the stages I, II and III.
+</item><item id="uid157">Calculate the magnitude of the acceleration of the lift during the first 2s.
+</item></list></item>
+          <item id="uid158">A car of mass 800 kg accelerates along a level road at 4 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>. A frictional force of 700 N opposes its motion. What force is produced by the car's engine?
+</item>
+          <item id="uid159">Two objects, with masses of 1 kg and 2 kg respectively, are placed on a smooth surface and connected with a piece of string. A horizontal force of 6 N is applied with the help of a spring balance to the 1 kg object. Ignoring friction, what will the force acting on the 2 kg mass, as measured by a second spring balance, be?
+<figure id="uid160"><media id="uid160_media" alt=""><image mime-type="image/png" src="../../media/PG11C11_041.png" id="uid160_onlineimage" width="313"><!-- NOTE: attribute width changes image size online (pixels). original width is 313. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_041.eps" id="uid160_printimage"/></media></figure></item>
+          <item id="uid161">A rocket of mass 200 kg has a resultant force of 4000 N upwards on it.
+<list id="id70290" display="block" list-type="enumerated"><item id="uid162">What is its acceleration in space, where it has no weight?
+</item><item id="uid163">What is its acceleration on the Earth, where it has weight?
+</item><item id="uid164">What driving force does the rocket engine need to exert on the back of the rocket in space?
+</item><item id="uid165">What driving force does the rocket engine need to exert on the back of the rocket on the Earth?
+</item></list></item>
+          <item id="uid166">A car going at 20 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>accelerates uniformly and comes to a stop in a distance of 20 m.
+<list id="id70385" display="block" list-type="enumerated"><item id="uid167">What is its acceleration?
+</item><item id="uid168">If the car is 1000 kg how much force do the brakes exert?
+</item></list></item>
+        </list>
+      </section>
+ 
+     </content>
+</document>

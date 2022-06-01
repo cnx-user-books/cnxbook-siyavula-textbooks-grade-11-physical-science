@@ -1,0 +1,682 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Mining and mineral processing</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39079</md:content-id>
+  <md:title>Mining and mineral processing</md:title>
+  <md:abstract/>
+  <md:uuid>173418f5-2c73-444d-98d7-399facc22a7a</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>Mining and Mineral Processing: Gold</title>
+      <section id="uid13">
+        <title>Introduction</title>
+        <para id="id63547">Gold was discovered in South Africa in the late 1800's and since then has played a very important role in South Africa's <emphasis effect="italics">history</emphasis> and <emphasis effect="italics">economy</emphasis>. Its discovery brought many foreigners into South Africa, who were lured by the promises of wealth. They set up small mining villages, which later grew into larger settlements, towns and cities. One of the first of these settlements was the beginning of present-day Johannesburg, also known as 'Egoli' or 'Place of Gold'.</para>
+        <para id="id63565">Most of South Africa's gold is concentrated in the 'Golden Arc', which stretches from Johannesburg to Welkom. Geologists believe that, millions of years ago, this area was a massive inland lake. Rivers feeding into this lake brought sand, silt, pebbles and fine particles of gold and deposited them over a long period of time. Eventually these deposits accumulated and became compacted to form gold-bearing sedimentary rock or <emphasis effect="bold">gold reefs</emphasis>. It is because of this complex, but unique, set of circumstances that South Africa's gold deposits are so concentrated in that area. In other countries like Zimbabwe, gold occurs in smaller 'pockets', which are scattered over a much greater area.</para>
+      </section>
+      <section id="uid14">
+        <title>Mining the Gold</title>
+        <para id="id63592">A number of different techniques can be used to mine gold. The three most common methods in South Africa are <emphasis effect="bold">panning</emphasis>, <emphasis effect="bold">open cast</emphasis> and <emphasis effect="bold">shaft</emphasis> mining.</para>
+        <list id="id63614" display="block" list-type="enumerated">
+          <item id="uid15"><emphasis effect="bold">Panning</emphasis>
+Panning for gold is a manual technique that is used to sort gold from other sediments. Wide, shallow pans are filled with sand and gravel (often from river beds) that may contain gold. Water is added and the pans are shaken so that the gold is sorted from the rock and other materials. Because gold is much more dense, it settles to the bottom of the pan. <emphasis effect="bold">Pilgrim's Rest</emphasis> in Mpumalanga, was the first site for gold panning in South Africa.
+</item>
+          <item id="uid16"><emphasis effect="bold">Open cast mining</emphasis>
+This is a form of surface mining. Surface layers of rock and sediments are removed so that the deeper gold rich layers can be reached. This type of mining is not suitable if the gold is buried very deep below the surface.
+</item>
+          <item id="uid17"><emphasis effect="bold">Shaft mining</emphasis>
+South Africa's thin but extensive gold reefs slope at an angle underneath the ground, and this means that some deposits are very deep and often difficult to reach. Shaft mining is needed to reach the gold ore. After the initial drilling, blasting and equipping of a mine shaft, tunnels are built leading outwards from the main shaft so that the gold reef can be reached. Shaft mining is a dangerous operation, and roof supports are needed so that the rock does not collapse. There are also problems of the intense heat and high pressure below the surface which make shaft mining very complex, dangerous and expensive. A diagram illustrating open cast and shaft mining is shown in <link target-id="uid18"/>.
+<figure id="uid18"><media id="uid18_media" alt=""><image mime-type="image/png" src="../../media/CG11C9_002.png" id="uid18_onlineimage" width="394"><!-- NOTE: attribute width changes image size online (pixels). original width is 394. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C9_002.eps" id="uid18_printimage"/></media><caption>Diagram showing open cast and shaft mining</caption></figure></item>
+        </list>
+      </section>
+      <section id="uid19">
+        <title>Processing the gold ore</title>
+        <para id="id63718">For every ton of ore that is mined, only a very small amount of gold is extracted. A number of different methods can be used to separate gold from its ore, but one of the more common methods is called <emphasis effect="bold">gold cyanidation</emphasis>.</para>
+        <para id="id63729">In the process of gold cyanidation, the ore is crushed and then cyanide (CN<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math>) solution is added so that the gold particles are chemically dissolved from the ore. In this step of the process, gold is oxidised. Zinc dust is then added to the cyanide solution. The zinc takes the place of the gold, so that the gold is precipitated out of the solution. This process is shown in <link target-id="uid20"/>.</para>
+        <figure id="uid20">
+          <media id="uid20_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C9_003.png" id="uid20_onlineimage" width="594"><!-- NOTE: attribute width changes image size online (pixels). original width is 594. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C9_003.eps" id="uid20_printimage"/>
+          </media>
+          <caption>Flow diagram showing how gold is processed</caption>
+        </figure>
+<note id="notfhsst_id211"><title> Interesting Fact </title> 
+Another method that is used to process gold is called the 'carbon-in-pulp' (CIP) method. This method makes use of the high affinity that activated carbon has for gold, and there are three stages to the process. The first stage involves the <emphasis effect="italics">absorption</emphasis> of gold in the cyanide solution to carbon. In the <emphasis effect="italics">elution</emphasis> stage, gold is removed from the carbon into an alkaline cyanide solution. In the final stage, <emphasis effect="italics">electro-winning</emphasis> is used to remove gold from the solution through a process of electrolysis. Gold that has been removed is deposited on steel wool electrodes. The carbon is then treated so that it can be re-used.</note>
+      </section>
+      <section id="uid21">
+        <title>Characteristics and uses of gold</title>
+        <para id="id63806">Gold has a number of uses because of its varied and unique characteristics. Below is a list of some of these characteristics that have made gold such a valuable metal:</para>
+        <list id="id63811" display="block" list-type="bulleted">
+          <item id="uid22"><emphasis effect="italics">Shiny</emphasis>
+Gold's beautiful appearance has made it one of the favourite metals for use in jewelery.
+</item>
+          <item id="uid23"><emphasis effect="italics">Durable</emphasis>
+Gold does not tarnish or corrode easily, and therefore does not deteriorate in quality. It is sometimes used in dentistry to make the crowns for teeth.
+</item>
+          <item id="uid24"><emphasis effect="italics">Malleable and ductile</emphasis>
+Since gold can be bent and twisted into shape, as well as being flattened into very thin sheets, it is very useful in fine wires and to produce sheets of gold.
+</item>
+          <item id="uid25"><emphasis effect="italics">Good conductor</emphasis>
+Gold is a good conductor of electricity and is therefore used in transistors, computer circuits and telephone exchanges.
+</item>
+          <item id="uid26"><emphasis effect="italics">Heat ray reflector</emphasis>
+Because gold reflects heat very effectively, it is used in space suits and in vehicles. It is also used in the protective outer coating of artificial satellites. One of the more unusual applications of gold is its use in firefighting, where a thin layer of gold is placed in the masks of the firefighters to protect them from the heat.
+</item>
+        </list>
+<section id="secfhsst_id234"><title> Case Study : Dropping like a gold balloon
+        </title>
+        <para id="id63928">Read the article below, which has been adapted from one that appeared in the <emphasis effect="italics">Financial Mail</emphasis> on 15th April 2005 and then answer the questions that follow.</para>
+        <para id="id63941">
+          <quote id="id63941_quote" display="block">As recently as 1980, South Africa accounted for over 70% of world gold production. In 2004, that figure was a dismal 14%. Chamber of Mines figures showed that SA's annual gold production last year slipped to its lowest level since 1931.</quote>
+        </para>
+        <para id="id63951">
+          <quote id="id63951_quote" display="block">Chamber economist Roger Baxter says the 'precipitous' fall in production was caused by the dual impact of the fall in the rand gold price due to the strong rand, and the continued upward rise in costs. Many of these costs, laments Baxter, are 'costs we do not have control over'. These include water, transport, steel and labour costs, which rose by 13% on average in 2004.</quote>
+        </para>
+        <para id="id63959">
+          <quote id="id63959_quote" display="block">He provides a breakdown of the cost components faced by mines:</quote>
+        </para>
+        <list id="id63965" display="block" list-type="bulleted">
+          <item id="uid27">Water prices have risen by 10% per year for the past 3 years
+</item>
+          <item id="uid28">Steel prices have increased by double-digit rates for each of the past 3 years
+</item>
+          <item id="uid29">Spoornet's tariffs rose 35% in 2003 and 16.5% in 2004
+</item>
+          <item id="uid30">Labour costs, which make up 50% of production costs, rose above inflation in 2003 and 2004
+</item>
+        </list>
+        <para id="id64029">
+          <quote id="id64029_quote" display="block">At these costs, and at current rand gold prices, about 10 mines, employing 90 000 people, are marginal or loss-making, says Baxter.</quote>
+        </para>
+        <list id="id64036" display="block" list-type="enumerated">
+          <item id="uid31">Refer to the table below showing SA's gold production in tons between 1980 and 2004.
+<table id="id64052" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Year</emphasis></entry><entry><emphasis effect="bold">Production (t)</emphasis></entry></row><row><entry>1980</entry><entry>675</entry></row><row><entry>1985</entry><entry>660</entry></row><row><entry>1990</entry><entry>600</entry></row><row><entry>1995</entry><entry>525</entry></row><row><entry>2000</entry><entry>425</entry></row><row><entry>2004</entry><entry>340</entry></row></tbody></tgroup></table>
+Draw a line graph to illustrate these statistics.
+</item>
+          <item id="uid32">What percentage did South Africa's gold production contribute towards global production in:
+<list id="id64235" display="block" list-type="enumerated"><item id="uid33">1980
+</item><item id="uid34">2004
+</item></list></item>
+          <item id="uid35">Outline two reasons for this drop in gold production.
+</item>
+          <item id="uid36">Briefly explain how the increased cost of resources such as water contributes towards declining profitability in gold mines.
+</item>
+          <item id="uid37">Suggest a reason why the cost of <emphasis effect="italics">steel</emphasis> might affect gold production.
+</item>
+          <item id="uid38">Suggest what impact a decrease in gold production is likely to have on...
+<list id="id64320" display="block" list-type="enumerated"><item id="uid39">South Africa's economy
+</item><item id="uid40">mine employees
+</item></list></item>
+          <item id="uid41">Find out what the current price of gold is. Discuss why you think gold is so expensive.
+</item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid42">
+        <title>Environmental impacts of gold mining</title>
+        <para id="id64383">However, despite the incredible value of gold and its usefulness in a variety of applications, all mining has an environmental cost. The following are just a few of the environmental impacts of gold mining:</para>
+        <list id="id64388" display="block" list-type="bulleted">
+          <item id="uid43"><emphasis effect="italics">Resource consumption</emphasis>
+Gold mining needs large amounts of electricity and water.
+</item>
+          <item id="uid44"><emphasis effect="italics">Poisoned water</emphasis>
+Acid from gold processing can leach into nearby water systems such as rivers, causing damage to animals and plants, as well as humans that may rely on that water for drinking. The disposal of other toxic waste (e.g. cyanide) can also have a devastating effect on biodiversity.
+</item>
+          <item id="uid45"><emphasis effect="italics">Solid waste</emphasis>
+This applies particularly to open pit mines, where large amounts of soil and rock must be displaced in order to access the gold reserves. Processing the gold ore also leaves solid waste behind.
+</item>
+          <item id="uid46"><emphasis effect="italics">Air pollution</emphasis>
+Dust from open pit mines, as well as harmful gases such as sulfur dioxide and nitrogen dioxide which are released from the furnaces, contribute to air pollution.
+</item>
+          <item id="uid47"><emphasis effect="italics">Threaten natural areas</emphasis>
+Mining activities often encroach on protected areas and threaten biodiversity in their operation areas.
+</item>
+        </list>
+<section id="secfhsst_id304"><title> Discussion : Mine rehabilitation
+        </title>
+        <para id="id64504">There is a growing emphasis on the need to rehabilitate old mine sites that are no longer in use. If it is too difficult to restore the site to what it was before, then a new type of land use might be decided for that area. Any mine rehabilitation programme should aim to achieve the following:</para>
+        <list id="id64512" display="block" list-type="bulleted">
+          <item id="uid48">ensure that the site is safe and stable
+</item>
+          <item id="uid49">remove pollutants that are contaminating the site
+</item>
+          <item id="uid50">restore the biodiversity that was there before mining started
+</item>
+          <item id="uid51">restore waterways to what they were before mining
+</item>
+        </list>
+        <para id="id64566">There are different ways to achieve these goals. Plants for example, can be used to remove metals from polluted soils and water, and can also help to stabilise the soil so that other vegetation can grow. Land contouring can help to restore drainage in the area.</para>
+        <para id="id64572">
+          <emphasis effect="bold">Discussion:</emphasis>
+        </para>
+        <para id="id64581">
+          <emphasis effect="italics">In groups of 3-4, discuss the following questions:</emphasis>
+        </para>
+        <list id="id64590" display="block" list-type="enumerated">
+          <item id="uid52">What are the main benefits of mine rehabilitation?
+</item>
+          <item id="uid53">What are some of the difficulties that may be experienced in trying to rehabilitate a mine site?
+</item>
+          <item id="uid54">Suggest some creative ideas that could be used to encourage mining companies to rehabilitate old sites.
+</item>
+          <item id="uid55">One rehabilitation project that has received a lot of publicity is the rehabilitation of dunes that were mined for titanium by Richards Bay Minerals (RBM). As a group, carry out your own research to try to find out more about this project.
+<list id="id64645" display="block" list-type="bulleted"><item id="uid56">What actions did RBM take to rehabilitate the dunes?
+</item><item id="uid57">Was the project successful?
+</item><item id="uid58">What were some of the challenges faced?
+</item></list></item>
+        </list>
+        
+</section>
+<section id="secfhsst_id339"><title> Gold mining
+        </title>
+        <para id="id64710">Mapungubwe in the Limpopo Province is evidence of gold mining in South Africa as early as 1200. Today, South Africa is a world leader in the technology of gold mining. The following flow diagram illustrates some of the most important steps in the recovery of gold from its ore.</para>
+        <para id="id64718">
+          <figure id="id64721">
+            <media id="id64721_media" alt="">
+              <image mime-type="image/png" src="../../media/CG11C9_004.png" id="id64721_onlineimage" width="328"><!-- NOTE: attribute width changes image size online (pixels). original width is 328. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG11C9_004.eps" id="id64721_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <list id="id64728" display="block" list-type="enumerated">
+          <item id="uid59">Name the process indicated by A.
+</item>
+          <item id="uid60">During process A, gold is extracted from the ore. Is gold oxidised or reduced during this process?
+</item>
+          <item id="uid61">Use oxidation numbers to explain your answer to the question above.
+</item>
+          <item id="uid62">Name the chemical substance that is used in process B.
+</item>
+          <item id="uid63">During smelting (illustrated by C in the diagram), gold is sent into a calcining furnace. Briefly explain the importance of this process taking place in the furnace.
+</item>
+          <item id="uid64">The recovery of gold can have a negative impact on water in our country, if not managed properly. State at least one negative influence that the recovery of gold can have on water resources and how it will impact on humans and the environment.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid7">
+      <title>Mining and mineral processing: Iron</title>
+      <para id="id64829">Iron is one of the most abundant metals on Earth. Its concentration is highest in the core, and lower in the crust. It is extracted from <emphasis effect="bold">iron ore</emphasis> and is almost never found in its elemental form. Iron ores are usually rich in <emphasis effect="bold">iron oxide</emphasis> minerals and may vary in colour from dark grey to rusty red. Iron is usually found in minerals such as magnetite (Fe<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>) and hematite (Fe<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>). Iron ore also contains other elements, which have to be removed in various ways. These include silica (Si), phosphorus (P), aluminium (Al) and sulfur (S).</para>
+      <section id="uid65">
+        <title>Iron mining and iron ore processing</title>
+        <para id="id64909">One of the more common methods of mining for iron ore is <emphasis effect="bold">open cast mining</emphasis>. Open cast mining is used when the iron ore is found near the surface. Once the ore has been removed, it needs to be crushed into fine particles before it can be processed further.</para>
+        <para id="id64920">As mentioned earlier, iron is commonly found in the form of <emphasis effect="bold">iron oxides</emphasis>. To create pure iron, the ore must be <emphasis effect="bold">smelted</emphasis> to remove the oxygen.</para>
+<definition id="fhsst_id375"><term id="termfhsst_id375"> Smelting </term> <meaning id="meaningfhsst_id375">
+        <para id="id64944">Smelting is a method used to extract a metal from its ore and then purify it.
+ </para>
+        </meaning></definition>
+        <para id="id64956">Smelting usually involves heating the ore and also adding a reducing agent (e.g. carbon) so that the metal can be freed from its ore. The bonds between iron and oxygen are very strong, and therefore it is important to use an element that will form stronger bonds with oxygen that the iron. This is why carbon is used. In fact, carbon monoxide is the main ingredient that is needed to strip oxygen from iron. These reactions take place in a <emphasis effect="bold">blast furnace</emphasis>.</para>
+        <para id="id64969">A blast furnace is a huge steel container many metres high and lined with heat-resistant material. In the furnace the solid raw materials, i.e. iron ore, carbon (in the form of 'coke', a type of coal) and a flux (e.g. limestone) are fed into the top of the furnace and a blast of heated air is forced into the furnace from the bottom. Temperatures in a blast furnace can reach 2000<m:math overflow="scroll"><m:msup><m:mrow/><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:msup></m:math>C. A simple diagram of a blast furnace is shown in <link target-id="uid66"/>. The equations for the reactions that take place are shown in the flow diagram below.</para>
+        <para id="id65002">STEP 1: Production of carbon monoxide</para>
+        <para id="id65009">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>→</m:mo>
+              <m:mi>C</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id65044">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mi>C</m:mi>
+              <m:mo>→</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi>C</m:mi>
+              <m:mi>O</m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id65078">STEP 2: Reduction of iron oxides takes place in a number of stages to produce iron.</para>
+        <para id="id65084">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mn>3</m:mn>
+              <m:mi>F</m:mi>
+              <m:msub>
+                <m:mi>e</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mi>C</m:mi>
+              <m:mi>O</m:mi>
+              <m:mo>→</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi>F</m:mi>
+              <m:msub>
+                <m:mi>e</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>4</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mi>C</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id65334">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>F</m:mi>
+              <m:msub>
+                <m:mi>e</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>4</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mi>C</m:mi>
+              <m:mi>O</m:mi>
+              <m:mo>→</m:mo>
+              <m:mn>3</m:mn>
+              <m:mi>F</m:mi>
+              <m:mi>e</m:mi>
+              <m:mi>O</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>C</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id65389">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>F</m:mi>
+              <m:mi>e</m:mi>
+              <m:mi>O</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>C</m:mi>
+              <m:mi>O</m:mi>
+              <m:mo>→</m:mo>
+              <m:mi>F</m:mi>
+              <m:mi>e</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>C</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id65429">STEP 3: Fluxing</para>
+        <para id="id65434">The flux is used to melt impurities in the ore. A common flux is limestone (CaCO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>). Common impurities are silica, phosphorus (makes steel brittle), aluminium and sulfur (produces SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> gases during smelting and interferes with the smellting process).</para>
+        <para id="id65466">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:mi>a</m:mi>
+              <m:mi>C</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:mo>→</m:mo>
+              <m:mi>C</m:mi>
+              <m:mi>a</m:mi>
+              <m:mi>O</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>C</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id65510">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:mi>a</m:mi>
+              <m:mi>O</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>S</m:mi>
+              <m:mi>i</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>→</m:mo>
+              <m:mi>C</m:mi>
+              <m:mi>a</m:mi>
+              <m:mi>S</m:mi>
+              <m:mi>i</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id65559">In step 3, the calcium carbonate breaks down into calcium oxide and carbon dioxide. The calcium oxide then reacts with silicon dioxide (the impurity) to form a <emphasis effect="bold">slag</emphasis>. In this case the slag is the CaSiO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>. The slag melts in the furnace, whereas the silicon dioxide would not have, and floats on the more dense iron. This can then be separated and removed.</para>
+        <figure id="uid66">
+          <media id="uid66_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C9_005.png" id="uid66_onlineimage" width="356"><!-- NOTE: attribute width changes image size online (pixels). original width is 356. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C9_005.eps" id="uid66_printimage"/>
+          </media>
+          <caption>A blast furnace, showing the reactions that take place to produce iron</caption>
+        </figure>
+      </section>
+      <section id="uid67">
+        <title>Types of iron</title>
+        <para id="id65605">Iron is the most used of all the metals. Its combination of low cost and high strength make it very important in applications such as industry, automobiles, the hulls of large ships and in the structural components of buildings. Some of the different forms that iron can take include:</para>
+        <list id="id65611" display="block" list-type="bulleted">
+          <item id="uid68"><emphasis effect="bold">Pig iron</emphasis> is raw iron and is the direct product when iron ore and coke are smelted. It has between 4% and 5% carbon and contains varying amounts of contaminants such as sulfur, silicon and phosphorus. Pig iron is an intermediate step between iron ore, cast iron and steel.
+</item>
+          <item id="uid69"><emphasis effect="bold">Wrought iron</emphasis> is commercially pure iron and contains less than 0.2% carbon. It is tough, malleable and ductile. Wrought iron does not rust quickly when it is used outdoors. It has mostly been replaced by mild steel for 'wrought iron' gates and blacksmithing. Mild steel does not have the same corrosion resistance as true wrought iron, but is cheaper and more widely available.
+</item>
+          <item id="uid70"><emphasis effect="bold">Steel</emphasis> is an alloy made mostly of iron, but also containing a small amount of carbon. Elements other than carbon can also be used to make alloy steels. These include manganese and tungsten. By varying the amounts of the alloy elements in the steel, the following characteristics can be altered: hardness, elasticity, ductility and tensile strength.
+</item>
+          <item id="uid71"><emphasis effect="bold">Corrugated iron</emphasis> is actually sheets of galvanised steel that have been rolled to give them a corrugated pattern. Corrugated iron is a common building material.
+</item>
+        </list>
+        <para id="id65691">One problem with iron and steel is that pure iron and most of its alloys rust. These products therefore need to be protected from water and oxygen, and this is done through painting, galvanisation and plastic coating.</para>
+<note id="notfhsst_id577"><title> Interesting Fact </title> 
+Iron is also a very important element in all living organisms. One important role that iron plays is that it is a component of the protein <emphasis effect="bold">haemoglobin</emphasis> which is the protein in blood. It is the iron in the haemoglobin that helps to attract and hold oxygen so that this important gas can be transported around the body in the blood, to where it is needed.
+</note>
+      </section>
+      <section id="uid72">
+        <title>Iron in South Africa</title>
+        <para id="id65721">The primary steel industry is an important part of the South African economy and it generates a great deal of foreign exchange.</para>
+        <list id="id65726" display="block" list-type="bulleted">
+          <item id="uid73">About 40 million tons of iron ore is mined annually in South Africa. Approximately 15 million tons are consumed locally, and the remaining 25 million tons are exported.
+</item>
+          <item id="uid74">South Africa is ranked about 20th in the world in terms of its crude steel production.
+</item>
+          <item id="uid75">South Africa is the largest steel producer in Africa.
+</item>
+          <item id="uid76">South Africa exports crude steel and finished steel products, and a lot is also used locally.
+</item>
+          <item id="uid77">Some of the products that are manufactured in South Africa include reinforcing bars, railway track material, wire rod, plates and steel coils and sheets.
+</item>
+        </list>
+<section id="secfhsst_id596"><title> Iron
+        </title>
+        <para id="id65808">Iron is usually extracted from heamatite (iron(III)oxide). Iron ore is mixed with limestone and coke in a blast furnace to produce the metal. The following incomplete word equations describe the extraction process:</para>
+        <list id="id65815" display="block" list-type="bulleted">
+          <item id="uid78"><label>A</label>coke + oxygen <m:math overflow="scroll"><m:mo>→</m:mo></m:math> gasX
+</item>
+          <item id="uid79"><label>B</label>gasX + coke <m:math overflow="scroll"><m:mo>→</m:mo></m:math> gasY
+</item>
+          <item id="uid80"><label>C</label>iron(III)oxide + gasY <m:math overflow="scroll"><m:mo>→</m:mo></m:math> iron + gasX
+</item>
+        </list>
+        <list id="id65890" display="block" list-type="enumerated">
+          <item id="uid81">Name the gases X and Y.
+</item>
+          <item id="uid82">Write a balanced chemical equation for reaction C.
+</item>
+          <item id="uid83">What is the function of gas Y in reaction C?
+</item>
+          <item id="uid84">Why is limestone added to the reaction mixture?
+</item>
+          <item id="uid85">Briefly describe the impact that the mining of iron has on the economy and the environment in our country.
+</item>
+        </list>
+        <para id="id65956">(DoE Exemplar Paper, Grade 11, 2007)</para>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid8">
+      <title>Mining and mineral processing: Phosphates</title>
+      <para id="id65979">A phosphate is a salt of <emphasis effect="bold">phosphoric acid</emphasis> (H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>PO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>). Phosphates are the naturally occurring form of the element phosphorus. Phosphorus is seldom found in its pure elemental form, and <emphasis effect="bold">phosphate</emphasis> therefore refers to a rock or ore that contains phosphate ions. The chemical formula for the phosphate ion is PO<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math>.</para>
+      <section id="uid86">
+        <title>Mining phosphates</title>
+        <para id="id66052">Phosphate is found in beds in sedimentary rock, and has to be quarried to access the ore. A quarry is a type of open pit mine that is used to extract ore. In South Africa, the main phosphate producer is at the Palaborwa alkaline igneous complex, which produces about 3 million tons of ore per year. The ore is crushed into a powder and is then treated with sulfuric acid to form a superphosphate (Ca(H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>PO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>), which is then used as a fertilizer. In the equation below, the phosphate mineral is calcium phosphate (Ca<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>(PO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>.</para>
+        <para id="id66137">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:msub>
+                <m:mi>a</m:mi>
+                <m:mn>10</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>P</m:mi>
+                  <m:msub>
+                    <m:mi>O</m:mi>
+                    <m:mn>4</m:mn>
+                  </m:msub>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mn>6</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>F</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mn>7</m:mn>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi>S</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>4</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mn>3</m:mn>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi>O</m:mi>
+              <m:mo>→</m:mo>
+              <m:mn>3</m:mn>
+              <m:mi>C</m:mi>
+              <m:mi>a</m:mi>
+              <m:msub>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:msub>
+                    <m:mi>H</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                  <m:mi>P</m:mi>
+                  <m:msub>
+                    <m:mi>O</m:mi>
+                    <m:mn>4</m:mn>
+                  </m:msub>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi>O</m:mi>
+              <m:mo>+</m:mo>
+              <m:mn>7</m:mn>
+              <m:mi>C</m:mi>
+              <m:mi>a</m:mi>
+              <m:mi>S</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>4</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id66287">Alternatively, the ore can be treated with concentrated phosphoric acid (which forms a triple superphosphate), in which case the reaction looks like this:</para>
+        <para id="id66292">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:msub>
+                <m:mi>a</m:mi>
+                <m:mn>10</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>P</m:mi>
+                  <m:msub>
+                    <m:mi>O</m:mi>
+                    <m:mn>4</m:mn>
+                  </m:msub>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mn>6</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>F</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mn>14</m:mn>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:mi>P</m:mi>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>4</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mn>10</m:mn>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi>O</m:mi>
+              <m:mo>→</m:mo>
+              <m:mn>10</m:mn>
+              <m:mi>C</m:mi>
+              <m:mi>a</m:mi>
+              <m:msub>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:msub>
+                    <m:mi>H</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                  <m:mi>P</m:mi>
+                  <m:msub>
+                    <m:mi>O</m:mi>
+                    <m:mn>4</m:mn>
+                  </m:msub>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi>O</m:mi>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi>H</m:mi>
+              <m:mi>F</m:mi>
+            </m:mrow>
+          </m:math>
+        </para>
+      </section>
+      <section id="uid87">
+        <title>Uses of phosphates</title>
+        <para id="id66439">Phosphates are mostly used in <emphasis effect="bold">agriculture</emphasis>. Phosphates are one of the three main nutrients needed by plants, and they are therefore an important component of <emphasis effect="bold">fertilisers</emphasis> to stimulate plant growth.</para>
+<note id="notfhsst_id788"><title> Interesting Fact </title> Exploring the lithosphere for minerals is not a random process! <emphasis effect="bold">Geologists</emphasis> help to piece together a picture of what past environments might have been like, so that predictions can be made about where minerals might have a high concentration. <emphasis effect="bold">Geophysicists</emphasis> measure gravity, magnetics and the electrical properties of rocks to try to make similar predictions, while <emphasis effect="bold">geochemists</emphasis> sample the soils at the earth's surface to get an idea of what lies beneath them. You can see now what an important role scientists play in mineral exploration!
+</note>
+<section id="secfhsst_id790"><title> Phosphates </title>
+        <para id="id66491">Rock phosphate [Ca<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>10</m:mn></m:msub></m:math>(PO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>], mined from open pit mines at Phalaborwa, is an important raw material in the production of fertilisers. The following two reactions are used to transform rock phosphate into water soluble phosphates:</para>
+        <list id="id66550" display="block" list-type="bulleted">
+          <item id="uid88"><label>A:</label>Ca<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>10</m:mn></m:msub></m:math>(PO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> + 7X + 3H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O <m:math overflow="scroll"><m:mo>→</m:mo></m:math> 3Ca(H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>PO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O + 2HF + 7CaSO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></item>
+          <item id="uid89"><label>B:</label>Ca<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>10</m:mn></m:msub></m:math>(PO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> + 14Y + 10H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O <m:math overflow="scroll"><m:mo>→</m:mo></m:math> 10Ca(H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>PO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O + 2HF
+</item>
+        </list>
+        <list id="id66844" display="block" list-type="enumerated">
+          <item id="uid90">Identify the acids represented by X and Y.
+</item>
+          <item id="uid91">Despite similar molecular formulae, the products Ca(H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>PO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> formed in the two reactions have different common names. Write down the names for each of these products in reactions A and B.
+</item>
+          <item id="uid92">Refer to the products in reactions A and B and write down TWO advantages of reaction B over reaction A.
+</item>
+          <item id="uid93">Why is rock phosphate unsuitable as fertiliser?
+</item>
+          <item id="uid94">State ONE advantage and ONE disadvantage of phosphate mining.
+</item>
+        </list>
+        <para id="id66950">(DoE Exemplar Paper, Grade 11, 2007)
+ </para>
+</section>
+<section id="secfhsst_id812"><title> Case Study : Controversy on the Wild Coast - Titanium mining
+        </title>
+        <para id="id66973"><emphasis effect="italics">Read the extract below, which has been adapted from an article that appeared in the</emphasis> Mail and Guardian <emphasis effect="italics">on 4th May 2007, and then answer the questions that follow.</emphasis></para>
+        <para id="id66988"/>
+        <para id="id66996">
+          <quote id="id66996_quote" display="block">A potentially violent backlash looms in Pondoland over efforts by an Australian company to persuade villagers to back controversial plans to mine an environmentally sensitive strip of the Wild Coast. The mining will take place in the Xolobeni dunes, south of Port Edward. The application has outraged environmental groups, largely because the proposed mining areas form part of the Pondoland centre of endemism, which has more species than the United Kingdom, some of which are endemic and facing extinction.</quote>
+        </para>
+        <para id="id67005">
+          <quote id="id67005_quote" display="block">Exploratory drilling revealed Xolobeni has the world's 10th largest titanium deposit, worth about R11 billion. The amount of money that will be spent over the mine's 22 years, including a smelter, is estimated at R1.4 billion. The Australian mining company predicts that 570 direct jobs will be created.</quote>
+        </para>
+        <para id="id67016">
+          <quote id="id67016_quote" display="block">But at least two communities fiercely oppose the mining plans. Some opponents are former miners who fear Gauteng's mine dumps and compounds will be replicated on the Wild Coast. Others are employees of failed ecotourism ventures, who blame the mining company for their situation. Many are suspicious of outsiders. The villagers have also complained that some of the structures within the mining company are controlled by business leaders with political connections, who are in it for their own gain. Intimidation of people who oppose the mining has also been alleged. Headman Mandoda Ndovela was shot dead after his outspoken criticism of the mining.</quote>
+        </para>
+        <para id="id67029">
+          <quote id="id67029_quote" display="block">Mzamo Dlamini, a youth living in one of the villages that will be affected by the mining, said 10% of the Amadiba 'who were promised riches by the mining company' support mining. 'The rest say if people bring those machines, we will fight.'</quote>
+        </para>
+        <list id="id67039" display="block" list-type="enumerated">
+          <item id="uid95">Explain what the following words means:
+<list id="id67055" display="block" list-type="enumerated"><item id="uid96">endemic
+</item><item id="uid97">smelter
+</item><item id="uid98">ecotourism
+</item></list></item>
+          <item id="uid99">What kinds of 'riches' do you think the Amadiba people have been promised by the mining company?
+</item>
+          <item id="uid100">In two columns, list the potential <emphasis effect="bold">advantages</emphasis> and <emphasis effect="bold">disadvantages</emphasis> of mining in this area.
+</item>
+          <item id="uid101">Imagine that you were one of the villagers in this area. Write down <emphasis effect="italics">three questions</emphasis> that you would want the mining company to answer before you made a decision about whether to oppose the mining or not. Share your ideas with the rest of the class.
+</item>
+          <item id="uid102">Imagine that you are an environmentalist. What would your main concerns be about the proposed mining project? Again share your answers with the rest of the class.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

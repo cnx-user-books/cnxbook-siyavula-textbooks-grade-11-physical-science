@@ -1,0 +1,128 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Understanding intermolecular forces</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39063</md:content-id>
+  <md:title>Understanding intermolecular forces</md:title>
+  <md:abstract/>
+  <md:uuid>c1dc06c8-c1d4-4593-939b-940f0111a2f1</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid3">
+      <title>Understanding intermolecular forces</title>
+      <para id="id261322">The types of intermolecular forces that occur in a substance will affect its properties, such as its <emphasis effect="bold">phase</emphasis>, <emphasis effect="bold">melting point</emphasis> and <emphasis effect="bold">boiling point</emphasis>. You should remember, if you think back to the kinetic theory of matter, that the <emphasis effect="italics">phase</emphasis> of a substance is determined by how strong the forces are between its particles. The weaker the forces, the more likely the substance is to exist as a gas because the particles are far apart. If the forces are very strong, the particles are held closely together in a solid structure. Remember also that the <emphasis effect="italics">temperature</emphasis> of a material affects the energy of its particles. The more energy the particles have, the more likely they are to be able to overcome the forces that are holding them together. This can cause a change in phase.</para>
+<definition id="fhsst_id151"><term id="termfhsst_id151"> Boiling point </term> <meaning id="meaningfhsst_id151">
+      <para id="id261367">The temperature at which a material will change from being a liquid to being a gas. </para>
+      </meaning></definition>
+<definition id="fhsst_id154"><term id="termfhsst_id154"> Melting point </term> <meaning id="meaningfhsst_id154">
+      <para id="id261385">The temperature at which a material will change from being a solid to being a liquid. </para>
+      </meaning></definition>
+      <para id="id261397">Now look at the data in <link target-id="uid15"/>.</para>
+      <table id="uid15" summary="">
+        <tgroup cols="4">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Formula</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Formula mass</emphasis>
+              </entry>
+              <entry><emphasis effect="bold">Melting point</emphasis> (<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C)</entry>
+              <entry><emphasis effect="bold">Boiling point</emphasis> (<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C) at 1 atm</entry>
+            </row>
+            <row>
+              <entry>He</entry>
+              <entry>4</entry>
+              <entry>-270</entry>
+              <entry>-269</entry>
+            </row>
+            <row>
+              <entry>Ne</entry>
+              <entry>20</entry>
+              <entry>-249</entry>
+              <entry>-246</entry>
+            </row>
+            <row>
+              <entry>Ar</entry>
+              <entry>40</entry>
+              <entry>-189</entry>
+              <entry>-186</entry>
+            </row>
+            <row>
+              <entry>F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry>
+              <entry>38</entry>
+              <entry>-220</entry>
+              <entry>-188</entry>
+            </row>
+            <row>
+              <entry>Cl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry>
+              <entry>71</entry>
+              <entry>-101</entry>
+              <entry>-35</entry>
+            </row>
+            <row>
+              <entry>Br<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry>
+              <entry>160</entry>
+              <entry>-7</entry>
+              <entry>58</entry>
+            </row>
+            <row>
+              <entry>NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></entry>
+              <entry>17</entry>
+              <entry>-78</entry>
+              <entry>-33</entry>
+            </row>
+            <row>
+              <entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O</entry>
+              <entry>18</entry>
+              <entry>0</entry>
+              <entry>100</entry>
+            </row>
+            <row>
+              <entry>HF</entry>
+              <entry>20</entry>
+              <entry>-83</entry>
+              <entry>20</entry>
+            </row>
+          </tbody>
+        </tgroup>
+        <caption>Melting point and boiling point of a number of chemical substances</caption>
+      </table>
+      <para id="id262067">The melting point and boiling point of a substance, give us information about the <emphasis effect="italics">phase</emphasis> of the substance at room temperature, and the <emphasis effect="italics">strength of the intermolecular forces</emphasis>. The examples below will help to explain this.</para>
+      <para id="id262083"><emphasis effect="bold">Example 1:</emphasis> Fluorine (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)</para>
+      <para id="id262102">
+        <emphasis effect="italics">Phase at room temperature</emphasis>
+      </para>
+      <para id="id262110">Fluorine (F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) has a melting point of -220<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C and a boiling point of -188<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C. This means that for any temperature that is greater than -188<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C, fluorine will be a gas. At temperatures below -220<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C, fluorine would be a solid, and at any temperature inbetween these two, fluorine will be a liquid. So, at room temperature, fluorine exists as a gas.</para>
+      <para id="id262182">
+        <emphasis effect="italics">Strength of intermolecular forces</emphasis>
+      </para>
+      <para id="id262191">What does this information tell us about the intermolecular forces in fluorine? In fluorine, these forces must be very weak for it to exist as a gas at room temperature. Only at temperatures below -188<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C will the molecules have a low enough energy that they will come close enough to each other for forces of attraction to act between the molecules. The intermolecular forces in fluorine are very weak <emphasis effect="bold">van der Waals</emphasis> forces because the molecules are <emphasis effect="italics">non-polar</emphasis>.</para>
+      <para id="id262224"><emphasis effect="bold">Example 2:</emphasis> Hydrogen fluoride (HF)</para>
+      <para id="id262234">
+        <emphasis effect="italics">Phase at room temperature</emphasis>
+      </para>
+      <para id="id262243">For temperatures below -83<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C, hydrogen fluoride is a solid. Between -83<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C and 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C, it exists as a liquid, and if the temperature is increased above 20<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C, it will become a gas.</para>
+      <para id="id262303">
+        <emphasis effect="italics">Strength of intermolecular forces</emphasis>
+      </para>
+      <para id="id262312">What does this tell us about the intermolecular forces in hydrogen fluoride? The forces are stronger than those in fluorine, because more energy is needed for fluorine to change into the gaseous phase. In other words, more energy is needed for the intermolecular forces to be overcome so that the molecules can move further apart. Intermolecular forces will exist between the hydrogen atom of one molecule and the fluorine atom of another. These are <emphasis effect="bold">hydrogen bonds</emphasis>, which are stronger than van der Waals forces.</para>
+      <para id="id262327">What do you notice about water? Luckily for us, water behaves quite differently from the rest of the halides. Imagine if water were like ammonia (NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>), which is a gas above a temperature of -33<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>0</m:mn></m:msup></m:math>C! There would be no liquid water on the planet, and that would mean that no life would be able to survive here. The hydrogen bonds in water are particularly strong and this gives water unique qualities when compared to other molecules with hydrogen bonds. This will be discussed more in chapter <link target-id=""/>. You should also note that the strength of the intermolecular forces increases with an increase in formula mass. This can be seen by the increasing melting and boiling points of substances as formula mass increases.</para>
+<section id="secfhsst_id249"><title> Applying your knowledge of intermolecular forces
+      </title>
+      <para id="id262380">Refer to the data in <link target-id="uid15"/> and then use your knowledge of different types of intermolecular forces to explain the following statements:</para>
+      <list id="id262391" display="block" list-type="bulleted">
+        <item id="uid16">The boiling point of F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> is much lower than the boiling point of NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></item>
+        <item id="uid17">At room temperature, many elements exist naturally as gases
+</item>
+        <item id="uid18">The boiling point of HF is higher than the boiling point of Cl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item>
+        <item id="uid19">The boiling point of water is much higher than HF, even though they both contain hydrogen bonds
+</item>
+      </list>
+      
+</section>
+    </section>
+ 
+  </content>
+</document>

@@ -1,0 +1,237 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Electronegativity and ionic bonding</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38898</md:content-id>
+  <md:title>Electronegativity and ionic bonding</md:title>
+  <md:abstract/>
+  <md:uuid>4269c1a4-5c08-496f-aacc-bd7e7e2261f2</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid7">
+      <title>Electronegativity</title>
+      <para id="id141267"><emphasis effect="bold">Electronegativity</emphasis> is a measure of how strongly an atom pulls a shared electron pair towards it. The table below shows the electronegativities (obtained from www.thecatalyst.org/electabl.html) of a number of elements:</para>
+      <table id="uid44" summary="">
+        <tgroup cols="2">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Element</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Electronegativity</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Hydrogen (H)</entry>
+              <entry>2.1</entry>
+            </row>
+            <row>
+              <entry>Sodium (Na)</entry>
+              <entry>0.9</entry>
+            </row>
+            <row>
+              <entry>Magnesium (Mg)</entry>
+              <entry>1.2</entry>
+            </row>
+            <row>
+              <entry>Calcium (Ca)</entry>
+              <entry>1.0</entry>
+            </row>
+            <row>
+              <entry>Chlorine (Cl)</entry>
+              <entry>3.0</entry>
+            </row>
+            <row>
+              <entry>Bromine (Br)</entry>
+              <entry>2.8</entry>
+            </row>
+          </tbody>
+        </tgroup>
+        <caption>Table of electronegativities for selected elements</caption>
+      </table>
+<definition id="fhsst_id402"><term id="termfhsst_id402"> Electronegativity </term> <meaning id="meaningfhsst_id402">
+      <para id="id141454">Electronegativity is a chemical property which describes the power of an atom to attract electrons towards itself. </para>
+      </meaning></definition>
+      <para id="id141467">The greater the electronegativity of an element, the stronger its attractive pull on electrons. For example, in a molecule of hydrogen bromide (HBr), the electronegativity of bromine (2.8) is higher than that of hydrogen (2.1), and so the shared electrons will spend more of their time closer to the bromine atom. Bromine will have a slightly negative charge, and hydrogen will have a slightly positive charge. In a molecule like hydrogen (<m:math overflow="scroll"><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub></m:math>) where the electronegativities of the atoms in the molecule are the same, both atoms have a neutral charge.</para>
+<note id="notfhsst_id406"><title> Interesting Fact </title> 
+The concept of electronegativity was introduced by <emphasis effect="italics">Linus Pauling</emphasis> in 1932, and this became very useful in predicting the nature of bonds between atoms in molecules. In 1939, he published a book called 'The Nature of the Chemical Bond', which became one of the most influential chemistry books ever published. For this work, Pauling was awarded the Nobel Prize in Chemistry in 1954. He also received the Nobel Peace Prize in 1962 for his campaign against above-ground nuclear testing.
+</note>
+      <section id="uid45">
+        <title>Non-polar and polar covalent bonds</title>
+        <para id="id141514">Electronegativity can be used to explain the difference between two
+types of covalent bonds. <emphasis effect="bold">Non-polar covalent bonds</emphasis> occur between two
+identical non-metal atoms, e.g. H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>, Cl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> and O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>. Because the two atoms
+have the same electronegativity, the electron pair in the covalent
+bond is shared equally between them. However, if two different
+non-metal atoms bond then the shared electron pair will be pulled more
+strongly by the atom with the highest electronegativity. As a result, a <emphasis effect="bold">polar covalent bond</emphasis> is formed where one atom will have a slightly negative charge and the other a slightly
+positive charge. This is represented using the symbols <m:math overflow="scroll"><m:msup><m:mi>δ</m:mi><m:mo>+</m:mo></m:msup></m:math> (slightly positive) and <m:math overflow="scroll"><m:msup><m:mi>δ</m:mi><m:mo>-</m:mo></m:msup></m:math> (slightly negative). So, in a molecule such as hydrogen chloride (HCl), hydrogen is <m:math overflow="scroll"><m:msup><m:mi>H</m:mi><m:msup><m:mi>δ</m:mi><m:mo>+</m:mo></m:msup></m:msup></m:math> and chlorine is <m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msup><m:mi>l</m:mi><m:msup><m:mi>δ</m:mi><m:mo>-</m:mo></m:msup></m:msup></m:mrow></m:math>.</para>
+      </section>
+      <section id="uid46">
+        <title>Polar molecules</title>
+        <para id="id141655">Some molecules with polar covalent bonds are <emphasis effect="bold">polar molecules</emphasis>,
+e.g. H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O. But not <emphasis effect="italics">all</emphasis> molecules with polar covalent bonds are polar. An example is <m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math>. Although <m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math> has two polar covalent bonds (between
+C<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mi>δ</m:mi><m:mo>+</m:mo></m:mrow></m:msup></m:math> atom and the two O<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mi>δ</m:mi><m:mo>-</m:mo></m:mrow></m:msup></m:math> atoms), the molecule itself is not polar. The
+reason is that CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> is a linear molecule and is therefore
+symmetrical. So there is no difference in charge between the two ends
+of the molecule. The <emphasis effect="italics">polarity</emphasis> of molecules affects properties such as <emphasis effect="italics">solubility</emphasis>, <emphasis effect="italics">melting points</emphasis> and <emphasis effect="italics">boiling points</emphasis>.</para>
+<definition id="fhsst_id428"><term id="termfhsst_id428"> Polar and non-polar molecules
+        </term> <meaning id="meaningfhsst_id429">
+        <para id="id141801">A <emphasis effect="bold">polar molecule</emphasis> is one that has one end with a slightly positive charge, and one end with a slightly negative charge. A <emphasis effect="bold">non-polar molecule</emphasis> is one where the charge is equally spread across the molecule.
+ </para>
+        </meaning></definition>
+<para id="eip-24"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on electric circuits">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave- flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=polarmolecules-100512064938-phpapp01&amp;stripped_title=polar-molecules&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="secfhsst_id433"><title> Electronegativity
+        </title>
+        <list id="id141838" display="block" list-type="enumerated">
+          <item id="uid47">In a molecule of hydrogen chloride (HCl),
+<list id="id141854" display="block" list-type="enumerated"><item id="uid48">What is the electronegativity of hydrogen
+</item><item id="uid49">What is the electronegativity of chlorine?
+</item><item id="uid50">Which atom will have a slightly positive charge and which will have a slightly negative charge in the molecule?
+</item><item id="uid51">Is the bond a non-polar or polar covalent bond?
+</item><item id="uid52">Is the molecule polar or non-polar?
+</item></list></item>
+          <item id="uid53">Complete the table below:
+<table id="id141933" summary=""><tgroup cols="4"><tbody><row><entry><emphasis effect="bold">Molecule</emphasis></entry><entry><emphasis effect="bold">Difference in electronegativity between atoms</emphasis></entry><entry><emphasis effect="bold">Non-polar/polar covalent bond</emphasis></entry><entry><emphasis effect="bold">Polar/non-polar molecule</emphasis></entry></row><row><entry>H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O</entry><entry/><entry/><entry/></row><row><entry>HBr</entry><entry/><entry/><entry/></row><row><entry>F<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry><entry/><entry/><entry/></row><row><entry>CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></entry><entry/><entry/><entry/></row></tbody></tgroup></table></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid8">
+      <title>Ionic Bonding</title>
+      <section id="uid54">
+        <title>The nature of the ionic bond</title>
+        <para id="id142190">You will remember that when atoms bond, electrons are either <emphasis effect="italics">shared</emphasis> or they are <emphasis effect="italics">transferred</emphasis> between the atoms that are bonding. In covalent bonding, electrons are shared between the atoms. There is another type of bonding, where electrons are <emphasis effect="italics">transferred</emphasis> from one atom to another. This is called <emphasis effect="bold">ionic bonding</emphasis>.</para>
+        <para id="id142218">Ionic bonding takes place when the difference in electronegativity between the two atoms is more than 1.7. This usually happens when a metal atom bonds with a non-metal atom. When the difference in electronegativity is large, one atom will attract the shared electron pair much more strongly than the other, causing electrons to be transferred from one atom to the other.</para>
+<definition id="fhsst_id456"><term id="termfhsst_id456"> Ionic bond </term> <meaning id="meaningfhsst_id456">
+        <para id="id142233">An ionic bond is a type of chemical bond based on the electrostatic forces between two oppositely-charged ions. When ionic bonds form, a metal donates one or more electrons, due to having a low electronegativity, to form a positive ion or cation. The non-metal atom has a high electronegativity, and therefore readily gains electrons to form a negative ion or anion. The two ions are then attracted to each other by electrostatic forces.
+ </para>
+        </meaning></definition>
+        <para id="id142248">
+          <emphasis effect="bold">Example 1:</emphasis>
+        </para>
+        <para id="id142255">In the case of NaCl, the difference in electronegativity is 2.1. Sodium has only one valence electron, while chlorine has seven. Because the electronegativity of chlorine is higher than the electronegativity of sodium, chlorine will attract the valence electron of the sodium atom very strongly. This electron from sodium is transferred to chlorine. Sodium loses an electron and forms a <m:math overflow="scroll"><m:mrow><m:mi>N</m:mi><m:msup><m:mi>a</m:mi><m:mo>+</m:mo></m:msup></m:mrow></m:math> ion. Chlorine gains an electron and forms a <m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:msup><m:mi>l</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> ion. The attractive force between the positive and negative ion holds the molecule together.</para>
+        <para id="id142300">The balanced equation for the reaction is:</para>
+        <equation id="id142305">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>N</m:mi>
+              <m:mi>a</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi>C</m:mi>
+              <m:mi>l</m:mi>
+              <m:mo>→</m:mo>
+              <m:mi>N</m:mi>
+              <m:mi>a</m:mi>
+              <m:mi>C</m:mi>
+              <m:mi>l</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id142337">This can be represented using Lewis notation:</para>
+        <figure id="uid55">
+          <media id="uid55_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_019.png" id="uid55_onlineimage" width="243"><!-- NOTE: attribute width changes image size online (pixels). original width is 243. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_019.eps" id="uid55_printimage"/>
+          </media>
+          <caption>Ionic bonding in sodium chloride</caption>
+        </figure>
+        <para id="id142353">
+          <emphasis effect="bold">Example 2:</emphasis>
+        </para>
+        <para id="id142360">Another example of ionic bonding takes place between magnesium (Mg) and oxygen (O) to form magnesium oxide (MgO). Magnesium has two valence electrons and an electronegativity of 1.2, while oxygen has six valence electrons and an electronegativity of 3.5. Since oxygen has a higher electronegativity, it attracts the two valence electrons from the magnesium atom and these electrons are transferred from the magnesium atom to the oxygen atom. Magnesium loses two electrons to form <m:math overflow="scroll"><m:mrow><m:mi>M</m:mi><m:msup><m:mi>g</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:mrow></m:math>, and oxygen gains two electrons to form <m:math overflow="scroll"><m:msup><m:mi>O</m:mi><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msup></m:math>. The attractive force between the oppositely charged ions is what holds the molecule together.</para>
+        <para id="id138529">The balanced equation for the reaction is:</para>
+        <equation id="id138535">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mn>2</m:mn>
+              <m:mi>M</m:mi>
+              <m:mi>g</m:mi>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>→</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi>M</m:mi>
+              <m:mi>g</m:mi>
+              <m:mi>O</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id142521">Because oxygen is a diatomic molecule, two magnesium atoms will be needed to combine with one oxygen molecule (which has two oxygen atoms) to produce two molecules of magnesium oxide (MgO).</para>
+        <figure id="uid56">
+          <media id="uid56_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_020.png" id="uid56_onlineimage" width="266"><!-- NOTE: attribute width changes image size online (pixels). original width is 266. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_020.eps" id="uid56_printimage"/>
+          </media>
+          <caption>Ionic bonding in magnesium oxide</caption>
+        </figure>
+<note id="notfhsst_id521" type="tip">Notice that the number of electrons that is either lost or gained by an atom during ionic bonding, is the same as the <emphasis effect="bold">valency</emphasis> of that element</note>
+<section id="secfhsst_id522"><title> Ionic compounds
+        </title>
+        <list id="id142562" display="block" list-type="enumerated">
+          <item id="uid57">Explain the difference between a <emphasis effect="italics">covalent</emphasis> and an <emphasis effect="italics">ionic</emphasis> bond.
+</item>
+          <item id="uid58">Magnesium and chlorine react to form magnesium chloride.
+<list id="id142602" display="block" list-type="enumerated"><item id="uid59">What is the difference in electronegativity between these two elements?
+</item><item id="uid60">Give the chemical formula for:
+<list id="id142630" display="block" list-type="bulleted"><item id="uid61">a magnesium ion
+</item><item id="uid62">a choride ion
+</item><item id="uid63">the ionic compound that is produced during this reaction
+</item></list></item><item id="uid64">Write a balanced chemical equation for the reaction that takes place.
+</item></list></item>
+          <item id="uid65">Draw Lewis diagrams to represent the following ionic compounds:
+<list id="id142697" display="block" list-type="enumerated"><item id="uid66">sodium iodide (NaI)
+</item><item id="uid67">calcium bromide (CaBr<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)
+</item><item id="uid68">potassium chloride (KCl)
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid69">
+        <title>The crystal lattice structure of ionic compounds</title>
+        <para id="id142771">Ionic substances are actually a combination of lots of ions bonded
+together into a giant molecule. The arrangement of ions in a regular,
+geometric structure is called a <emphasis effect="bold">crystal lattice</emphasis>. So in
+fact NaCl does not contain one Na and one Cl ion, but rather a lot of
+these two ions arranged in a crystal lattice where the ratio of Na to
+Cl ions is 1:1. The structure of a crystal lattice is shown in <link target-id="uid70"/>.</para>
+        <figure id="uid70">
+          <media id="uid70_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_021.png" id="uid70_onlineimage" width="610"><!-- NOTE: attribute width changes image size online (pixels). original width is 610. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_021.eps" id="uid70_printimage"/>
+          </media>
+          <caption>The crystal lattice arrangement in an ionic compound (e.g. NaCl)</caption>
+        </figure>
+      </section>
+      <section id="uid71">
+        <title>Properties of Ionic Compounds</title>
+        <para id="id142811">Ionic compounds have a number of properties:</para>
+        <list id="id142815" display="block" list-type="bulleted">
+          <item id="uid72">Ions are arranged in a lattice structure
+</item>
+          <item id="uid73">Ionic solids are crystalline at room temperature
+</item>
+          <item id="uid74">The ionic bond is a strong electrical attraction. This means that ionic compounds are often hard and have high melting and boiling points
+</item>
+          <item id="uid75">Ionic compounds are brittle, and bonds are broken along planes when the compound is stressed
+</item>
+          <item id="uid76">Solid crystals don't conduct electricity, but ionic solutions do
+</item>
+        </list>
+      </section>
+    </section>
+
+  </content>
+</document>

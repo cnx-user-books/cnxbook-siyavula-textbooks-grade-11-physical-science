@@ -1,0 +1,96 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Newton's first law</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38960</md:content-id>
+  <md:title>Newton's first law</md:title>
+  <md:abstract/>
+  <md:uuid>af2f88f2-1f4a-4a1a-8859-e0de6e0cee2f</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Newton's Laws</title>
+      <para id="id64256">In grade 10 you learned about motion, but did not look at how things start to move. You have also learned about forces. In this section we will look at the effect of forces on objects and how we can make things move.</para>
+      <section id="uid73">
+        <title>Newton's First Law</title>
+        <para id="id64270">Sir Isaac Newton was a scientist who lived in England (1642-1727) who was interested in the motion of objects under various conditions. He suggested that a stationary object will remain stationary unless a force acts on it and that a moving object will continue moving unless a force slows it down, speeds it up or changes its direction of motion. From this he formulated what is known as Newton's First Law of Motion:</para>
+<definition id="fhsst_id444"><term id="termfhsst_id444"> Newton's First Law of Motion </term> <meaning id="meaningfhsst_id444">
+        <para id="id64283">An object will remain in a state of rest or continue traveling at constant velocity, unless acted upon by an unbalanced (net) force.  </para>
+        </meaning></definition>
+        <para id="id64295">Let us consider the following situations:</para>
+        <para id="id64299">An ice skater pushes herself away from the side of the ice rink and skates across the ice. She will continue to move in a straight line across the ice unless something stops her. Objects are also like that. If we kick a soccer ball across a soccer field, according to Newton's First Law, the soccer ball should keep on moving forever! However, in real life this does not happen. Is Newton's Law wrong? Not really. Newton's First Law applies to situations where there aren't any external forces present. This means that friction is not present. In the case of the ice skater, the friction between the skates and the ice is very little and she will continue moving for quite a distance. In the case of the soccer ball, air resistance (friction between the air and the ball) and friction between the grass and the ball is present and this will slow the ball down.</para>
+        <para id="id64312">
+          <figure id="id64313">
+            <media id="id64313_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_014.png" id="id64313_onlineimage" width="322"><!-- NOTE: attribute width changes image size online (pixels). original width is 322. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_014.eps" id="id64313_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id64320">
+          <figure id="id64321">
+            <media id="id64321_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_015.png" id="id64321_onlineimage" width="262"><!-- NOTE: attribute width changes image size online (pixels). original width is 262. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_015.eps" id="id64321_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="eip-495"><figure id="newton-1" class="khanacademy">
+	  <title>Khan academy video on newtons laws - 1</title>
+	  <media id="yt-media1" display="block" alt="video on circuits 1">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/CQYELiTtUs8&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><section id="uid74">
+          <title>Newton's First Law in action</title>
+          <para id="id64337">We experience Newton's First Law in every day life. Let us look at the following examples:</para>
+          <para id="id64341"><emphasis effect="bold">Rockets</emphasis>:</para>
+          <para id="id64351">A spaceship is launched into space. The force of the exploding gases pushes the rocket through the air into space. Once it is in space, the engines are switched off and it will keep on moving at a constant velocity. If the astronauts want to change the direction of the spaceship they need to fire an engine. This will then apply a force on the rocket and it will change its direction.</para>
+          <figure id="uid75">
+            <media id="uid75_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C11_016.png" id="uid75_onlineimage" width="198"><!-- NOTE: attribute width changes image size online (pixels). original width is 198. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_016.eps" id="uid75_printimage"/>
+            </media>
+            <caption>Newton's First Law and rockets</caption>
+          </figure>
+          <para id="id64372">
+            <emphasis effect="bold">Seat belts:</emphasis>
+          </para>
+          <para id="id64379">We wear seat belts in cars. This is to protect us when the car is involved in an accident. If a car is traveling at 120 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, the passengers in the car is also traveling at 120 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. When the car suddenly stops a force is exerted on the car (making it slow down), but not on the passengers. The passengers will carry on moving forward at 120 km<m:math overflow="scroll"><m:mo>·</m:mo></m:math>hr<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>according to Newton I. If they are wearing seat belts, the seat belts will stop them by exerting a force on them and so prevent them from getting hurt.</para>
+          <para id="id64464">
+            <figure id="id64467">
+              <media id="id64467_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C11_017.png" id="id64467_onlineimage" width="484"><!-- NOTE: attribute width changes image size online (pixels). original width is 484. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_017.eps" id="id64467_printimage"/>
+              </media>
+            </figure>
+          </para>
+<exercise id="secfhsst_id489"><title> Newton's First Law in action </title>
+          <problem id="probfhsst_id490">
+          <para id="id64486">Why do passengers get thrown to the side when the car they are driving in goes around a corner? </para>
+          </problem>
+          <solution id="solfhsst_id493"> <list id="listfhsst_id493" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> What happens before the car turns </label>
+          <para id="id64510">Before the car starts turning both the passengers and the car are traveling at the same velocity. (picture A)</para>
+          </item> <item> <label> What happens while the car turns </label>
+          <para id="id64519">The driver turns the wheels of the car, which then exert a force on the car and the car turns. This force acts on the car but not the passengers, hence (by Newton's First Law) the passengers continue moving with the same original velocity. (picture B)</para>
+          </item> <item> <label> Why passengers get thrown to the side? </label>
+          <para id="id64528">If the passengers are wearing seat belts they will exert a force on the passengers until the passengers' velocity is the same as that of the car (picture C). Without a seat belt the passenger may hit the side of the car.</para>
+          <para id="id64533">
+            <figure id="id64537">
+              <media id="id64537_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C11_018.png" id="id64537_onlineimage" width="327"><!-- NOTE: attribute width changes image size online (pixels). original width is 327. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_018.eps" id="id64537_printimage"/>
+              </media>
+            </figure>
+          </para>
+          
+          </item> </list> </solution>
+</exercise>
+        </section>
+      </section>
+</section>
+     </content>
+</document>

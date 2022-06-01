@@ -1,0 +1,349 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Ohm's Law</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38883</md:content-id>
+  <md:title>Ohm's Law</md:title>
+  <md:abstract/>
+  <md:uuid>df07edb9-5917-4765-b4cc-60bebded6d89</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id62184">The study of electrical circuits is essential to understand the technology that uses electricity in the real-world. This includes electricity being used for the operation of electronic devices like computers.</para>
+    </section>
+    <section id="cid3">
+      <title>Ohm's Law</title>
+      <section id="uid1">
+        <title>Definition of Ohm's Law</title>
+<section id="secfhsst_id75"><title> Experiment : Ohm's Law </title>
+        <para id="id62552">
+          <emphasis effect="bold">Aim:</emphasis>
+        </para>
+        <para id="id62561">In this experiment we will look at the relationship between the current going through a resistor and the potential difference (voltage) across the same resistor.</para>
+        <para id="id62567">
+          <figure id="id62570">
+            <media id="id62570_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C9_001.png" id="id62570_onlineimage" width="154"><!-- NOTE: attribute width changes image size online (pixels). original width is 154. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_001.eps" id="id62570_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id62576">
+          <emphasis effect="bold">Method:</emphasis>
+        </para>
+        <list id="id62585" display="block" list-type="enumerated">
+          <item id="uid2">Set up the circuit according to the circuit diagram, starting with just one cell.
+</item>
+          <item id="uid3">Draw the following table in your lab book.
+<table id="id62611" summary=""><tgroup cols="2"><tbody><row><entry>Voltage, <m:math overflow="scroll"><m:mi>V</m:mi></m:math> (V)</entry><entry>Current, <m:math overflow="scroll"><m:mi>I</m:mi></m:math> (A)</entry></row><row><entry>1,5</entry><entry/></row><row><entry>3,0</entry><entry/></row><row><entry>4,5</entry><entry/></row><row><entry>6,0</entry><entry/></row></tbody></tgroup></table></item>
+          <item id="uid4">Get your teacher to check the circuit before turning the power on.
+</item>
+          <item id="uid5">Measure the current.
+</item>
+          <item id="uid6">Add one more 1,5 V cell to the circuit and measure the current again.
+</item>
+          <item id="uid7">Repeat until you have four cells and you have completed your table.
+</item>
+          <item id="uid8">Draw a graph of voltage versus current.
+</item>
+        </list>
+        <para id="id62792">
+          <emphasis effect="bold">Results:</emphasis>
+        </para>
+        <list id="id62800" display="block" list-type="enumerated">
+          <item id="uid9">Does your experimental results verify Ohm's Law? Explain.
+</item>
+          <item id="uid10">How would you go about finding the resistance of an unknown resistor using only a power supply, a voltmeter and a known resistor <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>0</m:mn></m:msub></m:math>?
+</item>
+        </list>
+        
+</section>
+<section id="secfhsst_id118"><title> Activity : Ohm's Law </title>
+        <para id="id62858">If you do not have access to the equipment necessary for the Ohm's Law experiment, you can do this activity.</para>
+        <table id="id62864" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>Voltage, <m:math overflow="scroll"><m:mi>V</m:mi></m:math> (V)</entry>
+                <entry>Current, <m:math overflow="scroll"><m:mi>I</m:mi></m:math> (A)</entry>
+              </row>
+              <row>
+                <entry>3,0</entry>
+                <entry>0,4</entry>
+              </row>
+              <row>
+                <entry>6,0</entry>
+                <entry>0,8</entry>
+              </row>
+              <row>
+                <entry>9,0</entry>
+                <entry>1,2</entry>
+              </row>
+              <row>
+                <entry>12,0</entry>
+                <entry>1,6</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <list id="id62986" display="block" list-type="enumerated">
+          <item id="uid11">Plot a graph of voltage (on the <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-axis) and current (on the <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-axis).
+</item>
+        </list>
+        <para id="id63017">
+          <emphasis effect="bold">Conclusions:</emphasis>
+        </para>
+        <list id="id63026" display="block" list-type="enumerated">
+          <item id="uid12">What type of graph do you obtain (straight line, parabola, other curve)
+</item>
+          <item id="uid13">Calculate the gradient of the graph.
+</item>
+          <item id="uid14">Do your experimental results verify Ohm's Law? Explain.
+</item>
+          <item id="uid15">How would you go about finding the resistance of an unknown resistor using only a power supply, a voltmeter and a known resistor <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>0</m:mn></m:msub></m:math>?
+</item>
+        </list>
+        
+</section>
+        <para id="id63099">An important relationship between the current, voltage and resistance in a circuit was discovered by Georg Simon Ohm and is called <emphasis effect="bold">Ohm's Law</emphasis>.</para>
+<definition id="fhsst_id167"><term id="termfhsst_id167"> Ohm's Law </term> <meaning id="meaningfhsst_id167">
+        <para id="id62110">The amount of electric current through a metal conductor, at a constant temperature, in a circuit is proportional to the voltage across the conductor. Mathematically, Ohm's Law is written:</para>
+        <equation id="id62117">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>V</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>R</m:mi>
+              <m:mo>·</m:mo>
+              <m:mi>I</m:mi>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        
+        </meaning></definition>
+        <para id="id63334">Ohm's Law tells us that if a conductor is at a constant temperature, the current flowing through the conductor is proportional to the voltage across it. This means that if we plot voltage on the <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-axis of a graph and current on the <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-axis of the graph, we will get a straight-line. The gradient of the straight-line graph is related to the resistance of the conductor.</para>
+        <para id="id63355">
+          <figure id="id63358"><media id="id63358_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C9_002.png" id="id63358_onlineimage" width="109"><!-- NOTE: attribute width changes image size online (pixels). original width is 169. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_002.eps" id="id63358_printimage"/>
+            </media>
+          </figure>
+        </para>
+      </section>
+      <para id="eip-304"><figure id="Ohms-Law" class="phetsim">
+	  <title>Phet simulation for Ohm's Law</title>
+	  <media id="phet_sim" display="block" alt="ohm's law phet simulation">
+	  <flash id="phet-simulation" mime-type="application/x-shockwave-flash" src="ohms-law.swf" width="425" height="344">
+	  </flash>
+	  </media>
+	  </figure></para><section id="uid16">
+        <title>Ohmic and non-ohmic conductors</title>
+        <para id="id63373">As you have seen, there is a mention of <emphasis effect="italics">constant temperature</emphasis> when we talk about Ohm's Law. This is because the resistance of some conductors changes as their temperature changes. These types of conductors are called <emphasis effect="italics">non-ohmic</emphasis> conductors, because they do not obey Ohm's Law. As can be expected, the conductors that obey Ohm's Law are called <emphasis effect="italics">ohmic</emphasis> conductors. A light bulb is a common example of a non-ohmic conductor. Nichrome wire is an ohmic conductor.</para>
+        <para id="id63396">In a light bulb, the resistance of the filament wire will increase dramatically as it warms from room temperature to operating temperature. If we increase the supply voltage in a real lamp circuit, the resulting increase in current causes the filament to increase in temperature, which increases its resistance. This effectively limits the increase in current. In this case, voltage and current do not obey Ohm's Law.</para>
+        <para id="id63403">The phenomenon of resistance changing with variations in temperature is one shared by almost all metals, of which most wires are made. For most applications, these changes in resistance are small enough to be ignored. In the application of metal lamp filaments, which increase a lot in temperature (up to about 1000<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>C, and starting from room temperature) the change is quite large.</para>
+        <para id="id63422">In general non-ohmic conductors have plots of voltage against current that are curved, indicating that the resistance is not constant over all values of voltage and current.</para>
+        <para id="id63427">
+          <figure id="id63430">
+            <media id="id63430_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C9_003.png" id="id63430_onlineimage" width="413"><!-- NOTE: attribute width changes image size online (pixels). original width is 413. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_003.eps" id="id63430_printimage"/>
+            </media>
+          </figure>
+        </para>
+<section id="secfhsst_id207"><title> Experiment : Ohmic and non-ohmic conductors </title>
+        <para id="id63443">Repeat the experiment as decribed in the previous section. In this case use a light bulb as a resistor. Compare your results to the ohmic resistor. </para>
+</section>
+      </section>
+      <section id="uid17">
+        <title>Using Ohm's Law</title>
+        <para id="id63464">We are now ready to see how Ohm's Law is used to analyse circuits.</para>
+        <para id="id63468">Consider the circuit with an ohmic resistor, <m:math overflow="scroll"><m:mi>R</m:mi></m:math>. If the resistor has a resistance of 5 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> and voltage across the resistor is 5 V, then we can use Ohm's law to calculate the current flowing through the resistor.</para>
+        <para id="id63490">
+          <figure id="id63493">
+            <media id="id63493_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C9_004.png" id="id63493_onlineimage" width="166"><!-- NOTE: attribute width changes image size online (pixels). original width is 166. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_004.eps" id="id63493_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63499">Ohm's law is:</para>
+        <equation id="id63502">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>V</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>R</m:mi>
+              <m:mo>·</m:mo>
+              <m:mi>I</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id63522">which can be rearranged to:</para>
+        <equation id="id63527">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>I</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>V</m:mi>
+                <m:mi>R</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id63546">The current flowing through the resistor is:</para>
+        <equation id="id63550">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>I</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi>V</m:mi>
+                    <m:mi>R</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                      <m:mspace width="0.277778em"/>
+                      <m:mi mathvariant="normal">V</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                      <m:mspace width="0.277778em"/>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi>Ω</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="0.277778em"/>
+                    <m:mi mathvariant="normal">A</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+<exercise id="secfhsst_id303"><title> Ohm's Law </title>
+        <problem id="probfhsst_id304">
+        <para id="id63643">
+          <figure id="id63646">
+            <media id="id63646_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C9_005.png" id="id63646_onlineimage" width="167"><!-- NOTE: attribute width changes image size online (pixels). original width is 167. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_005.eps" id="id63646_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63652">The resistance of the above resistor is 10 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> and the current going through the resistor is 4 A. What is the potential difference (voltage) across the resistor? </para>
+        </problem>
+        <solution id="solfhsst_id315"> <list id="listfhsst_id315" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine how to approach the problem </label>
+        <para id="id63683">It is an Ohm's Law problem. So we use the equation:</para>
+        <equation id="id63686">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>V</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>R</m:mi>
+              <m:mo>·</m:mo>
+              <m:mi>I</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Solve the problem </label>
+        <equation id="id63710">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>V</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>R</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>I</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>10</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>40</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi>V</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the final answer </label>
+        <para id="id63784">The voltage across the resistor is 40 V. </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id384"><title> Ohm's Law </title>
+        <list id="id63806" display="block" list-type="enumerated">
+          <item id="uid18">Calculate the resistance of a resistor that has a potential difference of 8 V across it when a current of 2 A flows through it.
+</item>
+          <item id="uid19">What current will flow through a resistor of 6 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> when there is a potential difference of 18 V across its ends?
+</item>
+          <item id="uid20">What is the voltage across a 10 <m:math overflow="scroll"><m:mi>Ω</m:mi></m:math> resistor when a current of 1,5 A flows though it?
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

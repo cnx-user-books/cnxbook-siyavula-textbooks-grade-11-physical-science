@@ -1,0 +1,299 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Diverging lenses</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39020</md:content-id>
+  <md:title>Diverging lenses</md:title>
+  <md:abstract/>
+  <md:uuid>ea256ce4-0ea5-461f-9b17-eb17edc1d596</md:uuid>
+</metadata>
+
+<content>
+      <section id="uid72">
+        <title>Diverging Lenses</title>
+        <para id="id345802">We will only discuss double concave diverging lenses as shown in <link target-id="uid73"/>. Concave lenses are thicker on the outside and thinner on the inside.</para>
+        <figure id="uid73">
+          <media id="uid73_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C3_021.png" id="uid73_onlineimage" width="180"><!-- NOTE: attribute width changes image size online (pixels). original width is 180. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_021.eps" id="uid73_printimage"/>
+          </media>
+          <caption>A double concave lens is a diverging lens.</caption>
+        </figure>
+        <para id="id345824"><link target-id="uid74"/> shows a concave lens with light rays travelling through it. You can see that concave lenses have the opposite curvature to convex lenses. This causes light rays passing through a concave lens to <emphasis effect="bold">diverge</emphasis> or be spread out <emphasis effect="italics">away</emphasis> from the principal axis. For this reason, concave lenses are called <emphasis effect="bold">diverging lenses.</emphasis> Images formed by concave lenses are <emphasis effect="italics">always</emphasis> virtual.</para>
+        <figure id="uid74">
+          <media id="uid74_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C3_022.png" id="uid74_onlineimage" width="460"><!-- NOTE: attribute width changes image size online (pixels). original width is 460. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_022.eps" id="uid74_printimage"/>
+          </media>
+          <caption>Light rays bend <emphasis effect="italics">away from</emphasis> each other or <emphasis effect="italics">diverge</emphasis> when they travel through a concave lens. <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math> are the foci of the lens.</caption>
+        </figure>
+        <para id="id345911">Unlike converging lenses, the type of images created by a concave lens is not dependent on the position of the object. The image is <emphasis effect="italics">always</emphasis> upright, smaller than the object, and located closer to the lens than the object.</para>
+        <para id="id345921">We examine the properties of the image by drawing ray diagrams. We can find the image by tracing the path of three light rays through the lens. Any two of these rays will show us the location of the image. You can use the third ray to check the location, but it is not necessary to show it on your diagram.</para>
+        <para id="id345930">
+          <emphasis effect="bold">Drawing Ray Diagrams for Diverging Lenses</emphasis>
+        </para>
+        <para id="id345939">Draw the three rays starting at the top of the object.</para>
+        <list id="id345945" display="block" list-type="enumerated">
+          <item id="uid75">Ray <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math> travels parallel to the principal axis. The ray bends and lines up with a focal point. However, the concave lens is a <emphasis effect="italics">diverging</emphasis> lens, so the ray must line up with the focal point on the same side of the lens where light rays enter it. This means that we must project an imaginary line backwards through that focal point (<m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math>) (shown by the dashed line extending from <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math>).
+</item>
+          <item id="uid76">Ray <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> points towards the focal point <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math> on the opposite side of the lens. When it hits the lens, it is bent parallel to the principal axis.
+</item>
+          <item id="uid77">Ray <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math> passes through the optical center of the lens. Like for the convex lens, this ray passes through with its direction unchanged.
+</item>
+          <item id="uid78">We find the image by locating the point where the rays meet. Since the rays diverge, they will only meet if projected backward to a point on the same side of the lens as the object. This is why concave lenses <emphasis effect="italics">always</emphasis> have virtual images. (Since the light rays do not actually meet at the image, the image cannot be real.)
+</item>
+        </list>
+        <para id="id346101"><link target-id="uid79"/> shows an object placed at an arbitrary distance from the diverging lens.</para>
+        <para id="id346109">We can locate the position of the image by drawing our three rays for a diverging lens.</para>
+        <para id="id346113"><link target-id="uid79"/> shows that the image of an object is upright. The image is called a <emphasis effect="bold">virtual image</emphasis> because it is on the same side of the lens as the object.</para>
+        <para id="id346128">The image is smaller than the object and is closer to the lens than the object.</para>
+        <figure id="uid79">
+          <media id="uid79_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C3_023.png" id="uid79_onlineimage" width="695"><!-- NOTE: attribute width changes image size online (pixels). original width is 695. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_023.eps" id="uid79_printimage"/>
+          </media>
+          <caption>Three rays are drawn to locate the image, which is virtual, smaller than the object and upright.</caption>
+        </figure>
+<exercise id="secfhsst_id1127"><title> Locating the image position for a diverging lens: I </title>
+        <problem id="probfhsst_id1128">
+        <para id="id346158">An object is placed 4 cm to the left of a diverging lens which has
+a focal length of 6 cm.</para>
+        <list id="id346165" display="block" list-type="enumerated">
+          <item id="uid80">What is the position of the image?
+</item>
+          <item id="uid81">Is the image real or virtual?
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id1139"> <list id="listfhsst_id1139" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Set up the problem </label>
+        <para id="id346216">Draw the lens, object, principal axis and focal points.</para>
+        <para id="id346219">
+          <figure id="id346223">
+            <media id="id346223_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C3_024.png" id="id346223_onlineimage" width="353"><!-- NOTE: attribute width changes image size online (pixels). original width is 353. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_024.eps" id="id346223_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Draw the three light rays to locate the image </label>
+        <list id="id346233" display="block" list-type="bulleted">
+          <item id="uid82"><m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math> goes from the top of the object parallel to the principal axis.
+To determine the angle it has when it leaves the lens on the other side, we
+draw the dashed line from the focus <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:math> through the point where <m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>1</m:mn></m:msub></m:math>
+hits the lens. (Remember: for a diverging lens, the light ray on the opposite
+side of the lens to the object has to bend <emphasis effect="italics">away</emphasis> from the principal axis.)
+</item>
+          <item id="uid83"><m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>2</m:mn></m:msub></m:math> goes from the top of the object in the direction of the other focal
+point <m:math overflow="scroll"><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub></m:math>. After it passes through the lens, it travels parallel to the
+principal axis.
+</item>
+          <item id="uid84"><m:math overflow="scroll"><m:msub><m:mi>R</m:mi><m:mn>3</m:mn></m:msub></m:math> goes from the top of the lens, straight through the optical centre
+with its direction unchanged.
+</item>
+          <item id="uid85">Just like for converging lenses, the image is found at the position where
+all the light rays intersect.
+</item>
+        </list>
+        <para id="id346378">
+          <figure id="id346381">
+            <media id="id346381_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C3_025.png" id="id346381_onlineimage" width="353"><!-- NOTE: attribute width changes image size online (pixels). original width is 353. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_025.eps" id="id346381_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Draw the image </label>
+        <para id="id346392">Draw the image at the point where all three rays intersect.</para>
+        <para id="id346396">
+          <figure id="id346399">
+            <media id="id346399_media" alt="">
+              <image mime-type="image/png" src="../../media/PG11C3_026.png" id="id346399_onlineimage" width="353"><!-- NOTE: attribute width changes image size online (pixels). original width is 353. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG11C3_026.eps" id="id346399_printimage"/>
+            </media>
+          </figure>
+        </para>
+        </item> <item> <label> Measure the distance to the object </label>
+        <para id="id346410">The distance to the object is 2,4 cm.</para>
+        </item> <item> <label> Determine type of object </label>
+        <para id="id346418">The image is on the same side of the lens as the object, and is upright. Therefore it is virtual. (<emphasis effect="italics">Remember:</emphasis> The image from a diverging lens is <emphasis effect="italics">always</emphasis> virtual.) </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid86">
+        <title>Summary of Image Properties</title>
+        <para id="id346455">The properties of the images formed by converging and diverging lenses depend on the position of the object. The properties are summarised in the <link target-id="uid87"/>.</para>
+        <table id="uid87" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c2"/>
+                <entry namest="c3" nameend="c6">
+                  <emphasis effect="bold">Image Properties</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Lens type</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Object Position</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Position</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Orientation</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Size</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Type</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>Converging</entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mo>&gt;</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mi>f</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mo>&lt;</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mi>f</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>inverted</entry>
+                <entry>smaller</entry>
+                <entry>real</entry>
+              </row>
+              <row>
+                <entry>Converging</entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mi>f</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mi>f</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>inverted</entry>
+                <entry>same size</entry>
+                <entry>real</entry>
+              </row>
+              <row>
+                <entry>Converging</entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mo>&gt;</m:mo>
+                      <m:mi>f</m:mi>
+                      <m:mo>,</m:mo>
+                      <m:mo>&lt;</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mi>f</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mo>&gt;</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mi>f</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>inverted</entry>
+                <entry>larger</entry>
+                <entry>real</entry>
+              </row>
+              <row>
+                <entry>Converging</entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mi>f</m:mi>
+                  </m:math>
+                </entry>
+                <entry namest="c3" nameend="c6">no image formed</entry>
+              </row>
+              <row>
+                <entry>Converging</entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mo>&lt;</m:mo>
+                      <m:mi>f</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mo>&gt;</m:mo>
+                      <m:mi>f</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>upright</entry>
+                <entry>larger</entry>
+                <entry>virtual</entry>
+              </row>
+              <row>
+                <entry>Diverging</entry>
+                <entry>any position</entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mo>&lt;</m:mo>
+                      <m:mi>f</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>upright</entry>
+                <entry>smaller</entry>
+                <entry>virtual</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>Summary of image properties for converging and diverging lenses</caption>
+        </table>
+<section id="secfhsst_id1355"><title> Diverging Lenses </title>
+        <list id="id346996" display="block" list-type="enumerated">
+          <item id="uid88">An object 3 cm high is at right angles to the principal axis of a concave lens of focal length 15 cm. If the distance from the object to the lens is 30 cm, find the distance of the image from the lens, and its height. Is it real or virtual?
+</item>
+          <item id="uid89">The image formed by a concave lens of focal length 10 cm is 7,5 cm from the lens and is 1,5 cm high. Find the distance of the object from the lens, and its height.
+</item>
+          <item id="uid90">An object 6 cm high is 10 cm from a concave lens. The image formed is 3 cm high. Find the focal length of the lens and the distance of the image from the lens.
+</item>
+        </list>
+        
+</section>
+      </section>
+   
+
+  </content>
+</document>

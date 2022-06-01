@@ -1,0 +1,36 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38946</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>8dc23f39-1e86-431e-a3e0-4dd28b4de7d2</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1">
+      <title>Introduction</title>
+      <para id="eip-748"><title>Radiation vs. radioactivity</title><figure id="radiation" class="khanacademy">
+	  <title>Veritasium video on radiation</title>
+	  <media id="radiation1" display="block" alt="video on radiation 1">
+	  <flash id="radiation2" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/sehKAccM8p0&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><para id="id62175"><emphasis effect="bold">Nuclear physics</emphasis> is the branch of physics which deals with the <emphasis effect="bold">nucleus</emphasis> of the atom. Within this field, some scientists focus their attention on looking at the <emphasis effect="italics">particles</emphasis> inside the nucleus and understanding how they interact, while others classify and interpret the <emphasis effect="italics">properties</emphasis> of nuclei. This detailed knowledge of the nucleus makes it possible for <emphasis effect="italics">technological advances</emphasis> to be made. In this next chapter, we are going to touch on each of these different areas within the field of nuclear physics.</para>
+    </section>
+    <section id="cid2">
+      <title>Nuclear structure and stability</title>
+      <para id="id62555">You will remember from an earlier chapter that an atom is made up of different types of particles: protons (positive charge) neutrons (neutral) and electrons (negative charge). The nucleus is the part of the atom that contains the protons and the neutrons, while the electrons are found in energy orbitals around the nucleus. The protons and neutrons together are called <emphasis effect="bold">nucleons</emphasis>. It is the nucleus that makes up most of an atom's <emphasis effect="italics">atomic mass</emphasis>, because an electron has a very small mass when compared with a proton or a neutron.</para>
+      <para id="id62573">Within the nucleus, there are different forces which act between the particles. The <emphasis effect="bold">strong nuclear force</emphasis> is the force between two or more nucleons, and this force binds protons and neutrons together inside the nucleus. The <emphasis effect="bold">electromagnetic force</emphasis> causes the repulsion between like-charged (positive) protons. In a way then, these forces are trying to produce opposite effects in the nucleus. The strong nuclear force acts to hold all the protons and neutrons close together, while the electromagnetic force acts to push protons further apart. In atoms where the nuclei are small, the strong nuclear force overpowers the electromagnetic force. However, as the nucleus gets bigger (in elements with a higher number of nucleons), the electromagnetic force becomes greater than the strong nuclear force. In these nuclei, it becomes possible for particles and energy to be ejected from the nucleus. These nuclei are called <emphasis effect="bold">unstable</emphasis>. The particles and energy that a nucleus releases are referred to as <emphasis effect="bold">radiation</emphasis>, and the atom is said to be <emphasis effect="bold">radioactive</emphasis>. We are going to look at these concepts in more detail in the next few sections.</para>
+    </section>
+    <section id="cid3">
+      <title>The Discovery of Radiation</title>
+      <para id="id62622">Radioactivity was first discovered in 1896 by a French scientist called Henri Becquerel while he was working on phosphorescent materials. He wrapped a photgraphic plate in black paper and placed various phosphorescent substances on it. When he used uranium salts he noticed that the film blackened even if it was kept in a dark room. He eventually concluded that some rays must be coming out of the uranium crystals to produce this effect and that these rays were able to pass through the paper.</para>
+      <para id="id62629">His observations were taken further by the Polish scientist Marie Curie and her husband Pierre, who increased our knowledge of radioactive elements. In 1903, Henri, Marie and Pierre were awarded the Nobel Prize in Physics for their work on radioactive elements. This award made Marie the first woman ever to receive a Nobel Prize. Marie Curie and her husband went on to discover two new elements, which they named <emphasis effect="bold">polonium</emphasis> (Po) after Marie's home country, and <emphasis effect="bold">radium</emphasis> (Ra) after its highly radioactive characteristics. For these dicoveries, Marie was awarded a Nobel Prize in Chemistry in 1911, making her one of very few people to receive two Nobel Prizes.</para>
+<note id="notfhsst_id54"><title> Interesting Fact </title> Marie Curie died in 1934 from aplastic anemia, which was almost certainly partly due to her massive exposure to radiation during her lifetime. Most of her work was carried out in a shed without safety measures, and she was known to carry test tubes full of radioactive isotopes in her pockets and to store them in her desk drawers. By the end of her life, not only was she very ill, but her hands had become badly deformed due to their constant exposure to radiation. Unfortunately it was only later in her life that the full dangers of radiation were understood. In fact, because of their high levels of radioactivity, her papers from the 1890's are considered too dangerous to handle. Even her cookbook is highly radioactive. These documents are kept in lead-lined boxes, and those who wish to consult them must wear protective clothing.</note>
+    </section>
+
+  </content>
+</document>

@@ -1,0 +1,294 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Covalent bonding and Lewis notation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38895</md:content-id>
+  <md:title>Covalent bonding and Lewis notation</md:title>
+  <md:abstract/>
+  <md:uuid>3e5998fc-b012-4196-9ff4-888288c0e6af</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Covalent Bonding</title>
+      <section id="uid6">
+        <title>The nature of the covalent bond</title>
+        <para id="id138956">Covalent bonding occurs between the atoms of <emphasis effect="bold">non-metals</emphasis>. The outermost orbitals of the atoms overlap so that unpaired electrons in each of the bonding atoms can be shared. By overlapping orbitals, the outer energy shells of all the bonding atoms are filled. The shared electrons move in the orbitals around <emphasis effect="italics">both</emphasis> atoms. As they move, there is an attraction between these negatively charged electrons and the positively charged nuclei, and this force holds the atoms together in a covalent bond.</para>
+<definition id="fhsst_id94"><term id="termfhsst_id94"> Covalent bond </term> <meaning id="meaningfhsst_id94">
+        <para id="id138980">Covalent bonding is a form of chemical bonding where pairs of electrons are shared between atoms. </para>
+        </meaning></definition>
+        <para id="id138991">Below are a few examples. Remember that it is only the <emphasis effect="italics">valence electrons</emphasis> that are involved in bonding, and so when diagrams are drawn to show what is happening during bonding, it is only these electrons that are shown. Circles and crosses represent electrons in different atoms.</para>
+<para id="eip-658">The following simulation allows you to build some simple covalent molecules.
+
+	<figure id="id6348">
+            <media id="id6348_media" alt="">
+            <image mime-type="image/png" src="../../media/build-a-molecule-screenshot.png" id="id6348_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/build-a-molecule-screenshot.eps" id="id6348_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/build-a-molecule/build-a-molecule_en.jnlp">run demo</link></para><exercise id="secfhsst_id98"><title> Covalent bonding </title>
+        <problem id="probfhsst_id99">
+        <para id="id139014">How do hydrogen and chlorine atoms bond covalently in a molecule of hydrogen chloride? </para>
+        </problem>
+        <solution id="solfhsst_id102"> <list id="listfhsst_id102" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine the electron configuration of each of the bonding atoms. </label>
+        <para id="id139037">A chlorine atom has 17 electrons, and an electron configuration of 1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>6</m:mn></m:msup></m:math> 3s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 3p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>5</m:mn></m:msup></m:math>. A hydrogen atom has only 1 electron, and an electron configuration of 1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>1</m:mn></m:msup></m:math>.</para>
+        </item> <item> <label> Determine the number of valence electrons for each atom, and how many of the electrons are paired or unpaired. </label>
+        <para id="id139119">Chlorine has 7 valence electrons. One of these electrons is unpaired. Hydrogen has 1 valence electron and it is unpaired.</para>
+        </item> <item> <label> Look to see how the electrons can be shared between the atoms so that the outermost energy levels of both atoms are full. </label>
+        <para id="id139128">The hydrogen atom needs one more electron to complete its valence shell. The chlorine atom also needs one more electron to complete its shell. Therefore <emphasis effect="italics">one pair of electrons</emphasis> must be shared between the two atoms. In other words, one electron from the chlorine atom will spend some of its time orbiting the hydrogen atom so that hydrogen's valence shell is full. The hydrogen electron will spend some of its time orbiting the chlorine atom so that chlorine's valence shell is also full. A molecule of hydrogen chloride is formed (<link target-id="uid7"/>). Notice the shared electron pair in the overlapping orbitals.</para>
+        <figure id="uid7">
+          <media id="uid7_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_003.png" id="uid7_onlineimage" width="368"><!-- NOTE: attribute width changes image size online (pixels). original width is 368. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_003.eps" id="uid7_printimage"/>
+          </media>
+          <caption>Covalent bonding in a molecule of hydrogen chloride</caption>
+        </figure>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id119"><title> Covalent bonding involving multiple bonds </title>
+        <problem id="probfhsst_id120">
+        <para id="id139185">How do nitrogen and hydrogen atoms bond to form a molecule of ammonia (NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)?</para>
+        
+        </problem>
+        <solution id="solfhsst_id124"> <list id="listfhsst_id124" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine the electron configuration of each of the bonding atoms. </label>
+        <para id="id139225">A nitrogen atom has 7 electrons, and an electron configuration of 1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>. A hydrogen atom has only 1 electron, and an electron configuration of 1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>1</m:mn></m:msup></m:math>.</para>
+        </item> <item> <label> Determine the number of valence electrons for each atom, and how many of the electrons are paired or unpaired. </label>
+        <para id="id139283">Nitrogen has 5 valence electrons meaning that 3 electrons are unpaired. Hydrogen has 1 valence electron and it is unpaired.</para>
+        </item> <item> <label> Look to see how the electrons can be shared between the atoms so that the outer energy shells of all atoms are full. </label>
+        <para id="id139292">Each hydrogen atom needs one more electron to complete its valence energy shell. The nitrogen atom needs three more electrons to complete its valence energy shell. Therefore <emphasis effect="italics">three pairs of electrons</emphasis> must be shared between the four atoms involved. The nitrogen atom will share three of its electrons so that each of the hydrogen atoms now have a complete valence shell. Each of the hydrogen atoms will share its electron with the nitrogen atom to complete its valence shell (<link target-id="uid8"/>).</para>
+        <figure id="uid8">
+          <media id="uid8_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_004.png" id="uid8_onlineimage" width="528"><!-- NOTE: attribute width changes image size online (pixels). original width is 528. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_004.eps" id="uid8_printimage"/>
+          </media>
+          <caption>Covalent bonding in a molecule of ammonia</caption>
+        </figure>
+        
+        </item> </list> </solution>
+</exercise>
+        <para id="id139334">The above examples all show <emphasis effect="bold">single covalent bonds</emphasis>, where only one pair of electrons is shared between <emphasis effect="italics">the same two atoms</emphasis>. If two pairs of electrons are shared between the same two atoms, this is called a <emphasis effect="bold">double bond</emphasis>. A <emphasis effect="bold">triple bond</emphasis> is formed if three pairs of electrons are shared.</para>
+<exercise id="secfhsst_id142"><title> Covalent bonding involving a double bond </title>
+        <problem id="probfhsst_id143">
+        <para id="id139373">How do oxygen atoms bond covalently to form an oxygen molecule?</para>
+        
+        </problem>
+        <solution id="solfhsst_id147"> <list id="listfhsst_id147" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine the electron configuration of the bonding atoms. </label>
+        <para id="id139400">Each oxygen atom has 8 electrons, and their electron configuration is 1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>4</m:mn></m:msup></m:math>.</para>
+        </item> <item> <label> Determine the number of valence electrons for each atom and how many of these electrons are paired and unpaired. </label>
+        <para id="id139445">Each oxygen atom has 6 valence electrons, meaning that each atom has 2 unpaired electrons.</para>
+        </item> <item> <label> Look to see how the electrons can be shared between atoms so that the outer energy shells of all the atoms are full. </label>
+        <para id="id139454">Each oxygen atom needs two more electrons to complete its valence energy shell. Therefore <emphasis effect="italics">two pairs of electrons</emphasis> must be shared between the two oxygen atoms so that both valence shells are full. Notice that the two electron pairs are being shared between <emphasis effect="italics">the same two</emphasis> atoms, and so we call this a <emphasis effect="bold">double bond</emphasis> (<link target-id="uid9"/>).</para>
+        <figure id="uid9">
+          <media id="uid9_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_005.png" id="uid9_onlineimage" width="508"><!-- NOTE: attribute width changes image size online (pixels). original width is 508. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_005.eps" id="uid9_printimage"/>
+          </media>
+          <caption>A double covalent bond in an oxygen molecule</caption>
+        </figure>
+        
+        </item> </list> </solution>
+</exercise>
+        <para id="id139505">You will have noticed in the above examples that the number of electrons that are involved in bonding varies between atoms. We say that the <emphasis effect="bold">valency</emphasis> of the atoms is different.</para>
+<definition id="fhsst_id165"><term id="termfhsst_id165"> Valency </term> <meaning id="meaningfhsst_id165">
+        <para id="id139521">The number of electrons in the outer shell of an atom which are able to be used to form bonds with other atoms. </para>
+        </meaning></definition>
+        <para id="id139533">In the first example, the valency of both hydrogen and chlorine is one, therefore there is a single covalent bond between these two atoms. In the second example, nitrogen has a valency of three and hydrogen has a valency of one. This means that three hydrogen atoms will need to bond with a single nitrogen atom. There are three <emphasis effect="italics">single</emphasis> covalent bonds in a molecule of ammonia. In the third example, the valency of oxygen is two. This means that each oxygen atom will form two bonds with another atom. Since there is only one other atom in a molecule of O<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>, a <emphasis effect="italics">double covalent</emphasis> bond is formed between these two atoms.</para>
+<note id="notfhsst_id169" type="tip">There is a relationship between the valency
+of an element and its position on the Periodic Table. For the elements in groups 1 to 4, the valency is the
+same as the group number. For elements in groups 5 to 7, the valency is calculated by subtracting the group number from 8. For example, the valency of fluorine (group 7) is 8-7=1, while the valency of calcium (group 2) is 2. Some elements have more than one possible valency, so you always need to be careful when you are writing a chemical formula. Often, if there is more than one possibility in terms of valency, the valency will be written in a bracket after the element symbol e.g. carbon (IV) oxide, means that in this molecule carbon has a valency of 4.</note>
+<section id="secfhsst_id172"><title> Covalent bonding and valency
+        </title>
+        <list id="id139588" display="block" list-type="enumerated">
+          <item id="uid10">Explain the difference between the <emphasis effect="italics">valence electrons</emphasis> and the <emphasis effect="italics">valency</emphasis> of an element.
+</item>
+          <item id="uid11">Complete the table below by filling in the number of valence electrons and the valency for each of the elements shown:
+<table id="id139625" summary=""><tgroup cols="4"><tbody><row><entry><emphasis effect="bold">Element</emphasis></entry><entry><emphasis effect="bold">No. of valence electrons</emphasis></entry><entry><emphasis effect="bold">No. of electrons needed to fill outer shell</emphasis></entry><entry><emphasis effect="bold">Valency</emphasis></entry></row><row><entry>F</entry><entry/><entry/><entry/></row><row><entry>Ar</entry><entry/><entry/><entry/></row><row><entry>C</entry><entry/><entry/><entry/></row><row><entry>N</entry><entry/><entry/><entry/></row><row><entry>O</entry><entry/><entry/><entry/></row></tbody></tgroup></table></item>
+          <item id="uid12">Draw simple diagrams to show how electrons are arranged in the following covalent molecules:
+<list id="id140030" display="block" list-type="enumerated"><item id="uid13">Water (H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>O)
+</item><item id="uid14">Chlorine (Cl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid6">
+      <title>Lewis notation and molecular structure</title>
+      <para id="id140105">Although we have used diagrams to show the structure of molecules, there are other forms of notation that can be used, such as <emphasis effect="bold">Lewis notation</emphasis> and <emphasis effect="bold">Couper notation</emphasis>. <emphasis effect="bold">Lewis notation</emphasis> uses dots and crosses to represent the <emphasis effect="bold">valence electrons</emphasis> on different atoms. The chemical symbol of the element is used to represent the nucleus and the core electrons of the atom.</para>
+      <para id="id140135">So, for example, a hydrogen atom would be represented like this:</para>
+      <para id="id140141">
+        <figure id="id140144">
+          <media id="id140144_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_006.png" id="id140144_onlineimage" width="20"><!-- NOTE: attribute width changes image size online (pixels). original width is 20. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_006.eps" id="id140144_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id140151">A chlorine atom would look like this:</para>
+      <para id="id140154">
+        <figure id="id140157">
+          <media id="id140157_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_007.png" id="id140157_onlineimage" width="29"><!-- NOTE: attribute width changes image size online (pixels). original width is 29. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_007.eps" id="id140157_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id140164">A molecule of hydrogen chloride would be shown like this:</para>
+      <para id="id140168">
+        <figure id="id140171">
+          <media id="id140171_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_008.png" id="id140171_onlineimage" width="47"><!-- NOTE: attribute width changes image size online (pixels). original width is 47. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_008.eps" id="id140171_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id140178">The dot and cross in between the two atoms, represent the pair of electrons that are shared in the covalent bond.</para>
+<exercise id="secfhsst_id219"><title> Lewis notation: Simple molecules
+      </title>
+      <problem id="probfhsst_id221">
+      <para id="id140201">Represent the molecule <m:math overflow="scroll"><m:mrow><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>O</m:mi></m:mrow></m:math> using Lewis notation</para>
+      
+      </problem>
+      <solution id="solfhsst_id225"> <list id="listfhsst_id225" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> For each atom, determine the number of valence electrons in the atom, and represent these using dots and crosses.  </label>
+      <para id="id140248">The electron configuration of hydrogen is 1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>1</m:mn></m:msup></m:math> and the electron configuration for oxygen is 1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>4</m:mn></m:msup></m:math>. Each hydrogen atom has one valence electron, which is unpaired, and the oxygen atom has six valence electrons with two unpaired.</para>
+      <figure id="uid15">
+        <media id="uid15_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C1_009.png" id="uid15_onlineimage" width="89"><!-- NOTE: attribute width changes image size online (pixels). original width is 89. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_009.eps" id="uid15_printimage"/>
+        </media>
+      </figure>
+      </item> <item> <label> Arrange the electrons so that the outermost energy level of each atom is full. </label>
+      <para id="id140318">The water molecule is represented below.</para>
+      <figure id="uid16">
+        <media id="uid16_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C1_010.png" id="uid16_onlineimage" width="45"><!-- NOTE: attribute width changes image size online (pixels). original width is 45. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_010.eps" id="uid16_printimage"/>
+        </media>
+      </figure>
+      
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id245"><title> Lewis notation: Molecules with multiple bonds
+      </title>
+      <problem id="probfhsst_id247">
+      <para id="id140364">Represent the molecule HCN using Lewis notation</para>
+      
+      </problem>
+      <solution id="solfhsst_id251"> <list id="listfhsst_id251" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> For each atom, determine the number of valence electrons that the atom has from its electron configuration. </label>
+      <para id="id140394">The electron configuration of hydrogen is 1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>1</m:mn></m:msup></m:math>, the electron configuration of nitrogen is 1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math> and for carbon is 1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math>. This means that hydrogen has one valence electron which is unpaired, carbon has four valence electrons, all of which are unpaired, and nitrogen has five valence electrons, three of which are unpaired.</para>
+      <figure id="uid17">
+        <media id="uid17_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C1_011.png" id="uid17_onlineimage" width="131"><!-- NOTE: attribute width changes image size online (pixels). original width is 131. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_011.eps" id="uid17_printimage"/>
+        </media>
+      </figure>
+      </item> <item> <label> Arrange the electrons in the HCN molecule so that the outermost energy level in each atom is full. </label>
+      <para id="id140504">The HCN molecule is represented below. Notice the three electron pairs between the nitrogen and carbon atom. Because these three covalent bonds are between the same two atoms, this is a <emphasis effect="italics">triple</emphasis> bond.</para>
+      <figure id="uid18">
+        <media id="uid18_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C1_012.png" id="uid18_onlineimage" width="71"><!-- NOTE: attribute width changes image size online (pixels). original width is 71. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_012.eps" id="uid18_printimage"/>
+        </media>
+      </figure>
+      
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id271"><title> Lewis notation: Atoms with variable valencies
+      </title>
+      <problem id="probfhsst_id273">
+      <para id="id140557">Represent the molecule H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>S using Lewis notation</para>
+      
+      </problem>
+      <solution id="solfhsst_id277"> <list id="listfhsst_id277" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Determine the number of valence electrons for each atom. </label>
+      <para id="id140615">Hydrogen has an electron configuration of 1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>1</m:mn></m:msup></m:math> and sulfur has an electron configuration of 1s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 2p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>6</m:mn></m:msup></m:math> 3s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> 3p<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>4</m:mn></m:msup></m:math>. Each hydrogen atom has one valence electron which is unpaired, and sulfur has six valence electrons. Although sulfur has a variable valency, we know that the sulfur will be able to form 2 bonds with the hydrogen atoms. In this case, the valency of sulfur must be two.</para>
+      <figure id="uid19">
+        <media id="uid19_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C1_013.png" id="uid19_onlineimage" width="89"><!-- NOTE: attribute width changes image size online (pixels). original width is 89. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_013.eps" id="uid19_printimage"/>
+        </media>
+      </figure>
+      </item> <item> <label> Arrange the atoms in the molecule so that the outermost energy level in each atom is full. </label>
+      <para id="id140712">The H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>S molecule is represented below.</para>
+      <figure id="uid20">
+        <media id="uid20_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C1_014.png" id="uid20_onlineimage" width="45"><!-- NOTE: attribute width changes image size online (pixels). original width is 45. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_014.eps" id="uid20_printimage"/>
+        </media>
+      </figure>
+</item> </list> </solution>
+</exercise>
+      <para id="id140737">Another way of representing molecules is using <emphasis effect="bold">Couper notation</emphasis>. In this case, only the electrons that are involved in the bond between the atoms are shown. A line is used for each covalent bond. Using Couper notation, a molecule of water and a molecule of HCN would be represented as shown in figures <link target-id="uid21"/> and <link target-id="uid22"/> below.</para>
+      <figure id="uid21">
+        <media id="uid21_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C1_015.png" id="uid21_onlineimage" width="35"><!-- NOTE: attribute width changes image size online (pixels). original width is 35. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_015.eps" id="uid21_printimage"/>
+        </media>
+        <caption>A water molecule represented using Couper notation</caption>
+      </figure>
+      <figure id="uid22">
+        <media id="uid22_media" alt="">
+          <image mime-type="image/png" src="../../media/CG11C1_016.png" id="uid22_onlineimage" width="63"><!-- NOTE: attribute width changes image size online (pixels). original width is 63. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_016.eps" id="uid22_printimage"/>
+        </media>
+        <caption>A molecule of HCN represented using Couper notation</caption>
+      </figure>
+<section id="secfhsst_id312"><title>
+      Dative covalent bonds
+      </title>
+      <para id="id140800">A <emphasis effect="bold">dative covalent bond</emphasis> (also known as a coordinate covalent bond) is a description of covalent bonding between two atoms in which both electrons shared in the bond come from the same atom. This happens when a Lewis base (an electron donor) donates a pair of electrons to a Lewis acid (an electron acceptor). Lewis acids and bases will be discussed in <link target-id=""/> in chapter <link target-id=""/>.</para>
+      <para id="id140819">One example of a molecule that contains a dative covalent bond is the ammonium ion (NH<m:math overflow="scroll"><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>+</m:mo></m:msubsup></m:math>) shown in the figure below. The hydrogen ion H<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> does not contain any electrons, and therefore the electrons that are in the bond that forms between this ion and the nitrogen atom, come only from the nitrogen.</para>
+      <para id="id140858">
+        <figure id="id140861">
+          <media id="id140861_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_017.png" id="id140861_onlineimage" width="252"><!-- NOTE: attribute width changes image size online (pixels). original width is 252. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_017.eps" id="id140861_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+</section>
+<section id="secfhsst_id327"><title> Atomic bonding and Lewis notation
+      </title>
+      <list id="id140889" display="block" list-type="enumerated">
+        <item id="uid23">Represent each of the following <emphasis effect="italics">atoms</emphasis> using Lewis notation:
+<list id="id140910" display="block" list-type="enumerated"><item id="uid24">beryllium
+</item><item id="uid25">calcium
+</item><item id="uid26">lithium
+</item></list></item>
+        <item id="uid27">Represent each of the following <emphasis effect="italics">molecules</emphasis> using Lewis notation:
+<list id="id140969" display="block" list-type="enumerated"><item id="uid28">bromine gas (Br<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)
+</item><item id="uid29">carbon dioxide (CO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)
+</item></list></item>
+        <item id="uid30">Which of the two molecules listed above contains a double bond?
+</item>
+        <item id="uid31">Two chemical reactions are described below.
+<list id="id141048" display="block" list-type="bulleted"><item id="uid32">nitrogen and hydrogen react to form NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></item><item id="uid33">carbon and hydrogen bond to form a molecule of CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></item></list>
+For each reaction, give:
+<list id="id141106" display="block" list-type="enumerated"><item id="uid34">the valency of each of the atoms involved in the reaction
+</item><item id="uid35">the Lewis structure of the product that is formed
+</item><item id="uid36">the chemical formula of the product
+</item><item id="uid37">the name of the product
+</item></list></item>
+        <item id="uid38">A chemical compound has the following Lewis notation:
+<figure id="id141174"><media id="id141174_media" alt=""><image mime-type="image/png" src="../../media/CG11C1_018.png" id="id141174_onlineimage" width="45"><!-- NOTE: attribute width changes image size online (pixels). original width is 45. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_018.eps" id="id141174_printimage"/></media></figure><list id="id141181" display="block" list-type="enumerated"><item id="uid39">How many valence electrons does element Y have?
+</item><item id="uid40">What is the valency of element Y?
+</item><item id="uid41">What is the valency of element X?
+</item><item id="uid42">How many covalent bonds are in the molecule?
+</item><item id="uid43">Suggest a name for the elements X and Y.
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+
+  </content>
+</document>

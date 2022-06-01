@@ -1,0 +1,864 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Moles and molar mass</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39070</md:content-id>
+  <md:title>Moles and molar mass</md:title>
+  <md:abstract/>
+  <md:uuid>7481b97e-226f-4a67-9441-c87e4927a3c1</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1">
+      <title>Introduction</title>
+      <para id="id275167">An equation for a chemical reaction can provide us with a lot of useful information. It tells us what the reactants and the products are in the reaction, and it also tells us the ratio in which the reactants combine to form products. Look at the equation below:</para>
+      <para id="id275172">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>F</m:mi>
+            <m:mi>e</m:mi>
+            <m:mo>+</m:mo>
+            <m:mi>S</m:mi>
+            <m:mo>→</m:mo>
+            <m:mi>F</m:mi>
+            <m:mi>e</m:mi>
+            <m:mi>S</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      <para id="id275542">In this reaction, every atom of iron (Fe) will react with a single atom of sulfur (S) to form one molecule of iron sulfide (FeS). However, what the equation doesn't tell us, is the <emphasis effect="bold">quantities</emphasis> or the <emphasis effect="bold">amount</emphasis> of each substance that is involved. You may for example be given a small sample of iron for the reaction. How will you know how many atoms of iron are in this sample? And how many atoms of sulfur will you need for the reaction to use up all the iron you have? Is there a way of knowing what mass of iron sulfide will be produced at the end of the reaction? These are all very important questions, especially when the reaction is an industrial one, where it is important to know the quantities of reactants that are needed, and the quantity of product that will be formed. This chapter will look at how to quantify the changes that take place in chemical reactions.</para>
+    </section>
+    <section id="cid2">
+      <title>The Mole</title>
+      <para id="id275573">Sometimes it is important to know exactly how many particles (e.g. atoms or molecules) are in a sample of a substance, or what quantity of a substance is needed for a chemical reaction to take place.</para>
+      <para id="id275578">You will remember from Grade 10 that the <emphasis effect="bold">relative atomic mass</emphasis> of an element, describes the mass of an atom of that element relative to the mass of an atom of carbon-12. So the mass of an atom of carbon (relative atomic mass is 12 u) for example, is twelve times greater than the mass of an atom of hydrogen, which has a relative atomic mass of 1 u. How can this information be used to help us to know what mass of each element will be needed if we want to end up with the same number of <emphasis effect="italics">atoms</emphasis> of carbon and hydrogen?</para>
+      <para id="id275598">Let's say for example, that we have a sample of 12g carbon. What mass of <emphasis effect="italics">hydrogen</emphasis> will contain the same number of atoms as 12 g carbon? We know that each atom of carbon weighs twelve times more than an atom of hydrogen. Surely then, we will only need 1g of hydrogen for the number of atoms in the two samples to be the same? You will notice that the number of particles (in this case, <emphasis effect="italics">atoms</emphasis>) in the two substances is the same when the ratio of their sample masses (12g carbon: 1g hydrogen = 12:1) is the same as the ratio of their relative atomic masses (12 u: 1 u = 12:1).</para>
+      <para id="id275618">To take this a step further, if you were to weigh out samples of a number of elements so that the mass of the sample was the same as the relative atomic mass of that element, you would find that the number of particles in each sample is 6.023 x <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>23</m:mn></m:msup></m:math>. These results are shown in <link target-id="uid1"/> below for a number of different elements. So, 24.31 g of magnesium (relative atomic mass = 24.31 u) for example, has the same number of atoms as 40.08 g of calcium (relative atomic mass = 40.08 u).</para>
+      <table id="uid1" summary="">
+        <tgroup cols="4">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Element</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Relative atomic mass (u)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Sample mass (g)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Atoms in sample</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Hydrogen (H)</entry>
+              <entry>1</entry>
+              <entry>1</entry>
+              <entry>6.023 x <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>23</m:mn></m:msup></m:math></entry>
+            </row>
+            <row>
+              <entry>Carbon (C)</entry>
+              <entry>12</entry>
+              <entry>12</entry>
+              <entry>6.023 x <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>23</m:mn></m:msup></m:math></entry>
+            </row>
+            <row>
+              <entry>Magnesium (Mg)</entry>
+              <entry>24.31</entry>
+              <entry>24.31</entry>
+              <entry>6.023 x <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>23</m:mn></m:msup></m:math></entry>
+            </row>
+            <row>
+              <entry>Sulfur (S)</entry>
+              <entry>32.07</entry>
+              <entry>32.07</entry>
+              <entry>6.023 x <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>23</m:mn></m:msup></m:math></entry>
+            </row>
+            <row>
+              <entry>Calcium (Ca)</entry>
+              <entry>40.08</entry>
+              <entry>40.08</entry>
+              <entry>6.023 x <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>23</m:mn></m:msup></m:math></entry>
+            </row>
+          </tbody>
+        </tgroup>
+        <caption>Table showing the relationship between the sample mass, the relative atomic mass and the number of atoms in a sample, for a number of elements.</caption>
+      </table>
+      <para id="id275935">This result is so important that scientists decided to use a special unit of measurement to define this quantity: the <emphasis effect="bold">mole</emphasis> or 'mol'. A <emphasis effect="bold">mole</emphasis> is defined as being an amount of a substance which contains the same number of particles as there are atoms in 12 g of carbon. In the examples that were used earlier, 24.31 g magnesium is <emphasis effect="italics">one mole</emphasis> of magnesium, while 40.08 g of calcium is <emphasis effect="italics">one mole</emphasis> of calcium. A mole of any substance always contains the same number of particles.</para>
+<definition id="fhsst_id119"><term id="termfhsst_id119"> Mole </term> <meaning id="meaningfhsst_id119">
+      <para id="id275969">The mole (abbreviation 'n') is the SI (Standard International) unit for 'amount of substance'. It is defined as an amount of substance that contains the same number of particles (atoms, molecules or other particle units) as there are atoms in 12 g carbon. </para>
+      </meaning></definition>
+      <para id="id275982">In one mole of any substance, there are 6.023 x <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>23</m:mn></m:msup></m:math> particles. This is known as <emphasis effect="bold">Avogadro's number</emphasis>.</para>
+<definition id="fhsst_id123"><term id="termfhsst_id123"> Avogadro's number </term> <meaning id="meaningfhsst_id123">
+      <para id="id276010">The number of particles in a mole, equal to 6.023 x <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>23</m:mn></m:msup></m:math>. It is also sometimes referred to as the number of atoms in 12 g of carbon-12. </para>
+      </meaning></definition>
+<note id="notfhsst_id126"><title> Interesting Fact </title> The original hypothesis that was proposed by Amadeo Avogadro was that <emphasis effect="italics">'equal volumes of gases, at the same temperature and pressure, contain the same number of molecules'</emphasis>. His ideas were not accepted by the scientific community and it was only four years after his death, that his original hypothesis was accepted and that it became known as 'Avogadro's Law'. In honour of his contribution to science, the number of particles in one mole was named <emphasis effect="italics">Avogadro's number</emphasis>.</note>
+<section id="secfhsst_id127"><title> Moles and mass
+      </title>
+      <list id="id276067" display="block" list-type="enumerated">
+        <item id="uid2">
+Complete the following table:
+<table id="id276082" summary=""><tgroup cols="4"><tbody><row><entry><emphasis effect="bold">Element</emphasis></entry><entry><emphasis effect="bold">Relative atomic mass (u)</emphasis></entry><entry><emphasis effect="bold">Sample mass (g)</emphasis></entry><entry><emphasis effect="bold">Number of moles in the sample</emphasis></entry></row><row><entry>Hydrogen</entry><entry>1.01</entry><entry>1.01</entry><entry/></row><row><entry>Magnesium</entry><entry>24.31</entry><entry>24.31</entry><entry/></row><row><entry>Carbon</entry><entry>12.01</entry><entry>24.02</entry><entry/></row><row><entry>Chlorine</entry><entry>35.45</entry><entry>70.9</entry><entry/></row><row><entry>Nitrogen</entry><entry/><entry>42.08</entry><entry/></row></tbody></tgroup></table></item>
+        <item id="uid3">
+How many atoms are there in...
+<list id="id276311" display="block" list-type="enumerated"><item id="uid4">1 mole of a substance
+</item><item id="uid5">2 moles of calcium
+</item><item id="uid6">5 moles of phosphorus
+</item><item id="uid7">24.31 g of magnesium
+</item><item id="uid8">24.02 g of carbon
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid3">
+      <title>Molar Mass</title>
+<definition id="fhsst_id147"><term id="termfhsst_id147"> Molar mass </term> <meaning id="meaningfhsst_id147">
+      <para id="id276397">Molar mass (M) is the mass of 1 mole of a chemical substance. The unit for molar mass is <emphasis effect="bold">grams per mole</emphasis> or g.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. </para>
+      </meaning></definition>
+      <para id="id276429">Refer to <link target-id="uid1"/>. You will remember that when the mass, in grams, of an element is equal to its relative atomic mass, the sample contains one mole of that element. This mass is called the <emphasis effect="bold">molar mass</emphasis> of that element.</para>
+      <para id="id276445">It is worth remembering the following: On the Periodic Table, the relative atomic mass that is shown can be interpreted in two ways.</para>
+      <list id="id276451" display="block" list-type="enumerated">
+        <item id="uid9">The mass of a <emphasis effect="italics">single, average atom</emphasis> of that element relative to the mass of an atom of carbon.
+</item>
+        <item id="uid10">The mass of <emphasis effect="italics">one mole of the element</emphasis>. This second use is the molar mass of the element.
+</item>
+      </list>
+      <table id="uid11" summary="">
+        <tgroup cols="4">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Element</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Relative atomic mass (u)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Molar mass (g.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Mass of one mole of the element (g)</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Magnesium</entry>
+              <entry>24.31</entry>
+              <entry>24.31</entry>
+              <entry>24.31</entry>
+            </row>
+            <row>
+              <entry>Lithium</entry>
+              <entry>6.94</entry>
+              <entry>6.94</entry>
+              <entry>6.94</entry>
+            </row>
+            <row>
+              <entry>Oxygen</entry>
+              <entry>16</entry>
+              <entry>16</entry>
+              <entry>16</entry>
+            </row>
+            <row>
+              <entry>Nitrogen</entry>
+              <entry>14.01</entry>
+              <entry>14.01</entry>
+              <entry>14.01</entry>
+            </row>
+            <row>
+              <entry>Iron</entry>
+              <entry>55.85</entry>
+              <entry>55.85</entry>
+              <entry>55.85</entry>
+            </row>
+          </tbody>
+        </tgroup>
+        <caption>The relationship between relative atomic mass, molar mass and the mass of one mole for a number of elements.</caption>
+      </table>
+<exercise id="secfhsst_id209"><title> Calculating the number of moles from mass </title>
+      <problem id="probfhsst_id210">
+      <para id="id276776">Calculate the number of moles of iron (Fe) in a 111.7 g sample.</para>
+      
+      </problem>
+      <solution id="solfhsst_id214"> <list id="listfhsst_id214" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Find the molar mass of iron </label>
+      <para id="id276821">If we look at the periodic table, we see that the molar mass of iron is 55.85 g.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. This means that 1 mole of iron will have a mass of 55.85 g.</para>
+      </item> <item> <label> Use the molar mass and sample mass to calculate the number of moles of iron </label>
+      <para id="id276848">If 1 mole of iron has a mass of 55.85 g, then: the number of moles of iron in 111.7 g must be:</para>
+      <equation id="id276852">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>111</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>7</m:mn>
+                <m:mi>g</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>55</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>85</m:mn>
+                <m:mi>g</m:mi>
+                <m:mo>.</m:mo>
+                <m:mi>m</m:mi>
+                <m:mi>o</m:mi>
+                <m:msup>
+                  <m:mi>l</m:mi>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:msup>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>m</m:mi>
+            <m:mi>o</m:mi>
+            <m:mi>l</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id276911">There are 2 moles of iron in the sample.</para>
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id258"><title> Calculating mass from moles </title>
+      <problem id="probfhsst_id259">
+      <para id="id276928">You have a sample that contains 5 moles of zinc.</para>
+      <list id="id276934" display="block" list-type="enumerated">
+        <item id="uid12">What is the mass of the zinc in the sample?
+</item>
+        <item id="uid13">How many atoms of zinc are in the sample?
+</item>
+      </list>
+      
+      </problem>
+      <solution id="solfhsst_id269"> <list id="listfhsst_id269" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Find the molar mass of zinc </label>
+      <para id="id276984">Molar mass of zinc is 65.38 g.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, meaning that 1 mole of zinc has a mass of 65.38 g.
+ </para>
+      </item>
+      <item> <label> Calculate the mass of zinc, using moles and molar mass. </label>
+      <para id="id277021">If 1 mole of zinc has a mass of 65.38 g, then 5 moles of zinc has a mass of:</para>
+      <para id="id277025">65.38 g x 5 mol = 326.9 g (answer to a)</para>
+      </item> <item> <label> Use the number of moles of zinc and Avogadro's number to calculate the number of zinc atoms in the sample. </label>
+      <equation id="id277035">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mn>5</m:mn>
+            <m:mo>×</m:mo>
+            <m:mn>6</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>023</m:mn>
+            <m:mo>×</m:mo>
+            <m:msup>
+              <m:mn>10</m:mn>
+              <m:mn>23</m:mn>
+            </m:msup>
+            <m:mo>=</m:mo>
+            <m:mn>30</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>115</m:mn>
+            <m:mo>×</m:mo>
+            <m:msup>
+              <m:mn>10</m:mn>
+              <m:mn>23</m:mn>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id277263">(answer to b)</para>
+</item> 
+</list> </solution>
+</exercise>
+<section id="secfhsst_id305"><title> Moles and molar mass
+      </title>
+      <list id="id277281" display="block" list-type="enumerated">
+        <item id="uid14">Give the molar mass of each of the following elements:
+<list id="id277295" display="block" list-type="enumerated"><item id="uid15">hydrogen
+</item><item id="uid16">nitrogen
+</item><item id="uid17">bromine
+</item></list></item>
+        <item id="uid18">Calculate the number of moles in each of the following samples:
+<list id="id277346" display="block" list-type="enumerated"><item id="uid19">21.62 g of boron (B)
+</item><item id="uid20">54.94 g of manganese (Mn)
+</item><item id="uid21">100.3 g of mercury (Hg)
+</item><item id="uid22">50 g of barium (Ba)
+</item><item id="uid23">40 g of lead (Pb)
+</item></list></item>
+      </list>
+ </section>     
+</section>
+    
+    <section id="cid4">
+      <title>An equation to calculate moles and mass in chemical reactions</title>
+      <para id="id277432">The calculations that have been used so far, can be made much simpler by using the following equation:</para>
+      <equation id="id277436"><m:math overflow="scroll" mode="display">
+      
+            <m:mrow>
+              <m:mi>n</m:mi>
+              <m:mo>(</m:mo>
+              <m:mi> number of moles</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>m</m:mi>
+                <m:mo>(</m:mo>
+                <m:mi> mass of substance in g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            <m:mrow>
+              <m:mi>M</m:mi>
+              <m:mo>(</m:mo>
+              <m:mi> molar mass of substance in</m:mi><m:mspace width="3pt"/>
+            <m:mi mathvariant="normal">g</m:mi>
+            <m:mo>·</m:mo>
+            <m:msup>
+              <m:mi> mol </m:mi>
+              <m:mrow>
+                <m:mo>-</m:mo>
+                <m:mn>1</m:mn>
+              </m:mrow>
+            </m:msup>
+            <m:mo>)</m:mo>
+          </m:mrow> </m:mfrac>
+        </m:math>
+      </equation>
+<note id="notfhsst_id374" type="tip">Remember that when you use the equation <m:math><m:mi>n</m:mi><m:mo>=</m:mo> <m:mfrac><m:mi>m</m:mi><m:mi>M</m:mi></m:mfrac></m:math>, the mass is always in grams (g) and molar mass is in grams per mol (<m:math><m:mi mathvariant="normal">g</m:mi>
+            <m:mo>·</m:mo>
+            <m:msup>
+              <m:mi> mol </m:mi>
+              <m:mrow>
+                <m:mo>-</m:mo>
+                <m:mn>1</m:mn>
+              </m:mrow>
+            </m:msup></m:math>).</note>
+      <para id="id277555">The equation can also be used to calculate mass and molar mass, using the following equations:</para>
+      <equation id="id277559">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>m</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>n</m:mi>
+            <m:mo>×</m:mo>
+            <m:mi>M</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id277579">and</para>
+      <equation id="id277584">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>M</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>m</m:mi>
+              <m:mi>n</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id277605">The following diagram may help to remember the relationship between these three variables. You need to imagine that the horizontal line is like a 'division' sign and that the vertical line is like a 'multiplication' sign. So, for example, if you want to calculate 'M', then the remaining two letters in the triangle are 'm' and 'n' and 'm' is above 'n' with a division sign between them. In your calculation then, 'm' will be the numerator and 'n' will be the denominator.</para>
+      <para id="id277613">
+        <figure id="id277616">
+          <media id="id277616_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C6_001.png" id="id277616_onlineimage" width="172"><!-- NOTE: attribute width changes image size online (pixels). original width is 172. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C6_001.eps" id="id277616_printimage"/>
+          </media>
+        </figure>
+      </para>
+<exercise id="secfhsst_id409"><title> Calculating moles from mass </title>
+      <problem id="probfhsst_id410">
+      <para id="id277635">Calculate the number of moles of copper there are in a sample that weighs 127 g.</para>
+      
+      </problem>
+      <solution id="solfhsst_id414"> <list id="listfhsst_id414" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+     
+      <item> <label> Write the equation to calculate the number of moles </label>
+      <equation id="id277680">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>m</m:mi>
+              <m:mi>M</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Substitute numbers into the equation </label>
+      <equation id="id277705">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>127</m:mn>
+              <m:mrow>
+                <m:mn>63</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>55</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>2</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id277735">There are 2 moles of copper in the sample.</para>
+ </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id451"><title> Calculating mass from moles </title>
+      <problem id="probfhsst_id452">
+      <para id="id277751">You are given a 5 mol sample of sodium. What mass of sodium is in the sample?</para>
+      
+      </problem>
+      <solution id="solfhsst_id456"> <list id="listfhsst_id456" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Write the equation to calculate the sample mass. </label>
+      <equation id="id277797">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>m</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>n</m:mi>
+            <m:mo>×</m:mo>
+            <m:mi>M</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Substitute values into the equation. </label>
+      <para id="id277822">M<m:math overflow="scroll"><m:msub><m:mrow/><m:mrow><m:mi>N</m:mi><m:mi>a</m:mi></m:mrow></m:msub></m:math> = 22.99 g.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></para>
+      <para id="id277857">Therefore,</para>
+      <equation id="id277862">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>m</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>5</m:mn>
+            <m:mo>×</m:mo>
+            <m:mn>22</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>99</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>114</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>95</m:mn>
+            <m:mi>g</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id277898">The sample of sodium has a mass of 114.95 g.</para>
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id494"><title> Calculating atoms from mass </title>
+      <problem id="probfhsst_id495">
+      <para id="id277914">Calculate the number of atoms there are in a sample of aluminium that weighs 80.94 g.</para>
+      
+      </problem>
+      <solution id="solfhsst_id499"> <list id="listfhsst_id499" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      <item> <label> Calculate the number of moles of aluminium in the sample. </label>
+      <equation id="id277959">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>m</m:mi>
+              <m:mi>M</m:mi>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>80</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>94</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>26</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>98</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>3</m:mn>
+            <m:mi>m</m:mi>
+            <m:mi>o</m:mi>
+            <m:mi>l</m:mi>
+            <m:mi>e</m:mi>
+            <m:mi>s</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Use Avogadro's number to calculate the number of atoms in the sample. </label>
+      <para id="id278019">Number of atoms in 3 mol aluminium = 3 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 6.023 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>23</m:mn></m:msup></m:math></para>
+      <para id="id278053">There are 18.069 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>23</m:mn></m:msup></m:math> aluminium atoms in a sample of 80.94 g.</para>
+ </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id539"><title> Some simple calculations
+      </title>
+      <list id="id278090" display="block" list-type="enumerated">
+        <item id="uid24">Calculate the number of moles in each of the following samples:
+<list id="id278106" display="block" list-type="enumerated"><item id="uid25">5.6 g of calcium
+</item><item id="uid26">0.02 g of manganese
+</item><item id="uid27">40 g of aluminium
+</item></list></item>
+        <item id="uid28">A lead sinker has a mass of 5 g.
+<list id="id278159" display="block" list-type="enumerated"><item id="uid29">Calculate the number of moles of lead the sinker contains.
+</item><item id="uid30">How many lead atoms are in the sinker?
+</item></list></item>
+        <item id="uid31">Calculate the mass of each of the following samples:
+<list id="id278201" display="block" list-type="enumerated"><item id="uid32">2.5 mol magnesium
+</item><item id="uid33">12 mol lithium
+</item><item id="uid34">4.5 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>25</m:mn></m:msup></m:math> atoms of silica
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid5">
+      <title>Molecules and compounds</title>
+      <para id="id278284">So far, we have only discussed moles, mass and molar mass in relation to <emphasis effect="italics">elements</emphasis>. But what happens if we are dealing with a molecule or some other chemical compound? Do the same concepts and rules apply? The answer is 'yes'. However, you need to remember that all your calculations will apply to the <emphasis effect="italics">whole molecule</emphasis>. So, when you calculate the molar mass of a molecule, you will need to add the molar mass of each atom in that compound. Also, the number of moles will also apply to the whole molecule. For example, if you have one mole of nitric acid (HNO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>), it means you have 6.023 x <m:math overflow="scroll"><m:msup><m:mn>10</m:mn><m:mn>23</m:mn></m:msup></m:math><emphasis effect="bold">molecules</emphasis> of nitric acid in the sample. This also means that there are 6.023 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>23</m:mn></m:msup></m:math><emphasis effect="bold">atoms</emphasis> of hydrogen, 6.023 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>23</m:mn></m:msup></m:math><emphasis effect="bold">atoms</emphasis> of nitrogen and (3 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 6.023 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>23</m:mn></m:msup></m:math>) <emphasis effect="bold">atoms</emphasis> of oxygen in the sample.</para>
+      <para id="id278429">In a balanced chemical equation, the number that is written in front of the element or compound, shows the <emphasis effect="bold">mole ratio</emphasis> in which the reactants combine to form a product. If there are no numbers in front of the element symbol, this means the number is '1'.</para>
+      <para id="id278442">e.g. <m:math overflow="scroll"><m:mrow><m:msub><m:mi>N</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>N</m:mi><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:math></para>
+      <para id="id278488">In this reaction, 1 mole of nitrogen reacts with 3 moles of hydrogen to produce 2 moles of ammonia.</para>
+<exercise id="secfhsst_id566"><title> Calculating molar mass </title>
+      <problem id="probfhsst_id567">
+      <para id="id278505">Calculate the molar mass of H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>.</para>
+      
+      </problem>
+      <solution id="solfhsst_id571"> <list id="listfhsst_id571" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Use the periodic table to find the molar mass for each element in the molecule. </label>
+      <para id="id278575">Hydrogen = 1.008 g.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>; Sulfur = 32.07 g.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>; Oxygen = 16 g.mol<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></para>
+      </item> <item> <label> Add the molar masses of each atom in the molecule </label>
+      <equation id="id278632">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>M</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:msub>
+                  <m:mi>H</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mi>S</m:mi>
+                <m:msub>
+                  <m:mi>O</m:mi>
+                  <m:mn>4</m:mn>
+                </m:msub>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mn>2</m:mn>
+              <m:mo>×</m:mo>
+              <m:mn>1</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>008</m:mn>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mn>32</m:mn>
+              <m:mo>.</m:mo>
+              <m:mn>07</m:mn>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mn>4</m:mn>
+              <m:mo>×</m:mo>
+              <m:mn>16</m:mn>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mn>98</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>09</m:mn>
+            <m:mi>g</m:mi>
+            <m:mo>.</m:mo>
+            <m:mi>m</m:mi>
+            <m:mi>o</m:mi>
+            <m:msup>
+              <m:mi>l</m:mi>
+              <m:mrow>
+                <m:mo>-</m:mo>
+                <m:mn>1</m:mn>
+              </m:mrow>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id641"><title> Calculating moles from mass </title>
+      <problem id="probfhsst_id642">
+      <para id="id278755">Calculate the number of moles there are in 1kg of MgCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>.</para>
+      
+      </problem>
+      <solution id="solfhsst_id646"> <list id="listfhsst_id646" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Write the equation for calculating the number of moles in the sample. </label>
+      <equation id="id278813">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>m</m:mi>
+              <m:mi>M</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Calculate the values that you will need, to substitute into the equation </label>
+      <list id="id278839" display="block" list-type="enumerated">
+        <item id="uid35">Convert mass into grams
+<equation id="id278854"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mi>k</m:mi><m:mi>g</m:mi><m:mo>×</m:mo><m:mn>1000</m:mn><m:mo>=</m:mo><m:mn>1000</m:mn><m:mi>g</m:mi></m:mrow></m:math></equation></item>
+        <item id="uid36">Calculate the molar mass of MgCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>.
+<equation id="id278912"><m:math overflow="scroll" mode="display"><m:mrow><m:msub><m:mi>M</m:mi><m:mrow><m:mo>(</m:mo><m:mi>M</m:mi><m:mi>g</m:mi><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:mo>)</m:mo></m:mrow></m:msub><m:mo>=</m:mo><m:mn>24</m:mn><m:mo>.</m:mo><m:mn>31</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:mn>35</m:mn><m:mo>.</m:mo><m:mn>45</m:mn><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>95</m:mn><m:mo>.</m:mo><m:mn>21</m:mn><m:mi>g</m:mi><m:mo>.</m:mo><m:mi>m</m:mi><m:mi>o</m:mi><m:msup><m:mi>l</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></equation></item>
+      </list>
+      </item> <item> <label> Substitute values into the equation </label>
+      <equation id="id279005">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>1000</m:mn>
+              <m:mrow>
+                <m:mn>95</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>21</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>10</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>5</m:mn>
+            <m:mi>m</m:mi>
+            <m:mi>o</m:mi>
+            <m:mi>l</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id279046">There are 10.5 moles of magnesium chloride in a 1 kg sample.</para>
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id695"><title> Calculating the mass of reactants and products </title>
+      <problem id="probfhsst_id696">
+      <para id="id279063">Barium chloride and sulfuric acid react according to the following equation to produce barium sulphate and hydrochloric acid.</para>
+      <para id="id279070">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>B</m:mi>
+            <m:mi>a</m:mi>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>l</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>+</m:mo>
+            <m:msub>
+              <m:mi>H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mi>S</m:mi>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>4</m:mn>
+            </m:msub>
+            <m:mo>→</m:mo>
+            <m:mi>B</m:mi>
+            <m:mi>a</m:mi>
+            <m:mi>S</m:mi>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>4</m:mn>
+            </m:msub>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>H</m:mi>
+            <m:mi>C</m:mi>
+            <m:mi>l</m:mi>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id279141">If you have 2 g of BaCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>...</para>
+      <list id="id279158" display="block" list-type="enumerated">
+        <item id="uid37">What quantity (in g) of H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> will you need for the reaction so that all the barium chloride is used up?
+</item>
+        <item id="uid38">What mass of HCl is produced during the reaction?
+</item>
+      </list>
+      
+      </problem>
+      <solution id="solfhsst_id743"> <list id="listfhsst_id743" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Calculate the number of moles of BaCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> that react. </label>
+      <equation id="id279248">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>m</m:mi>
+              <m:mi>M</m:mi>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>2</m:mn>
+              <m:mrow>
+                <m:mn>208</m:mn>
+                <m:mo>.</m:mo>
+                <m:mn>24</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>0096</m:mn>
+            <m:mi>m</m:mi>
+            <m:mi>o</m:mi>
+            <m:mi>l</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      
+      </item>
+      <item> <label> Determine how many moles of H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> are needed for the reaction </label>
+      <para id="id279344">According to the balanced equation, 1 mole of BaCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> will react with 1 mole of H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>. Therefore, if 0.0096 moles of BaCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> react, then there must be the same number of moles of H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> that react because their mole ratio is 1:1.</para>
+      </item> <item> <label> Calculate the mass of H<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> that is needed. </label>
+      <equation id="id279456">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>m</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>n</m:mi>
+            <m:mo>×</m:mo>
+            <m:mi>M</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>0096</m:mn>
+            <m:mo>×</m:mo>
+            <m:mn>98</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>086</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>94</m:mn>
+            <m:mi>g</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id279505">(answer to 1)</para>
+      </item> <item> <label> Determine the number of moles of HCl produced. </label>
+      <para id="id279513">According to the balanced equation, 2 moles of HCl are produced for every 1 mole of the two reactants. Therefore the number of moles of HCl produced is (2 <m:math overflow="scroll"><m:mo>×</m:mo></m:math> 0.0096), which equals 0.0192 moles.</para>
+      </item> <item> <label> Calculate the mass of HCl. </label>
+      <equation id="id279531">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>m</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>n</m:mi>
+            <m:mo>×</m:mo>
+            <m:mi>M</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>0192</m:mn>
+            <m:mo>×</m:mo>
+            <m:mn>35</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>73</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>.</m:mo>
+            <m:mn>69</m:mn>
+            <m:mi>g</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id279580">(answer to 2)</para>
+</item> 
+</list> </solution>
+</exercise>
+<section id="secfhsst_id832"><title> Group work : Understanding moles, molecules and Avogadro's number
+      </title>
+      <para id="id279596">Divide into groups of three and spend about 20 minutes answering the following questions together:</para>
+      <list id="id279603" display="block" list-type="enumerated">
+        <item id="uid39">What are the units of the mole? Hint: Check the definition of the mole.
+</item>
+        <item id="uid40">You have a 56 g sample of iron sulfide (FeS)
+<list id="id279631" display="block" list-type="enumerated"><item id="uid41">How many <emphasis effect="bold">moles</emphasis> of FeS are there in the sample?
+</item><item id="uid42">How many <emphasis effect="bold">molecules</emphasis> of FeS are there in the sample?
+</item><item id="uid43">What is the difference between a mole and a molecule?
+</item></list></item>
+        <item id="uid44">The exact size of <emphasis effect="bold">Avogadro's number</emphasis> is sometimes difficult to imagine.
+<list id="id279703" display="block" list-type="enumerated"><item id="uid45">Write down Avogadro's number without using scientific notation.
+</item><item id="uid46">How long would it take to count to Avogadro's number? You can assume that you can count two numbers in each second.
+</item></list></item>
+      </list>
+      
+</section>
+<para id="eip-836"><figure id="moles-1" class="khanacademy">
+	  <title>Khan academy video on the mole - 1</title>
+	  <media id="yt-media1" display="block" alt="video on moles 1">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/AsqEkF7hcII&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><section id="secfhsst_id850"><title> More advanced calculations
+      </title>
+      <list id="id279756" display="block" list-type="enumerated">
+        <item id="uid47">Calculate the molar mass of the following chemical compounds:
+<list id="id279772" display="block" list-type="enumerated"><item id="uid48">KOH
+</item><item id="uid49">FeCl<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math></item><item id="uid50">Mg(OH)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item></list></item>
+        <item id="uid51">How many moles are present in:
+<list id="id279848" display="block" list-type="enumerated"><item id="uid52">10 g of Na<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>SO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></item><item id="uid53">34 g of Ca(OH)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item><item id="uid54">2.45 x 10<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>23</m:mn></m:msup></m:math> molecules of CH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>?
+</item></list></item>
+        <item id="uid55">For a sample of 0.2 moles of potassium bromide (KBr), calculate...
+<list id="id279964" display="block" list-type="enumerated"><item id="uid56">the number of moles of K<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> ions
+</item><item id="uid57">the number of moles of Br<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> ions
+</item></list></item>
+        <item id="uid58">You have a sample containing 3 moles of calcium chloride.
+<list id="id280031" display="block" list-type="enumerated"><item id="uid59">What is the chemical formula of calcium chloride?
+</item><item id="uid60">How many calcium atoms are in the sample?
+</item></list></item>
+        <item id="uid61">Calculate the mass of:
+<list id="id280072" display="block" list-type="enumerated"><item id="uid62">3 moles of NH<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>OH
+</item><item id="uid63">4.2 moles of Ca(NO<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></item></list></item>
+        <item id="uid64">96.2 g sulfur reacts with an unknown quantity of zinc according to the following equation:
+<m:math overflow="scroll"><m:mrow><m:mi>Z</m:mi><m:mi>n</m:mi><m:mo>+</m:mo><m:mi>S</m:mi><m:mo>→</m:mo><m:mi>Z</m:mi><m:mi>n</m:mi><m:mi>S</m:mi></m:mrow></m:math><list id="id280179" display="block" list-type="enumerated"><item id="uid65">What mass of zinc will you need for the reaction, if all the sulfur is to be used up?
+</item><item id="uid66">What mass of zinc sulfide will this reaction produce?
+</item></list></item>
+        <item id="uid67">Calcium chloride reacts with carbonic acid to produce calcium carbonate and hydrochloric acid according to the following equation:
+<m:math overflow="scroll"><m:mrow><m:mi>C</m:mi><m:mi>a</m:mi><m:mi>C</m:mi><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>H</m:mi><m:mn>2</m:mn></m:msub><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:mi>C</m:mi><m:mi>a</m:mi><m:mi>C</m:mi><m:msub><m:mi>O</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>H</m:mi><m:mi>C</m:mi><m:mi>l</m:mi></m:mrow></m:math>
+If you want to produce 10 g of calcium carbonate through this chemical reaction, what quantity (in g) of calcium chloride will you need at the start of the reaction?
+</item>
+      </list>
+      
+</section>
+    </section>
+
+    
+  </content>
+</document>
