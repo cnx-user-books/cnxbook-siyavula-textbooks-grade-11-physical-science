@@ -513,7 +513,7 @@
                   <m:mo>.</m:mo>
                   <m:mn>33</m:mn>
                   <m:mspace width="0.166667em"/>
-                  <m:mi mathvariant="sans-serif">mol</m:mi>
+                  <m:mi mathvariant="bold-sans-serif">mol</m:mi>
                 </m:mrow>
               </m:mtd>
             </m:mtr>
@@ -542,7 +542,7 @@
                   <m:mo>.</m:mo>
                   <m:mn>7</m:mn>
                   <m:mspace width="0.166667em"/>
-                  <m:mi mathvariant="sans-serif">mol</m:mi>
+                  <m:mi mathvariant="bold-sans-serif">mol</m:mi>
                 </m:mrow>
               </m:mtd>
             </m:mtr>
@@ -571,7 +571,7 @@
                   <m:mo>.</m:mo>
                   <m:mn>34</m:mn>
                   <m:mspace width="0.166667em"/>
-                  <m:mi mathvariant="sans-serif">mol</m:mi>
+                  <m:mi mathvariant="bold-sans-serif">mol</m:mi>
                 </m:mrow>
               </m:mtd>
             </m:mtr>
